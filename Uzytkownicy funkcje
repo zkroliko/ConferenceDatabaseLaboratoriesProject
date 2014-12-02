@@ -1,0 +1,7 @@
+Pracownik Administrator: Pełny dostęp do całego systemu.
+
+Pracownik Organizator/Wykonawca/ cokolwiek:
+
+Klient (osoba/firma): Ma możliwość dodawania do bazy konferencji, warsztatów oraz przeprowadzania w nich zmian do czasu końcowej akceptacji przez firmę. Ma możliwość zapisywania uczestników na poszczególne warsztaty.
+
+Uczestnik: Ma dostęp do listy warsztatów na które jest zapisany. Jeżeli istnieje taka możliwość to może samodzielnie ustawić swoje warszaty, ponadto może specyfikować swoje preferencje osobiste odnośnie organizacji.
