@@ -1,6 +1,8 @@
 Rejestracja klienta na konferencje.
-1.Klient specyfikuje konferencję oraz warsztaty, na które chce się zapisać. Do każdego dnia i warsztatu podaje liczbę użestników (normalnych i ulgowych).
-1.1 Na podanych dniach lub warsztatach brakuje miejsc. Klient zostaje poinformowany i wraca do punktu 1.
+1.Klient specyfikuje konferencję oraz warsztaty, na które chce się zapisać. Do każdego dnia i warsztatu podaje liczbę uczestników (normalnych i ulgowych).
+1.1. Na podanych dniach lub warsztatach brakuje miejsc. Klient zostaje poinformowany i wraca do punktu 1.
+1Z. W przypadku rezerwacji przez firmę dużej ilości miejsc zostanie udzielona zniżka.
+1Z2. W przypadku rezerwacji we wczesnym terminie zostaje ustalona dodatkowa zniżka.
 2.Klient uzupełnia dane uczestników maksymalnie na 2 tygodnie przed rozpoczęciem konferencji.
 2.1 Klient nie uzupełnił danych uczestników. Pracownik odpowiedzialny za obsługę tego klienta (lub inny wyznaczony przez przełożonego) stara się skontaktować z klientem.
 2.1.1 Nie udało się skontaktować z klientem. Pracownik informuje przełożonego a ten podejmuje decyzję o uniważnieniu rezerwacji.
@@ -10,10 +12,10 @@ Rejestracja klienta na konferencje.
 2.2 Klient uzuepłnił dane dane uczestników. Przygotowujemy identyfikatory immienne do rozesłania (lub odebrania).
 3. Uczestnicy mogą zarejestrować się na warszaty jeżeli posiadają rezerwacje na dany dzień konferencji.
 3.1 Brakuje miejsc na danym warsztacie.
-3#Student. Student moze podac numer legitymacji aby otrzymać zniżkę.
+3S. Student moze podac numer legitymacji aby otrzymać zniżkę.
 4. Nadchodzi czas na odpłatę (1 tydzień przed konferencją).
-4# W przypadku rezerwacji przez firmę więcej niż 40% miejsc zostaje udzielona zniżka w wysokości 5%.
-4# Studenci którzy podczas rejestracji nie udzielą informacji na temat legitymacji studenckiej nie otrzymają przysługującej im zniżki.
+4Z. Podliczane są zniżki.
+4ZS. Studenci którzy podczas rejestracji nie udzielili informacji na temat legitymacji studenckiej nie otrzymają przysługującej im zniżki.
 4.1 Klient płaci w terminie całość.
 4.2 Klient płaci część.
 4.2.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
@@ -24,6 +26,7 @@ Rejestracja klienta na konferencje.
 4.3.1.1 Anuluje się rejestrację klient.
 4.3.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
 5.Jeśli liczba osób zarejestrowanych na konferencję będzie mniejsza niż 15% dostępnych miejsc organizator zastrzega sobie prawo do odwołania lub przeniesienia konferencji na inny termin do 6 dni przed planowaną konferencją.
-6#LastMinute. Jeśli klient zarezerwuje "last minute" dzień przed konferencją:
--Wszelkie tego typu rejestracje są dokonywane prez pracowników tylko po kontakcie telefonicznym na conajmniej 6 dni przed konferencją klient ma tylko jeden dzień na wniesienie opłat i podanie danych uczestników
-7#Odwolanie W przypadku odwołania konferencji przez organizatora, z przyczyn losowych, wszelkie wniesione opłaty zostają zwrócone klientom.
+6. Jeśli klient zarezerwuje "last minute" dzień przed konferencją: Wszelkie tego typu rejestracje są dokonywane prez pracowników tylko po kontakcie telefonicznym na conajmniej 6 dni przed konferencją klient ma tylko jeden dzień na wniesienie opłat i podanie danych uczestników
+
+
+ODWOLANIE KONFERENCJI:  W przypadku odwołania konferencji przez organizatora, z przyczyn losowych, wszelkie wniesione opłaty zostają zwrócone klientom.
