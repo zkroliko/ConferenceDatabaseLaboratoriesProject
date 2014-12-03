@@ -14,7 +14,7 @@ Rejestracja klienta na konferencje.
 4.1 Klient płaci w terminie całość.
 4.2 Klient płaci część.
 4.2.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
-4.2.1.1 Anuluje się rejestrację klient.
+4.2.1.1 Anuluje się rejestrację klient. peniądze są zwracane z uwzglądnieniem ponieśionych kosztów
 4.2.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
 4.3. Klient nie płaci nic.
 4.3.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
