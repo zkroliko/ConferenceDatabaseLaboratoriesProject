@@ -1,0 +1,22 @@
+Rejestracja klienta na konferencje.
+1.Klient specyfikuje konferencję oraz warsztaty, na które chce się zapisać. Do każdego dnia i warsztatu podaje liczbę użestników (normalnych i ulgowych).
+1.1 Na podanych dniach lub warsztatach brakuje miejsc. Klient zostaje poinformowany i wraca do punktu 1.
+2.Klient uzupełnia dane uczestników maksymalnie na 2 tygodnie przed rozpoczęciem konferencji.
+2.1 Klient nie uzupełnił danych uczestników. Pracownik odpowiedzialny za obsługę tego klienta (lub inny wyznaczony przez przełożonego) stara się skontaktować z klientem.
+2.1.1 Nie udało się skontaktować z klientem. Pracownik informuje przełożonego a ten podejmuje decyzję o uniważnieniu rezerwacji.
+2.1.1.1. Rezerwacja zostaje unieważniona
+2.1.1.2. Termin uzupełnia danych przesuwa się o dzień. Maksymalnie do 1 tygodnia przed konferencją.
+2.1.2 Udało sie skontaktować z klientem i uzupełniono liczbę osób.
+2.2 Klient uzuepłnił dane dane uczestników. Przygotowujemy identyfikatory immienne do rozesłania (lub odebrania).
+3. Uczestnicy mogą zarejestrować się na warszaty jeżeli posiadają rezerwacje na dany dzień konferencji.
+3.1 Brakuje miejsc na danym warsztacie.
+4. Nadchodzi czas na odpłatę (1 tydzień przed konferencją).
+4.1 Klient płaci w terminie całość.
+4.2 Klient płaci część.
+4.2.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
+4.2.1.1 Anuluje się rejestrację klient.
+4.2.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
+4.3. Klient nie płaci nic.
+4.3.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
+4.3.1.1 Anuluje się rejestrację klient.
+4.3.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
