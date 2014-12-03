@@ -10,19 +10,20 @@ Rejestracja klienta na konferencje.
 2.2 Klient uzuepłnił dane dane uczestników. Przygotowujemy identyfikatory immienne do rozesłania (lub odebrania).
 3. Uczestnicy mogą zarejestrować się na warszaty jeżeli posiadają rezerwacje na dany dzień konferencji.
 3.1 Brakuje miejsc na danym warsztacie.
+3#Student. Student moze podac numer legitymacji aby otrzymać zniżkę.
 4. Nadchodzi czas na odpłatę (1 tydzień przed konferencją).
+4# W przypadku rezerwacji przez firmę więcej niż 40% miejsc zostaje udzielona zniżka w wysokości 5%.
+4# Studenci którzy podczas rejestracji nie udzielą informacji na temat legitymacji studenckiej nie otrzymają przysługującej im zniżki.
 4.1 Klient płaci w terminie całość.
 4.2 Klient płaci część.
 4.2.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
-4.2.1.1 Anuluje się rejestrację klient. peniądze są zwracane z uwzglądnieniem ponieśionych kosztów
+4.2.1.1 Anuluje się rejestrację klienta. Pieniądze są zwracane z uwzględnieniem poniesionych kosztów.
 4.2.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
 4.3. Klient nie płaci nic.
 4.3.1 Przełożony informowany jest o sytuacji i podejmuje decyzję.
 4.3.1.1 Anuluje się rejestrację klient.
 4.3.1.2 Termin odpłaty przełożony jest jest na termin określony przez przełożonego. Niekonieczne jest odpłacenie przez rozpoczęciem konferencji, osoba podejmująca decyzję bierzę na siebie odpowiedzialność.
-5 co się stanie jeśli zarezerwuje "last minute" dzień przed konferencją
-5.1 wszelkie tego typu rejestracje są dokonywane prez pracowników tylko po kontakcie telefonicznym na conajmniej 6 dni przed konferencją klient ma tylko jeden dzień na wniesienie opłat i podanie danych uczestników
-6. W przypadku odwołania konferencji przez organizatora wszelkie wniesione opłaty zostają zwrócone klientom.
-7. Jeśli liczba osób zarejestrowanych na konferencję będzie mniejsza niż 15% dostępnych miejsc organizator zastrzega sobie prawo do odwołania lub przeniesienia konferencji na inny termin do 6 dni przed planowaną konferencją.
-8. W przypadku rezerwacji przez firmę więcej niż 40% miejsc zostaje udzielona zniżka w wysokości 5%.
-9. Studenci którzy podczas rejestracji nie udzielą informacji na temat legitymacji studenckiej nie otrzymają przysługującej im zniżki.
+5.Jeśli liczba osób zarejestrowanych na konferencję będzie mniejsza niż 15% dostępnych miejsc organizator zastrzega sobie prawo do odwołania lub przeniesienia konferencji na inny termin do 6 dni przed planowaną konferencją.
+6#LastMinute. Jeśli klient zarezerwuje "last minute" dzień przed konferencją:
+-Wszelkie tego typu rejestracje są dokonywane prez pracowników tylko po kontakcie telefonicznym na conajmniej 6 dni przed konferencją klient ma tylko jeden dzień na wniesienie opłat i podanie danych uczestników
+7#Odwolanie W przypadku odwołania konferencji przez organizatora, z przyczyn losowych, wszelkie wniesione opłaty zostają zwrócone klientom.
