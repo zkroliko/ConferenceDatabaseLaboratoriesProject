@@ -2,19 +2,24 @@ Aktorzy:
 
 Pracownik Administrator: 
 - Pełny dostęp do całego systemu.
+- Przesuwanie terminu uzupełnienia danych/ płatności.
 
 Pracownik:
-- Możliowść dodawania, wartsztatów, konferencji, użytkowników, klientów firm (w pewnych ramach)
-- Brak możliwości usuwania danych (aby zachować integralność)
-- Możliwość usunięcia rezerwacji klienta w momencie niespełnienia warunków.
+- Dodawanie/modyfikacja danych warsztatów, konferencji.
+- Dodawanie/modyfikcja rezerwacji konferencji, warsztatów.
+- Dodawanie/modyfikacja danych klienta.
+- Dodawanie/modyfikacja danych uczestników.
+- Generowanie danych płatności na rzecz danego warszatu/konferencji/klienta.
+- Anulowanie rezerwacji w przypadku niespełnia warunków (niesprecyzowanie uczestników/niepełna płatność).
 
-Klient (osoba/firma): 
-- Możliwość dodawania do bazy rezerwacji konferencji, warsztatów oraz przeprowadzania w nich zmian do czasu końcowej akceptacji przez firmę.
-- Możliwość dodawania danych użytkowników.
-- Możliowść uzyskania wartości rachunków.
+Klient firma: 
+- Dodawnie rezerwacji konferencji/warsztatów, na określone dni, na określone warsztaty, na określoną ilość uczestników normalnych/studentów.
+- Anulowanie rezerwacji.
+- Dodawanie/edycja danych uczestników.
+- Odczyt danych dotyczących płatności.
 
 Uczestnik: 
-- Ma dostęp do listy warsztatów na które jest zapisany. 
-- Może samodzielnie ustawić swoje warszaty.
+- Dostęp do danych warsztatów/konferencji na które jest zapisany.
+- Ma podgląd do swoich danych w celu weryfikacji zgodności.
 
 
