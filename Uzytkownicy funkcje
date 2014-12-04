@@ -1,14 +1,20 @@
+Aktorzy:
+
 Pracownik Administrator: 
 - Pełny dostęp do całego systemu.
 
-Pracownik Organizator/Wykonawca/ cokolwiek:
+Pracownik:
 - Możliowść dodawania, wartsztatów, konferencji, użytkowników, klientów firm (w pewnych ramach)
 - Brak możliwości usuwania danych (aby zachować integralność)
+- Możliwość usunięcia rezerwacji klienta w momencie niespełnienia warunków.
 
 Klient (osoba/firma): 
-- Możliwość dodawania do bazy konferencji, warsztatów oraz przeprowadzania w nich zmian do czasu końcowej akceptacji przez firmę.
-- Ma możliwość zapisywania uczestników na poszczególne warsztaty.
+- Możliwość dodawania do bazy rezerwacji konferencji, warsztatów oraz przeprowadzania w nich zmian do czasu końcowej akceptacji przez firmę.
+- Możliwość dodawania danych użytkowników.
+- Możliowść uzyskania wartości rachunków.
 
 Uczestnik: 
 - Ma dostęp do listy warsztatów na które jest zapisany. 
-- Jeżeli istnieje taka możliwość to może samodzielnie ustawić swoje warszaty.
+- Może samodzielnie ustawić swoje warszaty.
+
+
