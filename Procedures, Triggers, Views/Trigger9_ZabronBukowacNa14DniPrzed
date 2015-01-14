@@ -1,0 +1,40 @@
+-- ================================================
+-- Template generated from Template Explorer using:
+-- Create Trigger (New Menu).SQL
+--
+-- Use the Specify Values for Template Parameters 
+-- command (Ctrl-Shift-M) to fill in the parameter 
+-- values below.
+--
+-- See additional Create Trigger templates for more
+-- examples of different Trigger statements.
+--
+-- This block of comments will not be included in
+-- the definition of the function.
+-- ================================================
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		MJ
+-- Create date: 
+-- Description:	
+-- =============================================
+CREATE TRIGGER [dbo].[ZabronBukowacNa14DniPrzed]
+   ON  [dbo].[Rezerwacje konferencji]
+   AFTER INSERT,UPDATE
+AS 
+
+BEGIN
+	SET NOCOUNT ON;
+	DECLARE @Conferencedate date = (SELECT Data FROM [Dni Konferencji] as dk where  (select KonferencjaDzienId from inserted)=dk.id )
+	Declare @date date = (select [Data rezerwacji] from inserted)
+    IF ((DATEADD(DAY,-14,@Conferencedate)) < @Date) 
+	BEGIN 
+	;THROW 53000,'The conference is starting in less than two weeks. It is too late to book or update data.',1
+	 ROLLBACK TRANSACTION 
+	 END
+
+END
+GO
