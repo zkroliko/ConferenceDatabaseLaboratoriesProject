@@ -1,6 +1,9 @@
 require 'faker'
 require_relative "Person.rb"	
 
+PASSW_LENGTH_MIN = 10
+PASSW_LENGTH_MAX = 20
+
 class Client
 	@@curindex = 1
 
@@ -11,7 +14,7 @@ attr_accessor :curindex, :id, :person, :person, :login, :password
 		@@curindex +=1
 		@person = Person.new
 		@login = Faker::Internet.user_name
-		@pass = Faker::Internet.password(10,20)
+		@pass = Faker::Internet.password(PASSW_LENGTH_MIN,PASSW_LENGTH_MAX)
 	end
 end
 
@@ -22,8 +25,8 @@ attr_accessor :companyName, :phone, :fax, :email
 	def initialize
 		super
 		@companyName = Faker::Company.name + " " +  Faker::Company.suffix
-		@phone = Faker::Number.number(9)
-		@fax = Faker::Number.number(9)
+		@phone = Faker::Number.number(TELEPHONE_N_LENGTH)
+		@fax = Faker::Number.number(TELEPHONE_N_LENGTH)
 		@email = "contact@#{@companyName}.com".gsub(" ", "")
 		@login = @companyName.downcase.gsub(" ", "").gsub(",", " ")
 	end

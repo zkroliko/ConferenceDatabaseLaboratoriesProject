@@ -1,6 +1,12 @@
 require 'faker'
 require_relative 'Address'
 
+TELEPHONE_N_LENGTH = 9
+PERSON_MIN_AGE = 18
+PERSON_MAX_AGE = 65
+STUDENT_QUOTA = 0.1 # How many of the people should be students
+STUDENT_NR_LENGTH = 6
+
 class Person
 	@@curindex = 1
 	attr_accessor :curindex, :id, :firstName, :lastName, :phone, :dateOfBirth, :nr, :address, :sex 
@@ -10,16 +16,16 @@ class Person
 		@@curindex +=1
 		@firstName = Faker::Name.first_name
 		@lastName = Faker::Name.last_name
-		@phone = Faker::Number.number(9)
-		@dateOfBirth = Faker::Date.birthday(min_age = 18, max_age = 65)
+		@phone = Faker::Number.number(TELEPHONE_N_LENGTH)
+		@dateOfBirth = Faker::Date.birthday(PERSON_MIN_AGE, PERSON_MAX_AGE)
 		@sex = rand().round()
 		@nr = studentNr
 		@address = Address.new
 	end
 
 	def studentNr
-		if (rand()<0.1) 			
-			Faker::Number.number(6)
+		if (rand()<STUDENT_QUOTA) 			
+			Faker::Number.number(STUDENT_NR_LENGTH)
 		else
 			 'null'
 		end
@@ -33,4 +39,3 @@ class Person
 	end
 end
 
-10000.times {puts Person.new.export}

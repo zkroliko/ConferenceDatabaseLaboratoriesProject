@@ -10,6 +10,12 @@ BASIC_PRICE = 10
 VARIABLE_PRICE = "dependant"
 MAX_PRICE = 150
 
+#There are always 3 discount options
+DISCOUNT_DAYS = [60, 120, 180, 360]
+DISCOUNT_DAYS_MAX_DIFF = 10 
+DISCOUNT_AMMOUNTS = [0.05, 0.10, 0.15]
+DISCOUNT_AMMOUNTS_MAX_DIFF = 0.05
+
 class Conference
 	@@curindex = 1
 
@@ -33,6 +39,11 @@ class Conference
 		@days = Array.new
 		(howManyDaysAgo-lengthDays..howManyDaysAgo).each{|x| @days << (CDay.new((Date.today-x), self))	}
 		@days.reverse! # If we want them in correct order
+		# Discounts, some weird stuff may happen here, like functional programming
+		@discounts = Array.new
+		days = DISCOUNT_DAYS.map{|x| x+((rand()-0.5)*DISCOUNT_DAYS_MAX_DIFF).round(0)}
+		ammounts = DISCOUNT_AMMOUNTS.map{|x| x+((rand()-0.5)*DISCOUNT_AMMOUNTS_MAX_DIFF).round(2)}
+		(0..2).each{|x| @discounts << Discount.new(((@startDate)-days[x].to_i-1), ((@startDate)-days[x+1].to_i), self, ammounts[x])}
 	end
 
 	def getSomeCoolName
@@ -45,10 +56,11 @@ class Conference
 	end
 
 	def export 
-		"exec dbo.DodajKonferencje #{to_s} \n #{(@days.collect{|x| x.export}).join("\n")}"
+		"exec dbo.DodajKonferencje #{to_s}\n#{(@days.collect{|x| x.export}).join("\n")}\n#{(@discounts.collect{|x| x.export}).join("\n")}"
 	end
 end
 
+#Days of the conference
 class CDay
 	@@curindex = 1
 
@@ -68,7 +80,30 @@ class CDay
 	def export 
 		"exec dbo.DodajDzienKonferencji #{to_s}"
 	end
-
 end
 
-puts Conference.new.export
+# For discountss
+class Discount
+	@@curindex = 1
+
+	attr_accessor :curindex, :id, :date
+
+	def initialize(startDate, endDate, conference, ammount)
+		@id = @@curindex
+		@@curindex +=1
+		@startDate = startDate
+		@endDate = endDate
+		@ammount = ammount
+		@conference = conference
+	end
+
+	def to_s
+		"#{(@conference.id)}, \"#{@startDate.to_s[0..10]}\", \"#{@endDate.to_s[0..10]}\", \"#{@ammount}\""
+	end
+
+	def export 
+		"exec dbo.DodajZnizke #{to_s}"
+	end
+end
+
+4.times{ puts Conference.new.export}
