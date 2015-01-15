@@ -33,4 +33,4 @@ class Person
 	end
 end
 
-1000.times {puts Person.new.export}
+10000.times {puts Person.new.export}

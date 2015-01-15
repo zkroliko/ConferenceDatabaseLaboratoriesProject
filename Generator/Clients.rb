@@ -32,7 +32,7 @@ attr_accessor :companyName, :phone, :fax, :email
 		"#{@person}, \"#{@companyName}\", #{@phone}, #{@fax}, \"#{@email}\", \"#{@login}\", \"#{@pass}\", 1"
 	end
 	def export
-		"exec dbo.DodajKlientaFirme #{to_s}; \n"
+		"exec dbo.DodajKlientaFirm #{to_s}; \n"
 	end
 
 end
