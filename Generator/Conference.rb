@@ -1,5 +1,5 @@
 require 'faker'
-require_relative 'Workshop'
+#require_relative 'Workshop'
 
 PLACES_ROUNDING = -1
 BASIC_PLACES = 120
@@ -19,7 +19,7 @@ DISCOUNT_AMMOUNTS_MAX_DIFF = 0.05
 class Conference
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :startdate, :enddate, :places, :price
+	attr_accessor :curindex, :id, :name, :startDate, :endDate, :places, :price, :days, :discounts
 
 	def initialize()
 		@id = @@curindex
@@ -105,5 +105,3 @@ class Discount
 		"exec dbo.DodajZnizke #{to_s}"
 	end
 end
-
-4.times{ puts Conference.new.export}

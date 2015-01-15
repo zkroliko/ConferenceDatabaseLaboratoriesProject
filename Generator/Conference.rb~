@@ -1,5 +1,5 @@
 require 'faker'
-require_relative 'Workshop'
+#require_relative 'Workshop'
 
 PLACES_ROUNDING = -1
 BASIC_PLACES = 120
@@ -19,7 +19,7 @@ DISCOUNT_AMMOUNTS_MAX_DIFF = 0.05
 class Conference
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :startdate, :enddate, :places, :price
+	attr_accessor :curindex, :id, :name, :startdate, :enddate, :places, :price, :days, :discounts
 
 	def initialize()
 		@id = @@curindex
@@ -43,7 +43,7 @@ class Conference
 		@discounts = Array.new
 		days = DISCOUNT_DAYS.map{|x| x+((rand()-0.5)*DISCOUNT_DAYS_MAX_DIFF).round(0)}
 		ammounts = DISCOUNT_AMMOUNTS.map{|x| x+((rand()-0.5)*DISCOUNT_AMMOUNTS_MAX_DIFF).round(2)}
-		(0..2).each{|x| @discounts << Discount.new(((@startDate)-days[x].to_i-1s), ((@startDate)-days[x+1].to_i), self, ammounts[x])}
+		(0..2).each{|x| @discounts << Discount.new(((@startDate)-days[x].to_i-1), ((@startDate)-days[x+1].to_i), self, ammounts[x])}
 	end
 
 	def getSomeCoolName
@@ -105,5 +105,3 @@ class Discount
 		"exec dbo.DodajZnizke #{to_s}"
 	end
 end
-
-4.times{ puts Conference.new.export}
