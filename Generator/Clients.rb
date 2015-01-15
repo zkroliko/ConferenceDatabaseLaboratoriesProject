@@ -1,5 +1,5 @@
 require 'faker'
-require_relative "Person.rb"
+require_relative "Person.rb"	
 
 class Client
 	@@curindex = 1
@@ -37,5 +37,26 @@ attr_accessor :companyName, :phone, :fax, :email
 
 end
 
+class IndClient < Client
+attr_accessor :companyName, :phone, :fax, :email
+
+	def initialize
+		super
+		@email = "#{@person.firstName}#{@person.lastName}@memail.com".downcase.gsub(" ", "")
+		@login = "#{@person.firstName}#{@person.lastName}".downcase.gsub(" ", "").gsub(",", " ")
+	end
+
+	def to_s
+		"#{@person}, \"#{@email}\", \"#{@login}\", \"#{@pass}\", 0"
+	end
+	def export
+		"exec dbo.DodajKlientaInd #{to_s}; \n"
+	end
+
+end
+
 20.times {puts CompanyClient.new.export}
+20.times {puts IndClient.new.export}
+
+
 
