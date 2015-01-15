@@ -1,4 +1,6 @@
-# For managing time effectively
+# For rounding time effectively
+class WDay
+end
 
 class Time
   def round(sec=1)
@@ -20,3 +22,7 @@ end
 def NormalizeTimeToDate first, second
 	result = Time.new(first.year, first.month, first.day, second.hour, second.min, second.sec, second.gmt_offset)
 end
+
+
+
+

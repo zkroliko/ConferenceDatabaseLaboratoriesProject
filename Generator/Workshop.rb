@@ -11,6 +11,7 @@ WORKSHOP_BASIC_PRICE = 20
 WORKSHOP_VARIABLE_PRICE = "dependant"
 WORKSHOP_MAX_PRICE = 200
 
+#How many workshop can there be per conference day
 WORKSHOP_PER_CONF_DAY_BASE = 2
 WORKSHOP_PER_CONF_DAY_MAX_DIFF = 2
 
@@ -27,7 +28,7 @@ WORK_TIME_MAX = 240*60 # in second
 class Workshop
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :places, :price, :kDays
+	attr_accessor :curindex, :id, :name, :places, :price, :days
 
 	def initialize(conference = 'null')
 		@id = @@curindex
@@ -67,7 +68,7 @@ end
 class WDay
 	@@curindex = 1
 
-	attr_accessor :curindex, :id
+	attr_accessor :curindex, :id, :cDay, :workshop, :startTime, :endTime
 
 	def initialize(cDay, workshop)
 		@id = @@curindex
@@ -88,4 +89,37 @@ class WDay
 	end
 end
 
-5.times{puts (Workshop.new(Conference.new)).export }
+# Checks whether two Workshops collide
+def Collide first, second
+	# Checking whether we have common days
+	dayCollision = first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
+	if dayCollision.empty? 
+		return false
+	else	
+		# There is an intersection
+		# Now let's check for REAL intersections
+		collision = dayCollision.select do |day|
+			# Hell this is ugly
+			firstStart = first.days[first.days.map{|x| x.cDay}.index(day)].startTime
+			firstEnd= first.days[first.days.map{|x| x.cDay}.index(day)].endTime
+			secondStart = second.days[second.days.map{|x| x.cDay}.index(day)].startTime
+			secondEnd= second.days[second.days.map{|x| x.cDay}.index(day)].endTime
+			if (firstStart > secondStart and firstStart < secondEnd) or (firstEnd > secondStart and firstEnd < secondEnd)
+				return true # There is your problem!
+			end
+		end
+	end
+end
+
+#5.times{puts (Workshop.new(Conference.new)).export }
+
+5.times {
+a = Conference.new
+b = Workshop.new(a)
+c = Workshop.new(a)
+puts b.export
+puts c.export
+puts Collide(b, c)
+}
+
+

@@ -1,10 +1,18 @@
 require 'faker'
 #require_relative 'Workshop'
 
+#How many days backward can history go
+CONFERENCE_START = 800
+#Seed for length
+CONFERENCE_DAYS_MAX_DIFF = 12
+CONFERENCE_DAYS_BASIC = 4
+
+#Seed for places
 PLACES_ROUNDING = -1
 BASIC_PLACES = 120
 VARIABLE_PLACES = 1000
 
+#Seed for price
 PRICE_ROUNDING = -1
 BASIC_PRICE = 10
 VARIABLE_PRICE = "dependant"
@@ -31,8 +39,8 @@ class Conference
 	end
 	
 	def makeDates
-		howManyDaysAgo = (rand()*800).round(0)+18
-		lengthDays = (rand()*12).round() +4
+		howManyDaysAgo = (rand()*CONFERENCE_START).round(0)+18
+		lengthDays = (rand()*CONFERENCE_DAYS_MAX_DIFF).round() + CONFERENCE_DAYS_BASIC
 		@startDate = (Date.today-howManyDaysAgo)
 		@endDate = (Date.today-howManyDaysAgo+lengthDays)
 		# That's the end of fields you want to print	

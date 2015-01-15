@@ -1,4 +1,6 @@
-# For managing time effectively
+# For rounding time effectively
+class WDay
+end
 
 class Time
   def round(sec=1)
@@ -17,6 +19,22 @@ class Time
 end
 
 # Takes date from the first and time from the second
-def NormalizeDates first, second
+def NormalizeTimeToDate first, second
 	result = Time.new(first.year, first.month, first.day, second.hour, second.min, second.sec, second.gmt_offset)
 end
+
+# Checks whether two Workshops collide
+def Collide first, second
+	dayCollision = first.days.select{|day| day if first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}}
+	puts first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
+	collision = dayCollision.select do |day|
+	# Hell this is ugly
+		firstStart = first.days[first.days.index(day)].startTime
+		firstEnd= first.days[first.days.index(day)].endTime
+		secondStart = second.days[second.days.index(day)].startTime
+		secondEnd= second.days[second.days.index(day)].endTime
+		true
+	end
+end
+
+
