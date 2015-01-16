@@ -38,6 +38,7 @@ class Conference
 		makeDates
 	end
 	
+	# Makes some clever days for the conferene along with discounts
 	def makeDates
 		howManyDaysAgo = (rand()*CONFERENCE_START).round(0)+18
 		lengthDays = (rand()*CONFERENCE_DAYS_MAX_DIFF).round() + CONFERENCE_DAYS_BASIC
@@ -58,6 +59,22 @@ class Conference
 		names = File.open("NazwyKonferencji").read.split("\n")
 		names[rand(names.size)]
 	end
+
+	# Checks whether two conferences collide
+	def self.Collide first, second
+		# Checking whether we have common days
+		dayCollision = first.days.map{|x| x.date} & second.days.map{|x| x.date}
+		if dayCollision.empty? do 
+			return false
+		end
+		else
+			puts dayCollision
+			puts first.export
+			puts second.export
+			return true
+		end
+	end
+
 
 	def to_s
 		"\"#{@name}\", \"#{@startDate}\", \"#{@endDate}\", \"#{@places}\", \"#{@price}\""
@@ -112,4 +129,6 @@ class Discount
 	def export 
 		"exec dbo.DodajZnizke #{to_s}"
 	end
+
 end
+

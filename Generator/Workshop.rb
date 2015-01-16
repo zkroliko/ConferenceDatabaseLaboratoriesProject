@@ -55,6 +55,28 @@ class Workshop
 		names[rand(names.size)]
 	end
 
+	# Checks whether two Workshops collide
+	def self.Collide first, second
+		# Checking whether we have common days
+		dayCollision = first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
+		if dayCollision.empty? 
+			return false
+		else	
+			# There is an intersection
+			# Now let's check for REAL intersections
+			collision = dayCollision.select do |day|
+				# Hell this is ugly
+				firstStart = first.days[first.days.map{|x| x.cDay}.index(day)].startTime
+				firstEnd= first.days[first.days.map{|x| x.cDay}.index(day)].endTime
+				secondStart = second.days[second.days.map{|x| x.cDay}.index(day)].startTime
+				secondEnd= second.days[second.days.map{|x| x.cDay}.index(day)].endTime
+				if (firstStart > secondStart and firstStart < secondEnd) or (firstEnd > secondStart and firstEnd < secondEnd)
+					return true # There is your problem!
+				end
+			end
+		end
+	end
+
 	def to_s
 		"\"#{name}\", #{@places}, \"#{@price}\""
 	end
@@ -89,30 +111,9 @@ class WDay
 	end
 end
 
-# Checks whether two Workshops collide
-def Collide first, second
-	# Checking whether we have common days
-	dayCollision = first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
-	if dayCollision.empty? 
-		return false
-	else	
-		# There is an intersection
-		# Now let's check for REAL intersections
-		collision = dayCollision.select do |day|
-			# Hell this is ugly
-			firstStart = first.days[first.days.map{|x| x.cDay}.index(day)].startTime
-			firstEnd= first.days[first.days.map{|x| x.cDay}.index(day)].endTime
-			secondStart = second.days[second.days.map{|x| x.cDay}.index(day)].startTime
-			secondEnd= second.days[second.days.map{|x| x.cDay}.index(day)].endTime
-			if (firstStart > secondStart and firstStart < secondEnd) or (firstEnd > secondStart and firstEnd < secondEnd)
-				return true # There is your problem!
-			end
-		end
-	end
-end
-
 #5.times{puts (Workshop.new(Conference.new)).export }
 
+=begin
 5.times {
 a = Conference.new
 b = Workshop.new(a)
@@ -121,5 +122,6 @@ puts b.export
 puts c.export
 puts Collide(b, c)
 }
+=end
 
 
