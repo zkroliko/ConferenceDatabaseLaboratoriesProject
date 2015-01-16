@@ -64,7 +64,7 @@ class WReservation
 
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :date
+	attr_accessor :curindex, :id, :date, :workshop, :creservation, :client, :places
 
 	def initialize(workshop, creservation, places = 0)
 		@id = @@curindex
@@ -83,14 +83,8 @@ class WReservation
 				return false
 			else
 		end else
-			# We are private person
-			if (client.person.nr != 'null')
-				@students = 1
-				@normal = 0
-			else # The person is not a student
-				@students = 0
-				@normal = 1
-			end
+			# We are an individual person
+			@places = 1
 			@conference.leftPlaces -= 1
 		end 
 	end
@@ -103,3 +97,51 @@ class WReservation
 		"exec dbo.DodajRezerwacjeWarsztatu #{to_s}"
 	end
 end
+
+#Conference participant
+class CParticipant
+
+	@@curindex = 1
+
+	attr_accessor :curindex, :id, :date, :client, :creservation, :person
+
+	def initialize(creservation, person)
+		@id = @@curindex
+		@@curindex +=1
+		@client = creservation.client
+		@creservation = creservation
+		@person = person
+	end
+
+	def to_s
+		"#{@client.id}, #{@creservation.id}, #{@person}"
+	end
+
+	def export 
+		"exec dbo.DodajUczestnikaKonf #{to_s}"
+	end
+end
+
+#Wokshop participant
+class WParticipant
+
+	@@curindex = 1
+
+	attr_accessor :curindex, :id, :date, :client, :wreservation, :person
+
+	def initialize(wreservation, cparticipant)
+		@id = @@curindex
+		@@curindex +=1
+		@wreservation = wreservation
+		@cparticipant= cparticipant
+	end
+
+	def to_s
+		"#{@wreservation.id}, #{@cparticipant.id}"
+	end
+
+	def export 
+		"exec dbo.DodajUczestnika #{to_s}"
+	end
+end
+
