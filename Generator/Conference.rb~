@@ -27,13 +27,17 @@ DISCOUNT_AMMOUNTS_MAX_DIFF = 0.05
 class Conference
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :startDate, :endDate, :places, :price, :days, :discounts
+	attr_accessor :curindex, :id, :name, :startDate, :endDate, :places, :leftPlaces, :price, :days, :discounts
 
 	def initialize()
 		@id = @@curindex
 		@@curindex +=1
 		@name = getSomeCoolName
 		@places = (rand()*VARIABLE_PLACES).round(PLACES_ROUNDING)+BASIC_PLACES
+		# Now something out of oridinary, what will make things easier
+		# by remebering how many places there ale left
+		@leftPlaces = @places
+		# Price for the conference
 		@price = (((Faker::Commerce.price).to_int+BASIC_PRICE)%MAX_PRICE).round(PRICE_ROUNDING)
 		makeDates
 	end
@@ -89,7 +93,7 @@ end
 class CDay
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :date
+	attr_accessor :curindex, :id, :date, :conference
 
 	def initialize(date, conference)
 		@id = @@curindex
@@ -131,6 +135,4 @@ class Discount
 	end
 
 end
-
-10.times{Conference.Collide Conference.new, Conference.new}
 

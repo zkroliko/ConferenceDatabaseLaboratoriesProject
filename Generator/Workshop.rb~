@@ -111,7 +111,7 @@ class WDay
 	end
 end
 
-5.times{puts (Workshop.new(Conference.new)).export }
+#5.times{puts (Workshop.new(Conference.new)).export }
 
 =begin
 5.times {

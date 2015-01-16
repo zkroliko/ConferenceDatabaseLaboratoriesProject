@@ -12,6 +12,8 @@ CREATE PROCEDURE [dbo].[DodajDzienWarsztatu]
 @GodzRozp time(7),
 @GodzZak time(7)
 
+
+
 AS BEGIN
 SET NOCOUNT ON; 
 

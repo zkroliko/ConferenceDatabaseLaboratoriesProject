@@ -13,19 +13,19 @@ CREATE PROCEDURE [dbo].[DodajKlientaFirm]
 @DateOfBirth Date,
 @Sex bit,
 @NrLeg nvarchar(10),
-@Country varchar(50),
-@Miasto varchar(50),
-@KodPocztowy varchar(12),
-@Ulica varchar(35),
-@NrBud int, 
-@NrMiesz int 
 @NazwaFirmy varchar(25),
 @TelFirm varchar(12),
 @Fax varchar(12),
 @Email varchar(50), 
 @Login varchar(30), 
 @Password varchar(20),
-@IsCompany bit 
+@IsCompany bit,
+@Country varchar(50),
+@Miasto varchar(50),
+@KodPocztowy varchar(12),
+@Ulica varchar(35),
+@NrBud int, 
+@NrMiesz int  
 AS BEGIN
 SET NOCOUNT ON; 
 DECLARE @OsobaID int
