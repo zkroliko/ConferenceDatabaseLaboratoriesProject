@@ -2,6 +2,11 @@ require_relative 'Reservation'
 require_relative 'Clients'
 
 conf = Conference.new
+work = Workshop.new conf
 cli = CompanyClient.new
 
-10.times{puts (CReservation.new cli, conf.days[0]).export}
+cres = CReservation.new cli, conf.days[0]
+
+puts cres.export
+
+conf.days.each{|x| puts (WReservation.new work, x).export}

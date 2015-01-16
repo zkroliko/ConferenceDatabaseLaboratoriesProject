@@ -28,13 +28,17 @@ WORK_TIME_MAX = 240*60 # in second
 class Workshop
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :places, :price, :days
+	attr_accessor :curindex, :id, :name, :places, :leftPlaces, :price, :days
 
 	def initialize(conference = 'null')
 		@id = @@curindex
 		@@curindex +=1
 		@name = getSomeCoolName
 		@places = (rand()*WORKSHOP_VARIABLE_PLACES).round(WORKSHOP_PLACES_ROUNDING)+WORKSHOP_BASIC_PLACES
+		# Now something out of oridinary, what will make things easier
+		# by remebering how many places there ale left
+		@leftPlaces = @places
+		# Randomizes price
 		@price = (((Faker::Commerce.price).to_int+WORKSHOP_BASIC_PRICE)%WORKSHOP_MAX_PRICE).round(WORKSHOP_PRICE_ROUNDING)
 		@conference = conference
 		# Setting up the workshop days, randomizing start and end days
