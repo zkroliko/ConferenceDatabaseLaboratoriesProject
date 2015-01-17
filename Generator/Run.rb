@@ -3,12 +3,12 @@ require_relative 'Clients'
 
 # Main configuration, see other files for more details
 
-NR_PEOPLE = 5000 #default 5000
-NR_FIRMS = 100 #default 100
+NR_PEOPLE = 9000 #default 5000
+NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 1 #default 60
+NR_CONFERENCES = 72 #default 72
 NR_WOKSHOPS_PER_CON_BASE = 10 #default 5
-NR_WOKSHOPS_PER_CON_VAR = 15 #default 5
+NR_WOKSHOPS_PER_CON_VAR = 20 #default 5
 
 NR_RESERVATIONS_PER_CON_FIRMS_BASE = 10 #default 10
 NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 10
@@ -16,7 +16,7 @@ NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 10
 NR_RESERVATIONS_PER_CON_IND_BASE = 60 #default 30
 NR_RESERVATIONS_PER_CON_IND_VAR = 60 #default 30
 
-NR_RESERVATIONS_PER_WORK_BASE = 30 #default 20
+NR_RESERVATIONS_PER_WORK_BASE = 60 #default 20
 NR_RESERVATIONS_PER_WORK_VAR = 20 #default 10
 
 #The ratio by which workshops are attended in a given conference
@@ -166,27 +166,13 @@ workshops.each{|x| workshopsFile << x.export << "\n"}
 creservations.each{|x| confReservationsFile << x.export << "\n"}
 wreservations.each{|x| workReservationsFile <<  x.export << "\n"}
 cparticipants.each{|x| confParticipantsFile << x.export << "\n"}
-wparticipants.each{|x| workParticipantsFile << x.export << "\n"}
-
-#=end
-
-
-# Examples
-=begin
-conf = Conference.new
-work = Workshop.new conf
-cli = CompanyClient.new
-
-cres = CReservation.new cli, conf.days[0]
-
-wres = WReservation.new work, cres
-
-guy = Person.new
-
-cpar = CParticipant.new cres, guy
-
-wpar = WParticipant.new wres, work
-
-puts cpar.export
-puts wpar.export
-=end
+wparticipants.each do |x| 
+		begin
+		workParticipantsFile << x.export << "\n"
+		rescue NoMethodError => e
+			puts e
+			puts wparticipants.last
+			counter = 0
+			puts conferences.map{|x| counter += x.places}
+		end
+end

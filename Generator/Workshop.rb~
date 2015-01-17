@@ -102,7 +102,7 @@ class WDay
 		@workshop = workshop
 		@cDay = cDay
 		# Now for staring and ending hours
-		@startTime = (NormalizeTimeToDate(cDay.date, WORK_HOUR_MIN) + (rand()*((WORK_HOUR_MAX-WORK_HOUR_MIN)-WORK_TIME_MAX)).to_i).round(30*60)
+		@startTime = (NormalizeTimeToDate(cDay.date, WORK_HOUR_MIN) + (rand()*((WORK_HOUR_MAX-WORK_HOUR_MIN)-WORK_TIME_MAX)).to_i).round(15*60)
 		@endTime = (@startTime +rand()*WORK_TIME_MAX).round(30*60)
 	end
 

@@ -9,7 +9,7 @@ CONFERENCE_DAYS_BASIC = 4
 
 #Seed for places
 PLACES_ROUNDING = -1
-BASIC_PLACES = 100
+BASIC_PLACES = 200
 VARIABLE_PLACES = 200
 
 #Seed for price
@@ -28,7 +28,15 @@ class Conference
 	@@curindex = 1
 
 	attr_accessor :curindex, :id, :name, :startDate, :endDate, :places, :leftPlaces, :price, :days, :discounts
-
+	
+	# Special accesor for :leftPlaces, because they can run out
+	def leftPlaces=(leftPlaces)
+    		@leftPlaces = leftPlaces
+		if (leftPlaces < 0)
+			"We ran out of space at this conference"		
+		end
+ 	end
+	
 	def initialize()
 		# Indexing
 		@id = @@curindex

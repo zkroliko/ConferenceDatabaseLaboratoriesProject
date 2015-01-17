@@ -30,6 +30,15 @@ class Workshop
 
 	attr_accessor :curindex, :id, :name, :places, :leftPlaces, :conference, :price, :days
 
+	# Special accesor for :leftPlaces, because they can run out
+	def leftPlaces=(leftPlaces)
+    		@leftPlaces = leftPlaces
+		if (leftPlaces < 0)
+			"We ran out of space at this workshop"		
+		end
+ 	end
+
+
 	def initialize(conference = 'null')
 		@id = @@curindex
 		@@curindex +=1
