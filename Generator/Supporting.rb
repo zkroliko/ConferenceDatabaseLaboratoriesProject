@@ -23,6 +23,3 @@ def NormalizeTimeToDate first, second
 	result = Time.new(first.year, first.month, first.day, second.hour, second.min, second.sec, second.gmt_offset)
 end
 
-
-
-

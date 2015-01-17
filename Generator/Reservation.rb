@@ -16,7 +16,7 @@ class CReservation
 
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :cday, :client, :reservationDate, :conference, :normal, :students
+	attr_accessor :curindex, :id, :cday, :client, :reservationDate, :conference, :normal, :students, :payment
 
 	def initialize (client, cday)
 		@id = @@curindex
@@ -56,7 +56,7 @@ class CReservation
 	end
 
 	def export 
-		"exec dbo.DodajRezerwacjeKonf #{to_s}"
+		"exec dbo.DodajRezerwacjeKonf #{to_s} \n"
 	end
 end
 
@@ -75,17 +75,23 @@ class WReservation
 		# Now let's make a decision on number of places on the reservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
-		if (@client.instance_of?(CompanyClient) and @workshop.leftPlaces > 0)
-			# We are a company aparently
-			@places = ((@workshop.places*(RESERVATION_VARY_QUOTA_WORKSHOP*rand()+RESERVATION_BASE_QUOTA_WORKSHOP))%(@workshop.leftPlaces)).to_i
-			@workshop.leftPlaces -= @places.to_i # Substracting taken spaces
-			if (@workshop.leftPlaces <=0)
-				return nil
-		end else
-			# We are an individual person
-			@places = 1
-			@workshop.leftPlaces -= 1
-		end 
+		if places == 0
+			if (@client.instance_of?(CompanyClient) and @workshop.leftPlaces > 0)
+				# We are a company aparently
+				@places = ((@workshop.places*(RESERVATION_VARY_QUOTA_WORKSHOP*rand()+RESERVATION_BASE_QUOTA_WORKSHOP))%(@workshop.leftPlaces)).to_i
+				@workshop.leftPlaces -= @places.to_i # Substracting taken spaces
+				if (@workshop.leftPlaces <=0)
+					return nil
+			end else
+				# We are an individual person
+				@places = 1
+				@workshop.leftPlaces -= 1
+			end 
+		else
+			# If it's not 0 then we take the given value
+			@places = places
+			@workshop.leftPlaces - places
+		end
 	end
 
 	def to_s

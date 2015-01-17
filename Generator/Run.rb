@@ -6,7 +6,7 @@ require_relative 'Clients'
 NR_PEOPLE = 5000
 NR_FIRMS = 100
 NR_IND = 1000
-NR_CONFERENCES = 60
+NR_CONFERENCES = 5
 NR_WOKSHOPS_PER_CON_BASE = 5
 NR_WOKSHOPS_PER_CON_VAR = 5
 
@@ -55,7 +55,7 @@ creservations = Array.new
 # Array of workshop reservations
 wreservations = Array.new
 
-# Filling the conferences with reservations, fisrly for companies
+# Filling the conferences with reservations, firstly for companies
 conferences.each do |x|
 	((NR_RESERVATIONS_PER_CON_FIRMS_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_FIRMS_BASE).times do
 		creservations << CReservation.new(clientFirms.sample, x.days.sample)
@@ -69,15 +69,25 @@ conferences.each do |x|
 	end
 end 
 
-# Now filling the conference reservations with conference reservations
-workshops.each do |x| 
-	# Conference reservations for a given workshop
-	workConferencesRes = creservations.select{|cr| cr.conference == x.conference}
-	((NR_RESERVATIONS_PER_WORK_VAR*rand()).to_i + NR_RESERVATIONS_PER_WORK_BASE).times do
-		wreservations << WReservation.new(x, workConferencesRes.sample)
-		# Added a workshop reservation
+creservations.each do |cres| # Filling the workshops with reservations from given conferences
+	# All places in a conference reservation will be divided into workshop reservations
+	nrOfWorkshops = (NR_RESERVATIONS_PER_WORK_VAR*rand()).to_i + NR_RESERVATIONS_PER_WORK_BASE
+	# Number of workshops for this reservation is random
+	placesPerWorkshop = ((cres.normal+cres.students) / nrOfWorkshops).to_i
+	workshopsInConference = workshops.select{|w| w.conference == cres.conference} # Workshops in this conference
+	workshopsForThisReservation = workshopsInConference.sample(nrOfWorkshops) # A subset
+	workshopsForThisReservation.each do |work|
+			wreservations << WReservation.new(work, cres, placesPerWorkshop)
+			# Adddinga workshops reservation
 	end
-end # Filling the conferences with reservations
+	# In a event that a we are left with unplaced reservations, we switch back the conference reservation details to get
+	# the right number
+	if cres.normal >= 0
+		cres.normal =+ ((cres.normal+cres.students) - placesPerWorkshop*nrOfWorkshops).to_i
+	else
+		cres.normal =+ ((cres.normal+cres.students) - placesPerWorkshop*nrOfWorkshops).to_i
+	end
+end
 
 # Array of conference participants
 cparticipants = Array.new
@@ -142,25 +152,24 @@ end
 
 
 #Printing
-#=begin
 
-peopleFile = File.new("export/Osoby.sql")
-clientsFile = File.new("export/Klienci.sql")
-conferencesFile = File.new("export/Konferencje.sql")
-workshopsFile = File.new("export/Warsztaty.sql")
-confReservationsFile = File.new("export/RezerwacjeKonf.sql")
-workReservationsFile = File.new("export/RezerwacjeWarsz.sql")
-confParticipantsFile = File.new("export/UczestnicyKonf.sql")
-workParticipantsFile = File.new("export/UczestnicyWarsz.sql")
-people.each{|x| peopleFile << x.export}
-clientFirms.each{|x| clientsFile << x.export}
-clientInd.each{|x| clientsFile << x.export}
-conferences.each{|x| conferencesFile << x.export}
-workshops.each{|x| workshopsFile << x.export}
-creservations.each{|x| confReservationsFile << x.export}
-wreservations.each{|x| workReservationsFile << x.export}
-cparticipants.each{|x| confParticipantsFile << x.export}
-wparticipants.each{|x| workParticipantsFile << x.export}
+peopleFile = File.new("export/Osoby.sql", "w")
+clientsFile = File.new("export/Klienci.sql", "w")
+conferencesFile = File.new("export/Konferencje.sql", "w")
+workshopsFile = File.new("export/Warsztaty.sql", "w")
+confReservationsFile = File.new("export/RezerwacjeKonf.sql", "w")
+workReservationsFile = File.new("export/RezerwacjeWarsz.sql", "w")
+confParticipantsFile = File.new("export/UczestnicyKonf.sql", "w")
+workParticipantsFile = File.new("export/UczestnicyWarsz.sql", "w")
+people.each{|x| peopleFile << x.export << "\n"}
+clientFirms.each{|x| clientsFile << x.export << "\n"}
+clientInd.each{|x| clientsFile << x.export << "\n"}
+conferences.each{|x| conferencesFile << x.export << "\n"}
+workshops.each{|x| workshopsFile << x.export << "\n"}
+creservations.each{|x| confReservationsFile << x.export << "\n"}
+wreservations.each{|x| workReservationsFile << x.export << "\n"}
+cparticipants.each{|x| confParticipantsFile << x.export << "\n"}
+wparticipants.each{|x| workParticipantsFile << x.export << "\n"}
 #=end
 
 # Examples

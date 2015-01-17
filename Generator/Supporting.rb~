@@ -23,18 +23,18 @@ def NormalizeTimeToDate first, second
 	result = Time.new(first.year, first.month, first.day, second.hour, second.min, second.sec, second.gmt_offset)
 end
 
-# Checks whether two Workshops collide
-def Collide first, second
-	dayCollision = first.days.select{|day| day if first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}}
-	puts first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
-	collision = dayCollision.select do |day|
-	# Hell this is ugly
-		firstStart = first.days[first.days.index(day)].startTime
-		firstEnd= first.days[first.days.index(day)].endTime
-		secondStart = second.days[second.days.index(day)].startTime
-		secondEnd= second.days[second.days.index(day)].endTime
-		true
-	end
+# Radnom subset of an array
+class Array
+  def random_subset(n=1)	
+	result = Array.new
+    raise ArgumentError, "negative argument" if n < 0
+    (1..n).map do
+      r = rand(2**self.size)
+      result = self.select.with_index { |el, i| r[i] == 1 }
+	return result.flatten
+    end
+
+  end
 end
 
 
