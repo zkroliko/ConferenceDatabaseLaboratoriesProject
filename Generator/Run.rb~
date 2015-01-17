@@ -3,21 +3,26 @@ require_relative 'Clients'
 
 # Main configuration, see other files for more details
 
-NR_PEOPLE = 5000
-NR_FIRMS = 100
-NR_IND = 1000
-NR_CONFERENCES = 5
-NR_WOKSHOPS_PER_CON_BASE = 5
-NR_WOKSHOPS_PER_CON_VAR = 5
+NR_PEOPLE = 5000 #default 5000
+NR_FIRMS = 100 #default 100
+NR_IND = 1000 #default 1000
+NR_CONFERENCES = 1 #default 60
+NR_WOKSHOPS_PER_CON_BASE = 10 #default 5
+NR_WOKSHOPS_PER_CON_VAR = 15 #default 5
 
-NR_RESERVATIONS_PER_CON_FIRMS_BASE = 5
-NR_RESERVATIONS_PER_CON_FIRMS_VAR = 5
+NR_RESERVATIONS_PER_CON_FIRMS_BASE = 12 #default 8
+NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 5
 
-NR_RESERVATIONS_PER_CON_IND_BASE = 30
-NR_RESERVATIONS_PER_CON_IND_VAR = 30
+NR_RESERVATIONS_PER_CON_IND_BASE = 60 #default 30
+NR_RESERVATIONS_PER_CON_IND_VAR = 60 #default 30
 
-NR_RESERVATIONS_PER_WORK_BASE = 20
-NR_RESERVATIONS_PER_WORK_VAR = 10
+NR_RESERVATIONS_PER_WORK_BASE = 30 #default 20
+NR_RESERVATIONS_PER_WORK_VAR = 20 #default 10
+
+#The ratio by which workshops are attended in a given conference
+WORKSHOPS_ATTENDANCE_BASE = 1 #default 0.5
+WORKSHOPS_ATTENDANCE_VARY = 0.0 #default 0.5 
+
 
 # People
 people = Array.new
@@ -45,8 +50,6 @@ conferences.each{|x| ((NR_WOKSHOPS_PER_CON_VAR*rand()).to_i + NR_WOKSHOPS_PER_CO
 wCollisions = Hash.new
 workshops.each{|x| workshops.each{|y| wCollisions["#{x.id} #{y.id}"] = Workshop.Collide x, y }}
 
-
-
 #Just to divide people into students and not students
 normal = people.select{|x| x.nr == nil}
 students = people.select{|x| x.nr != nil}
@@ -64,28 +67,22 @@ end
 
 # And now for individuals
 conferences.each do |x|
-	((NR_RESERVATIONS_PER_CON_FIRMS_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_FIRMS_BASE).times do
+	((NR_RESERVATIONS_PER_CON_IND_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_IND_BASE).times do
 		creservations << CReservation.new(clientInd.sample, x.days.sample)
 	end
 end 
 
 creservations.each do |cres| # Filling the workshops with reservations from given conferences
-	# All places in a conference reservation will be divided into workshop reservations
-	nrOfWorkshops = (NR_RESERVATIONS_PER_WORK_VAR*rand()).to_i + NR_RESERVATIONS_PER_WORK_BASE
-	# Number of workshops for this reservation is random
-	placesPerWorkshop = ((cres.normal+cres.students) / nrOfWorkshops).to_i
-	workshopsInConference = workshops.select{|w| w.conference == cres.conference} # Workshops in this conference
-	workshopsForThisReservation = workshopsInConference.sample(nrOfWorkshops) # A subset
-	workshopsForThisReservation.each do |work|
-			wreservations << WReservation.new(work, cres, placesPerWorkshop)
-			# Adddinga workshops reservation
-	end
-	# In a event that a we are left with unplaced reservations, we switch back the conference reservation details to get
-	# the right number
-	if cres.normal >= 0
-		cres.normal =+ ((cres.normal+cres.students) - placesPerWorkshop*nrOfWorkshops).to_i
-	else
-		cres.normal =+ ((cres.normal+cres.students) - placesPerWorkshop*nrOfWorkshops).to_i
+	# We only fill the workshops one day in the conference
+	if (cres.conference.days[0] == cres.cday)
+		workshopsInConference = workshops.select{|w| w.conference == cres.conference} # Workshops in this conference
+		# how many of the workshops will the client be attending
+		ammountOfWorkshops = (workshopsInConference.size*(WORKSHOPS_ATTENDANCE_VARY*rand()+WORKSHOPS_ATTENDANCE_BASE)).to_i 
+		workshopsForThisReservation = workshopsInConference.sample(ammountOfWorkshops) # A subset of the workshops
+		workshopsForThisReservation.each do |work|
+				wreservations << WReservation.new(work, cres)
+				# Addding a workshop reservation
+		end
 	end
 end
 
@@ -104,7 +101,7 @@ creservations.each do |x|
 		cparticipant = CParticipant.new x, x.client.person
 		cparticipants << cparticipant
 		# Now for every workshop reservation refering to this conference reservation we will add one participant to it's workshop
-		wreservations.select{|wres| wres.creservation = x}.each do |wres|
+		wreservations.select{|wres| wres.creservation == x}.each do |wres|
 			wparticipants << (WParticipant.new wres, x.client)
 			# Added a workshop participant for this workshop and for the client of this conference reservation
 		end
@@ -139,7 +136,7 @@ creservations.each do |x|
 
 		# Now for every workshop reservation refering to this conference reservation we will add participants to it's workshop
 		# choosing only the wreservations for this conference reservation
-		wreservations.select{|wres| wres.creservation = x}.each do |wres|
+		wreservations.select{|wres| wres.creservation == x}.each do |wres|
 			wres.places.times do
 			wparticipants << (WParticipant.new wres, cParForThisConference.sample)
 			# Added a workshop participant for this workshop and for the client of this conference reservation
@@ -152,7 +149,6 @@ end
 
 
 #Printing
-#=begin
 
 peopleFile = File.new("export/Osoby.sql", "w")
 clientsFile = File.new("export/Klienci.sql", "w")
@@ -168,10 +164,12 @@ clientInd.each{|x| clientsFile << x.export << "\n"}
 conferences.each{|x| conferencesFile << x.export << "\n"}
 workshops.each{|x| workshopsFile << x.export << "\n"}
 creservations.each{|x| confReservationsFile << x.export << "\n"}
-wreservations.each{|x| workReservationsFile << x.export << "\n"}
+wreservations.each{|x| workReservationsFile <<  x.export << "\n"}
 cparticipants.each{|x| confParticipantsFile << x.export << "\n"}
 wparticipants.each{|x| workParticipantsFile << x.export << "\n"}
+
 #=end
+
 
 # Examples
 =begin

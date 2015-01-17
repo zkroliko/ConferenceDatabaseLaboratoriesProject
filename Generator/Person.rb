@@ -35,7 +35,7 @@ class Person
 		"\"#{@firstName}\", \"#{@lastName}\", \"#{@phone}\", \"#{@dateOfBirth}\", #{@sex}, #{@nr}, #{@address}"
 	end
 	def export
-		"exec dbo.DodajOsobe #{to_s}; \n"
+		"exec dbo.DodajOsobe #{to_s};"
 	end
 end
 

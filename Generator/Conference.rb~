@@ -2,21 +2,21 @@ require 'faker'
 #require_relative 'Workshop'
 
 #How many days backward can history go
-CONFERENCE_START = 800
+CONFERENCE_START = 1000
 #Seed for length
 CONFERENCE_DAYS_MAX_DIFF = 12
 CONFERENCE_DAYS_BASIC = 4
 
 #Seed for places
 PLACES_ROUNDING = -1
-BASIC_PLACES = 300
-VARIABLE_PLACES = 1000
+BASIC_PLACES = 200
+VARIABLE_PLACES = 300
 
 #Seed for price
 PRICE_ROUNDING = -1
 BASIC_PRICE = 10
 VARIABLE_PRICE = "dependant"
-MAX_PRICE = 150
+MAX_PRICE = 100
 
 #There are always 3 discount options
 DISCOUNT_DAYS = [60, 120, 180, 360]
@@ -30,8 +30,10 @@ class Conference
 	attr_accessor :curindex, :id, :name, :startDate, :endDate, :places, :leftPlaces, :price, :days, :discounts
 
 	def initialize()
+		# Indexing
 		@id = @@curindex
-		@@curindex +=1
+		@@curindex +=1	
+		# Name and number of places will be randomized
 		@name = getSomeCoolName
 		@places = (rand()*VARIABLE_PLACES).round(PLACES_ROUNDING)+BASIC_PLACES
 		# Now something out of oridinary, what will make things easier
@@ -39,11 +41,11 @@ class Conference
 		@leftPlaces = @places
 		# Price for the conference
 		@price = (((Faker::Commerce.price).to_int+BASIC_PRICE)%MAX_PRICE).round(PRICE_ROUNDING)
-		makeDates
+		makeDays # Procedure for making conference days, and discount schelude
 	end
 	
-	# Makes some clever days for the conferene along with discounts
-	def makeDates
+	# Makes some "clever" days for the conference along with discounts
+	def makeDays
 		howManyDaysAgo = (rand()*CONFERENCE_START).round(0)+18
 		lengthDays = (rand()*CONFERENCE_DAYS_MAX_DIFF).round() + CONFERENCE_DAYS_BASIC
 		@startDate = (Date.today-howManyDaysAgo)
@@ -59,6 +61,7 @@ class Conference
 		(0..2).each{|x| @discounts << Discount.new(((@startDate)-days[x].to_i-1), ((@startDate)-days[x+1].to_i), self, ammounts[x])}
 	end
 
+	# Opens a file to find some nome name for the conference
 	def getSomeCoolName
 		names = File.open("NazwyKonferencji").read.split("\n")
 		names[rand(names.size)]
@@ -72,13 +75,9 @@ class Conference
 			return false
 		end
 		else
-			puts dayCollision
-			puts first.export
-			puts second.export
 			return true
 		end
 	end
-
 
 	def to_s
 		"\"#{@name}\", \"#{@startDate}\", \"#{@endDate}\", \"#{@places}\", \"#{@price}\""
@@ -96,9 +95,12 @@ class CDay
 	attr_accessor :curindex, :id, :date, :conference
 
 	def initialize(date, conference)
+		# Indexing
 		@id = @@curindex
 		@@curindex +=1
+		# Date type object
 		@date = date
+		# Refernce to "father" conference
 		@conference = conference
 	end
 
@@ -118,11 +120,15 @@ class Discount
 	attr_accessor :curindex, :id, :date
 
 	def initialize(startDate, endDate, conference, ammount)
+		# Indexes
 		@id = @@curindex
 		@@curindex +=1
+		# Dates for discount
 		@startDate = startDate
 		@endDate = endDate
+		# Ammount, a float
 		@ammount = ammount
+		# Conferences to which price the discount should be applied
 		@conference = conference
 	end
 

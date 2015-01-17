@@ -1,2200 +1,1100 @@
-exec dbo.DodajKlientaFirm "Chadd", "Bahringer", "604122438", "1963-07-02", 1, , "Thailand", "Carmenborough", "16644-5987", "Sheldon Underpass", 34, 14, "Hermann, Barrows and Berge Group", 811588456, 715757362, "contact@Hermann,BarrowsandBergeGroup.com", "hermann barrowsandbergegroup", "fazyqg9rjb2", 1; 
-
-exec dbo.DodajKlientaFirm "Leanne", "Douglas", "621172276", "1986-10-12", 1, , "Somalia", "Garrettfurt", "92753-5037", "Waters Ridges", 65, 21, "Bartell, Pfannerstill and Auer and Sons", 147481548, 248381750, "contact@Bartell,PfannerstillandAuerandSons.com", "bartell pfannerstillandauerandsons", "0l4cyffkelp", 1; 
-
-exec dbo.DodajKlientaFirm "Clement", "Wuckert", "281329604", "1996-07-03", 1, , "Venezuela", "Sipesstad", "61474-9342", "Rose Inlet", 68, 59, "Boyle Inc Inc", 732017784, 652245815, "contact@BoyleIncInc.com", "boyleincinc", "w2eyhudujc", 1; 
-
-exec dbo.DodajKlientaFirm "Jazmin", "Miller", "847426763", "1972-11-16", 1, , "Panama", "Wolffmouth", "61116", "Dagmar Hollow", 98, 2, "Kiehn-Grady Inc", 864385947, 881130133, "contact@Kiehn-GradyInc.com", "kiehn-gradyinc", "qdolorxplw9", 1; 
-
-exec dbo.DodajKlientaFirm "Ebba", "Hamill", "777781213", "1984-08-19", 1, , "Myanmar", "East Eldred", "42538-3143", "Raphael Lakes", 2, 5, "Bergnaum LLC LLC", 029172023, 684467206, "contact@BergnaumLLCLLC.com", "bergnaumllcllc", "hbabn8z4h6v", 1; 
-
-exec dbo.DodajKlientaFirm "Charley", "White", "880593914", "1966-12-29", 0, , "Iraq", "Lake Triston", "15764-3183", "Shyann Coves", 69, 36, "Roob Group and Sons", 184218468, 608829955, "contact@RoobGroupandSons.com", "roobgroupandsons", "m213baw0dgz", 1; 
-
-exec dbo.DodajKlientaFirm "Seamus", "Bradtke", "822402647", "1987-11-27", 1, , "Uruguay", "North Ara", "83918-9991", "Eileen Gateway", 38, 39, "Medhurst, Baumbach and Stoltenberg LLC", 242750051, 366936651, "contact@Medhurst,BaumbachandStoltenbergLLC.com", "medhurst baumbachandstoltenbergllc", "hy2fu3o66os", 1; 
-
-exec dbo.DodajKlientaFirm "Velma", "Windler", "255130755", "1976-11-06", 0, 241475, "Saint Lucia", "North Juddshire", "64375-9991", "Christiansen Ville", 75, 21, "Littel Group and Sons", 541344422, 293243842, "contact@LittelGroupandSons.com", "littelgroupandsons", "2hevyo2kovt", 1; 
-
-exec dbo.DodajKlientaFirm "Barton", "Leannon", "314507167", "1954-06-10", 1, , "Slovakia (Slovak Republic)", "North Lloydstad", "68946", "O'Conner Locks", 26, 30, "Schaden Group Inc", 337106234, 613554425, "contact@SchadenGroupInc.com", "schadengroupinc", "i1qw9z8ctco", 1; 
-
-exec dbo.DodajKlientaFirm "Alize", "Franecki", "835154213", "1958-09-18", 0, , "Norway", "Stantonton", "71069", "Braeden Courts", 48, 77, "Nolan-Walter LLC", 072989267, 631249267, "contact@Nolan-WalterLLC.com", "nolan-walterllc", "17e39a1zkff", 1; 
-
-exec dbo.DodajKlientaFirm "Lynn", "Ledner", "772371574", "1951-10-31", 1, , "Netherlands Antilles", "Archborough", "94489", "Christ Trace", 82, 54, "Graham-Kulas and Sons", 873387546, 125428346, "contact@Graham-KulasandSons.com", "graham-kulasandsons", "umpgs4b2qaa", 1; 
-
-exec dbo.DodajKlientaFirm "George", "Greenfelder", "880348460", "1953-03-31", 0, , "Malawi", "Lake Marcelina", "58062-6305", "Bernier Well", 16, 54, "Crooks-Metz Inc", 821734741, 255339697, "contact@Crooks-MetzInc.com", "crooks-metzinc", "iqjx3bk9lyg", 1; 
-
-exec dbo.DodajKlientaFirm "Leslie", "Cormier", "515033743", "1992-09-15", 1, , "Bahamas", "Lake Granvillestad", "94512-5434", "Block View", 1, 79, "Stroman-Willms and Sons", 249240552, 443428670, "contact@Stroman-WillmsandSons.com", "stroman-willmsandsons", "ci0ur5e1zqm", 1; 
-
-exec dbo.DodajKlientaFirm "Cory", "Trantow", "785617335", "1990-02-26", 1, 418182, "Dominican Republic", "Lake Claudmouth", "64207-6832", "Skiles Walk", 79, 30, "Jacobson-Tromp and Sons", 238244115, 966445454, "contact@Jacobson-TrompandSons.com", "jacobson-trompandsons", "hxsm5ppr1gt", 1; 
-
-exec dbo.DodajKlientaFirm "Noemie", "Keeling", "331758103", "1995-03-30", 0, , "Solomon Islands", "South Lavonview", "28080", "Morissette Cliff", 55, 67, "Hauck Inc LLC", 619485830, 523382830, "contact@HauckIncLLC.com", "hauckincllc", "r1bsofsebf8", 1; 
-
-exec dbo.DodajKlientaFirm "Casey", "Reynolds", "341713623", "1988-04-13", 0, , "Cape Verde", "New Lizethbury", "47019", "Cruickshank Inlet", 69, 58, "Quitzon Inc LLC", 194274318, 738540274, "contact@QuitzonIncLLC.com", "quitzonincllc", "gj6oijh2b2f", 1; 
-
-exec dbo.DodajKlientaFirm "Jacquelyn", "Breitenberg", "414262257", "1963-12-09", 0, , "Macao", "Ethelview", "66571-6828", "Lindsay Islands", 73, 76, "Cummings-Greenholt Group", 158215168, 142536451, "contact@Cummings-GreenholtGroup.com", "cummings-greenholtgroup", "4i80w61bdt", 1; 
-
-exec dbo.DodajKlientaFirm "Candace", "Schaden", "521286192", "1967-09-09", 1, 113578, "Cuba", "Morissettebury", "30642-1120", "Hermiston Drive", 85, 14, "Gleichner Group Inc", 837026462, 112761946, "contact@GleichnerGroupInc.com", "gleichnergroupinc", "bd7dyx4cgib", 1; 
-
-exec dbo.DodajKlientaFirm "Annetta", "Ondricka", "429226203", "1986-12-01", 0, 403092, "Namibia", "Vivienbury", "98167-9500", "D'Amore Locks", 87, 83, "Hermann and Sons and Sons", 665988479, 672683551, "contact@HermannandSonsandSons.com", "hermannandsonsandsons", "dpbjlpz3cso", 1; 
-
-exec dbo.DodajKlientaFirm "Katrine", "Jenkins", "933107239", "1953-10-20", 1, , "Republic of Korea", "New Ezequielfurt", "11109", "Ena Haven", 62, 59, "Haley-Koch Inc", 248438135, 484238917, "contact@Haley-KochInc.com", "haley-kochinc", "k5xsrcb12tx", 1; 
-
-exec dbo.DodajKlientaFirm "Jena", "Gusikowski", "647433957", "1985-03-11", 1, 140435, "Kuwait", "Othomouth", "85720", "Myrl Wall", 34, 18, "Cronin-Gulgowski Inc", 365322527, 884028012, "contact@Cronin-GulgowskiInc.com", "cronin-gulgowskiinc", "9tj3c6qlcr1", 1; 
-
-exec dbo.DodajKlientaFirm "Sebastian", "Harber", "512738114", "1959-09-21", 0, , "Peru", "North Kelvinland", "24805", "Goldner Meadows", 22, 53, "Kozey Group LLC", 316286222, 124244988, "contact@KozeyGroupLLC.com", "kozeygroupllc", "gvmbsim3muv", 1; 
-
-exec dbo.DodajKlientaFirm "Gertrude", "Thompson", "517216265", "1957-04-16", 1, , "Australia", "Port Elmira", "11704", "Ole Gateway", 78, 26, "Satterfield-Stanton LLC", 352566547, 042910651, "contact@Satterfield-StantonLLC.com", "satterfield-stantonllc", "04iwu8xrwz5", 1; 
-
-exec dbo.DodajKlientaFirm "Jakob", "Weissnat", "450631898", "1989-10-12", 0, 969810, "Latvia", "Madisenland", "78153", "Morissette Heights", 58, 73, "Stroman, Blanda and Little Inc", 703182700, 583276445, "contact@Stroman,BlandaandLittleInc.com", "stroman blandaandlittleinc", "svylelt57s6", 1; 
-
-exec dbo.DodajKlientaFirm "Michael", "Blanda", "015316877", "1990-10-31", 0, , "Ethiopia", "Denesikton", "95866", "Braun Valleys", 64, 62, "Harris, Cartwright and Russel LLC", 654186070, 369531436, "contact@Harris,CartwrightandRusselLLC.com", "harris cartwrightandrusselllc", "7utwgkicc7t", 1; 
-
-exec dbo.DodajKlientaFirm "Cydney", "Hills", "362550873", "1995-06-28", 1, , "Bermuda", "Kochstad", "37818-7693", "Schneider Inlet", 73, 56, "Brakus-Jones Group", 651397677, 423168744, "contact@Brakus-JonesGroup.com", "brakus-jonesgroup", "6pgmtzmbutg", 1; 
-
-exec dbo.DodajKlientaFirm "Shanny", "Stehr", "836115344", "1957-08-02", 1, , "France", "Lake Beau", "49232-8303", "Cremin Crossing", 46, 50, "Walter, DuBuque and Kub Inc", 853178705, 579046941, "contact@Walter,DuBuqueandKubInc.com", "walter dubuqueandkubinc", "l4hf46m9ymd", 1; 
-
-exec dbo.DodajKlientaFirm "Coleman", "Tillman", "913149141", "1972-03-02", 1, , "Heard Island and McDonald Islands", "North Paula", "13423", "Weber Grove", 79, 96, "Hirthe-Wunsch Group", 475441715, 875766615, "contact@Hirthe-WunschGroup.com", "hirthe-wunschgroup", "stchps5qn4s", 1; 
-
-exec dbo.DodajKlientaFirm "Kylee", "Rowe", "825229368", "1976-05-27", 1, , "Mayotte", "Leannontown", "29744", "Verona Mill", 49, 88, "Collier-Hegmann Group", 402105523, 400871722, "contact@Collier-HegmannGroup.com", "collier-hegmanngroup", "javyzlo556g", 1; 
-
-exec dbo.DodajKlientaFirm "Gladys", "Rohan", "232164110", "1977-05-25", 1, , "Albania", "New Markview", "58281-1667", "Rudolph Port", 44, 1, "Heathcote, Paucek and Nicolas LLC", 698074577, 681159487, "contact@Heathcote,PaucekandNicolasLLC.com", "heathcote paucekandnicolasllc", "hlzsbndoyfj", 1; 
-
-exec dbo.DodajKlientaFirm "Vickie", "Bogisich", "472608147", "1977-02-05", 1, 654221, "China", "Port Laverne", "36020", "Hilll Green", 48, 33, "D'Amore-Witting Group", 498594573, 593454360, "contact@D'Amore-WittingGroup.com", "d'amore-wittinggroup", "xltgvmsen4x", 1; 
-
-exec dbo.DodajKlientaFirm "Ebba", "Balistreri", "338474119", "1959-08-08", 1, , "French Guiana", "New Lorenzomouth", "88262", "Stiedemann Summit", 53, 79, "Schultz-Treutel Inc", 177626652, 275125436, "contact@Schultz-TreutelInc.com", "schultz-treutelinc", "gpmr0ljdge0", 1; 
-
-exec dbo.DodajKlientaFirm "Foster", "Walker", "313462226", "1959-08-24", 0, , "Bangladesh", "South Annamarie", "68782", "Hoeger Vista", 70, 89, "Wolf, Buckridge and Harris and Sons", 333112462, 712253757, "contact@Wolf,BuckridgeandHarrisandSons.com", "wolf buckridgeandharrisandsons", "luobck32xly", 1; 
-
-exec dbo.DodajKlientaFirm "Shakira", "Quigley", "674266604", "1952-06-16", 0, , "Bhutan", "Metzmouth", "99798-3786", "Noemie Glen", 25, 75, "Hudson-Kessler Group", 635521234, 364188560, "contact@Hudson-KesslerGroup.com", "hudson-kesslergroup", "urdcp1wrs61", 1; 
-
-exec dbo.DodajKlientaFirm "Holly", "Ullrich", "763522112", "1973-01-29", 1, , "Virgin Islands, British", "Port Betsy", "95074", "Keagan Village", 17, 58, "O'Conner, Treutel and Cummings Group", 604584324, 331729481, "contact@O'Conner,TreutelandCummingsGroup.com", "o'conner treutelandcummingsgroup", "5iqufdx0lge", 1; 
-
-exec dbo.DodajKlientaFirm "Martine", "Kshlerin", "119755620", "1974-05-06", 0, , "Albania", "Zulaufberg", "48683", "Hahn Land", 66, 4, "Swaniawski, Hyatt and Stanton and Sons", 498723797, 251286541, "contact@Swaniawski,HyattandStantonandSons.com", "swaniawski hyattandstantonandsons", "taf6lfuwtjj", 1; 
-
-exec dbo.DodajKlientaFirm "Jerrell", "Graham", "486600721", "1961-11-08", 0, , "Faroe Islands", "North Janelle", "12839", "Schmitt River", 38, 8, "Kunze, Hodkiewicz and Collier Group", 068882686, 907702458, "contact@Kunze,HodkiewiczandCollierGroup.com", "kunze hodkiewiczandcolliergroup", "0ni2jpq3w2d", 1; 
-
-exec dbo.DodajKlientaFirm "Ansley", "O'Connell", "860436330", "1972-05-27", 0, , "Vietnam", "West Audreanne", "42026-2931", "Xavier Center", 79, 96, "Kessler Inc and Sons", 088412276, 554858145, "contact@KesslerIncandSons.com", "kesslerincandsons", "02nv15yi43m", 1; 
-
-exec dbo.DodajKlientaFirm "Brady", "Kuhic", "857661246", "1974-04-07", 0, , "South Africa", "Port Marian", "74236-0067", "Gerald Knolls", 35, 56, "Ritchie-Heaney LLC", 233786830, 315565642, "contact@Ritchie-HeaneyLLC.com", "ritchie-heaneyllc", "6dzrzjf2umg", 1; 
-
-exec dbo.DodajKlientaFirm "Jalon", "Konopelski", "294154868", "1967-12-25", 1, , "Luxembourg", "Preciousberg", "15451", "Kemmer Plain", 54, 78, "Nienow and Sons LLC", 176117888, 128541678, "contact@NienowandSonsLLC.com", "nienowandsonsllc", "orx3s5ik3us", 1; 
-
-exec dbo.DodajKlientaFirm "Esperanza", "Langosh", "316173254", "1963-07-18", 0, , "Bosnia and Herzegovina", "Lake Cristinaside", "56718", "Marietta Shoal", 28, 87, "Ankunding, Brown and Heidenreich Group", 426155788, 104196045, "contact@Ankunding,BrownandHeidenreichGroup.com", "ankunding brownandheidenreichgroup", "f01kt3i32pl", 1; 
-
-exec dbo.DodajKlientaFirm "Toy", "Steuber", "057615466", "1971-05-21", 1, , "Israel", "Bartellland", "95670", "Shyann Trace", 46, 42, "Hoppe, Torp and Stoltenberg and Sons", 595524864, 526724565, "contact@Hoppe,TorpandStoltenbergandSons.com", "hoppe torpandstoltenbergandsons", "v3avyyflruh", 1; 
-
-exec dbo.DodajKlientaFirm "Manley", "Beahan", "489237111", "1970-04-05", 1, , "Spain", "Jacksonville", "39149-4152", "Blanda Neck", 85, 96, "Davis, Waelchi and Moen Inc", 381427542, 117414221, "contact@Davis,WaelchiandMoenInc.com", "davis waelchiandmoeninc", "0oemtjfhr5t", 1; 
-
-exec dbo.DodajKlientaFirm "Elyse", "Ferry", "345275477", "1986-01-24", 1, , "Russian Federation", "North Brendon", "39377-6871", "Hermann Via", 14, 15, "Runte-Stiedemann and Sons", 137852412, 736114374, "contact@Runte-StiedemannandSons.com", "runte-stiedemannandsons", "epyim22cib4", 1; 
-
-exec dbo.DodajKlientaFirm "Otilia", "Leannon", "140450865", "1980-05-26", 0, , "Timor-Leste", "Bartonmouth", "40465-5767", "Doyle Village", 86, 55, "Walsh, Friesen and Jacobi Group", 917217162, 351813648, "contact@Walsh,FriesenandJacobiGroup.com", "walsh friesenandjacobigroup", "2r8lej0shwk", 1; 
-
-exec dbo.DodajKlientaFirm "Edgardo", "Yundt", "351561447", "1991-01-20", 0, , "Lao People's Democratic Republic", "South Reina", "55795-9089", "Domenica Alley", 18, 16, "Parker-Quigley Inc", 716514854, 183544565, "contact@Parker-QuigleyInc.com", "parker-quigleyinc", "ygc09d86sql", 1; 
-
-exec dbo.DodajKlientaFirm "Cristian", "Stehr", "016714666", "1976-06-21", 1, , "Saint Martin", "Port Gail", "21230", "Duncan Port", 88, 74, "Kris-Gleichner Inc", 255513151, 955985283, "contact@Kris-GleichnerInc.com", "kris-gleichnerinc", "p9299985azl", 1; 
-
-exec dbo.DodajKlientaFirm "Ava", "Mosciski", "229854863", "1981-05-06", 0, , "Dominica", "Hilarioburgh", "86998", "Steuber Circle", 52, 42, "Grady Inc Inc", 135445843, 219402858, "contact@GradyIncInc.com", "gradyincinc", "fgxhz6gbxwx", 1; 
-
-exec dbo.DodajKlientaFirm "Orion", "Doyle", "367561312", "1956-05-27", 0, , "Denmark", "West Bud", "76050-3835", "Beer Lights", 45, 39, "Davis Inc Group", 126534361, 352771824, "contact@DavisIncGroup.com", "davisincgroup", "7t9biocd3jd", 1; 
-
-exec dbo.DodajKlientaFirm "Cecil", "Lemke", "151506436", "1988-07-04", 0, , "Turkmenistan", "Turnerfurt", "93771-8056", "Roger Land", 87, 77, "Koss Inc LLC", 423318671, 582671179, "contact@KossIncLLC.com", "kossincllc", "s7miwn8c3wa", 1; 
-
-exec dbo.DodajKlientaFirm "Eldon", "Frami", "145933797", "1980-05-19", 1, , "South Georgia and the South Sandwich Islands", "Eloisafort", "98555-0717", "Sheila Gardens", 31, 30, "Kihn, Dickinson and Lowe LLC", 685255804, 553976944, "contact@Kihn,DickinsonandLoweLLC.com", "kihn dickinsonandlowellc", "s6c28mkippj", 1; 
-
-exec dbo.DodajKlientaFirm "Barrett", "Rath", "391853244", "1977-04-23", 0, , "Zimbabwe", "Cadenport", "92738", "Trystan Walks", 88, 75, "Johnston-Rowe LLC", 974395870, 307447703, "contact@Johnston-RoweLLC.com", "johnston-rowellc", "fy0wqkxpex7", 1; 
-
-exec dbo.DodajKlientaFirm "Giovanni", "Balistreri", "118800439", "1963-08-12", 1, , "Afghanistan", "Colinview", "63137", "General Avenue", 78, 95, "Sipes, Jenkins and Considine LLC", 507831066, 727886116, "contact@Sipes,JenkinsandConsidineLLC.com", "sipes jenkinsandconsidinellc", "en7et1du2n", 1; 
-
-exec dbo.DodajKlientaFirm "Roberto", "Kertzmann", "128817663", "1972-08-26", 1, , "Italy", "North Aimee", "33883", "Dawson Stream", 45, 17, "O'Hara-Abernathy and Sons", 115342312, 135996542, "contact@O'Hara-AbernathyandSons.com", "o'hara-abernathyandsons", "6yyj70f3f2j", 1; 
-
-exec dbo.DodajKlientaFirm "Elwin", "Sauer", "404888992", "1968-02-29", 1, , "Kyrgyz Republic", "Gutmannville", "75867", "Feil Cape", 9, 74, "Ferry, Schimmel and Hermiston Inc", 583524464, 572589064, "contact@Ferry,SchimmelandHermistonInc.com", "ferry schimmelandhermistoninc", "sff4153j5a6", 1; 
-
-exec dbo.DodajKlientaFirm "Albertha", "Kovacek", "155805714", "1959-08-20", 1, , "Japan", "North Ebony", "83033", "Keyshawn Ferry", 64, 16, "Miller, Dietrich and Armstrong Inc", 417254415, 321637452, "contact@Miller,DietrichandArmstrongInc.com", "miller dietrichandarmstronginc", "u0lvaamo2xg", 1; 
-
-exec dbo.DodajKlientaFirm "Nicola", "Brekke", "813114764", "1961-09-09", 1, , "Comoros", "East Winston", "96536-7721", "Meaghan Oval", 50, 9, "Moen-Gorczany LLC", 253877556, 778428903, "contact@Moen-GorczanyLLC.com", "moen-gorczanyllc", "t6n0skdowpa", 1; 
-
-exec dbo.DodajKlientaFirm "Conrad", "Johnson", "185286524", "1978-08-30", 0, 032437, "Cayman Islands", "Port Maximoton", "66482-5130", "Nolan River", 10, 59, "Borer, Collins and Cummings Inc", 883455175, 444468835, "contact@Borer,CollinsandCummingsInc.com", "borer collinsandcummingsinc", "0j5d9ue42ay", 1; 
-
-exec dbo.DodajKlientaFirm "Ivah", "Keeling", "583271258", "1962-09-10", 0, , "Belarus", "North Bobbyhaven", "60023-2957", "Kody Neck", 67, 83, "Wyman-Lockman and Sons", 286572586, 716413526, "contact@Wyman-LockmanandSons.com", "wyman-lockmanandsons", "andm8k56a22", 1; 
-
-exec dbo.DodajKlientaFirm "Arjun", "Mueller", "723833349", "1971-01-08", 1, , "Jersey", "D'angeloview", "19508", "Haag Isle", 52, 79, "Monahan-Towne Inc", 183357152, 128717368, "contact@Monahan-TowneInc.com", "monahan-towneinc", "549xpvx1ybx", 1; 
-
-exec dbo.DodajKlientaFirm "Richmond", "Kirlin", "315062966", "1963-11-04", 1, , "Namibia", "Eduardoburgh", "63470", "Serena Hills", 81, 14, "Littel-Lubowitz and Sons", 473760234, 540014631, "contact@Littel-LubowitzandSons.com", "littel-lubowitzandsons", "4nvu2h9txlh", 1; 
-
-exec dbo.DodajKlientaFirm "Vivian", "King", "321906804", "1988-05-31", 1, , "Panama", "Mariefort", "60607", "Gerard Drive", 47, 80, "Brown and Sons Group", 035673149, 878245777, "contact@BrownandSonsGroup.com", "brownandsonsgroup", "wi9lqjuxvt", 1; 
-
-exec dbo.DodajKlientaFirm "Carson", "Metz", "178323764", "1966-10-13", 0, , "Ethiopia", "Lake Dianna", "62388", "Don Well", 83, 63, "Romaguera-Pagac LLC", 466214318, 224862607, "contact@Romaguera-PagacLLC.com", "romaguera-pagacllc", "p2vqoeyxksn", 1; 
-
-exec dbo.DodajKlientaFirm "Cheyenne", "Kris", "643227428", "1988-10-27", 1, , "Bosnia and Herzegovina", "South Chynaborough", "68787-1590", "Davon Circles", 93, 6, "Ankunding, Stehr and D'Amore LLC", 407161538, 165440503, "contact@Ankunding,StehrandD'AmoreLLC.com", "ankunding stehrandd'amorellc", "qsmorklp6e8", 1; 
-
-exec dbo.DodajKlientaFirm "Janae", "Franecki", "465563802", "1958-06-07", 1, 948915, "American Samoa", "Jordybury", "57558", "Schmitt Mountain", 36, 62, "Goodwin-Langworth Group", 692836012, 757675654, "contact@Goodwin-LangworthGroup.com", "goodwin-langworthgroup", "i4q2ucr60cs", 1; 
-
-exec dbo.DodajKlientaFirm "Esta", "Auer", "368676923", "1984-04-05", 0, , "Faroe Islands", "West Alejandrinport", "45667", "Isabel Heights", 66, 78, "Spencer-Parker and Sons", 826320018, 157451631, "contact@Spencer-ParkerandSons.com", "spencer-parkerandsons", "nwqrvoxjrt7", 1; 
-
-exec dbo.DodajKlientaFirm "Kailyn", "Johnston", "819203823", "1990-02-05", 0, , "Dominican Republic", "Modestatown", "85329", "Yoshiko Ford", 38, 64, "D'Amore LLC Group", 827351474, 274224742, "contact@D'AmoreLLCGroup.com", "d'amorellcgroup", "rpsvvr723v", 1; 
-
-exec dbo.DodajKlientaFirm "Gay", "Kunde", "111514113", "1960-01-10", 0, , "Central African Republic", "Blandaport", "64095", "Billy Dam", 24, 94, "Towne, Rutherford and Gerhold Inc", 225645657, 010891755, "contact@Towne,RutherfordandGerholdInc.com", "towne rutherfordandgerholdinc", "apyipg5cls1", 1; 
-
-exec dbo.DodajKlientaFirm "Anastacio", "Volkman", "627437607", "1968-04-03", 1, , "Guadeloupe", "Runolfsdottirtown", "31998", "Henri Crossroad", 55, 39, "Leffler, Bode and Macejkovic and Sons", 318715983, 420895217, "contact@Leffler,BodeandMacejkovicandSons.com", "leffler bodeandmacejkovicandsons", "6d2z4y52eq0", 1; 
-
-exec dbo.DodajKlientaFirm "Heber", "Hermiston", "544957342", "1974-01-11", 0, , "Iceland", "Morissettechester", "94345-9353", "Murray Prairie", 44, 18, "Bergnaum-Leuschke and Sons", 754181642, 196885415, "contact@Bergnaum-LeuschkeandSons.com", "bergnaum-leuschkeandsons", "tcqznuo53wp", 1; 
-
-exec dbo.DodajKlientaFirm "Kiarra", "Hane", "139054486", "1989-12-11", 0, , "Kuwait", "Kuphalfurt", "51675", "Friesen Drive", 86, 29, "Sanford, Fahey and Lemke Group", 520264725, 941641482, "contact@Sanford,FaheyandLemkeGroup.com", "sanford faheyandlemkegroup", "rejnm1ucr9e", 1; 
-
-exec dbo.DodajKlientaFirm "Alexandrea", "Stark", "313749942", "1993-12-23", 1, , "Kiribati", "East Antoinettefurt", "92809", "Evans Cove", 74, 21, "Ruecker, Effertz and Batz LLC", 694327894, 633804414, "contact@Ruecker,EffertzandBatzLLC.com", "ruecker effertzandbatzllc", "5ec3igwd22v", 1; 
-
-exec dbo.DodajKlientaFirm "Reina", "Witting", "159484872", "1980-07-09", 1, , "Lithuania", "Santinoside", "68703", "Germaine Ford", 76, 72, "Bednar, Grady and Barton Group", 583686116, 057961832, "contact@Bednar,GradyandBartonGroup.com", "bednar gradyandbartongroup", "n43vr15spjf", 1; 
-
-exec dbo.DodajKlientaFirm "Chet", "Adams", "191775479", "1994-08-25", 0, , "Samoa", "West Kendratown", "41115-4698", "Okuneva Stream", 45, 37, "Brakus, Kshlerin and Dach and Sons", 321106231, 813834101, "contact@Brakus,KshlerinandDachandSons.com", "brakus kshlerinanddachandsons", "vr2qhaifsv", 1; 
-
-exec dbo.DodajKlientaFirm "Reyes", "Wisoky", "259199308", "1979-03-25", 1, , "Malaysia", "Jerdemouth", "63484", "Elliot Run", 46, 17, "Padberg, Grimes and Carter LLC", 014493781, 617144331, "contact@Padberg,GrimesandCarterLLC.com", "padberg grimesandcarterllc", "reioklfqlsy", 1; 
-
-exec dbo.DodajKlientaFirm "Leonard", "Nikolaus", "774303161", "1959-02-05", 1, , "Estonia", "Lake Seamus", "52113-5656", "Jenkins Walks", 38, 64, "Murazik, Nienow and DuBuque Inc", 406673766, 724665484, "contact@Murazik,NienowandDuBuqueInc.com", "murazik nienowanddubuqueinc", "ak5j7vot0dr", 1; 
-
-exec dbo.DodajKlientaFirm "Willow", "Marks", "921952180", "1993-01-30", 0, , "Tajikistan", "Hoppeville", "95069", "Destinee Burg", 14, 52, "Rogahn-Macejkovic and Sons", 429777677, 461882058, "contact@Rogahn-MacejkovicandSons.com", "rogahn-macejkovicandsons", "nqzvpl823ti", 1; 
-
-exec dbo.DodajKlientaFirm "Odell", "Predovic", "596132651", "1978-08-15", 1, , "Liechtenstein", "West Rahsaan", "58493-4766", "Crist Oval", 26, 17, "Ratke Inc Group", 112416509, 839464353, "contact@RatkeIncGroup.com", "ratkeincgroup", "7m3rdg21rdu", 1; 
-
-exec dbo.DodajKlientaFirm "Giovani", "Wunsch", "580847618", "1984-06-04", 0, , "Lao People's Democratic Republic", "Newellfort", "45795", "Lubowitz Stravenue", 86, 26, "Hamill-Conroy Inc", 353144269, 956714432, "contact@Hamill-ConroyInc.com", "hamill-conroyinc", "ntfxfi44i8q", 1; 
-
-exec dbo.DodajKlientaFirm "Cortney", "Jenkins", "805142726", "1980-09-10", 1, , "Malaysia", "Lake Grover", "46942-1432", "Tre Harbors", 28, 14, "Osinski LLC and Sons", 144767528, 111322376, "contact@OsinskiLLCandSons.com", "osinskillcandsons", "77besh11vif", 1; 
-
-exec dbo.DodajKlientaFirm "Treva", "Padberg", "548145349", "1987-11-12", 0, , "Eritrea", "Magdalenton", "13940", "Kuhn Motorway", 86, 60, "Sipes and Sons Group", 013762572, 837638867, "contact@SipesandSonsGroup.com", "sipesandsonsgroup", "nfbdecr79go", 1; 
-
-exec dbo.DodajKlientaFirm "Domingo", "Zulauf", "771649481", "1971-11-08", 1, , "Kiribati", "Millsstad", "92981-8360", "Ward Cliffs", 83, 38, "Hintz-Adams LLC", 173353771, 527984639, "contact@Hintz-AdamsLLC.com", "hintz-adamsllc", "r4aqfb7u4h3", 1; 
-
-exec dbo.DodajKlientaFirm "Elias", "Bosco", "358131138", "1979-03-05", 0, , "Belize", "Boyertown", "35613", "Hoeger Loop", 15, 8, "Sporer Inc LLC", 177847482, 452424577, "contact@SporerIncLLC.com", "sporerincllc", "lp94lr2ju4t", 1; 
-
-exec dbo.DodajKlientaFirm "Carley", "Maggio", "428022674", "1963-07-08", 0, , "United Arab Emirates", "Ottisfort", "99030-0791", "Kuhlman Skyway", 54, 56, "Cruickshank-Hermiston Inc", 008283519, 671764351, "contact@Cruickshank-HermistonInc.com", "cruickshank-hermistoninc", "yw3hdt5hof4", 1; 
-
-exec dbo.DodajKlientaFirm "Toy", "Roob", "459806730", "1971-02-21", 0, , "Faroe Islands", "McCulloughville", "28169", "Angela Corners", 85, 33, "Conroy Inc and Sons", 220162955, 221779806, "contact@ConroyIncandSons.com", "conroyincandsons", "lungicce5c5", 1; 
-
-exec dbo.DodajKlientaFirm "Loyce", "Nolan", "407022353", "1979-10-08", 0, , "Hong Kong", "Bogisichmouth", "48132", "Hills Hollow", 25, 18, "Torp, Braun and Blick Group", 351886782, 836789288, "contact@Torp,BraunandBlickGroup.com", "torp braunandblickgroup", "dyx7wlr5rj", 1; 
-
-exec dbo.DodajKlientaFirm "Sasha", "King", "526055847", "1975-08-07", 0, , "Costa Rica", "North Darrion", "12899", "Pacocha Islands", 74, 28, "Huels-Gislason and Sons", 834192580, 563454822, "contact@Huels-GislasonandSons.com", "huels-gislasonandsons", "054lev2eblp", 1; 
-
-exec dbo.DodajKlientaFirm "Damion", "Heaney", "364760284", "1959-09-16", 0, , "Tonga", "New Hiram", "59226", "Wolf Causeway", 40, 63, "Heathcote-Reichert Group", 426737647, 052563326, "contact@Heathcote-ReichertGroup.com", "heathcote-reichertgroup", "b0bze2v2yud", 1; 
-
-exec dbo.DodajKlientaFirm "Lyric", "Lesch", "255138171", "1990-02-10", 1, , "Algeria", "Savionfurt", "29561-3276", "Conor Fork", 23, 9, "Beahan, Murray and Monahan Inc", 888641886, 455783313, "contact@Beahan,MurrayandMonahanInc.com", "beahan murrayandmonahaninc", "xnaj1zbhvmp", 1; 
-
-exec dbo.DodajKlientaFirm "Elyse", "Hansen", "190777341", "1973-10-21", 0, , "Peru", "Berthaberg", "93741", "Shad Lodge", 35, 38, "Moore and Sons LLC", 575377623, 448520537, "contact@MooreandSonsLLC.com", "mooreandsonsllc", "fuf2sa5ke60", 1; 
-
-exec dbo.DodajKlientaFirm "Myles", "Lockman", "456760545", "1989-07-06", 1, , "Greece", "Port Brooke", "50722-6173", "Gregory Village", 69, 62, "Hamill, Daugherty and Schoen and Sons", 718559396, 170645681, "contact@Hamill,DaughertyandSchoenandSons.com", "hamill daughertyandschoenandsons", "gbl52tgi2f0", 1; 
-
-exec dbo.DodajKlientaFirm "Maritza", "Dooley", "148672874", "1991-09-18", 0, , "Guam", "Greenborough", "32565", "Cruickshank Skyway", 40, 15, "Boyle, Feil and Heaney Inc", 252111931, 823580863, "contact@Boyle,FeilandHeaneyInc.com", "boyle feilandheaneyinc", "jrlc523e4v", 1; 
-
-exec dbo.DodajKlientaFirm "Payton", "Daugherty", "732717143", "1981-05-29", 1, , "French Guiana", "East Leonefurt", "48717-0835", "McGlynn Squares", 18, 29, "Heller-Emmerich Group", 794852265, 628185306, "contact@Heller-EmmerichGroup.com", "heller-emmerichgroup", "46ork8qpfun", 1; 
-
-exec dbo.DodajKlientaFirm "Vanessa", "Erdman", "481354314", "1968-08-03", 0, , "Reunion", "North Tillman", "23784-9396", "Lila Neck", 19, 26, "Stamm and Sons Group", 310655784, 824282615, "contact@StammandSonsGroup.com", "stammandsonsgroup", "ya5pxoxiimy", 1; 
-
-exec dbo.DodajKlientaFirm "Ola", "Kuphal", "413638161", "1990-09-26", 1, , "Bahrain", "North Helmer", "54337-6972", "Conroy Row", 78, 42, "Kunze and Sons Group", 243381189, 120446788, "contact@KunzeandSonsGroup.com", "kunzeandsonsgroup", "c8hd82lvm2b", 1; 
-
-exec dbo.DodajKlientaFirm "Alicia", "Braun", "635043163", "1975-11-02", 0, , "Wallis and Futuna", "Karianneburgh", "16909", "Pfannerstill Forest", 48, 58, "Kuvalis and Sons Inc", 443255349, 190119687, "contact@KuvalisandSonsInc.com", "kuvalisandsonsinc", "blx870ykc1y", 1; 
-
-exec dbo.DodajKlientaFirm "Izaiah", "Herzog", "095237807", "1976-10-18", 1, 423172, "Botswana", "Crooksburgh", "92831", "Nedra Stream", 6, 7, "Hagenes Group and Sons", 553737216, 709766330, "contact@HagenesGroupandSons.com", "hagenesgroupandsons", "xfk969szd15", 1; 
-
-exec dbo.DodajKlientaFirm "Louisa", "Gleason", "335228158", "1950-10-15", 0, , "Sweden", "Sawaynport", "60662-1037", "Favian Stravenue", 21, 26, "Ullrich-Steuber Group", 532884686, 353044695, "contact@Ullrich-SteuberGroup.com", "ullrich-steubergroup", "z9c69pale85", 1; 
-
-exec dbo.DodajKlientaFirm "Minnie", "Cronin", "436317840", "1951-05-09", 0, , "Chile", "Sporerfurt", "52091-0283", "Willms Highway", 65, 31, "Haley-Walker LLC", 066618400, 244764978, "contact@Haley-WalkerLLC.com", "haley-walkerllc", "tovow08cyvv", 1; 
-
-exec dbo.DodajKlientaFirm "Antonetta", "Bernhard", "944846783", "1994-06-24", 1, , "Tuvalu", "Nikolausland", "87383-2147", "Stoltenberg Wells", 27, 55, "Murazik-McClure LLC", 264066471, 325345576, "contact@Murazik-McClureLLC.com", "murazik-mcclurellc", "ilhxepssdu2", 1; 
-
-exec dbo.DodajKlientaInd "Laila", "Lynch", "886887071", "1994-12-19", 0, , "Philippines", "Kiehntown", "52859-8444", "Watsica Turnpike", 49, 85, "lailalynch@memail.com", "lailalynch", "fdk70iohewl", 0; 
-
-exec dbo.DodajKlientaInd "Brian", "Gutmann", "917601528", "1964-08-23", 0, , "Swaziland", "Cristobalburgh", "55307", "Rory Skyway", 22, 66, "briangutmann@memail.com", "briangutmann", "uwjygpbho19", 0; 
-
-exec dbo.DodajKlientaInd "Lelia", "Bruen", "355531580", "1970-11-01", 0, , "Honduras", "Legrosview", "75682", "Feil Estate", 62, 23, "leliabruen@memail.com", "leliabruen", "5eqn62e9ydu", 0; 
-
-exec dbo.DodajKlientaInd "Kayleigh", "Nitzsche", "559474725", "1972-03-22", 0, , "Mongolia", "East Damien", "18797-2637", "Rowe Turnpike", 73, 72, "kayleighnitzsche@memail.com", "kayleighnitzsche", "nat333u5dml", 0; 
-
-exec dbo.DodajKlientaInd "Aiden", "Block", "705285546", "1971-05-14", 1, 388266, "Gambia", "North Faustinoshire", "33936-2876", "Layne Landing", 41, 74, "aidenblock@memail.com", "aidenblock", "sy18ynp4xs", 0; 
-
-exec dbo.DodajKlientaInd "Danielle", "Sanford", "884822423", "1975-11-15", 1, 637765, "Liberia", "New Candiceshire", "16342", "Tillman Skyway", 55, 67, "daniellesanford@memail.com", "daniellesanford", "pwdbuvy6bx", 0; 
-
-exec dbo.DodajKlientaInd "Mustafa", "Balistreri", "045496024", "1988-12-23", 1, , "Saint Pierre and Miquelon", "Lake Zachariah", "25739", "Wuckert Unions", 38, 73, "mustafabalistreri@memail.com", "mustafabalistreri", "0d8xkto9s42", 0; 
-
-exec dbo.DodajKlientaInd "Liliane", "Kohler", "305353394", "1962-07-08", 0, , "Zimbabwe", "Bransonburgh", "56859-4243", "Kevin Shores", 52, 86, "lilianekohler@memail.com", "lilianekohler", "ti0tuoqkdn", 0; 
-
-exec dbo.DodajKlientaInd "Benton", "Sipes", "320737715", "1980-11-02", 0, , "Jamaica", "Anselstad", "66436-9946", "Caesar Mountains", 25, 57, "bentonsipes@memail.com", "bentonsipes", "2x0zr3gw7g9", 0; 
-
-exec dbo.DodajKlientaInd "Lizzie", "Johnson", "936369551", "1960-11-03", 0, , "Nigeria", "Amariland", "23403-5709", "Annetta Drive", 56, 5, "lizziejohnson@memail.com", "lizziejohnson", "58kg42nphid", 0; 
-
-exec dbo.DodajKlientaInd "Adrian", "Hamill", "315718818", "1992-03-08", 0, , "Niue", "Margueritemouth", "76077", "Gulgowski Skyway", 15, 23, "adrianhamill@memail.com", "adrianhamill", "my9biu9n8j", 0; 
-
-exec dbo.DodajKlientaInd "Lori", "Rogahn", "645753466", "1956-09-15", 1, , "Spain", "Gusikowskiland", "82450", "Alexanne Dale", 15, 65, "lorirogahn@memail.com", "lorirogahn", "z2lpk3m443n", 0; 
-
-exec dbo.DodajKlientaInd "Stacey", "Cruickshank", "625484580", "1988-06-14", 0, , "Ethiopia", "West Monteton", "16136-6244", "DuBuque Station", 15, 19, "staceycruickshank@memail.com", "staceycruickshank", "psizkn9j65f", 0; 
-
-exec dbo.DodajKlientaInd "Chance", "Green", "847681706", "1982-03-02", 0, , "Trinidad and Tobago", "Dooleyshire", "50434-6330", "Hane Junctions", 67, 85, "chancegreen@memail.com", "chancegreen", "2g7io6yaiu", 0; 
-
-exec dbo.DodajKlientaInd "Prince", "Green", "602447189", "1953-03-30", 1, , "Bangladesh", "South Jakob", "45441-7024", "Christophe Green", 25, 74, "princegreen@memail.com", "princegreen", "oqb58provu7", 0; 
-
-exec dbo.DodajKlientaInd "Llewellyn", "Bernier", "819237845", "1970-08-11", 1, 933343, "United States of America", "South Jayme", "50227-1624", "Gleichner Road", 54, 53, "llewellynbernier@memail.com", "llewellynbernier", "77y6zu4206", 0; 
-
-exec dbo.DodajKlientaInd "Madelynn", "Kozey", "153236426", "1974-06-23", 0, , "Guernsey", "Port Leonie", "89721", "Stehr Skyway", 91, 76, "madelynnkozey@memail.com", "madelynnkozey", "kfd992uriey", 0; 
-
-exec dbo.DodajKlientaInd "Aditya", "Zboncak", "632832151", "1950-12-16", 0, , "Oman", "Makennamouth", "15068", "Fadel Squares", 45, 67, "adityazboncak@memail.com", "adityazboncak", "m5f5cicu16j", 0; 
-
-exec dbo.DodajKlientaInd "Eloy", "Schowalter", "976455884", "1978-06-16", 1, , "Italy", "Mohrland", "72119-3291", "Carmen Passage", 18, 50, "eloyschowalter@memail.com", "eloyschowalter", "v5e6gf3ga7j", 0; 
-
-exec dbo.DodajKlientaInd "Dion", "Fritsch", "185424486", "1981-03-07", 0, , "Jamaica", "Port Clemens", "75976", "Waters Loop", 79, 78, "dionfritsch@memail.com", "dionfritsch", "ghqm9jtuzdv", 0; 
-
-exec dbo.DodajKlientaInd "Austyn", "Fahey", "202856673", "1983-11-11", 1, , "Denmark", "Cydneyfurt", "87304-8757", "Torp Field", 88, 85, "austynfahey@memail.com", "austynfahey", "kj0ncnttbtz", 0; 
-
-exec dbo.DodajKlientaInd "Velva", "Nader", "586771476", "1994-07-10", 0, , "Northern Mariana Islands", "Lake Elise", "46000-8338", "Kristofer Shoals", 82, 15, "velvanader@memail.com", "velvanader", "tnvi2k9ndfy", 0; 
-
-exec dbo.DodajKlientaInd "Darien", "Macejkovic", "244845478", "1982-12-28", 0, , "Tokelau", "Delbertburgh", "73505", "Jacobs Wall", 24, 43, "darienmacejkovic@memail.com", "darienmacejkovic", "o6c5sa80cbz", 0; 
-
-exec dbo.DodajKlientaInd "Zack", "Haag", "859252076", "1956-05-28", 0, , "Suriname", "Port Sunny", "49785", "Sylvester Manor", 89, 12, "zackhaag@memail.com", "zackhaag", "ab2vv8spk2y", 0; 
-
-exec dbo.DodajKlientaInd "Dion", "Quitzon", "356270551", "1963-04-02", 0, , "Italy", "Kossside", "74571-9182", "Tromp Bridge", 22, 85, "dionquitzon@memail.com", "dionquitzon", "qm7ju0sjtyo", 0; 
-
-exec dbo.DodajKlientaInd "Quincy", "Block", "514638294", "1956-04-15", 0, , "South Georgia and the South Sandwich Islands", "Lanceberg", "69547-8946", "Sanford Burgs", 28, 65, "quincyblock@memail.com", "quincyblock", "flr3f72o6q2", 0; 
-
-exec dbo.DodajKlientaInd "Oswald", "Wisozk", "145313761", "1986-11-30", 1, , "United Arab Emirates", "East Nobleton", "13391-2803", "Brisa Street", 76, 17, "oswaldwisozk@memail.com", "oswaldwisozk", "j6f98fplyt9", 0; 
-
-exec dbo.DodajKlientaInd "Sonya", "Baumbach", "620834830", "1975-07-20", 0, , "Uzbekistan", "Leuschkeville", "31285", "Waelchi Isle", 94, 29, "sonyabaumbach@memail.com", "sonyabaumbach", "63duc1to44e", 0; 
-
-exec dbo.DodajKlientaInd "Tiara", "Prosacco", "176323982", "1967-02-07", 1, , "Swaziland", "Estelleburgh", "38461-6832", "Towne Causeway", 63, 74, "tiaraprosacco@memail.com", "tiaraprosacco", "i1c5fbrtgc4", 0; 
-
-exec dbo.DodajKlientaInd "Janis", "Davis", "369313842", "1985-04-04", 0, , "Madagascar", "East Reagan", "63563-5941", "Nathaniel Green", 33, 14, "janisdavis@memail.com", "janisdavis", "gr24mvsg7ry", 0; 
-
-exec dbo.DodajKlientaInd "Tristian", "Cummings", "976913477", "1967-06-22", 0, , "Saint Kitts and Nevis", "North Cleoport", "21554", "Roman Mission", 42, 35, "tristiancummings@memail.com", "tristiancummings", "3v7evy2da7p", 0; 
-
-exec dbo.DodajKlientaInd "Claudie", "Stehr", "767052116", "1993-05-23", 0, , "Morocco", "South Monte", "42940-4305", "Ronny Courts", 75, 87, "claudiestehr@memail.com", "claudiestehr", "xtn4zhzv3dg", 0; 
-
-exec dbo.DodajKlientaInd "Dale", "Wolf", "341871827", "1970-02-07", 1, , "Honduras", "Port Mikayla", "35247-4054", "Stroman Creek", 37, 39, "dalewolf@memail.com", "dalewolf", "km8657fipjn", 0; 
-
-exec dbo.DodajKlientaInd "Alexzander", "Fisher", "413218768", "1973-01-27", 1, , "Micronesia", "South Berenice", "73899-0904", "Sonya Ferry", 33, 19, "alexzanderfisher@memail.com", "alexzanderfisher", "v7uqp58ujo9", 0; 
-
-exec dbo.DodajKlientaInd "Luella", "Ullrich", "485626863", "1969-11-01", 1, , "Cuba", "Lake Bobbyburgh", "20956", "Jayme Corner", 88, 30, "luellaullrich@memail.com", "luellaullrich", "jotvk3tz82m", 0; 
-
-exec dbo.DodajKlientaInd "Leanne", "Labadie", "864175287", "1964-10-01", 0, , "Guyana", "New Madysonborough", "11624", "Wolf Greens", 8, 67, "leannelabadie@memail.com", "leannelabadie", "ukni4vqyra0", 0; 
-
-exec dbo.DodajKlientaInd "Nella", "Steuber", "418840610", "1953-09-20", 0, , "Russian Federation", "Port Dina", "85087", "Hamill Drives", 90, 5, "nellasteuber@memail.com", "nellasteuber", "wxj6hooj1nt", 0; 
-
-exec dbo.DodajKlientaInd "Bette", "Pollich", "676249846", "1987-08-27", 1, , "Germany", "Wiegandfort", "96968-5271", "Geo Freeway", 92, 90, "bettepollich@memail.com", "bettepollich", "sism862aach", 0; 
-
-exec dbo.DodajKlientaInd "Ethelyn", "Bruen", "917803365", "1972-03-13", 0, , "Angola", "Bartellport", "83544", "Reanna Causeway", 32, 36, "ethelynbruen@memail.com", "ethelynbruen", "6pnsbsmysyo", 0; 
-
-exec dbo.DodajKlientaInd "Bridget", "Nader", "622268420", "1991-08-09", 1, , "Peru", "Bechtelarland", "52975", "Aiyana Rapids", 43, 75, "bridgetnader@memail.com", "bridgetnader", "rulrhebdo5f", 0; 
-
-exec dbo.DodajKlientaInd "Jovany", "Lindgren", "521705751", "1986-05-06", 0, , "Bahamas", "Lake Madisenside", "83169-4342", "Schaefer Divide", 86, 84, "jovanylindgren@memail.com", "jovanylindgren", "tlzdnyxwx1b", 0; 
-
-exec dbo.DodajKlientaInd "Jeffery", "Wiza", "307431776", "1964-08-08", 1, , "Vanuatu", "West Heather", "44452-8764", "Schowalter Square", 78, 15, "jefferywiza@memail.com", "jefferywiza", "jqv6gizztai", 0; 
-
-exec dbo.DodajKlientaInd "Robyn", "Lind", "158284008", "1964-04-19", 1, , "Virgin Islands, U.S.", "North Percyville", "83914-0819", "Lucius Mews", 36, 67, "robynlind@memail.com", "robynlind", "khs3f3soy8n", 0; 
-
-exec dbo.DodajKlientaInd "Cooper", "Rau", "418230275", "1955-08-30", 1, 124190, "Jamaica", "Ravenshire", "72148", "Lehner Well", 26, 62, "cooperrau@memail.com", "cooperrau", "cocnjlt59ln", 0; 
-
-exec dbo.DodajKlientaInd "Carter", "Fritsch", "384342576", "1972-05-23", 1, , "Iran", "Daphneeview", "26177", "Nikolas Forge", 46, 14, "carterfritsch@memail.com", "carterfritsch", "myimz64se4l", 0; 
-
-exec dbo.DodajKlientaInd "Marley", "Quitzon", "278109848", "1950-10-30", 0, , "Equatorial Guinea", "Sabinahaven", "69009-0857", "Ian Green", 55, 52, "marleyquitzon@memail.com", "marleyquitzon", "cwai12x9ngj", 0; 
-
-exec dbo.DodajKlientaInd "Keenan", "Wintheiser", "267031407", "1968-11-12", 1, , "Malawi", "South Nicole", "76952", "Bartoletti Creek", 69, 87, "keenanwintheiser@memail.com", "keenanwintheiser", "ofvtfp05cux", 0; 
-
-exec dbo.DodajKlientaInd "Eulah", "Durgan", "557858627", "1966-01-25", 1, , "Turkmenistan", "Rolfsonfort", "20667", "Astrid Shoals", 55, 18, "eulahdurgan@memail.com", "eulahdurgan", "r1so5myct00", 0; 
-
-exec dbo.DodajKlientaInd "Michael", "Herzog", "269424485", "1979-03-05", 0, , "Guyana", "New Stanleyport", "31807-8750", "Streich Summit", 51, 10, "michaelherzog@memail.com", "michaelherzog", "9h937bkuu6r", 0; 
-
-exec dbo.DodajKlientaInd "Luna", "Hirthe", "427551574", "1951-03-25", 0, , "Denmark", "Oletaport", "63024", "Schiller Island", 38, 18, "lunahirthe@memail.com", "lunahirthe", "giozgpj4yzk", 0; 
-
-exec dbo.DodajKlientaInd "Clark", "Gerlach", "628981819", "1973-04-15", 1, , "Mongolia", "Wilkinsonton", "47879-7772", "Keebler Crossing", 12, 51, "clarkgerlach@memail.com", "clarkgerlach", "2ezl18h4zoq", 0; 
-
-exec dbo.DodajKlientaInd "Pete", "Powlowski", "949752571", "1966-06-30", 0, , "Aruba", "South Alycia", "60707-2722", "Thompson Shoal", 46, 85, "petepowlowski@memail.com", "petepowlowski", "vzx5ltpwwu2", 0; 
-
-exec dbo.DodajKlientaInd "Wade", "Williamson", "383443714", "1968-08-23", 0, , "Palau", "Lake Adeline", "44358", "Doug Forks", 68, 62, "wadewilliamson@memail.com", "wadewilliamson", "dsvxfjx3wak", 0; 
-
-exec dbo.DodajKlientaInd "Okey", "Langworth", "968441178", "1960-11-23", 0, , "Sri Lanka", "North Moriah", "20613-0518", "Wolff Branch", 82, 58, "okeylangworth@memail.com", "okeylangworth", "yd64ddzr68s", 0; 
-
-exec dbo.DodajKlientaInd "Javonte", "Gaylord", "737043541", "1995-05-06", 0, , "Nauru", "Mitchelltown", "96547", "Freeman Hollow", 96, 13, "javontegaylord@memail.com", "javontegaylord", "q7biwfrgfq7", 0; 
-
-exec dbo.DodajKlientaInd "Jasper", "Schoen", "456862546", "1985-10-24", 1, , "Burundi", "Enochbury", "80454", "Hodkiewicz Inlet", 66, 53, "jasperschoen@memail.com", "jasperschoen", "cgbz2try0bx", 0; 
-
-exec dbo.DodajKlientaInd "Stewart", "Cronin", "564861425", "1968-09-03", 0, , "Romania", "Lake Astrid", "30918", "Conroy Stream", 80, 44, "stewartcronin@memail.com", "stewartcronin", "fxw1i1zyhw0", 0; 
-
-exec dbo.DodajKlientaInd "Daren", "Auer", "268937876", "1983-09-18", 0, , "Dominica", "Lake Oral", "63767-6663", "Hermann Mission", 87, 85, "darenauer@memail.com", "darenauer", "wzaej7sah97", 0; 
-
-exec dbo.DodajKlientaInd "Rae", "Bednar", "177693818", "1961-06-15", 1, , "Dominican Republic", "Lake Emil", "29403-0167", "Waters Walk", 58, 26, "raebednar@memail.com", "raebednar", "hnlv3dscfu9", 0; 
-
-exec dbo.DodajKlientaInd "Mollie", "Kunze", "675888882", "1969-04-05", 0, , "Macao", "West Verlaton", "97469", "Felicia Village", 94, 18, "molliekunze@memail.com", "molliekunze", "5itiwqxjc8i", 0; 
-
-exec dbo.DodajKlientaInd "Salvador", "Nicolas", "375827725", "1968-09-23", 0, , "Reunion", "West Reyna", "30900", "Pfeffer Shoals", 20, 86, "salvadornicolas@memail.com", "salvadornicolas", "h70at0eny47", 0; 
-
-exec dbo.DodajKlientaInd "Eulalia", "Corkery", "459456922", "1955-10-26", 1, 658465, "Austria", "Boylechester", "29529-8872", "Kuvalis Stream", 47, 25, "eulaliacorkery@memail.com", "eulaliacorkery", "i6n3jmb7jgh", 0; 
-
-exec dbo.DodajKlientaInd "Dereck", "Batz", "697413812", "1971-11-19", 1, , "Netherlands Antilles", "Blickchester", "27154", "Xavier Meadows", 42, 33, "dereckbatz@memail.com", "dereckbatz", "56ati9tk6nr", 0; 
-
-exec dbo.DodajKlientaInd "Forest", "Cremin", "169486373", "1979-04-04", 1, , "Holy See (Vatican City State)", "West Blake", "65427", "Electa Mountains", 18, 38, "forestcremin@memail.com", "forestcremin", "uyine6qscka", 0; 
-
-exec dbo.DodajKlientaInd "Allie", "Rempel", "267405166", "1955-12-07", 0, , "Angola", "Melbaside", "69939", "Rutherford Parkways", 79, 55, "allierempel@memail.com", "allierempel", "opu0ybbdyzf", 0; 
-
-exec dbo.DodajKlientaInd "Cassie", "Hessel", "281256435", "1984-06-19", 0, , "Belize", "Port Hesterville", "98095", "Brendon Walk", 43, 8, "cassiehessel@memail.com", "cassiehessel", "meyfroip1qs", 0; 
-
-exec dbo.DodajKlientaInd "Kraig", "Erdman", "186661412", "1977-04-04", 1, , "New Zealand", "Hermanhaven", "28816", "Sunny Tunnel", 51, 86, "kraigerdman@memail.com", "kraigerdman", "gsbe4nnb2h7", 0; 
-
-exec dbo.DodajKlientaInd "Anastasia", "Vandervort", "667148345", "1965-01-14", 1, , "Mauritania", "Samirhaven", "39513-0757", "Chaim Locks", 49, 13, "anastasiavandervort@memail.com", "anastasiavandervort", "epthmi339kd", 0; 
-
-exec dbo.DodajKlientaInd "Alexandre", "Emmerich", "762544364", "1995-07-11", 0, , "Japan", "North Jasenchester", "62110-6012", "Bogisich Wells", 43, 67, "alexandreemmerich@memail.com", "alexandreemmerich", "kedbayxkvth", 0; 
-
-exec dbo.DodajKlientaInd "Mariam", "Moore", "215688354", "1963-04-30", 0, , "Russian Federation", "Reynoldsberg", "94861-4593", "Ignatius Forest", 99, 42, "mariammoore@memail.com", "mariammoore", "zv9d46a5dxe", 0; 
-
-exec dbo.DodajKlientaInd "Faye", "Sauer", "777288359", "1960-11-22", 1, , "Greece", "South Daronside", "41105-3250", "Perry Garden", 27, 87, "fayesauer@memail.com", "fayesauer", "fy6npiqr5mm", 0; 
-
-exec dbo.DodajKlientaInd "Sabryna", "Cummerata", "206956715", "1978-09-07", 1, , "Madagascar", "North Giovanimouth", "47754", "Schimmel Rapids", 75, 88, "sabrynacummerata@memail.com", "sabrynacummerata", "qtajjjozeox", 0; 
-
-exec dbo.DodajKlientaInd "Roger", "VonRueden", "876592122", "1963-10-19", 1, , "South Georgia and the South Sandwich Islands", "Christiansenton", "97912", "Kling Groves", 19, 29, "rogervonrueden@memail.com", "rogervonrueden", "wxag4kcdp8z", 0; 
-
-exec dbo.DodajKlientaInd "Alvah", "Bechtelar", "328857423", "1983-10-25", 0, , "India", "South Beverlyborough", "64486-0538", "Ofelia Fork", 12, 95, "alvahbechtelar@memail.com", "alvahbechtelar", "7cokmrwmqel", 0; 
-
-exec dbo.DodajKlientaInd "Mitchell", "Gerhold", "363296258", "1955-05-16", 0, , "Heard Island and McDonald Islands", "Wiegandfurt", "35478", "Felicity Mills", 37, 72, "mitchellgerhold@memail.com", "mitchellgerhold", "zw7w4xfypai", 0; 
-
-exec dbo.DodajKlientaInd "Hattie", "Hyatt", "668691277", "1996-12-13", 0, , "Angola", "North Rosalindamouth", "22872-5593", "Heathcote Crest", 79, 89, "hattiehyatt@memail.com", "hattiehyatt", "11equo6jfo", 0; 
-
-exec dbo.DodajKlientaInd "Ardella", "Howe", "888352761", "1978-11-19", 1, , "Madagascar", "Osinskifurt", "78406", "Gerlach Road", 16, 57, "ardellahowe@memail.com", "ardellahowe", "8y2miu6l58", 0; 
-
-exec dbo.DodajKlientaInd "Jacinthe", "Blanda", "387084264", "1995-05-12", 1, , "Liechtenstein", "Nolanfurt", "82097", "Jesus Ways", 73, 47, "jacintheblanda@memail.com", "jacintheblanda", "mwcc7absea4", 0; 
-
-exec dbo.DodajKlientaInd "Mark", "Pouros", "656184133", "1969-08-14", 0, , "Anguilla", "Keeblerstad", "53577", "Irving Key", 39, 63, "markpouros@memail.com", "markpouros", "fly112lvf5q", 0; 
-
-exec dbo.DodajKlientaInd "Christ", "Dare", "976156783", "1970-04-24", 1, 869588, "Anguilla", "Alyssonmouth", "68453", "Bahringer Crossing", 62, 77, "christdare@memail.com", "christdare", "pwjtqb4f2m6", 0; 
-
-exec dbo.DodajKlientaInd "Emilio", "Ernser", "850813687", "1985-01-11", 0, , "Congo", "New Mckenna", "34418", "Stracke Drive", 5, 38, "emilioernser@memail.com", "emilioernser", "h37hs8p7y72", 0; 
-
-exec dbo.DodajKlientaInd "Shaun", "Bernier", "554767132", "1973-03-16", 1, , "Bulgaria", "Lake Irvingstad", "52993-2738", "Jacobson Meadow", 71, 84, "shaunbernier@memail.com", "shaunbernier", "zsl76pikhpz", 0; 
-
-exec dbo.DodajKlientaInd "Amara", "Cruickshank", "319830066", "1956-02-22", 0, , "Iraq", "Hoegerchester", "99709-1768", "McClure Islands", 12, 27, "amaracruickshank@memail.com", "amaracruickshank", "tcljehk2u3", 0; 
-
-exec dbo.DodajKlientaInd "Lauretta", "Bailey", "537588756", "1996-12-11", 1, , "Slovakia (Slovak Republic)", "Myriamtown", "44127-4634", "Conn Hills", 49, 49, "laurettabailey@memail.com", "laurettabailey", "z9alhnc3d55", 0; 
-
-exec dbo.DodajKlientaInd "Austyn", "Breitenberg", "351546648", "1950-04-07", 1, , "Ukraine", "West Johnnyburgh", "26725-1089", "Gaylord Mountain", 40, 61, "austynbreitenberg@memail.com", "austynbreitenberg", "eubkv1u6lvp", 0; 
-
-exec dbo.DodajKlientaInd "Tiana", "Hane", "377622162", "1976-06-26", 0, 439669, "Belgium", "East Velma", "63651-7886", "Lesch Ferry", 27, 71, "tianahane@memail.com", "tianahane", "snut7s76m19", 0; 
-
-exec dbo.DodajKlientaInd "Oda", "Johnston", "077107113", "1960-09-24", 0, , "Myanmar", "North Michaelaburgh", "54165-1715", "Candace Road", 77, 86, "odajohnston@memail.com", "odajohnston", "r35mdiy8yx9", 0; 
-
-exec dbo.DodajKlientaInd "Lonny", "Smitham", "164238387", "1989-09-05", 0, , "French Polynesia", "Hintzberg", "75669", "Jaylin Port", 5, 74, "lonnysmitham@memail.com", "lonnysmitham", "ldmwx318zio", 0; 
-
-exec dbo.DodajKlientaInd "Dimitri", "Rutherford", "133132872", "1964-10-08", 0, 877683, "Cyprus", "Lefflerburgh", "84639-0030", "Kailee Square", 16, 17, "dimitrirutherford@memail.com", "dimitrirutherford", "ro0y2wzbpdx", 0; 
-
-exec dbo.DodajKlientaInd "Candace", "Bernhard", "440255616", "1966-02-14", 1, , "Zambia", "New Coreneview", "47692", "Stokes Light", 17, 62, "candacebernhard@memail.com", "candacebernhard", "z7hs2lh5tby", 0; 
-
-exec dbo.DodajKlientaInd "Tyrel", "Corkery", "318207112", "1960-11-24", 1, , "Saint Martin", "Boehmland", "28828-6910", "Aliza Brooks", 88, 48, "tyrelcorkery@memail.com", "tyrelcorkery", "8yz6pcuarkm", 0; 
-
-exec dbo.DodajKlientaInd "Karolann", "Rippin", "619423154", "1960-07-06", 1, , "Jersey", "North Dariusmouth", "89075-4239", "Gorczany Track", 13, 98, "karolannrippin@memail.com", "karolannrippin", "ngysm3e0qg5", 0; 
-
-exec dbo.DodajKlientaInd "Oceane", "Sporer", "910870778", "1995-04-13", 0, , "Djibouti", "Federicoton", "30007", "Schoen Mission", 20, 74, "oceanesporer@memail.com", "oceanesporer", "s8npyp1rra", 0; 
-
-exec dbo.DodajKlientaInd "Candice", "Schinner", "311354311", "1980-04-12", 0, , "Uganda", "Marianaview", "29624-7923", "Celia Ways", 22, 48, "candiceschinner@memail.com", "candiceschinner", "c4002d3fwsg", 0; 
-
-exec dbo.DodajKlientaInd "Shayne", "Jerde", "772532372", "1959-12-09", 1, 219855, "Czech Republic", "North Werner", "72863", "Rylan Fields", 75, 2, "shaynejerde@memail.com", "shaynejerde", "ea554a0fzzw", 0; 
-
-exec dbo.DodajKlientaInd "Adolphus", "Mueller", "787698891", "1991-04-25", 0, , "Azerbaijan", "West Reginald", "98552", "Hoeger Burgs", 68, 39, "adolphusmueller@memail.com", "adolphusmueller", "jl57q5gh3d", 0; 
-
-exec dbo.DodajKlientaInd "Rosario", "Okuneva", "945826603", "1960-12-05", 1, , "Niue", "Vivianechester", "73385", "Ethan Inlet", 28, 35, "rosariookuneva@memail.com", "rosariookuneva", "07rkir9ls5", 0; 
-
-exec dbo.DodajKlientaInd "Sigmund", "Kilback", "313181335", "1991-10-26", 1, , "Croatia", "Padbergfurt", "93062-8474", "Zemlak Lane", 16, 62, "sigmundkilback@memail.com", "sigmundkilback", "9lu41f6adb1", 0; 
-
-exec dbo.DodajKlientaInd "Quinton", "Ritchie", "726353067", "1978-08-22", 1, , "Hungary", "Dudleyport", "19957", "Annette Light", 8, 53, "quintonritchie@memail.com", "quintonritchie", "2wegjwbaeur", 0; 
-
-exec dbo.DodajKlientaInd "Rae", "Skiles", "751415430", "1994-06-07", 0, , "Kiribati", "North Josueside", "11183", "Beer Circle", 46, 16, "raeskiles@memail.com", "raeskiles", "w7rrv35hdcu", 0; 
-
-exec dbo.DodajKlientaInd "Bryon", "Murray", "732373839", "1994-09-04", 0, , "Brazil", "Farrellfort", "75569", "Mayert Islands", 32, 39, "bryonmurray@memail.com", "bryonmurray", "0hoi250q1q0", 0; 
-
-exec dbo.DodajKlientaInd "Braulio", "West", "812625908", "1953-12-12", 1, , "Saint Vincent and the Grenadines", "Paucekstad", "76979", "Jeremy Coves", 71, 99, "brauliowest@memail.com", "brauliowest", "fbec1wtlck4", 0; 
-
-exec dbo.DodajKlientaInd "Etha", "Luettgen", "245157282", "1957-04-04", 0, , "Jersey", "Anjalitown", "45210", "Wuckert Track", 25, 36, "ethaluettgen@memail.com", "ethaluettgen", "c3xhsej6ixt", 0; 
-
-exec dbo.DodajKlientaInd "Jerald", "Klocko", "721393522", "1954-07-24", 1, , "Namibia", "Hansenmouth", "34936-5860", "Waylon Motorway", 60, 87, "jeraldklocko@memail.com", "jeraldklocko", "773sigmnc91", 0; 
-
-exec dbo.DodajKlientaInd "Cora", "Prohaska", "555256831", "1954-06-05", 0, , "Saint Kitts and Nevis", "Port Cristobal", "30054", "Kaela Knolls", 90, 6, "coraprohaska@memail.com", "coraprohaska", "xuib9ha5d4v", 0; 
-
-exec dbo.DodajKlientaInd "Kiara", "Reynolds", "291761651", "1952-04-21", 0, 176268, "Montserrat", "East Jamisonview", "31464-8290", "Geo Islands", 75, 19, "kiarareynolds@memail.com", "kiarareynolds", "mwvbhfu4f25", 0; 
-
-exec dbo.DodajKlientaInd "Jermain", "Jaskolski", "160947742", "1987-04-15", 0, , "United States Minor Outlying Islands", "West Ryleebury", "18885", "Ethel Orchard", 86, 29, "jermainjaskolski@memail.com", "jermainjaskolski", "yr8zom8ab8u", 0; 
-
-exec dbo.DodajKlientaInd "Dave", "Fisher", "426078223", "1957-06-27", 1, 288818, "Guatemala", "Sidberg", "53695", "Joany Mountain", 2, 48, "davefisher@memail.com", "davefisher", "o4sd47rqj95", 0; 
-
-exec dbo.DodajKlientaInd "Ashlee", "Graham", "455248385", "1996-10-14", 1, 323285, "Christmas Island", "Jaysontown", "84313-7885", "Isom Village", 80, 82, "ashleegraham@memail.com", "ashleegraham", "tdlkagq5bn7", 0; 
-
-exec dbo.DodajKlientaInd "Alycia", "Satterfield", "856531668", "1988-05-03", 1, , "Serbia", "Rolfsonstad", "88859", "Nader Manors", 80, 2, "alyciasatterfield@memail.com", "alyciasatterfield", "qv30wvpr0po", 0; 
-
-exec dbo.DodajKlientaInd "Keyon", "Turner", "547421154", "1981-06-03", 1, , "Netherlands", "Aliyafort", "82385", "Caesar Heights", 70, 13, "keyonturner@memail.com", "keyonturner", "9mgnrcibca", 0; 
-
-exec dbo.DodajKlientaInd "Jane", "Hilll", "118442124", "1982-05-11", 1, , "Martinique", "East Karen", "54239-7776", "Keara Manor", 72, 35, "janehilll@memail.com", "janehilll", "xbtykj71jk6", 0; 
-
-exec dbo.DodajKlientaInd "Sydnee", "Turcotte", "788623076", "1963-04-13", 0, , "Montserrat", "New Luciofort", "45085-1672", "Dennis Garden", 26, 84, "sydneeturcotte@memail.com", "sydneeturcotte", "rojww3beadg", 0; 
-
-exec dbo.DodajKlientaInd "Margarette", "O'Reilly", "671133734", "1992-04-26", 0, , "Palau", "Port Mattmouth", "85145-3297", "Linda Summit", 60, 22, "margaretteo'reilly@memail.com", "margaretteo'reilly", "bhc2ydgy8mc", 0; 
-
-exec dbo.DodajKlientaInd "Elfrieda", "Balistreri", "342149221", "1980-12-21", 0, , "Sudan", "North Allenestad", "34791-6268", "Murray Ports", 5, 67, "elfriedabalistreri@memail.com", "elfriedabalistreri", "6pl2x5cxgzf", 0; 
-
-exec dbo.DodajKlientaInd "Keara", "Cartwright", "657171301", "1957-11-30", 0, , "Haiti", "Crookschester", "74087-5573", "Schmeler Meadow", 15, 27, "kearacartwright@memail.com", "kearacartwright", "q1d3jhukys7", 0; 
-
-exec dbo.DodajKlientaInd "Aliya", "McDermott", "534217726", "1995-05-18", 0, , "Eritrea", "South Arnoldostad", "82852-6317", "Lebsack Wall", 46, 70, "aliyamcdermott@memail.com", "aliyamcdermott", "ua7ge32x24", 0; 
-
-exec dbo.DodajKlientaInd "Keanu", "Weissnat", "851368152", "1994-03-23", 1, , "Slovenia", "Bradtkemouth", "39243", "Chaya Ville", 44, 25, "keanuweissnat@memail.com", "keanuweissnat", "80rxu2kiroi", 0; 
-
-exec dbo.DodajKlientaInd "Laila", "Carroll", "653829620", "1983-04-19", 0, , "Australia", "Piperburgh", "76565-2947", "Remington Squares", 57, 69, "lailacarroll@memail.com", "lailacarroll", "r7i7czmrbud", 0; 
-
-exec dbo.DodajKlientaInd "Barrett", "Rutherford", "245178626", "1971-10-20", 1, , "Western Sahara", "Bahringerside", "77841", "Quigley Flat", 62, 97, "barrettrutherford@memail.com", "barrettrutherford", "akxi87d2ilw", 0; 
-
-exec dbo.DodajKlientaInd "Bryana", "Waters", "748706673", "1986-12-08", 0, , "United States Minor Outlying Islands", "New Lavonbury", "49807", "Hayley Keys", 52, 79, "bryanawaters@memail.com", "bryanawaters", "hji8k6uopto", 0; 
-
-exec dbo.DodajKlientaInd "Hoyt", "Ankunding", "744114767", "1977-08-02", 0, , "Samoa", "Kossburgh", "55923", "Torphy Hills", 78, 36, "hoytankunding@memail.com", "hoytankunding", "b6ytooxgckp", 0; 
-
-exec dbo.DodajKlientaInd "Coy", "Runolfsdottir", "698788483", "1971-02-12", 0, , "French Guiana", "Stiedemannland", "24226-7844", "Cordell Station", 23, 62, "coyrunolfsdottir@memail.com", "coyrunolfsdottir", "asnxyebe7ne", 0; 
-
-exec dbo.DodajKlientaInd "Ubaldo", "Rowe", "238395064", "1966-06-22", 0, , "Sri Lanka", "Lueilwitzburgh", "29449-4791", "Amalia Station", 22, 52, "ubaldorowe@memail.com", "ubaldorowe", "1zcptq1fbo8", 0; 
-
-exec dbo.DodajKlientaInd "Genoveva", "Dibbert", "594196385", "1991-07-17", 1, , "Guernsey", "Lebsackview", "27999-5381", "Crystel Mount", 66, 85, "genovevadibbert@memail.com", "genovevadibbert", "8ic4e5fev4g", 0; 
-
-exec dbo.DodajKlientaInd "Krystal", "Runolfsson", "107238024", "1994-05-01", 0, , "Greece", "East Magdalena", "52392", "Larson Harbor", 67, 34, "krystalrunolfsson@memail.com", "krystalrunolfsson", "48cjf8kyklv", 0; 
-
-exec dbo.DodajKlientaInd "Chyna", "Wolff", "742133187", "1974-09-25", 1, , "Azerbaijan", "Alejandrinmouth", "73570", "Jamel Island", 64, 86, "chynawolff@memail.com", "chynawolff", "kbgwmfzijix", 0; 
-
-exec dbo.DodajKlientaInd "Itzel", "McClure", "621484406", "1974-05-29", 1, , "Nicaragua", "East Simside", "69078", "Kimberly Village", 87, 30, "itzelmcclure@memail.com", "itzelmcclure", "zh803xuxst3", 0; 
-
-exec dbo.DodajKlientaInd "Carrie", "Witting", "348324221", "1983-04-27", 1, 243149, "France", "Port Neha", "54386", "Schuppe Springs", 69, 55, "carriewitting@memail.com", "carriewitting", "vsf9mmqsmto", 0; 
-
-exec dbo.DodajKlientaInd "Zane", "Dietrich", "326008503", "1950-04-21", 1, , "Turkey", "Joshuahview", "86172-6029", "Nicholaus Tunnel", 58, 83, "zanedietrich@memail.com", "zanedietrich", "zu5gntj43x", 0; 
-
-exec dbo.DodajKlientaInd "Jennie", "Monahan", "561040565", "1993-04-07", 0, , "Jamaica", "Hirthebury", "16369", "Lorenza Freeway", 81, 32, "jenniemonahan@memail.com", "jenniemonahan", "030hmb5g5i9", 0; 
-
-exec dbo.DodajKlientaInd "Vida", "Jacobson", "336238705", "1966-11-09", 1, , "Afghanistan", "Port Alenestad", "65728", "Mosciski Glen", 65, 66, "vidajacobson@memail.com", "vidajacobson", "weo9j5oxi7w", 0; 
-
-exec dbo.DodajKlientaInd "Bryon", "Olson", "277053141", "1991-04-22", 0, , "Latvia", "North Fridatown", "91360", "Ressie Throughway", 20, 61, "bryonolson@memail.com", "bryonolson", "x1mcjwkh73z", 0; 
-
-exec dbo.DodajKlientaInd "Casey", "Lebsack", "844168787", "1958-01-31", 1, , "Barbados", "New Vita", "28893", "Spencer Key", 42, 24, "caseylebsack@memail.com", "caseylebsack", "rwdmp2omunc", 0; 
-
-exec dbo.DodajKlientaInd "Arthur", "Shanahan", "378182325", "1951-07-11", 0, , "Bolivia", "Helmerstad", "27949-0337", "Altenwerth Flat", 9, 63, "arthurshanahan@memail.com", "arthurshanahan", "auxjk16jouq", 0; 
-
-exec dbo.DodajKlientaInd "Hassan", "Heaney", "056828658", "1980-06-23", 1, , "Tokelau", "Carmellaport", "56242", "Nolan Trafficway", 37, 56, "hassanheaney@memail.com", "hassanheaney", "c58jnng9uab", 0; 
-
-exec dbo.DodajKlientaInd "Lukas", "Mueller", "713347814", "1988-09-09", 1, , "Central African Republic", "Wardshire", "92809-8767", "Marilie Ports", 64, 66, "lukasmueller@memail.com", "lukasmueller", "49p6ha1cdgb", 0; 
-
-exec dbo.DodajKlientaInd "Leif", "Hodkiewicz", "422651139", "1995-06-06", 1, , "Austria", "Gutmannmouth", "95041", "Missouri Vista", 45, 19, "leifhodkiewicz@memail.com", "leifhodkiewicz", "azbbui67b9q", 0; 
-
-exec dbo.DodajKlientaInd "Adolph", "Hane", "399377003", "1990-08-14", 0, , "Tonga", "North Alethaberg", "73835", "Ferry Forks", 79, 85, "adolphhane@memail.com", "adolphhane", "0mhow56kk35", 0; 
-
-exec dbo.DodajKlientaInd "Isabella", "Zboncak", "156127844", "1957-09-12", 0, , "Saint Lucia", "Lake Laney", "50203-7538", "Rath Ways", 56, 11, "isabellazboncak@memail.com", "isabellazboncak", "xc6uqc4aya", 0; 
-
-exec dbo.DodajKlientaInd "Christa", "Balistreri", "528109313", "1954-03-15", 1, , "Tuvalu", "Port Petrabury", "98383", "Johns Streets", 18, 74, "christabalistreri@memail.com", "christabalistreri", "gpxn0shdllr", 0; 
-
-exec dbo.DodajKlientaInd "Leatha", "Hyatt", "442689111", "1987-02-09", 1, , "Jersey", "Jacquesshire", "78208", "Juston Neck", 10, 66, "leathahyatt@memail.com", "leathahyatt", "ny5a9x1v9a7", 0; 
-
-exec dbo.DodajKlientaInd "Bertha", "Ledner", "728231817", "1970-10-21", 0, , "Tunisia", "West Rebekah", "34100", "Gaylord Light", 19, 47, "berthaledner@memail.com", "berthaledner", "mij0g2vknrd", 0; 
-
-exec dbo.DodajKlientaInd "Angie", "Hammes", "816085143", "1989-02-20", 0, , "Nepal", "Leschstad", "50700-5697", "Cole Squares", 35, 2, "angiehammes@memail.com", "angiehammes", "gmugvtkmjfy", 0; 
-
-exec dbo.DodajKlientaInd "Lauriane", "Nader", "321036668", "1967-09-11", 0, 649302, "Serbia", "South Jermainchester", "38934", "Schroeder Dam", 85, 72, "laurianenader@memail.com", "laurianenader", "ei7peuqtef1", 0; 
-
-exec dbo.DodajKlientaInd "Nat", "Wilderman", "059934188", "1990-01-09", 0, , "Botswana", "New Dewayne", "24159", "Rafael Corners", 68, 35, "natwilderman@memail.com", "natwilderman", "s4yitjljvet", 0; 
-
-exec dbo.DodajKlientaInd "Bud", "Haley", "423782228", "1992-03-25", 1, , "Montenegro", "Lake Kipside", "22684", "Bauch Ports", 58, 60, "budhaley@memail.com", "budhaley", "gdcq9rnhyeb", 0; 
-
-exec dbo.DodajKlientaInd "Odell", "Schimmel", "675178187", "1980-06-28", 0, , "Iran", "Port Larissachester", "61050-0747", "Mante Club", 47, 46, "odellschimmel@memail.com", "odellschimmel", "mkpqiah5cv4", 0; 
-
-exec dbo.DodajKlientaInd "Enrique", "Smith", "587116583", "1972-06-27", 0, , "Saint Barthelemy", "South Ryderburgh", "48354", "Arjun Orchard", 12, 75, "enriquesmith@memail.com", "enriquesmith", "si4m9jq7aer", 0; 
-
-exec dbo.DodajKlientaInd "Darian", "Prohaska", "773305255", "1992-11-18", 1, , "Norway", "Bechtelarchester", "55181", "Quentin Crossing", 63, 97, "darianprohaska@memail.com", "darianprohaska", "wbadirjudfa", 0; 
-
-exec dbo.DodajKlientaInd "Chesley", "Pagac", "124318486", "1958-02-06", 1, , "Kenya", "Kemmerland", "81117", "Minerva Mountains", 86, 72, "chesleypagac@memail.com", "chesleypagac", "xma941q92w3", 0; 
-
-exec dbo.DodajKlientaInd "Connor", "Mante", "826108150", "1961-06-25", 0, , "Togo", "McKenziechester", "84525-2522", "Luis Junctions", 65, 43, "connormante@memail.com", "connormante", "0zzdnzw3cth", 0; 
-
-exec dbo.DodajKlientaInd "Isabell", "Heaney", "468503612", "1996-06-09", 1, , "Macao", "North Jadenland", "96532", "Hammes Brook", 53, 14, "isabellheaney@memail.com", "isabellheaney", "qwcj62kp52n", 0; 
-
-exec dbo.DodajKlientaInd "Jayden", "Pouros", "872587322", "1955-12-07", 0, , "Comoros", "West Kaelafurt", "20970", "Dameon Spur", 6, 49, "jaydenpouros@memail.com", "jaydenpouros", "bgq9ajo8ns", 0; 
-
-exec dbo.DodajKlientaInd "Leonel", "Windler", "301823712", "1995-12-16", 1, , "Congo", "Tatumtown", "26449", "Isaac Stravenue", 78, 22, "leonelwindler@memail.com", "leonelwindler", "hzbs91686zx", 0; 
-
-exec dbo.DodajKlientaInd "Cecile", "Kunze", "565658924", "1987-09-20", 0, , "Virgin Islands, U.S.", "North Monashire", "13771-1959", "Nadia Underpass", 82, 55, "cecilekunze@memail.com", "cecilekunze", "0fmdg4ycvja", 0; 
-
-exec dbo.DodajKlientaInd "Zola", "Johns", "386646442", "1956-04-03", 1, 263895, "Macao", "Friedrichstad", "79234-0319", "Lindsey Park", 84, 16, "zolajohns@memail.com", "zolajohns", "60grbotyonr", 0; 
-
-exec dbo.DodajKlientaInd "Mose", "Dare", "288689934", "1962-10-14", 1, , "American Samoa", "Andersonside", "75344", "Greyson Knolls", 28, 88, "mosedare@memail.com", "mosedare", "mgnsojilobl", 0; 
-
-exec dbo.DodajKlientaInd "Mafalda", "Welch", "908720316", "1954-07-21", 0, , "Mexico", "Port Norris", "42930-2226", "Leopold Locks", 56, 12, "mafaldawelch@memail.com", "mafaldawelch", "1stu78bj02", 0; 
-
-exec dbo.DodajKlientaInd "Britney", "Hauck", "414171067", "1969-07-29", 0, , "Greenland", "Macieville", "75811-9834", "Paxton Rue", 26, 38, "britneyhauck@memail.com", "britneyhauck", "uivz8v50fpt", 0; 
-
-exec dbo.DodajKlientaInd "Kenton", "Hansen", "855207827", "1986-10-07", 1, , "Faroe Islands", "South Doyleview", "76873-1420", "Lehner Parkway", 46, 40, "kentonhansen@memail.com", "kentonhansen", "0zpdrtbeozl", 0; 
-
-exec dbo.DodajKlientaInd "Garth", "Stoltenberg", "772956052", "1996-05-11", 0, , "South Africa", "North Lemuel", "76692-5164", "Arlene Fort", 31, 74, "garthstoltenberg@memail.com", "garthstoltenberg", "2ncehu3v5kc", 0; 
-
-exec dbo.DodajKlientaInd "Brown", "Ledner", "188093683", "1978-08-12", 0, , "Cayman Islands", "Patriciamouth", "47991-1422", "Wolf Drives", 47, 54, "brownledner@memail.com", "brownledner", "n05cb5lzted", 0; 
-
-exec dbo.DodajKlientaInd "Lucius", "Muller", "938533595", "1996-06-24", 1, , "Costa Rica", "Littleland", "50861", "Robbie Mills", 66, 72, "luciusmuller@memail.com", "luciusmuller", "sc1in6y8gio", 0; 
-
-exec dbo.DodajKlientaInd "Raven", "O'Conner", "250112953", "1978-12-16", 1, , "Bosnia and Herzegovina", "Wilfridborough", "37944", "Breitenberg Cove", 41, 72, "raveno'conner@memail.com", "raveno'conner", "4ppyv881p10", 0; 
-
-exec dbo.DodajKlientaInd "Ezra", "Weimann", "220021039", "1987-03-02", 1, 731552, "Madagascar", "Wintheiserfurt", "36374-6997", "Roob Ways", 6, 47, "ezraweimann@memail.com", "ezraweimann", "8r26jj0p2ud", 0; 
-
-exec dbo.DodajKlientaInd "Garry", "Goodwin", "124475585", "1988-06-12", 1, , "Uruguay", "Romaguerastad", "44768", "Friesen Valley", 60, 89, "garrygoodwin@memail.com", "garrygoodwin", "bo0emlaniq2", 0; 
-
-exec dbo.DodajKlientaInd "Constance", "Dicki", "138860124", "1975-12-07", 1, , "Finland", "South Myrtie", "91423", "Renner Highway", 74, 55, "constancedicki@memail.com", "constancedicki", "opxdkqr4b1a", 0; 
-
-exec dbo.DodajKlientaInd "Americo", "McKenzie", "116564274", "1951-12-02", 0, , "Kazakhstan", "Lynchfort", "13721", "Leuschke Burg", 17, 36, "americomckenzie@memail.com", "americomckenzie", "gthgyxsp002", 0; 
-
-exec dbo.DodajKlientaInd "Ariel", "Kris", "787728811", "1958-02-11", 0, , "Equatorial Guinea", "Quitzonshire", "82332-8872", "Bahringer Loop", 44, 94, "arielkris@memail.com", "arielkris", "bki7dzfvnd7", 0; 
-
-exec dbo.DodajKlientaInd "Lauriane", "Kovacek", "725325146", "1960-04-08", 0, , "Timor-Leste", "Terryburgh", "73349-9004", "Paucek Trail", 12, 25, "laurianekovacek@memail.com", "laurianekovacek", "fzecyd27guk", 0; 
-
-exec dbo.DodajKlientaInd "Damon", "Langosh", "461884247", "1991-09-19", 0, , "Cyprus", "Jettieview", "81659-3738", "Wayne Coves", 62, 62, "damonlangosh@memail.com", "damonlangosh", "4fop5momb0y", 0; 
-
-exec dbo.DodajKlientaInd "Frank", "Boyer", "076461816", "1995-10-29", 0, , "Syrian Arab Republic", "West Gayle", "94140-5663", "Lockman Fort", 83, 72, "frankboyer@memail.com", "frankboyer", "rbh8p3alnl", 0; 
-
-exec dbo.DodajKlientaInd "Velma", "Roob", "817074451", "1962-11-21", 1, , "San Marino", "Tremblayside", "24934", "Funk Islands", 21, 72, "velmaroob@memail.com", "velmaroob", "cxwr29p293c", 0; 
-
-exec dbo.DodajKlientaInd "Maude", "Gusikowski", "330455835", "1984-05-01", 1, , "Hong Kong", "Port Tannerbury", "28354-7882", "Sawayn Lakes", 47, 26, "maudegusikowski@memail.com", "maudegusikowski", "db0mw0re07t", 0; 
-
-exec dbo.DodajKlientaInd "Carleton", "Cummerata", "204311217", "1988-05-21", 1, , "Guam", "New Elisaville", "82304-3992", "Ward Mission", 29, 28, "carletoncummerata@memail.com", "carletoncummerata", "8d88lnp84sm", 0; 
-
-exec dbo.DodajKlientaInd "Kylee", "Dicki", "746066642", "1950-11-26", 0, , "Burundi", "West Averyton", "27865", "Earnest Crest", 26, 92, "kyleedicki@memail.com", "kyleedicki", "yblozyuikjq", 0; 
-
-exec dbo.DodajKlientaInd "Ethel", "Moore", "364178761", "1974-11-28", 0, 347222, "Guyana", "Andersonville", "83853", "Harvey Rest", 82, 82, "ethelmoore@memail.com", "ethelmoore", "pvseqetn728", 0; 
-
-exec dbo.DodajKlientaInd "Muhammad", "Kutch", "174227666", "1973-02-22", 0, , "Estonia", "Dooleyport", "19650", "Lexi Streets", 57, 8, "muhammadkutch@memail.com", "muhammadkutch", "0tuuykddmp2", 0; 
-
-exec dbo.DodajKlientaInd "Dario", "Kerluke", "665155547", "1982-01-14", 1, 678195, "Iraq", "Port Danikaport", "34983-9720", "Waelchi Estate", 51, 29, "dariokerluke@memail.com", "dariokerluke", "gh2y3k9exh2", 0; 
-
-exec dbo.DodajKlientaInd "Georgette", "Towne", "627724678", "1973-06-08", 0, , "Greenland", "Maverickshire", "85340", "Gia Dam", 53, 21, "georgettetowne@memail.com", "georgettetowne", "swkniev4k2w", 0; 
-
-exec dbo.DodajKlientaInd "Quentin", "Mills", "285146444", "1958-02-16", 0, 874443, "Guyana", "Beattyburgh", "43866", "Bradtke Port", 55, 12, "quentinmills@memail.com", "quentinmills", "fjbj0pxue80", 0; 
-
-exec dbo.DodajKlientaInd "Lilla", "Nitzsche", "602746118", "1956-11-14", 1, , "El Salvador", "Waelchitown", "87973", "Eichmann Glens", 14, 24, "lillanitzsche@memail.com", "lillanitzsche", "1mhqe4y2uzz", 0; 
-
-exec dbo.DodajKlientaInd "Brad", "Mayer", "260454976", "1959-09-30", 1, , "Guinea-Bissau", "South Laney", "13351", "Beryl Hollow", 40, 57, "bradmayer@memail.com", "bradmayer", "5zbw2z2rcb7", 0; 
-
-exec dbo.DodajKlientaInd "Leopoldo", "Kertzmann", "951379513", "1950-06-22", 1, , "Malawi", "Rasheedbury", "37150", "Amely Rue", 29, 55, "leopoldokertzmann@memail.com", "leopoldokertzmann", "648b8gubbrm", 0; 
-
-exec dbo.DodajKlientaInd "Brice", "Sipes", "222882920", "1977-12-06", 1, , "Wallis and Futuna", "Mrazstad", "99485-0912", "Mitchel Junctions", 29, 62, "bricesipes@memail.com", "bricesipes", "hzivtkx9g5k", 0; 
-
-exec dbo.DodajKlientaInd "Gertrude", "Prohaska", "215502574", "1993-05-14", 0, , "Belarus", "West Florine", "37786-1713", "Josefina Grove", 19, 65, "gertrudeprohaska@memail.com", "gertrudeprohaska", "78kulcetsnn", 0; 
-
-exec dbo.DodajKlientaInd "Brian", "Lesch", "634065662", "1996-12-08", 0, , "Sao Tome and Principe", "Baumbachview", "21497", "Bernier Drive", 12, 28, "brianlesch@memail.com", "brianlesch", "6owsih2qqrv", 0; 
-
-exec dbo.DodajKlientaInd "Duncan", "Miller", "457962284", "1971-03-11", 1, , "Reunion", "Lake Mallieburgh", "28724", "Marianna Camp", 76, 62, "duncanmiller@memail.com", "duncanmiller", "wq4k3064c2r", 0; 
-
-exec dbo.DodajKlientaInd "Lane", "Bergstrom", "003327212", "1952-08-06", 0, , "Albania", "Lake Florencioville", "76791-9667", "Cormier Streets", 69, 82, "lanebergstrom@memail.com", "lanebergstrom", "g3q29tun6af", 0; 
-
-exec dbo.DodajKlientaInd "Kaci", "Jacobson", "576311367", "1990-04-23", 0, , "Republic of Korea", "North Van", "42476-5906", "MacGyver Camp", 16, 23, "kacijacobson@memail.com", "kacijacobson", "jcczxy42mam", 0; 
-
-exec dbo.DodajKlientaInd "Jamaal", "O'Kon", "348003309", "1986-06-28", 0, , "Kenya", "Batzton", "38176-1066", "Emmitt Island", 12, 1, "jamaalo'kon@memail.com", "jamaalo'kon", "ha0lgee4azj", 0; 
-
-exec dbo.DodajKlientaInd "Janick", "White", "476517415", "1980-10-27", 0, , "Bermuda", "West Chase", "41733", "Arthur Junctions", 38, 27, "janickwhite@memail.com", "janickwhite", "jqkv3or7e4v", 0; 
-
-exec dbo.DodajKlientaInd "Trenton", "Larkin", "944870816", "1972-05-12", 0, , "Cameroon", "West Eulamouth", "83996", "Rogahn Summit", 56, 70, "trentonlarkin@memail.com", "trentonlarkin", "zdusanqvij1", 0; 
-
-exec dbo.DodajKlientaInd "Joan", "Bosco", "084862622", "1954-10-18", 0, , "Ireland", "Reeceshire", "68894", "Jaskolski Row", 63, 7, "joanbosco@memail.com", "joanbosco", "1b43w74vhyl", 0; 
-
-exec dbo.DodajKlientaInd "Reyna", "Hayes", "798236819", "1984-06-01", 1, , "Jordan", "O'Keefeville", "32926-2404", "Prohaska Landing", 33, 83, "reynahayes@memail.com", "reynahayes", "zo4f2zhg9ou", 0; 
-
-exec dbo.DodajKlientaInd "Tyreek", "Bosco", "537912524", "1992-01-24", 0, 867499, "French Southern Territories", "Kailynport", "74254", "Ferry Squares", 19, 13, "tyreekbosco@memail.com", "tyreekbosco", "vt1hc1ahr5h", 0; 
-
-exec dbo.DodajKlientaInd "Monica", "Champlin", "666617428", "1983-05-20", 0, , "Zambia", "Grantborough", "65789-2053", "Skiles Corners", 33, 69, "monicachamplin@memail.com", "monicachamplin", "9odw6c0fa8t", 0; 
-
-exec dbo.DodajKlientaInd "Gwen", "Larkin", "435857286", "1983-07-10", 1, , "Honduras", "West Charlotte", "73488", "Tillman Summit", 27, 16, "gwenlarkin@memail.com", "gwenlarkin", "cka2yavy3s9", 0; 
-
-exec dbo.DodajKlientaInd "Eldred", "Wuckert", "432508083", "1971-07-14", 0, , "Monaco", "North Ameliabury", "26719-0163", "Runolfsson Throughway", 1, 76, "eldredwuckert@memail.com", "eldredwuckert", "ep8ocbw3r52", 0; 
-
-exec dbo.DodajKlientaInd "Judd", "Wyman", "865598179", "1984-06-24", 1, , "Cyprus", "Annettastad", "62368", "Reichel Ferry", 27, 59, "juddwyman@memail.com", "juddwyman", "1q110etldop", 0; 
-
-exec dbo.DodajKlientaInd "Beatrice", "Conroy", "428879149", "1954-10-18", 1, 838138, "Andorra", "West Rashad", "22949-6849", "Daphney Rapid", 88, 47, "beatriceconroy@memail.com", "beatriceconroy", "a3box39v50n", 0; 
-
-exec dbo.DodajKlientaInd "Louie", "Simonis", "521374888", "1950-07-26", 1, , "Austria", "West Rachelleland", "32854", "Dillon Avenue", 71, 37, "louiesimonis@memail.com", "louiesimonis", "19cb4dop1wk", 0; 
-
-exec dbo.DodajKlientaInd "Jaquelin", "Walsh", "876036359", "1987-11-19", 1, , "Seychelles", "North Ofelia", "73480", "Damion Bridge", 38, 82, "jaquelinwalsh@memail.com", "jaquelinwalsh", "7x9nid0ws03", 0; 
-
-exec dbo.DodajKlientaInd "Martina", "Renner", "606562706", "1959-02-23", 0, , "Panama", "South Barbara", "96473-1227", "Weber Mountains", 63, 88, "martinarenner@memail.com", "martinarenner", "dgsxy8u8123", 0; 
-
-exec dbo.DodajKlientaInd "Braxton", "Adams", "745314586", "1966-06-18", 1, , "Barbados", "Collierfort", "16573", "Stacy Spring", 18, 39, "braxtonadams@memail.com", "braxtonadams", "k23inc781t", 0; 
-
-exec dbo.DodajKlientaInd "Rowland", "Romaguera", "466916055", "1985-12-25", 1, , "Burkina Faso", "North Enrique", "95729-6831", "Beier Loaf", 84, 28, "rowlandromaguera@memail.com", "rowlandromaguera", "0z3vxzwcwnb", 0; 
-
-exec dbo.DodajKlientaInd "Bernhard", "Considine", "412883683", "1991-10-11", 1, , "Cambodia", "New Diegoside", "55870-0144", "Harmony Cliff", 35, 38, "bernhardconsidine@memail.com", "bernhardconsidine", "eaildq483hc", 0; 
-
-exec dbo.DodajKlientaInd "Mylene", "Walker", "635788228", "1981-12-12", 0, , "New Caledonia", "New Alphonsomouth", "44699", "Karli Cliff", 100, 24, "mylenewalker@memail.com", "mylenewalker", "fnvzeak3wge", 0; 
-
-exec dbo.DodajKlientaInd "Amelie", "Feeney", "425735638", "1983-12-28", 0, , "Venezuela", "Lake Florencio", "27727", "Mayert Crescent", 21, 60, "ameliefeeney@memail.com", "ameliefeeney", "y3ebxtpfdsc", 0; 
-
-exec dbo.DodajKlientaInd "Brandy", "Littel", "568467060", "1980-09-07", 0, , "Nepal", "North Chayastad", "30687-3579", "Sipes Views", 54, 35, "brandylittel@memail.com", "brandylittel", "qluhzkj8r2s", 0; 
-
-exec dbo.DodajKlientaInd "Gerda", "Huel", "159108035", "1950-07-20", 1, , "Sao Tome and Principe", "West Cody", "52373", "Connelly Trace", 6, 87, "gerdahuel@memail.com", "gerdahuel", "ot3igxzzchw", 0; 
-
-exec dbo.DodajKlientaInd "Russell", "Satterfield", "972247763", "1970-04-30", 0, , "Tokelau", "Lake Clifford", "45201", "Macejkovic Dale", 66, 23, "russellsatterfield@memail.com", "russellsatterfield", "riyos9mcjvi", 0; 
-
-exec dbo.DodajKlientaInd "Oswaldo", "Kihn", "157242657", "1992-06-01", 0, , "Uzbekistan", "Kosshaven", "29513-1631", "Goyette Dam", 36, 2, "oswaldokihn@memail.com", "oswaldokihn", "zkdemjso774", 0; 
-
-exec dbo.DodajKlientaInd "Victoria", "Schoen", "699524124", "1987-11-04", 0, , "Guatemala", "Deronborough", "84263", "Streich Union", 33, 23, "victoriaschoen@memail.com", "victoriaschoen", "3hdmvsyuxw4", 0; 
-
-exec dbo.DodajKlientaInd "Gunner", "Jacobs", "619610637", "1961-08-05", 0, , "Serbia", "West Raegan", "11716", "Veda Trail", 89, 98, "gunnerjacobs@memail.com", "gunnerjacobs", "d1jl95qg98u", 0; 
-
-exec dbo.DodajKlientaInd "Vernon", "Dare", "235322187", "1962-05-15", 1, , "Senegal", "Tyrelchester", "61911-6513", "O'Reilly Courts", 32, 48, "vernondare@memail.com", "vernondare", "4eq7d1jzcei", 0; 
-
-exec dbo.DodajKlientaInd "Reuben", "Sawayn", "264624507", "1962-11-29", 0, , "Saint Pierre and Miquelon", "Rosellaberg", "89931", "Brook Junctions", 60, 73, "reubensawayn@memail.com", "reubensawayn", "4ges94c8i9", 0; 
-
-exec dbo.DodajKlientaInd "Davon", "Mills", "713021251", "1979-04-19", 1, , "Brunei Darussalam", "Port Alena", "25069-4414", "Ruecker Hollow", 77, 92, "davonmills@memail.com", "davonmills", "ns3scg3m385", 0; 
-
-exec dbo.DodajKlientaInd "Myrl", "Mosciski", "185930934", "1991-12-31", 1, , "Central African Republic", "Evelynborough", "76202", "Koch Turnpike", 67, 32, "myrlmosciski@memail.com", "myrlmosciski", "jijmbwm60ib", 0; 
-
-exec dbo.DodajKlientaInd "Mariela", "Doyle", "579282724", "1970-07-17", 1, , "Libyan Arab Jamahiriya", "Tristinview", "21155", "Carmine Rue", 87, 20, "marieladoyle@memail.com", "marieladoyle", "soxpemnohbp", 0; 
-
-exec dbo.DodajKlientaInd "Alexzander", "Schuster", "418031668", "1972-07-02", 1, , "Cook Islands", "New Romashire", "16013-6836", "Jade Branch", 33, 65, "alexzanderschuster@memail.com", "alexzanderschuster", "fsavaxeu3l", 0; 
-
-exec dbo.DodajKlientaInd "Ruth", "Rippin", "272016588", "1966-04-20", 0, 482731, "South Georgia and the South Sandwich Islands", "East Jeaniefurt", "67210", "Dickinson Cliffs", 49, 15, "ruthrippin@memail.com", "ruthrippin", "sar454b0jiz", 0; 
-
-exec dbo.DodajKlientaInd "Mylene", "Littel", "012554173", "1969-12-02", 0, , "Republic of Korea", "New Brycen", "90678-5216", "Bernhard View", 47, 85, "mylenelittel@memail.com", "mylenelittel", "8bz16ivg6jj", 0; 
-
-exec dbo.DodajKlientaInd "Timothy", "Parisian", "299675808", "1961-03-15", 0, , "Saint Martin", "Reganbury", "89638-7506", "Selmer Passage", 76, 46, "timothyparisian@memail.com", "timothyparisian", "oli0l0t1z8", 0; 
-
-exec dbo.DodajKlientaInd "Otilia", "Parker", "626754865", "1967-06-16", 1, , "Palau", "Hagenesfurt", "63571-4541", "Herzog Forge", 12, 24, "otiliaparker@memail.com", "otiliaparker", "uogayrl2h5p", 0; 
-
-exec dbo.DodajKlientaInd "Devonte", "Balistreri", "188813361", "1964-03-19", 0, 318179, "Moldova", "Lexusview", "74266", "Aliza Wells", 66, 70, "devontebalistreri@memail.com", "devontebalistreri", "wdkmuxuy7h8", 0; 
-
-exec dbo.DodajKlientaInd "Rosina", "Nitzsche", "271437622", "1992-06-30", 1, , "Myanmar", "Lonzoville", "89289-5909", "Chanelle Oval", 23, 82, "rosinanitzsche@memail.com", "rosinanitzsche", "rgrsoz3dbv8", 0; 
-
-exec dbo.DodajKlientaInd "D'angelo", "Glover", "652201541", "1963-03-22", 1, , "Portugal", "North Yoshiko", "59390-6766", "Green Fork", 95, 16, "d'angeloglover@memail.com", "d'angeloglover", "1655nid2fw7", 0; 
-
-exec dbo.DodajKlientaInd "Unique", "Oberbrunner", "588140457", "1972-07-29", 1, , "Turkmenistan", "Fadelmouth", "91368-8678", "Denesik Mountain", 56, 88, "uniqueoberbrunner@memail.com", "uniqueoberbrunner", "sq1cbubvkm1", 0; 
-
-exec dbo.DodajKlientaInd "Kayla", "Schneider", "409482745", "1992-05-06", 1, , "Kenya", "Janickside", "77664", "Freida Orchard", 8, 22, "kaylaschneider@memail.com", "kaylaschneider", "agkm6c0bacr", 0; 
-
-exec dbo.DodajKlientaInd "Isaac", "Crist", "554623623", "1955-07-12", 1, , "Montserrat", "Judyside", "37460-7167", "Macie Court", 14, 96, "isaaccrist@memail.com", "isaaccrist", "6rolqhqr9vk", 0; 
-
-exec dbo.DodajKlientaInd "Malcolm", "Beier", "855374135", "1953-09-23", 1, , "Seychelles", "South Jeanneshire", "26162", "Felix Mount", 85, 76, "malcolmbeier@memail.com", "malcolmbeier", "87vcb2ycqqi", 0; 
-
-exec dbo.DodajKlientaInd "Fausto", "Prosacco", "996411735", "1953-10-03", 0, , "Tonga", "Port Ottilie", "84622", "Derick Manors", 64, 16, "faustoprosacco@memail.com", "faustoprosacco", "cz43utje2k2", 0; 
-
-exec dbo.DodajKlientaInd "Wilfred", "Kiehn", "651281737", "1976-02-10", 0, , "Uzbekistan", "West Brandybury", "33770-3075", "Trenton Road", 18, 19, "wilfredkiehn@memail.com", "wilfredkiehn", "29tvfytadmt", 0; 
-
-exec dbo.DodajKlientaInd "Joesph", "Treutel", "574423221", "1975-05-16", 1, , "Brazil", "East Bertram", "43597", "Ashlee Key", 92, 81, "joesphtreutel@memail.com", "joesphtreutel", "ni4dlwv0uz7", 0; 
-
-exec dbo.DodajKlientaInd "Greta", "Wintheiser", "715842208", "1967-05-29", 1, , "Western Sahara", "New Carter", "97518-4504", "Larkin Spur", 18, 98, "gretawintheiser@memail.com", "gretawintheiser", "nqh2vf9ssqv", 0; 
-
-exec dbo.DodajKlientaInd "Alexandrine", "Weimann", "236042688", "1991-03-26", 1, , "Saint Martin", "Hellerborough", "31706", "Valentina Viaduct", 44, 2, "alexandrineweimann@memail.com", "alexandrineweimann", "4t8jktswmvy", 0; 
-
-exec dbo.DodajKlientaInd "Elliott", "MacGyver", "787822562", "1975-01-21", 0, 462992, "Madagascar", "Lake Shyanne", "24696", "Gusikowski Loop", 29, 50, "elliottmacgyver@memail.com", "elliottmacgyver", "uind6hf3fs0", 0; 
-
-exec dbo.DodajKlientaInd "Bruce", "Carroll", "816888703", "1975-11-06", 0, , "Puerto Rico", "Hettingerborough", "65417", "Miller Green", 60, 84, "brucecarroll@memail.com", "brucecarroll", "qq02hj82lg", 0; 
-
-exec dbo.DodajKlientaInd "Earl", "Quigley", "947056756", "1957-12-09", 1, , "Canada", "Wiegandport", "92033", "Penelope Ridges", 90, 28, "earlquigley@memail.com", "earlquigley", "8n247zlrho", 0; 
-
-exec dbo.DodajKlientaInd "Iliana", "Herzog", "242467342", "1992-05-13", 1, , "Anguilla", "D'Amoretown", "95386-4503", "Anderson Burgs", 63, 86, "ilianaherzog@memail.com", "ilianaherzog", "ymfe7pqt2dh", 0; 
-
-exec dbo.DodajKlientaInd "Gardner", "Schumm", "564753123", "1968-11-19", 1, , "Croatia", "Port Germanmouth", "64522-5506", "Karolann Wall", 37, 66, "gardnerschumm@memail.com", "gardnerschumm", "krrrlsnna6n", 0; 
-
-exec dbo.DodajKlientaInd "Stewart", "Erdman", "563713951", "1992-02-07", 0, 352870, "China", "New Alanisview", "30872-9303", "Cronin Gateway", 84, 83, "stewarterdman@memail.com", "stewarterdman", "xmdb9o73bc0", 0; 
-
-exec dbo.DodajKlientaInd "Johathan", "Medhurst", "838696716", "1967-10-06", 1, 731311, "South Georgia and the South Sandwich Islands", "West Sincere", "12015-9945", "Ruecker Shoals", 86, 85, "johathanmedhurst@memail.com", "johathanmedhurst", "0wpkrp5xi27", 0; 
-
-exec dbo.DodajKlientaInd "Name", "Durgan", "232912519", "1990-12-15", 0, , "Sierra Leone", "South Rethabury", "80503-9952", "Braxton Via", 85, 66, "namedurgan@memail.com", "namedurgan", "j6z8rp227yg", 0; 
-
-exec dbo.DodajKlientaInd "Jordan", "Fahey", "702771071", "1985-08-12", 1, , "Uganda", "West Gordon", "61904-8550", "Norberto Extensions", 57, 86, "jordanfahey@memail.com", "jordanfahey", "uljnurte8gs", 0; 
-
-exec dbo.DodajKlientaInd "Wilfred", "Cruickshank", "015671018", "1965-03-12", 1, 775467, "Brazil", "South Hilario", "66264", "Sarina Loop", 59, 33, "wilfredcruickshank@memail.com", "wilfredcruickshank", "q5p6x1ulh3a", 0; 
-
-exec dbo.DodajKlientaInd "Madge", "Feil", "742496788", "1991-07-20", 1, , "Greenland", "New Pearline", "33979-0364", "Tyra Estate", 88, 64, "madgefeil@memail.com", "madgefeil", "83oyeu4aiph", 0; 
-
-exec dbo.DodajKlientaInd "Eulalia", "Prohaska", "471126486", "1987-10-06", 1, , "Oman", "Bruenbury", "30300", "Cora Course", 98, 48, "eulaliaprohaska@memail.com", "eulaliaprohaska", "cvpsm8ehzzc", 0; 
-
-exec dbo.DodajKlientaInd "Chase", "MacGyver", "333521957", "1984-07-19", 0, , "Saint Barthelemy", "Burniceton", "12548-3561", "Casper Crescent", 86, 26, "chasemacgyver@memail.com", "chasemacgyver", "ebll7j6rhh5", 0; 
-
-exec dbo.DodajKlientaInd "Russel", "Metz", "858385376", "1980-02-22", 1, 127765, "Latvia", "North John", "22367", "Corkery Streets", 35, 77, "russelmetz@memail.com", "russelmetz", "c8cnavqeoje", 0; 
-
-exec dbo.DodajKlientaInd "Mikel", "Erdman", "371384690", "1961-06-14", 0, , "Falkland Islands (Malvinas)", "Collinmouth", "75501-9425", "Birdie Streets", 57, 21, "mikelerdman@memail.com", "mikelerdman", "h2bcs2eklh4", 0; 
-
-exec dbo.DodajKlientaInd "Mckenzie", "Luettgen", "278770597", "1963-07-11", 1, , "Maldives", "New Lazaro", "91332", "Katelynn Brook", 29, 78, "mckenzieluettgen@memail.com", "mckenzieluettgen", "9iuco5382nz", 0; 
-
-exec dbo.DodajKlientaInd "Hassie", "Bashirian", "102380144", "1956-05-04", 1, , "Andorra", "McLaughlinmouth", "77050", "Volkman Plain", 21, 17, "hassiebashirian@memail.com", "hassiebashirian", "9fecrds4vn8", 0; 
-
-exec dbo.DodajKlientaInd "Derick", "Hilpert", "859923806", "1994-08-23", 0, 871692, "Bhutan", "Chaimmouth", "15714", "Kurtis Springs", 25, 57, "derickhilpert@memail.com", "derickhilpert", "bqc2nby9smf", 0; 
-
-exec dbo.DodajKlientaInd "Alvera", "Goyette", "624693558", "1954-01-07", 0, 028823, "Norfolk Island", "South Aimee", "80216-2816", "Jones Gardens", 27, 81, "alveragoyette@memail.com", "alveragoyette", "vh4wcfq13np", 0; 
-
-exec dbo.DodajKlientaInd "Trystan", "Conn", "516267775", "1982-11-02", 1, , "Dominica", "Kesslerview", "92752", "Auer Plains", 26, 48, "trystanconn@memail.com", "trystanconn", "p8jr6tujc6", 0; 
-
-exec dbo.DodajKlientaInd "Hadley", "Hyatt", "725588424", "1975-08-17", 1, , "Saint Kitts and Nevis", "Port Rosa", "40609-1386", "Francesca Highway", 10, 74, "hadleyhyatt@memail.com", "hadleyhyatt", "9hsbl23anzd", 0; 
-
-exec dbo.DodajKlientaInd "Adrian", "Langosh", "378164328", "1951-09-04", 0, , "Trinidad and Tobago", "Shakirachester", "38425-7855", "Brown Gateway", 48, 13, "adrianlangosh@memail.com", "adrianlangosh", "m23odv9fbs0", 0; 
-
-exec dbo.DodajKlientaInd "Jamarcus", "Dickinson", "883548573", "1965-03-18", 1, , "Zambia", "East Kareem", "91051", "Hermann Stravenue", 68, 83, "jamarcusdickinson@memail.com", "jamarcusdickinson", "ymmqn9adw5r", 0; 
-
-exec dbo.DodajKlientaInd "Trisha", "Glover", "675776928", "1971-01-25", 0, , "Netherlands", "West Earnest", "28614-5162", "Lowe Hill", 100, 88, "trishaglover@memail.com", "trishaglover", "qd6f35379kw", 0; 
-
-exec dbo.DodajKlientaInd "Ferne", "Purdy", "306862675", "1956-02-22", 1, , "Sri Lanka", "Hadleyville", "44637-6379", "Mozell Crest", 29, 82, "fernepurdy@memail.com", "fernepurdy", "vpmsr058r6s", 0; 
-
-exec dbo.DodajKlientaInd "Orie", "Stehr", "526841301", "1976-07-21", 1, , "Slovenia", "Aubreebury", "72746-7581", "Heaney Underpass", 63, 94, "oriestehr@memail.com", "oriestehr", "0qnsc32zwjb", 0; 
-
-exec dbo.DodajKlientaInd "Gerard", "Kirlin", "429390415", "1977-02-13", 0, , "Democratic People's Republic of Korea", "Bodemouth", "89924", "Heathcote Forest", 33, 47, "gerardkirlin@memail.com", "gerardkirlin", "047yfb8zw3s", 0; 
-
-exec dbo.DodajKlientaInd "Trudie", "Hammes", "582868533", "1981-01-11", 0, , "Jordan", "Littleport", "98226", "Jo Haven", 18, 2, "trudiehammes@memail.com", "trudiehammes", "7una3tukroo", 0; 
-
-exec dbo.DodajKlientaInd "Estrella", "Schmeler", "866898500", "1961-08-29", 0, , "Kazakhstan", "West Amirastad", "66133-4763", "Beier Crossroad", 22, 26, "estrellaschmeler@memail.com", "estrellaschmeler", "19h2vri7plk", 0; 
-
-exec dbo.DodajKlientaInd "Keyon", "Terry", "166053953", "1959-12-21", 1, , "Eritrea", "New Jimmie", "88608-9401", "Abe Spurs", 39, 69, "keyonterry@memail.com", "keyonterry", "lxvcmhgycoi", 0; 
-
-exec dbo.DodajKlientaInd "Ismael", "Sanford", "582463951", "1993-11-21", 1, , "Bermuda", "Lake Javontehaven", "24306", "Rosenbaum Lodge", 74, 14, "ismaelsanford@memail.com", "ismaelsanford", "ll88g7st1kh", 0; 
-
-exec dbo.DodajKlientaInd "Kari", "Macejkovic", "377874315", "1958-02-07", 0, , "Montserrat", "New Casey", "67117", "Fermin Overpass", 88, 61, "karimacejkovic@memail.com", "karimacejkovic", "coplppnz853", 0; 
-
-exec dbo.DodajKlientaInd "Dorcas", "Bednar", "963329685", "1966-10-16", 1, , "Congo", "Bergstromland", "37610", "Efren Rapids", 31, 75, "dorcasbednar@memail.com", "dorcasbednar", "rm9jwyiraa6", 0; 
-
-exec dbo.DodajKlientaInd "Imogene", "Jones", "989493656", "1982-08-15", 1, , "Macedonia", "New Velda", "20202-0211", "Alba Junctions", 77, 15, "imogenejones@memail.com", "imogenejones", "l7phrqk353r", 0; 
-
-exec dbo.DodajKlientaInd "Maude", "Turcotte", "031235455", "1992-07-09", 1, , "Dominican Republic", "Tabithamouth", "79449", "Hessel Squares", 46, 12, "maudeturcotte@memail.com", "maudeturcotte", "9gsl9e7tb80", 0; 
-
-exec dbo.DodajKlientaInd "Destiney", "Turner", "146246845", "1995-04-04", 0, , "Belarus", "East Laurineberg", "10596", "Earl Lane", 87, 27, "destineyturner@memail.com", "destineyturner", "4rpuzbvy5q", 0; 
-
-exec dbo.DodajKlientaInd "Jannie", "Klocko", "433682124", "1973-01-26", 1, 526321, "Cote d'Ivoire", "Alvertastad", "28864", "Kovacek Stravenue", 16, 43, "jannieklocko@memail.com", "jannieklocko", "uv3xuvhs8g", 0; 
-
-exec dbo.DodajKlientaInd "Giovanni", "Mayert", "254906219", "1970-11-04", 0, , "France", "Bretburgh", "24493-3031", "Christiansen Cape", 97, 45, "giovannimayert@memail.com", "giovannimayert", "jzxsaicat60", 0; 
-
-exec dbo.DodajKlientaInd "Felipe", "Medhurst", "064578313", "1953-05-19", 1, , "Netherlands Antilles", "DuBuqueburgh", "50325", "Issac Valleys", 48, 30, "felipemedhurst@memail.com", "felipemedhurst", "03e7x3krm0", 0; 
-
-exec dbo.DodajKlientaInd "Wilfred", "Bartoletti", "555015733", "1993-05-09", 1, , "Belgium", "Arloshire", "50833-8599", "Russel Rest", 44, 22, "wilfredbartoletti@memail.com", "wilfredbartoletti", "2m3o7a0ott7", 0; 
-
-exec dbo.DodajKlientaInd "Efren", "Maggio", "360005073", "1991-07-23", 0, , "Georgia", "Emmerichtown", "60785", "Serenity Springs", 2, 57, "efrenmaggio@memail.com", "efrenmaggio", "7vf7m26im4r", 0; 
-
-exec dbo.DodajKlientaInd "Olga", "Kutch", "215553882", "1950-07-20", 0, , "Barbados", "Helmermouth", "45666-5025", "VonRueden Islands", 16, 32, "olgakutch@memail.com", "olgakutch", "51ydkhcjmi", 0; 
-
-exec dbo.DodajKlientaInd "Joshua", "Daniel", "493488211", "1980-02-24", 0, , "Turkey", "Farrellport", "40508", "Jayme Plaza", 69, 10, "joshuadaniel@memail.com", "joshuadaniel", "nr817nfbhj9", 0; 
-
-exec dbo.DodajKlientaInd "Manuela", "Hegmann", "178906917", "1985-01-15", 1, , "Yemen", "North Karina", "56494-3936", "Powlowski Ford", 29, 70, "manuelahegmann@memail.com", "manuelahegmann", "4wovwop87nv", 0; 
-
-exec dbo.DodajKlientaInd "Rosa", "Stoltenberg", "251497351", "1996-05-15", 1, , "Maldives", "Rauton", "83651-5609", "Hoeger Trail", 49, 57, "rosastoltenberg@memail.com", "rosastoltenberg", "7cqu26fksdo", 0; 
-
-exec dbo.DodajKlientaInd "Cole", "Waelchi", "278610240", "1957-02-21", 1, , "Bosnia and Herzegovina", "Todton", "42593", "Randal Islands", 82, 29, "colewaelchi@memail.com", "colewaelchi", "jubvucogrqy", 0; 
-
-exec dbo.DodajKlientaInd "Tanner", "Dibbert", "930912819", "1986-06-08", 0, , "Georgia", "East Mara", "61149-5346", "Ansley Village", 96, 28, "tannerdibbert@memail.com", "tannerdibbert", "kfpbwqrf7vl", 0; 
-
-exec dbo.DodajKlientaInd "Letha", "Paucek", "675742737", "1994-12-09", 0, , "Slovenia", "Port Ayden", "32017-4088", "Hand Drive", 46, 60, "lethapaucek@memail.com", "lethapaucek", "gb12fkflm58", 0; 
-
-exec dbo.DodajKlientaInd "River", "Jacobs", "815564704", "1960-03-29", 1, 428412, "Mongolia", "Lake Demarcusmouth", "13582-3002", "Andreane Keys", 78, 62, "riverjacobs@memail.com", "riverjacobs", "zm10s21fktp", 0; 
-
-exec dbo.DodajKlientaInd "Abraham", "Kerluke", "132868567", "1988-12-21", 0, , "Burundi", "Wilmahaven", "66504-9179", "Waelchi Stream", 66, 79, "abrahamkerluke@memail.com", "abrahamkerluke", "owbgsdxdsrt", 0; 
-
-exec dbo.DodajKlientaInd "Eloise", "Hodkiewicz", "134586398", "1964-12-09", 1, , "Liechtenstein", "Hermannmouth", "46783-2727", "Adams Course", 15, 57, "eloisehodkiewicz@memail.com", "eloisehodkiewicz", "rd8pw0et7is", 0; 
-
-exec dbo.DodajKlientaInd "Monte", "Hammes", "068116085", "1972-10-18", 0, 058385, "Gabon", "Douglasbury", "58409", "Modesta Street", 36, 2, "montehammes@memail.com", "montehammes", "x62h6trxdqc", 0; 
-
-exec dbo.DodajKlientaInd "Diego", "Tillman", "525146442", "1973-02-21", 0, , "Liberia", "New Dayanaport", "57808", "Jaqueline Field", 43, 8, "diegotillman@memail.com", "diegotillman", "egtspzv68oh", 0; 
-
-exec dbo.DodajKlientaInd "Maximilian", "Trantow", "625552608", "1981-03-27", 0, , "France", "Port Elouise", "95357", "Labadie View", 48, 90, "maximiliantrantow@memail.com", "maximiliantrantow", "q3ekmrkmh6l", 0; 
-
-exec dbo.DodajKlientaInd "Edd", "Bartell", "145521451", "1993-08-03", 0, , "Mayotte", "Bradtkeburgh", "27864-6817", "Bode Springs", 13, 7, "eddbartell@memail.com", "eddbartell", "qt4kbs2w2zu", 0; 
-
-exec dbo.DodajKlientaInd "Johanna", "Tillman", "831128851", "1964-08-20", 1, , "Mali", "Claudemouth", "61569-3758", "Runolfsson Glens", 88, 37, "johannatillman@memail.com", "johannatillman", "6tj4vguswfs", 0; 
-
-exec dbo.DodajKlientaInd "Deon", "Schmitt", "811844357", "1967-11-09", 1, , "Isle of Man", "East Shannymouth", "47503", "Betsy Highway", 78, 91, "deonschmitt@memail.com", "deonschmitt", "6or3mm0z1lx", 0; 
-
-exec dbo.DodajKlientaInd "Camilla", "Franecki", "587838351", "1989-06-01", 0, , "Montserrat", "New Ansleyfurt", "99126", "Kirlin Wells", 57, 28, "camillafranecki@memail.com", "camillafranecki", "tmwvrdrr77", 0; 
-
-exec dbo.DodajKlientaInd "Garrett", "Thiel", "666340359", "1977-08-03", 1, , "Nauru", "South Selinahaven", "29559-5742", "Freeman Summit", 48, 63, "garrettthiel@memail.com", "garrettthiel", "i26jgr6smma", 0; 
-
-exec dbo.DodajKlientaInd "Kameron", "Mueller", "325319446", "1984-09-02", 1, , "Senegal", "East Karen", "25229-8854", "Deshawn Lock", 33, 9, "kameronmueller@memail.com", "kameronmueller", "gdxma9ner5p", 0; 
-
-exec dbo.DodajKlientaInd "Greg", "Waters", "820155843", "1967-03-23", 1, , "Saint Lucia", "Donnellyberg", "67678-1905", "Faustino Views", 42, 35, "gregwaters@memail.com", "gregwaters", "4cd7z5kvpce", 0; 
-
-exec dbo.DodajKlientaInd "Eulalia", "Parker", "836522246", "1992-08-26", 0, , "Virgin Islands, U.S.", "Roobland", "56327-6261", "Casimer Club", 89, 58, "eulaliaparker@memail.com", "eulaliaparker", "qrczl7fh802", 0; 
-
-exec dbo.DodajKlientaInd "Ken", "Murphy", "522663555", "1966-05-30", 1, , "United States Minor Outlying Islands", "Kozeyland", "82553", "Raheem Springs", 39, 72, "kenmurphy@memail.com", "kenmurphy", "1tq97dl1fy3", 0; 
-
-exec dbo.DodajKlientaInd "Reece", "Lockman", "681819810", "1985-09-28", 0, , "Democratic People's Republic of Korea", "West Rodrigo", "15325-7349", "Simonis Union", 86, 72, "reecelockman@memail.com", "reecelockman", "fjnnego69qc", 0; 
-
-exec dbo.DodajKlientaInd "Bailee", "Huels", "416846871", "1978-06-15", 0, , "Cyprus", "Reyesstad", "76806-5227", "Hammes Springs", 73, 82, "baileehuels@memail.com", "baileehuels", "ho7lj7pa7bt", 0; 
-
-exec dbo.DodajKlientaInd "Zachary", "Jacobi", "937891990", "1967-04-21", 0, , "Germany", "East Deangelohaven", "76517", "Cartwright Throughway", 37, 78, "zacharyjacobi@memail.com", "zacharyjacobi", "20y9vu78vig", 0; 
-
-exec dbo.DodajKlientaInd "Brandy", "Price", "252595251", "1971-03-29", 0, , "Romania", "Port Priceville", "53684", "Herman Islands", 87, 29, "brandyprice@memail.com", "brandyprice", "v4j8xcbju0a", 0; 
-
-exec dbo.DodajKlientaInd "Lauretta", "Rippin", "107112279", "1962-07-24", 1, , "Saint Martin", "Dietrichstad", "70054-1502", "Demetris Keys", 58, 88, "laurettarippin@memail.com", "laurettarippin", "gyg60c05xjw", 0; 
-
-exec dbo.DodajKlientaInd "Elsie", "Hahn", "675445212", "1960-07-19", 0, 757441, "South Georgia and the South Sandwich Islands", "New Clairfort", "65270", "Rau Walks", 77, 87, "elsiehahn@memail.com", "elsiehahn", "kv6ti9vsq3u", 0; 
-
-exec dbo.DodajKlientaInd "Major", "Boehm", "534355775", "1956-09-09", 0, , "Tuvalu", "Langworthmouth", "71000", "Ansley Inlet", 15, 57, "majorboehm@memail.com", "majorboehm", "yp4yykqc5t9", 0; 
-
-exec dbo.DodajKlientaInd "Antonio", "Jacobi", "821183849", "1977-03-16", 1, , "Wallis and Futuna", "North Ethelynfurt", "84539", "Hahn Curve", 49, 33, "antoniojacobi@memail.com", "antoniojacobi", "0lk99iv7rwb", 0; 
-
-exec dbo.DodajKlientaInd "Casandra", "Dickens", "223343151", "1993-11-01", 0, , "Heard Island and McDonald Islands", "Leilanihaven", "14754-5161", "Davis Loaf", 49, 27, "casandradickens@memail.com", "casandradickens", "7h844klh6kd", 0; 
-
-exec dbo.DodajKlientaInd "Alysa", "McKenzie", "965655062", "1960-04-26", 1, , "Bosnia and Herzegovina", "Eldredside", "83535-9802", "Fay Ferry", 77, 78, "alysamckenzie@memail.com", "alysamckenzie", "ijknnl8ja0s", 0; 
-
-exec dbo.DodajKlientaInd "Fabian", "Von", "381326326", "1967-10-01", 0, , "Egypt", "East Amos", "97374", "Philip Forks", 37, 46, "fabianvon@memail.com", "fabianvon", "odykrq42h55", 0; 
-
-exec dbo.DodajKlientaInd "Gay", "Robel", "273884872", "1971-09-24", 1, , "Switzerland", "South Claremouth", "14560-1961", "Pacocha Plaza", 10, 44, "gayrobel@memail.com", "gayrobel", "1xsa64v72vf", 0; 
-
-exec dbo.DodajKlientaInd "Abagail", "Schamberger", "365051351", "1974-04-07", 0, , "Myanmar", "East Reilly", "36053", "Clair River", 11, 73, "abagailschamberger@memail.com", "abagailschamberger", "w30tp50xr6s", 0; 
-
-exec dbo.DodajKlientaInd "Davon", "Powlowski", "299155312", "1970-04-19", 1, , "Panama", "North Connerview", "29764", "Coy Wells", 68, 45, "davonpowlowski@memail.com", "davonpowlowski", "sshc1dj8sz", 0; 
-
-exec dbo.DodajKlientaInd "Aimee", "Kling", "464253713", "1986-01-07", 0, , "Afghanistan", "Kozeyland", "99363-7850", "Murray Mill", 92, 39, "aimeekling@memail.com", "aimeekling", "zdnvo8b8zyu", 0; 
-
-exec dbo.DodajKlientaInd "Florian", "Hoeger", "438525031", "1989-09-28", 1, , "Netherlands Antilles", "Arnulfoland", "22010-8406", "Hansen Island", 71, 19, "florianhoeger@memail.com", "florianhoeger", "w9j6lwggevh", 0; 
-
-exec dbo.DodajKlientaInd "Cristina", "McKenzie", "944826233", "1963-02-25", 1, , "Bolivia", "Fisherhaven", "37872", "Hegmann Mall", 13, 98, "cristinamckenzie@memail.com", "cristinamckenzie", "qesfdmzrmac", 0; 
-
-exec dbo.DodajKlientaInd "Sharon", "Keebler", "524006714", "1991-10-23", 1, 862376, "Heard Island and McDonald Islands", "West Tobin", "37291", "Berenice Glens", 67, 75, "sharonkeebler@memail.com", "sharonkeebler", "sxymqnu0cwe", 0; 
-
-exec dbo.DodajKlientaInd "Rebeca", "Fadel", "669872487", "1965-12-02", 1, , "Cayman Islands", "New Josiah", "33271", "Blanda Radial", 23, 47, "rebecafadel@memail.com", "rebecafadel", "8o9gv4z4cc8", 0; 
-
-exec dbo.DodajKlientaInd "Charley", "Labadie", "212674381", "1967-04-12", 1, , "Solomon Islands", "New Ernieton", "99140", "Heidenreich Extensions", 28, 52, "charleylabadie@memail.com", "charleylabadie", "v2oe7fef5t6", 0; 
-
-exec dbo.DodajKlientaInd "Keagan", "Emmerich", "376540520", "1968-05-24", 0, 292645, "Mali", "Port Letitiamouth", "35608", "Bradtke Ports", 55, 13, "keaganemmerich@memail.com", "keaganemmerich", "9kuyb13ck8u", 0; 
-
-exec dbo.DodajKlientaInd "Sydni", "Hagenes", "145532945", "1968-10-22", 0, , "Gibraltar", "Ameliafort", "90646-1504", "Ratke Dale", 23, 62, "sydnihagenes@memail.com", "sydnihagenes", "whip0w1hp6w", 0; 
-
-exec dbo.DodajKlientaInd "Baby", "Brakus", "759164332", "1983-09-12", 0, , "Liberia", "Williefurt", "35265", "Eichmann Mountain", 32, 78, "babybrakus@memail.com", "babybrakus", "sgdtnfk0kq4", 0; 
-
-exec dbo.DodajKlientaInd "Hertha", "Robel", "804044852", "1984-02-02", 0, , "Uganda", "South Nathanielland", "39786", "Sonya Light", 64, 2, "hertharobel@memail.com", "hertharobel", "qm5s9aof7bx", 0; 
-
-exec dbo.DodajKlientaInd "Karson", "Torphy", "301845374", "1965-03-28", 0, , "Cayman Islands", "Lilyanburgh", "74154-6928", "Rodolfo Haven", 49, 25, "karsontorphy@memail.com", "karsontorphy", "dxo2ztdx066", 0; 
-
-exec dbo.DodajKlientaInd "Owen", "Weimann", "811618503", "1992-12-08", 1, , "Mayotte", "New Verona", "78601", "Runolfsson Trail", 14, 72, "owenweimann@memail.com", "owenweimann", "ts1jz1ku4le", 0; 
-
-exec dbo.DodajKlientaInd "Tyrese", "Graham", "608336448", "1991-11-27", 0, , "Timor-Leste", "West Mary", "65167-0259", "Elsie Key", 66, 49, "tyresegraham@memail.com", "tyresegraham", "b87rp8p3gs", 0; 
-
-exec dbo.DodajKlientaInd "Sydnie", "Murray", "966198458", "1958-07-10", 1, , "New Caledonia", "Roxanetown", "93489", "Klocko Hollow", 34, 20, "sydniemurray@memail.com", "sydniemurray", "yv6wkfrrb0", 0; 
-
-exec dbo.DodajKlientaInd "Theodore", "Marvin", "618751533", "1964-12-29", 1, 743784, "Central African Republic", "Brekkestad", "93016-2523", "Torp Common", 76, 30, "theodoremarvin@memail.com", "theodoremarvin", "pf11qffk1z4", 0; 
-
-exec dbo.DodajKlientaInd "Mylene", "Price", "441412746", "1951-12-27", 1, , "Costa Rica", "Rosamondfort", "92038", "Augusta Mountain", 68, 82, "myleneprice@memail.com", "myleneprice", "lffncmis7m0", 0; 
-
-exec dbo.DodajKlientaInd "Zoe", "Crist", "277344153", "1950-11-08", 0, 337946, "Taiwan", "New Edison", "10416-2581", "Cleveland Flats", 33, 65, "zoecrist@memail.com", "zoecrist", "jqajv3zfdyv", 0; 
-
-exec dbo.DodajKlientaInd "Aric", "Reynolds", "677756578", "1961-04-19", 0, , "Germany", "Christophechester", "80776-0786", "Edward Coves", 76, 39, "aricreynolds@memail.com", "aricreynolds", "7sghud88rz", 0; 
-
-exec dbo.DodajKlientaInd "Lucius", "Collier", "442013345", "1992-10-21", 1, , "Tanzania", "McCluremouth", "18231-0079", "Aletha Causeway", 59, 48, "luciuscollier@memail.com", "luciuscollier", "jglbujdwld6", 0; 
-
-exec dbo.DodajKlientaInd "Caleb", "Hermiston", "244404632", "1965-08-27", 1, , "Thailand", "Rathport", "54242-9658", "Freda Green", 21, 22, "calebhermiston@memail.com", "calebhermiston", "84oqhvj3lze", 0; 
-
-exec dbo.DodajKlientaInd "Mathew", "Langosh", "330847885", "1971-11-15", 0, , "Bouvet Island (Bouvetoya)", "South Clementina", "52784-2198", "Harmony Rest", 82, 75, "mathewlangosh@memail.com", "mathewlangosh", "0hxng18jtoh", 0; 
-
-exec dbo.DodajKlientaInd "Heloise", "Denesik", "493231615", "1955-02-19", 1, , "Dominica", "Sadyeborough", "67305-7067", "Alyson Extensions", 99, 36, "heloisedenesik@memail.com", "heloisedenesik", "8y2o1s3qad3", 0; 
-
-exec dbo.DodajKlientaInd "Ed", "Bins", "126735187", "1951-07-19", 0, , "Isle of Man", "New Sigrid", "76862-4478", "Dare Groves", 22, 12, "edbins@memail.com", "edbins", "wgsxu90dx3i", 0; 
-
-exec dbo.DodajKlientaInd "Pascale", "Kunze", "704166312", "1955-07-18", 0, 625460, "Uruguay", "Lake Margarete", "40405-2015", "Farrell Estate", 23, 87, "pascalekunze@memail.com", "pascalekunze", "f8v91ah9z7e", 0; 
-
-exec dbo.DodajKlientaInd "Marshall", "Borer", "576172873", "1981-06-30", 1, , "Cape Verde", "Flatleyville", "87178", "Goldner Groves", 75, 23, "marshallborer@memail.com", "marshallborer", "wnx1i0ghnx1", 0; 
-
-exec dbo.DodajKlientaInd "Gust", "Lakin", "512411399", "1978-06-16", 1, , "Costa Rica", "West Katlyn", "63414", "Frami Lodge", 41, 5, "gustlakin@memail.com", "gustlakin", "y568oj45wca", 0; 
-
-exec dbo.DodajKlientaInd "Marie", "Parisian", "453645856", "1988-05-11", 0, , "Jersey", "South Elmer", "38685-2634", "Pfannerstill Pine", 52, 65, "marieparisian@memail.com", "marieparisian", "i0boaamh3qf", 0; 
-
-exec dbo.DodajKlientaInd "Florida", "Legros", "851295725", "1959-07-04", 1, , "Denmark", "South Garret", "54306-4403", "Gerlach Station", 33, 38, "floridalegros@memail.com", "floridalegros", "zbol4geob42", 0; 
-
-exec dbo.DodajKlientaInd "Hayley", "Dicki", "468873863", "1955-04-13", 0, , "Solomon Islands", "Grahamfurt", "94349-7112", "Mateo Parkway", 18, 69, "hayleydicki@memail.com", "hayleydicki", "r6ag8zmng2i", 0; 
-
-exec dbo.DodajKlientaInd "Katelin", "VonRueden", "253150503", "1964-05-23", 0, , "Congo", "Brakusfort", "16559", "Bernier Rapid", 25, 29, "katelinvonrueden@memail.com", "katelinvonrueden", "7bsw0sassv5", 0; 
-
-exec dbo.DodajKlientaInd "Matteo", "Weimann", "671776981", "1950-08-27", 1, 850777, "Spain", "Wintheiserborough", "16012", "Kreiger Trail", 33, 64, "matteoweimann@memail.com", "matteoweimann", "xe8sdma9gc8", 0; 
-
-exec dbo.DodajKlientaInd "Marcelino", "Franecki", "115716003", "1984-03-21", 0, , "Suriname", "Ardellashire", "58795", "Lubowitz Roads", 86, 78, "marcelinofranecki@memail.com", "marcelinofranecki", "cspt020t2oa", 0; 
-
-exec dbo.DodajKlientaInd "Mikayla", "Weissnat", "778322726", "1958-12-28", 0, , "Cambodia", "New Lethamouth", "70283", "Kohler Crossroad", 49, 51, "mikaylaweissnat@memail.com", "mikaylaweissnat", "cb11m1ziapf", 0; 
-
-exec dbo.DodajKlientaInd "Jaydon", "Schiller", "386639736", "1985-06-18", 1, 693419, "French Polynesia", "South Marcelo", "22819", "Shanie Crossroad", 63, 29, "jaydonschiller@memail.com", "jaydonschiller", "79qko0okx8", 0; 
-
-exec dbo.DodajKlientaInd "Ola", "Crona", "722054312", "1988-12-21", 1, , "Vanuatu", "Deshawnbury", "13631-6070", "Mossie Falls", 70, 1, "olacrona@memail.com", "olacrona", "2jcnkz1py1t", 0; 
-
-exec dbo.DodajKlientaInd "Merlin", "Cummerata", "076145198", "1982-06-16", 0, , "Libyan Arab Jamahiriya", "East Selmer", "55937", "Bauch Summit", 47, 46, "merlincummerata@memail.com", "merlincummerata", "z8tqy1o1tmi", 0; 
-
-exec dbo.DodajKlientaInd "Harmon", "Kerluke", "658886183", "1970-03-15", 0, , "Saint Kitts and Nevis", "Marquiseland", "97480", "Haley Corners", 84, 85, "harmonkerluke@memail.com", "harmonkerluke", "w3qguzrwtwr", 0; 
-
-exec dbo.DodajKlientaInd "Jermaine", "Hodkiewicz", "766658823", "1965-08-22", 1, , "Mexico", "North Margueritestad", "84393", "Marks Ferry", 56, 74, "jermainehodkiewicz@memail.com", "jermainehodkiewicz", "qjjp1jdfku2", 0; 
-
-exec dbo.DodajKlientaInd "Brennan", "Ryan", "629597253", "1961-12-09", 0, , "Monaco", "Kaneborough", "53991", "Roob Lock", 59, 73, "brennanryan@memail.com", "brennanryan", "qqil8y6biq2", 0; 
-
-exec dbo.DodajKlientaInd "Nikolas", "Mueller", "074737828", "1969-07-10", 0, , "Saint Pierre and Miquelon", "Hannatown", "37597", "Georgiana Island", 44, 65, "nikolasmueller@memail.com", "nikolasmueller", "xoa5ojillbt", 0; 
-
-exec dbo.DodajKlientaInd "Stephania", "Pouros", "631817792", "1997-01-03", 0, , "Denmark", "Pagacside", "34744", "Loraine Brook", 48, 46, "stephaniapouros@memail.com", "stephaniapouros", "d330emngwig", 0; 
-
-exec dbo.DodajKlientaInd "Grayson", "Volkman", "628481139", "1968-07-31", 1, , "Zambia", "Anikaville", "56766", "Kemmer Harbors", 24, 49, "graysonvolkman@memail.com", "graysonvolkman", "rw4peg2md0f", 0; 
-
-exec dbo.DodajKlientaInd "Zachery", "Swaniawski", "707195198", "1982-04-13", 0, , "Afghanistan", "Domingoburgh", "86915", "Daniela Canyon", 53, 52, "zacheryswaniawski@memail.com", "zacheryswaniawski", "hv2wtwexgy", 0; 
-
-exec dbo.DodajKlientaInd "Nola", "Muller", "410688577", "1965-08-12", 0, , "Lesotho", "North Sarai", "24792", "Arthur Center", 49, 84, "nolamuller@memail.com", "nolamuller", "0fu17dl1yeh", 0; 
-
-exec dbo.DodajKlientaInd "Chris", "Turcotte", "493948168", "1960-12-23", 1, 247441, "Angola", "Lake Hertha", "15779", "Friesen Cove", 63, 18, "christurcotte@memail.com", "christurcotte", "z6qxk8ffgvt", 0; 
-
-exec dbo.DodajKlientaInd "Wilson", "Keebler", "626241301", "1951-11-19", 0, , "Myanmar", "Port Yasmineton", "77959-4249", "Jayde View", 23, 56, "wilsonkeebler@memail.com", "wilsonkeebler", "ssnpoqbp374", 0; 
-
-exec dbo.DodajKlientaInd "Ali", "Wyman", "616438248", "1956-07-16", 0, , "Seychelles", "Kleinfurt", "70490", "Skyla Mission", 62, 44, "aliwyman@memail.com", "aliwyman", "y7b5iitsr1p", 0; 
-
-exec dbo.DodajKlientaInd "Gloria", "Friesen", "538481445", "1986-05-12", 0, , "San Marino", "Lake Franciscaview", "21795-1906", "Yasmine Mills", 36, 28, "gloriafriesen@memail.com", "gloriafriesen", "dcm7p3dszia", 0; 
-
-exec dbo.DodajKlientaInd "Deanna", "Hickle", "311743534", "1988-08-05", 1, , "Sweden", "Arnaldofort", "74973", "Herzog Summit", 87, 89, "deannahickle@memail.com", "deannahickle", "idzxjb93jql", 0; 
-
-exec dbo.DodajKlientaInd "Gregorio", "Harber", "753833716", "1951-01-17", 0, , "Guinea", "West Rickyfort", "84087-4325", "Alessandra Greens", 18, 26, "gregorioharber@memail.com", "gregorioharber", "kguze66v6nz", 0; 
-
-exec dbo.DodajKlientaInd "Glenna", "Kreiger", "088432603", "1954-03-26", 1, , "Bermuda", "Port Napoleonland", "25615-6449", "Lionel Mountains", 23, 40, "glennakreiger@memail.com", "glennakreiger", "iqgbpyd21li", 0; 
-
-exec dbo.DodajKlientaInd "Liliane", "Hamill", "245278358", "1956-05-04", 0, , "Aruba", "East Kamron", "83255-8443", "Edwin Creek", 63, 42, "lilianehamill@memail.com", "lilianehamill", "0d79xy41c5d", 0; 
-
-exec dbo.DodajKlientaInd "Augusta", "Ortiz", "068061152", "1976-02-19", 1, , "Equatorial Guinea", "Kuvalisville", "82604-9118", "Gottlieb Plain", 24, 36, "augustaortiz@memail.com", "augustaortiz", "b4qh5x4xygy", 0; 
-
-exec dbo.DodajKlientaInd "Mossie", "Brekke", "747168810", "1987-07-17", 0, , "Hungary", "Donfort", "30416", "Eunice Mews", 49, 88, "mossiebrekke@memail.com", "mossiebrekke", "lqu84a2d7k6", 0; 
-
-exec dbo.DodajKlientaInd "Karolann", "Deckow", "308122804", "1972-05-09", 1, , "Thailand", "South Shanelhaven", "76182-3658", "Goodwin Forks", 70, 16, "karolanndeckow@memail.com", "karolanndeckow", "0spezhp9ag5", 0; 
-
-exec dbo.DodajKlientaInd "Dewayne", "Mohr", "763229456", "1956-12-24", 0, , "Somalia", "Watsonbury", "53128", "DuBuque Square", 13, 15, "dewaynemohr@memail.com", "dewaynemohr", "d8qz4ij3qej", 0; 
-
-exec dbo.DodajKlientaInd "Nichole", "Weber", "879939276", "1988-02-22", 0, , "Bangladesh", "New Kadin", "27255", "Naomi Trafficway", 51, 79, "nicholeweber@memail.com", "nicholeweber", "tqjsukbr7iz", 0; 
-
-exec dbo.DodajKlientaInd "Juvenal", "Klocko", "441713299", "1952-09-29", 1, , "Anguilla", "Marquesside", "54708-0908", "Bogan Crescent", 30, 52, "juvenalklocko@memail.com", "juvenalklocko", "f6mg1umhqjt", 0; 
-
-exec dbo.DodajKlientaInd "Antonetta", "Toy", "074553219", "1965-03-07", 1, , "Netherlands Antilles", "Kleintown", "78332", "Hilll Shoals", 47, 88, "antonettatoy@memail.com", "antonettatoy", "d1dcbv8ulo8", 0; 
-
-exec dbo.DodajKlientaInd "Antonette", "Oberbrunner", "125341476", "1990-04-13", 0, , "Japan", "Heleneview", "86253", "Trent Gardens", 59, 18, "antonetteoberbrunner@memail.com", "antonetteoberbrunner", "cj39pm2i2xs", 0; 
-
-exec dbo.DodajKlientaInd "Linnie", "Spencer", "721185841", "1995-11-07", 0, , "Kyrgyz Republic", "Vivianshire", "18710", "Cecil Harbors", 8, 85, "linniespencer@memail.com", "linniespencer", "4fijk9hvt1l", 0; 
-
-exec dbo.DodajKlientaInd "Clyde", "Anderson", "962716365", "1958-08-13", 1, , "Seychelles", "Mertzmouth", "35313-3595", "Geovanni Row", 32, 15, "clydeanderson@memail.com", "clydeanderson", "k58ep9qk1ox", 0; 
-
-exec dbo.DodajKlientaInd "Carlee", "DuBuque", "642340865", "1972-08-24", 0, , "Honduras", "North Adolfo", "80710", "Mosciski Lights", 64, 77, "carleedubuque@memail.com", "carleedubuque", "cnbfmm4e1bg", 0; 
-
-exec dbo.DodajKlientaInd "Jerel", "Predovic", "302371167", "1972-03-28", 1, , "French Polynesia", "Ullrichside", "66861", "Madalyn Valley", 18, 88, "jerelpredovic@memail.com", "jerelpredovic", "xll8whbwzl9", 0; 
-
-exec dbo.DodajKlientaInd "Angelica", "Larson", "875526388", "1997-01-09", 0, , "Congo", "Lake Jessika", "87349-6782", "Meredith Mission", 24, 58, "angelicalarson@memail.com", "angelicalarson", "1up8w2pitk7", 0; 
-
-exec dbo.DodajKlientaInd "Sheldon", "Runolfsdottir", "254137648", "1975-05-19", 1, , "Mozambique", "Cyrusstad", "96351-7715", "Herzog Trail", 56, 68, "sheldonrunolfsdottir@memail.com", "sheldonrunolfsdottir", "b8jagyyhe1v", 0; 
-
-exec dbo.DodajKlientaInd "Demetrius", "Schoen", "478353572", "1991-11-24", 1, , "Bermuda", "Kohlerberg", "50822-3649", "Ursula Springs", 16, 50, "demetriusschoen@memail.com", "demetriusschoen", "qgusess97hq", 0; 
-
-exec dbo.DodajKlientaInd "Karelle", "Tillman", "646983251", "1970-08-19", 0, , "Malta", "Lake Reinhold", "29196", "Elody Inlet", 28, 89, "karelletillman@memail.com", "karelletillman", "5i0yt829ykp", 0; 
-
-exec dbo.DodajKlientaInd "Margarette", "Lueilwitz", "359422166", "1996-09-30", 1, , "United States of America", "West Marc", "70582-7396", "Wehner Court", 35, 24, "margarettelueilwitz@memail.com", "margarettelueilwitz", "zt0alwryz6f", 0; 
-
-exec dbo.DodajKlientaInd "Donavon", "Stehr", "768540570", "1952-07-16", 0, 617147, "New Caledonia", "Casperfurt", "59665-9143", "Hodkiewicz Summit", 72, 66, "donavonstehr@memail.com", "donavonstehr", "1zuu04no1rl", 0; 
-
-exec dbo.DodajKlientaInd "Otto", "Fadel", "016319980", "1986-06-06", 1, , "Poland", "Bradtkefort", "11835-6946", "Benjamin Freeway", 81, 62, "ottofadel@memail.com", "ottofadel", "vkj403o3f34", 0; 
-
-exec dbo.DodajKlientaInd "Dominic", "Little", "753455771", "1971-09-10", 0, , "Bolivia", "Schadentown", "64965", "Kunze Corners", 69, 31, "dominiclittle@memail.com", "dominiclittle", "pv3lgerf8uw", 0; 
-
-exec dbo.DodajKlientaInd "Cassandre", "Shanahan", "518005223", "1951-09-16", 1, , "Djibouti", "Swaniawskiton", "96770", "Kaylie Ville", 45, 77, "cassandreshanahan@memail.com", "cassandreshanahan", "s22mmkbyrv", 0; 
-
-exec dbo.DodajKlientaInd "Tess", "Stiedemann", "534266418", "1968-07-09", 0, , "Paraguay", "Abshirehaven", "26869-8023", "Renner Trail", 85, 68, "tessstiedemann@memail.com", "tessstiedemann", "ggxjmormmds", 0; 
-
-exec dbo.DodajKlientaInd "Kristina", "Mosciski", "321450835", "1968-01-30", 1, , "Georgia", "Elmoreshire", "74439", "Bauch Locks", 23, 22, "kristinamosciski@memail.com", "kristinamosciski", "mesv4pq8u14", 0; 
-
-exec dbo.DodajKlientaInd "Bennett", "Bergstrom", "186481751", "1964-01-09", 0, , "Sao Tome and Principe", "West Rociostad", "14724-2225", "Sharon Island", 54, 46, "bennettbergstrom@memail.com", "bennettbergstrom", "os004aqtgxw", 0; 
-
-exec dbo.DodajKlientaInd "Chloe", "Kihn", "365355074", "1962-11-21", 1, , "Kenya", "Gisselleview", "43705-1713", "Kertzmann Ferry", 79, 55, "chloekihn@memail.com", "chloekihn", "nt53tgoqv8j", 0; 
-
-exec dbo.DodajKlientaInd "Abner", "Fritsch", "623341341", "1983-12-22", 1, 345773, "Chad", "Lake Ruby", "36133", "Derick Circles", 52, 44, "abnerfritsch@memail.com", "abnerfritsch", "bk10ehm9uq2", 0; 
-
-exec dbo.DodajKlientaInd "Angelica", "Bartoletti", "310125358", "1977-08-10", 1, , "Saint Kitts and Nevis", "Bartonshire", "79663-1758", "Rau Rapid", 78, 99, "angelicabartoletti@memail.com", "angelicabartoletti", "bc3qeh2oy3u", 0; 
-
-exec dbo.DodajKlientaInd "Angela", "Kemmer", "378538242", "1961-06-03", 0, , "Montserrat", "East Holden", "28235-2708", "Herminia Points", 13, 15, "angelakemmer@memail.com", "angelakemmer", "sej4c3v3cqg", 0; 
-
-exec dbo.DodajKlientaInd "Isadore", "Kovacek", "231952851", "1985-07-09", 0, , "Croatia", "New Gabriella", "92887", "Bashirian Expressway", 75, 45, "isadorekovacek@memail.com", "isadorekovacek", "o4kxvlabz4d", 0; 
-
-exec dbo.DodajKlientaInd "Karina", "Buckridge", "232712553", "1967-01-07", 1, , "Saint Barthelemy", "Kamilleside", "18315", "Charley Spring", 74, 44, "karinabuckridge@memail.com", "karinabuckridge", "gxhpioh8tk", 0; 
-
-exec dbo.DodajKlientaInd "Adeline", "Brown", "086512822", "1957-04-24", 0, , "Hong Kong", "Kosstown", "26400-0391", "Balistreri Square", 59, 82, "adelinebrown@memail.com", "adelinebrown", "kix6ld94ew7", 0; 
-
-exec dbo.DodajKlientaInd "Ebba", "Rodriguez", "763242716", "1953-04-21", 1, , "Micronesia", "Jordaneborough", "10582-2851", "Elnora Highway", 78, 61, "ebbarodriguez@memail.com", "ebbarodriguez", "lxixmri3kf", 0; 
-
-exec dbo.DodajKlientaInd "Sterling", "Cole", "594553058", "1970-06-14", 0, 569171, "Chile", "Littleview", "41946", "Bins Village", 75, 72, "sterlingcole@memail.com", "sterlingcole", "72apk5ixovk", 0; 
-
-exec dbo.DodajKlientaInd "Dewitt", "Barton", "285343045", "1972-05-20", 0, , "Antigua and Barbuda", "Kubberg", "41510-1923", "Rhiannon Orchard", 8, 39, "dewittbarton@memail.com", "dewittbarton", "1ekz1ydm5p", 0; 
-
-exec dbo.DodajKlientaInd "Ryder", "King", "487983781", "1953-03-26", 0, , "Liechtenstein", "Jazmynemouth", "83208-8723", "Bernhard Port", 64, 52, "ryderking@memail.com", "ryderking", "izs50v74nvr", 0; 
-
-exec dbo.DodajKlientaInd "Aniyah", "Jast", "541642848", "1980-10-11", 1, , "Palau", "South Rosamondfort", "73187-5057", "Wolf Mountain", 89, 45, "aniyahjast@memail.com", "aniyahjast", "on277sjwpsx", 0; 
-
-exec dbo.DodajKlientaInd "Rene", "Gorczany", "481372181", "1988-09-10", 1, , "Maldives", "Lowemouth", "18334-4594", "Aliza Springs", 64, 53, "renegorczany@memail.com", "renegorczany", "zk3sg4y73bo", 0; 
-
-exec dbo.DodajKlientaInd "Rollin", "Bergnaum", "843481633", "1986-12-24", 0, , "Gibraltar", "Walkerville", "42491", "Candelario Rapids", 90, 46, "rollinbergnaum@memail.com", "rollinbergnaum", "2udygzwjnw8", 0; 
-
-exec dbo.DodajKlientaInd "Will", "Weissnat", "485851110", "1970-10-16", 1, 639228, "Switzerland", "South Sincere", "42972-3917", "Schiller Inlet", 5, 42, "willweissnat@memail.com", "willweissnat", "kshmbjb69y0", 0; 
-
-exec dbo.DodajKlientaInd "Mikayla", "Casper", "901794474", "1972-10-29", 1, , "Afghanistan", "Port Marcosland", "10910-6540", "Tillman Viaduct", 68, 76, "mikaylacasper@memail.com", "mikaylacasper", "hh9jxg9csah", 0; 
-
-exec dbo.DodajKlientaInd "Felipa", "Jaskolski", "445164022", "1954-04-29", 1, , "Morocco", "Lake Abdullahshire", "28819", "Kailee Road", 58, 25, "felipajaskolski@memail.com", "felipajaskolski", "vt5oqgj0ad9", 0; 
-
-exec dbo.DodajKlientaInd "Lera", "Runolfsdottir", "065673391", "1956-04-15", 1, , "Uruguay", "Lake Nichole", "76367-1919", "Elza Cove", 72, 88, "lerarunolfsdottir@memail.com", "lerarunolfsdottir", "d5xg5gg70hu", 0; 
-
-exec dbo.DodajKlientaInd "Carson", "Schmeler", "834528178", "1951-10-04", 1, , "Mozambique", "Zackarybury", "22105-3016", "Huel Pike", 25, 76, "carsonschmeler@memail.com", "carsonschmeler", "fqpa0jlwngu", 0; 
-
-exec dbo.DodajKlientaInd "Patsy", "O'Hara", "413744653", "1993-03-27", 1, 474481, "India", "North Nasirmouth", "57795-6777", "Nikolaus Junctions", 83, 23, "patsyo'hara@memail.com", "patsyo'hara", "5em7yy4l3en", 0; 
-
-exec dbo.DodajKlientaInd "Leda", "Ruecker", "558038679", "1994-10-27", 1, , "Jersey", "Port Minerva", "15587-7554", "Koss Glen", 88, 36, "ledaruecker@memail.com", "ledaruecker", "7g2l1mqb9iu", 0; 
-
-exec dbo.DodajKlientaInd "Justina", "Cole", "716478522", "1996-10-13", 0, , "Seychelles", "West Ryleigh", "22906", "Conn Shoals", 73, 68, "justinacole@memail.com", "justinacole", "a4dtc5u5kv1", 0; 
-
-exec dbo.DodajKlientaInd "Antwan", "Hilll", "963283950", "1974-09-06", 0, , "Rwanda", "Oberbrunnerstad", "45660", "Myah Lodge", 12, 98, "antwanhilll@memail.com", "antwanhilll", "v5pm75z06dg", 0; 
-
-exec dbo.DodajKlientaInd "Norris", "Davis", "183971763", "1979-11-15", 0, , "Jordan", "Aidenmouth", "20845-3313", "Weber Bridge", 59, 54, "norrisdavis@memail.com", "norrisdavis", "d1sqvue8rky", 0; 
-
-exec dbo.DodajKlientaInd "Kariane", "Reinger", "766133087", "1996-04-12", 0, , "Zambia", "East Antoniettafurt", "73479-0498", "Koss Point", 35, 14, "karianereinger@memail.com", "karianereinger", "476f341he3g", 0; 
-
-exec dbo.DodajKlientaInd "Roma", "Doyle", "186687856", "1953-10-25", 0, , "Cocos (Keeling) Islands", "Asiachester", "94856-4765", "Vada Via", 86, 27, "romadoyle@memail.com", "romadoyle", "dyb7nk5pvki", 0; 
-
-exec dbo.DodajKlientaInd "Ines", "Hansen", "715788011", "1979-03-19", 1, , "Heard Island and McDonald Islands", "New Otilia", "50485", "Gislason Mews", 64, 55, "ineshansen@memail.com", "ineshansen", "mmgz4uxy7qj", 0; 
-
-exec dbo.DodajKlientaInd "Sasha", "Rau", "985244880", "1970-03-26", 1, 957227, "Norfolk Island", "New Juvenal", "65481-5675", "Lesch River", 13, 76, "sasharau@memail.com", "sasharau", "7d8jxcz9oio", 0; 
-
-exec dbo.DodajKlientaInd "Alford", "Cole", "579652036", "1970-01-04", 0, , "Puerto Rico", "Jenkinsmouth", "90082", "Mohammad Island", 46, 75, "alfordcole@memail.com", "alfordcole", "k6f0rn5o0v7", 0; 
-
-exec dbo.DodajKlientaInd "Jolie", "Schmitt", "076187286", "1964-11-03", 1, 038474, "Faroe Islands", "New Sammy", "87527-6904", "Mittie Parkway", 12, 14, "jolieschmitt@memail.com", "jolieschmitt", "j0o3fuwnntf", 0; 
-
-exec dbo.DodajKlientaInd "Zaria", "Armstrong", "967237065", "1969-08-22", 1, , "Trinidad and Tobago", "Pollichville", "67259-5232", "Haag Field", 36, 98, "zariaarmstrong@memail.com", "zariaarmstrong", "2vkv71uains", 0; 
-
-exec dbo.DodajKlientaInd "Kenneth", "Corwin", "155579363", "1991-08-12", 1, , "Honduras", "Schmittberg", "77063-2279", "Mayer Squares", 36, 32, "kennethcorwin@memail.com", "kennethcorwin", "tre7571xkxe", 0; 
-
-exec dbo.DodajKlientaInd "Jerry", "Osinski", "528447549", "1954-08-23", 0, , "Malawi", "South Freddy", "13127-3588", "Fausto Parks", 19, 33, "jerryosinski@memail.com", "jerryosinski", "na15ord85bn", 0; 
-
-exec dbo.DodajKlientaInd "Neal", "Bayer", "966551474", "1961-06-01", 0, , "Turks and Caicos Islands", "Carterton", "54156-6863", "Triston Place", 1, 89, "nealbayer@memail.com", "nealbayer", "16wgmh1l43s", 0; 
-
-exec dbo.DodajKlientaInd "Joanne", "Dicki", "186218796", "1953-03-23", 0, , "United States of America", "North Liaport", "70767-1665", "O'Kon Trail", 59, 36, "joannedicki@memail.com", "joannedicki", "9byojn6v83", 0; 
-
-exec dbo.DodajKlientaInd "Elva", "Johns", "147760776", "1996-11-10", 0, , "Madagascar", "Emilburgh", "26244-6515", "Greenholt Lane", 57, 27, "elvajohns@memail.com", "elvajohns", "620u0dp9ffw", 0; 
-
-exec dbo.DodajKlientaInd "Ransom", "Hegmann", "178577715", "1993-03-27", 1, 774641, "Holy See (Vatican City State)", "Florianburgh", "63435-8585", "Johanna Cove", 8, 80, "ransomhegmann@memail.com", "ransomhegmann", "gklhp76pmx", 0; 
-
-exec dbo.DodajKlientaInd "Charity", "Gleichner", "862729417", "1972-07-08", 1, , "Latvia", "Deontemouth", "26878", "Leuschke Keys", 61, 73, "charitygleichner@memail.com", "charitygleichner", "soa0qnbxami", 0; 
-
-exec dbo.DodajKlientaInd "Bernita", "Graham", "388241633", "1977-12-27", 0, , "Bhutan", "South Davebury", "52988", "Flavie Mall", 73, 38, "bernitagraham@memail.com", "bernitagraham", "by9pshej4x8", 0; 
-
-exec dbo.DodajKlientaInd "Maryjane", "Jenkins", "413398224", "1993-06-12", 0, 823897, "Tokelau", "East Cecilhaven", "88788", "Anita Place", 45, 75, "maryjanejenkins@memail.com", "maryjanejenkins", "hmzr7x0zrxd", 0; 
-
-exec dbo.DodajKlientaInd "General", "Morissette", "649053398", "1953-12-28", 0, , "Lao People's Democratic Republic", "Josianebury", "64097", "Lemke Canyon", 85, 42, "generalmorissette@memail.com", "generalmorissette", "blsph2eo3ha", 0; 
-
-exec dbo.DodajKlientaInd "Kariane", "Heathcote", "540078454", "1972-03-05", 1, , "Virgin Islands, U.S.", "East Veldahaven", "89684", "Skiles Overpass", 82, 83, "karianeheathcote@memail.com", "karianeheathcote", "bl90p39rdzy", 0; 
-
-exec dbo.DodajKlientaInd "Javon", "Oberbrunner", "318713122", "1995-08-15", 0, , "Sierra Leone", "East Christine", "50834-9101", "Adan Turnpike", 33, 70, "javonoberbrunner@memail.com", "javonoberbrunner", "n1vbvb03w8t", 0; 
-
-exec dbo.DodajKlientaInd "Jasmin", "Kris", "249104814", "1959-04-13", 1, , "Saint Pierre and Miquelon", "New Tremaineshire", "55211", "Collins Center", 76, 46, "jasminkris@memail.com", "jasminkris", "fxnff9tjadd", 0; 
-
-exec dbo.DodajKlientaInd "Gudrun", "Swaniawski", "378626731", "1985-08-21", 0, , "Guyana", "Vladimirshire", "12795-0979", "Jacynthe Harbor", 47, 49, "gudrunswaniawski@memail.com", "gudrunswaniawski", "l4d1o1ocyb3", 0; 
-
-exec dbo.DodajKlientaInd "Mauricio", "Hammes", "516908173", "1987-03-16", 0, , "El Salvador", "Sauermouth", "65535-8726", "Janick Village", 44, 74, "mauriciohammes@memail.com", "mauriciohammes", "xebihwsk29m", 0; 
-
-exec dbo.DodajKlientaInd "Bonnie", "Ratke", "006878465", "1955-11-18", 1, , "Poland", "Koeppburgh", "34743", "Rita Spur", 36, 54, "bonnieratke@memail.com", "bonnieratke", "um6pq9ry88k", 0; 
-
-exec dbo.DodajKlientaInd "Shana", "Skiles", "563242289", "1987-01-10", 1, , "Bahrain", "East Rashawn", "65991", "Schmitt Gardens", 77, 49, "shanaskiles@memail.com", "shanaskiles", "kr3fsn63dv", 0; 
-
-exec dbo.DodajKlientaInd "Domenic", "Schaefer", "471126183", "1955-02-16", 0, , "Guatemala", "Ernafort", "26545-2306", "Blick Roads", 84, 37, "domenicschaefer@memail.com", "domenicschaefer", "oey3fp1cwog", 0; 
-
-exec dbo.DodajKlientaInd "River", "Walker", "389661482", "1958-10-17", 0, , "Ireland", "Alton", "48968-9640", "Leuschke Drive", 25, 28, "riverwalker@memail.com", "riverwalker", "tt45fr7po1x", 0; 
-
-exec dbo.DodajKlientaInd "Lola", "Leannon", "571147575", "1967-03-18", 0, , "Comoros", "South Peyton", "22505-9765", "Felicity Points", 18, 52, "lolaleannon@memail.com", "lolaleannon", "04fqv4izgob", 0; 
-
-exec dbo.DodajKlientaInd "Lukas", "Schuppe", "406596140", "1992-11-15", 1, , "Iraq", "Kasandraland", "75055-6044", "Hessel Spur", 62, 31, "lukasschuppe@memail.com", "lukasschuppe", "o6jrsdetdiw", 0; 
-
-exec dbo.DodajKlientaInd "Serena", "Windler", "208285884", "1961-08-19", 1, , "Mauritania", "East Tatechester", "32601-1457", "Jaquan Haven", 57, 43, "serenawindler@memail.com", "serenawindler", "gqa9v33uded", 0; 
-
-exec dbo.DodajKlientaInd "Kallie", "Heaney", "372644587", "1993-03-21", 1, 707844, "Dominican Republic", "Lake Malcolmtown", "23269-8157", "Rippin Divide", 94, 25, "kallieheaney@memail.com", "kallieheaney", "fjfc5j2c5u1", 0; 
-
-exec dbo.DodajKlientaInd "Ellsworth", "Crona", "642938829", "1959-05-05", 1, , "Myanmar", "New Katelynnland", "78397-8031", "Larson Crossing", 29, 66, "ellsworthcrona@memail.com", "ellsworthcrona", "e7i7mvt9m32", 0; 
-
-exec dbo.DodajKlientaInd "Carolyne", "Koelpin", "656467592", "1966-12-06", 1, , "Costa Rica", "Lake Jamir", "36471-5523", "Emie Views", 78, 76, "carolynekoelpin@memail.com", "carolynekoelpin", "oz6o5ot613x", 0; 
-
-exec dbo.DodajKlientaInd "Justice", "Weber", "687880504", "1970-08-21", 1, , "Niue", "Gregport", "25980-6070", "Keegan Forges", 76, 20, "justiceweber@memail.com", "justiceweber", "zyg5nnvlq4j", 0; 
-
-exec dbo.DodajKlientaInd "Guiseppe", "Lakin", "224853291", "1958-03-03", 1, , "Malawi", "West Bettiechester", "46481-8124", "Amir Shore", 46, 63, "guiseppelakin@memail.com", "guiseppelakin", "fbc9gpjfc5q", 0; 
-
-exec dbo.DodajKlientaInd "Crystal", "Weber", "314860407", "1985-02-10", 1, , "Bosnia and Herzegovina", "Hayeston", "24158-2013", "Schaefer Neck", 76, 31, "crystalweber@memail.com", "crystalweber", "doa7xzia7mk", 0; 
-
-exec dbo.DodajKlientaInd "Candelario", "Hilpert", "381212111", "1996-12-24", 1, , "Djibouti", "Herminialand", "35003", "Filiberto Lock", 35, 72, "candelariohilpert@memail.com", "candelariohilpert", "fgya7im2to1", 0; 
-
-exec dbo.DodajKlientaInd "Coralie", "Brown", "115241092", "1973-10-16", 1, , "Cape Verde", "Danland", "56410-4961", "Fahey Bridge", 23, 87, "coraliebrown@memail.com", "coraliebrown", "7usso1yc9j1", 0; 
-
-exec dbo.DodajKlientaInd "Alva", "Witting", "653931747", "1970-07-21", 0, , "Ecuador", "Sawaynfurt", "96257-6162", "Funk Walk", 22, 78, "alvawitting@memail.com", "alvawitting", "0qqakjslcoe", 0; 
-
-exec dbo.DodajKlientaInd "Myah", "Lindgren", "275584134", "1973-04-29", 1, , "Sudan", "Darrellstad", "49756", "Oberbrunner Islands", 20, 36, "myahlindgren@memail.com", "myahlindgren", "7g2jjgt4w4n", 0; 
-
-exec dbo.DodajKlientaInd "Johnson", "Collier", "942344418", "1981-03-18", 0, , "Turks and Caicos Islands", "New Lawsonview", "38107", "Kenny Passage", 44, 22, "johnsoncollier@memail.com", "johnsoncollier", "6yh6acu4qh9", 0; 
-
-exec dbo.DodajKlientaInd "Kaley", "Herman", "736562581", "1969-05-08", 1, , "Bahamas", "North Delfinaberg", "81341-8239", "Veum Square", 35, 80, "kaleyherman@memail.com", "kaleyherman", "it7t2dod0mr", 0; 
-
-exec dbo.DodajKlientaInd "Ramona", "Sauer", "425121253", "1967-08-27", 0, , "Guyana", "Lake Brooklynborough", "59106-4636", "Ayla Loop", 58, 45, "ramonasauer@memail.com", "ramonasauer", "rqtnx4iweju", 0; 
-
-exec dbo.DodajKlientaInd "Donny", "Bins", "422122981", "1952-03-07", 1, , "Zimbabwe", "Lake Bethelside", "36866-5989", "Glen Lodge", 18, 52, "donnybins@memail.com", "donnybins", "vfr1w64y428", 0; 
-
-exec dbo.DodajKlientaInd "Edward", "Berge", "077710128", "1986-12-29", 1, , "Turkmenistan", "Port Rosendobury", "80806-5624", "Koelpin Cliffs", 62, 94, "edwardberge@memail.com", "edwardberge", "64qe4e0r12", 0; 
-
-exec dbo.DodajKlientaInd "Julian", "Hilpert", "875662907", "1970-07-19", 1, 471152, "Hungary", "East Lizzieshire", "48658", "Orion Prairie", 33, 25, "julianhilpert@memail.com", "julianhilpert", "z8pvxesa3pv", 0; 
-
-exec dbo.DodajKlientaInd "Adell", "Harvey", "492738429", "1955-11-30", 0, , "Brazil", "Dorthaberg", "31239-6976", "Predovic Radial", 24, 99, "adellharvey@memail.com", "adellharvey", "go505iultuy", 0; 
-
-exec dbo.DodajKlientaInd "Adan", "Keeling", "578566844", "1965-01-05", 0, , "Guinea-Bissau", "Reyeshaven", "31804-6765", "Alexandria Knoll", 15, 84, "adankeeling@memail.com", "adankeeling", "983kdfb09z", 0; 
-
-exec dbo.DodajKlientaInd "Shayna", "Wiza", "646557381", "1961-12-31", 1, , "Yemen", "Johannborough", "66586-2949", "Izabella Spurs", 63, 17, "shaynawiza@memail.com", "shaynawiza", "ylsdty7bcjs", 0; 
-
-exec dbo.DodajKlientaInd "Nicolas", "Volkman", "213278241", "1987-11-10", 1, , "Spain", "Rathhaven", "58352", "Lewis Greens", 87, 79, "nicolasvolkman@memail.com", "nicolasvolkman", "57yt4cd2j78", 0; 
-
-exec dbo.DodajKlientaInd "Wilburn", "Swift", "613622514", "1975-07-01", 0, , "Portugal", "West Edythe", "92434", "Walter Village", 97, 64, "wilburnswift@memail.com", "wilburnswift", "e9f288ntgp3", 0; 
-
-exec dbo.DodajKlientaInd "Felipa", "Jakubowski", "356383105", "1975-05-23", 1, , "Namibia", "North Peteport", "67287", "Beatrice Stream", 58, 49, "felipajakubowski@memail.com", "felipajakubowski", "vo87gamo3q6", 0; 
-
-exec dbo.DodajKlientaInd "Urban", "Yundt", "863151679", "1986-08-11", 0, , "Brunei Darussalam", "Brownton", "12573-1509", "Konopelski Street", 13, 16, "urbanyundt@memail.com", "urbanyundt", "h3favp0bdeo", 0; 
-
-exec dbo.DodajKlientaInd "Wilton", "Fahey", "881936682", "1977-04-28", 0, , "Argentina", "South Wilfredoside", "95252-3634", "Marguerite Trafficway", 76, 64, "wiltonfahey@memail.com", "wiltonfahey", "t9hoa8988eb", 0; 
-
-exec dbo.DodajKlientaInd "Lucienne", "Quigley", "218333509", "1968-11-13", 0, , "Haiti", "North Lauretta", "33617-9584", "Borer Highway", 67, 36, "luciennequigley@memail.com", "luciennequigley", "6yi0i499sjz", 0; 
-
-exec dbo.DodajKlientaInd "Jovany", "Gutmann", "743575525", "1973-11-07", 0, , "Saint Helena", "Ellisfurt", "16393", "Breanne Key", 52, 84, "jovanygutmann@memail.com", "jovanygutmann", "w41kenwin7d", 0; 
-
-exec dbo.DodajKlientaInd "Sammie", "Bosco", "208886415", "1989-06-14", 1, , "Mauritius", "Reneeview", "94998", "Dillan Street", 80, 7, "sammiebosco@memail.com", "sammiebosco", "4i0uj5w221c", 0; 
-
-exec dbo.DodajKlientaInd "Tressie", "Schultz", "377527143", "1995-03-18", 0, , "Turks and Caicos Islands", "West Caylamouth", "81559", "Reed Way", 17, 25, "tressieschultz@memail.com", "tressieschultz", "hggzpx7xpvm", 0; 
-
-exec dbo.DodajKlientaInd "Vena", "Schowalter", "973893137", "1994-03-13", 1, , "Liechtenstein", "Maidaport", "11189", "Runte Island", 36, 53, "venaschowalter@memail.com", "venaschowalter", "2b3vr1t8m19", 0; 
-
-exec dbo.DodajKlientaInd "Joaquin", "Deckow", "847035404", "1967-12-23", 1, , "Cyprus", "Adelafort", "26501", "Santina Drives", 12, 49, "joaquindeckow@memail.com", "joaquindeckow", "btld0yc7exj", 0; 
-
-exec dbo.DodajKlientaInd "Anissa", "Abernathy", "976211380", "1970-02-26", 0, , "Rwanda", "North Aminahaven", "66128", "Vivian Heights", 32, 38, "anissaabernathy@memail.com", "anissaabernathy", "nel293llwsn", 0; 
-
-exec dbo.DodajKlientaInd "Junior", "Sporer", "034563729", "1970-03-16", 0, 316111, "Swaziland", "New Kristian", "30004-3398", "Koby Stravenue", 49, 88, "juniorsporer@memail.com", "juniorsporer", "3o145c3zac", 0; 
-
-exec dbo.DodajKlientaInd "Addison", "Gleichner", "175429768", "1980-02-17", 1, , "Jersey", "North Elijahland", "33992", "Jan Port", 17, 79, "addisongleichner@memail.com", "addisongleichner", "kglzgkr2z3w", 0; 
-
-exec dbo.DodajKlientaInd "Pinkie", "Weber", "627319413", "1985-11-04", 0, , "Kiribati", "North Lunaburgh", "60438-6647", "Kathlyn Canyon", 36, 91, "pinkieweber@memail.com", "pinkieweber", "yiv1f4jz4zl", 0; 
-
-exec dbo.DodajKlientaInd "Brycen", "Senger", "980248262", "1958-04-06", 1, , "Nicaragua", "Lednerberg", "19592-0242", "O'Keefe Throughway", 68, 14, "brycensenger@memail.com", "brycensenger", "a2yfwu5v9p7", 0; 
-
-exec dbo.DodajKlientaInd "Hadley", "Lesch", "123470410", "1961-06-12", 1, , "Lebanon", "Armstrongchester", "73300-1621", "Hermina Junctions", 52, 58, "hadleylesch@memail.com", "hadleylesch", "h3xxjeehorm", 0; 
-
-exec dbo.DodajKlientaInd "Vena", "Tillman", "148096914", "1964-10-13", 0, , "Saudi Arabia", "Port Hulda", "81876", "Sabrina Turnpike", 9, 63, "venatillman@memail.com", "venatillman", "mj5b3cqgih7", 0; 
-
-exec dbo.DodajKlientaInd "Emerson", "Hilpert", "667358675", "1995-11-03", 1, , "Belarus", "Goodwinbury", "14786-0350", "Wisoky Land", 97, 33, "emersonhilpert@memail.com", "emersonhilpert", "86qwprclem1", 0; 
-
-exec dbo.DodajKlientaInd "Hester", "VonRueden", "424498093", "1974-12-29", 0, , "Niue", "Lauraberg", "91936-2763", "O'Hara Mills", 53, 94, "hestervonrueden@memail.com", "hestervonrueden", "9sj1swtj3ww", 0; 
-
-exec dbo.DodajKlientaInd "Davin", "Crist", "271893723", "1955-01-21", 0, , "Belize", "Port Timothyburgh", "66817", "Simonis Creek", 94, 85, "davincrist@memail.com", "davincrist", "76x4m3qpj2l", 0; 
-
-exec dbo.DodajKlientaInd "Hellen", "Roberts", "558480575", "1984-03-09", 0, 847653, "Namibia", "North Kayley", "58307-6473", "Koepp Manors", 38, 28, "hellenroberts@memail.com", "hellenroberts", "zmbgsq59yn2", 0; 
-
-exec dbo.DodajKlientaInd "Thomas", "Kihn", "431426620", "1984-10-16", 1, , "Palestinian Territory", "West Felicia", "50892-9880", "McDermott Mission", 63, 49, "thomaskihn@memail.com", "thomaskihn", "bdvvgkhjonl", 0; 
-
-exec dbo.DodajKlientaInd "Morton", "Harvey", "527175661", "1975-09-24", 1, , "Moldova", "Sipesbury", "85100-6054", "Rosemary Camp", 13, 73, "mortonharvey@memail.com", "mortonharvey", "slu1du2w2d3", 0; 
-
-exec dbo.DodajKlientaInd "Monroe", "Stehr", "588408160", "1967-05-10", 1, 962640, "Taiwan", "Lehnermouth", "29970", "Stiedemann Heights", 31, 21, "monroestehr@memail.com", "monroestehr", "jqw8629z8uf", 0; 
-
-exec dbo.DodajKlientaInd "Barry", "Connelly", "616139457", "1978-12-01", 0, , "Estonia", "Padbergmouth", "45505-3078", "Feest Brook", 25, 10, "barryconnelly@memail.com", "barryconnelly", "4nmlhmf1xtj", 0; 
-
-exec dbo.DodajKlientaInd "Merlin", "Sawayn", "081593250", "1967-05-19", 0, , "Mongolia", "Beierberg", "72403-1595", "Micheal Crossing", 86, 68, "merlinsawayn@memail.com", "merlinsawayn", "73as4mgpib", 0; 
-
-exec dbo.DodajKlientaInd "Estel", "Rowe", "222339524", "1951-08-07", 1, , "Pitcairn Islands", "Douglasberg", "75698", "Batz Greens", 73, 26, "estelrowe@memail.com", "estelrowe", "pen1d1834tf", 0; 
-
-exec dbo.DodajKlientaInd "Polly", "Carter", "610417558", "1979-09-01", 1, , "Saint Kitts and Nevis", "Lake Stuartborough", "33140-7306", "Grimes Plains", 66, 84, "pollycarter@memail.com", "pollycarter", "k30kargala4", 0; 
-
-exec dbo.DodajKlientaInd "Alexis", "Harvey", "512155338", "1982-02-28", 1, , "Malaysia", "Lake Dax", "78734", "Cronin Brooks", 21, 25, "alexisharvey@memail.com", "alexisharvey", "qv92f65axud", 0; 
-
-exec dbo.DodajKlientaInd "Henri", "Koch", "692051556", "1955-01-01", 0, , "Egypt", "West Calefort", "80547", "Mann Vista", 32, 84, "henrikoch@memail.com", "henrikoch", "klg3rzdlfd", 0; 
-
-exec dbo.DodajKlientaInd "Cooper", "Boehm", "537687520", "1960-07-10", 0, , "Jamaica", "New Rashawntown", "21905", "Yundt Road", 62, 100, "cooperboehm@memail.com", "cooperboehm", "vps7a4oixuh", 0; 
-
-exec dbo.DodajKlientaInd "Ulices", "Macejkovic", "524693434", "1995-02-22", 0, 358957, "Andorra", "South Maritza", "79689-2527", "Sofia Avenue", 13, 58, "ulicesmacejkovic@memail.com", "ulicesmacejkovic", "9z0fcuhklbk", 0; 
-
-exec dbo.DodajKlientaInd "Savion", "Hudson", "111732035", "1951-04-05", 0, , "Macedonia", "South Demarcus", "13682", "Treutel Tunnel", 21, 75, "savionhudson@memail.com", "savionhudson", "0mtkflbn38c", 0; 
-
-exec dbo.DodajKlientaInd "Joanny", "Ritchie", "845283141", "1954-06-03", 0, , "Monaco", "Hillardland", "23851", "Kaitlin Wall", 39, 17, "joannyritchie@memail.com", "joannyritchie", "ni1b0xxcont", 0; 
-
-exec dbo.DodajKlientaInd "Hassie", "Funk", "143294449", "1992-05-27", 1, 719866, "Thailand", "Darefort", "23427", "Gwendolyn Park", 29, 37, "hassiefunk@memail.com", "hassiefunk", "q46ejnvhfdy", 0; 
-
-exec dbo.DodajKlientaInd "Giles", "Wilderman", "037854677", "1952-09-11", 1, , "Saint Lucia", "South Tristinton", "45999-1703", "Greenholt Plaza", 87, 42, "gileswilderman@memail.com", "gileswilderman", "cyzn87eglyj", 0; 
-
-exec dbo.DodajKlientaInd "Gail", "Aufderhar", "224241430", "1966-11-22", 1, , "Algeria", "Presleyview", "87249", "Margot Crescent", 29, 54, "gailaufderhar@memail.com", "gailaufderhar", "bhpl98kon7m", 0; 
-
-exec dbo.DodajKlientaInd "Genoveva", "Stehr", "132123484", "1951-04-06", 0, , "British Indian Ocean Territory (Chagos Archipelago)", "Stoltenbergfurt", "52449", "Al Street", 26, 30, "genovevastehr@memail.com", "genovevastehr", "05xfm3euhpb", 0; 
-
-exec dbo.DodajKlientaInd "Charlene", "Rosenbaum", "460551674", "1964-09-06", 1, , "Antigua and Barbuda", "South Enola", "35292-5350", "Boyle Ferry", 7, 36, "charlenerosenbaum@memail.com", "charlenerosenbaum", "y8dbqdvpecn", 0; 
-
-exec dbo.DodajKlientaInd "Lexus", "Ledner", "727262589", "1995-06-19", 0, , "Christmas Island", "Lake Kentonside", "14503", "Carmella Fort", 22, 83, "lexusledner@memail.com", "lexusledner", "dr4wo20z46u", 0; 
-
-exec dbo.DodajKlientaInd "Audra", "Stehr", "199451538", "1970-09-07", 0, , "Christmas Island", "East Vicenta", "44207-1930", "Cronin Estate", 8, 31, "audrastehr@memail.com", "audrastehr", "kqctcvx2m9q", 0; 
-
-exec dbo.DodajKlientaInd "Madisen", "Hudson", "186959118", "1967-03-21", 1, , "Greenland", "North Charitybury", "39892", "Hauck Springs", 83, 98, "madisenhudson@memail.com", "madisenhudson", "0krgk8psaty", 0; 
-
-exec dbo.DodajKlientaInd "Elyssa", "Hauck", "262209474", "1979-04-29", 1, , "Sierra Leone", "West Bernitabury", "28987", "Lizeth Viaduct", 29, 87, "elyssahauck@memail.com", "elyssahauck", "2udii5u3hqf", 0; 
-
-exec dbo.DodajKlientaInd "Bo", "O'Conner", "369385020", "1985-01-08", 0, , "American Samoa", "Marleefurt", "97799-0966", "Keven Trafficway", 70, 62, "boo'conner@memail.com", "boo'conner", "8b6srzhvbuj", 0; 
-
-exec dbo.DodajKlientaInd "Constantin", "Wuckert", "103786765", "1958-02-04", 0, , "Gambia", "Albertochester", "71696-3442", "Prohaska Junction", 92, 16, "constantinwuckert@memail.com", "constantinwuckert", "oarutqeubsi", 0; 
-
-exec dbo.DodajKlientaInd "Luz", "Daniel", "417734655", "1990-06-06", 1, , "Ghana", "Kianport", "93217", "Pouros Lake", 48, 85, "luzdaniel@memail.com", "luzdaniel", "9dh2isv6a0z", 0; 
-
-exec dbo.DodajKlientaInd "Arvilla", "Cronin", "822917631", "1996-12-04", 1, , "Central African Republic", "North Kayleyhaven", "58032", "Huels Well", 42, 27, "arvillacronin@memail.com", "arvillacronin", "bw71hcrb94o", 0; 
-
-exec dbo.DodajKlientaInd "Triston", "Larkin", "367572908", "1962-05-31", 0, , "Sierra Leone", "Drewmouth", "18423", "Denesik Vista", 43, 56, "tristonlarkin@memail.com", "tristonlarkin", "75zjpba188q", 0; 
-
-exec dbo.DodajKlientaInd "Mollie", "Kerluke", "655587214", "1982-02-09", 0, , "Madagascar", "East Hugh", "11328-5456", "Wisozk Cliff", 98, 2, "molliekerluke@memail.com", "molliekerluke", "5frbw8y0flz", 0; 
-
-exec dbo.DodajKlientaInd "Joseph", "Swaniawski", "753242853", "1985-07-18", 0, , "Italy", "East Christelle", "12837-2141", "Fleta River", 9, 36, "josephswaniawski@memail.com", "josephswaniawski", "3hod6e2t4y2", 0; 
-
-exec dbo.DodajKlientaInd "Shanie", "Heidenreich", "113335528", "1963-10-22", 0, , "Tonga", "Weimannmouth", "46099", "Lang Prairie", 16, 27, "shanieheidenreich@memail.com", "shanieheidenreich", "r0rfr2pnbrd", 0; 
-
-exec dbo.DodajKlientaInd "Felicia", "Durgan", "937296681", "1982-06-19", 0, , "Sao Tome and Principe", "Port Brianchester", "74346-8311", "Torphy Fields", 70, 69, "feliciadurgan@memail.com", "feliciadurgan", "27j3gcsh2u2", 0; 
-
-exec dbo.DodajKlientaInd "Shanelle", "Gleason", "187595560", "1956-06-18", 0, 255172, "Macedonia", "North Winonashire", "77215-5282", "Ferry Common", 43, 81, "shanellegleason@memail.com", "shanellegleason", "2mtqfejg6wv", 0; 
-
-exec dbo.DodajKlientaInd "Angie", "Metz", "231123771", "1986-07-15", 0, , "Macedonia", "West Monserratstad", "38810-2135", "Bruen Well", 82, 49, "angiemetz@memail.com", "angiemetz", "b181zx0lf5q", 0; 
-
-exec dbo.DodajKlientaInd "Adrian", "Medhurst", "683484053", "1968-07-04", 0, 762445, "Brunei Darussalam", "Vidalshire", "84530", "Garland Landing", 23, 48, "adrianmedhurst@memail.com", "adrianmedhurst", "177v2bb9gsm", 0; 
-
-exec dbo.DodajKlientaInd "Elvis", "Streich", "147942409", "1971-01-05", 0, , "Peru", "Bashirianmouth", "20024", "Nellie Knoll", 62, 15, "elvisstreich@memail.com", "elvisstreich", "ex0lsg9inmy", 0; 
-
-exec dbo.DodajKlientaInd "Henri", "Schumm", "547594461", "1986-01-19", 1, , "Lithuania", "Schmittberg", "62144", "Cordia River", 39, 64, "henrischumm@memail.com", "henrischumm", "rk18x0iea22", 0; 
-
-exec dbo.DodajKlientaInd "Virgil", "Prohaska", "516899414", "1972-01-29", 0, , "Mauritius", "Bogisichhaven", "95814-2161", "Ratke Flat", 55, 86, "virgilprohaska@memail.com", "virgilprohaska", "qmpf2mea2gc", 0; 
-
-exec dbo.DodajKlientaInd "Deshawn", "Considine", "821619188", "1982-05-12", 0, , "Bahrain", "South Bud", "48096-0015", "Asha Glen", 64, 23, "deshawnconsidine@memail.com", "deshawnconsidine", "yd27qqsiteg", 0; 
-
-exec dbo.DodajKlientaInd "Ramona", "Langworth", "577737725", "1979-12-14", 0, , "Cambodia", "Dayanaberg", "59205-5170", "Effertz Lakes", 69, 3, "ramonalangworth@memail.com", "ramonalangworth", "r8az5tqrzbc", 0; 
-
-exec dbo.DodajKlientaInd "Nash", "Zieme", "894013854", "1956-03-14", 0, , "Lao People's Democratic Republic", "East Myles", "55330", "Rae Rapids", 62, 63, "nashzieme@memail.com", "nashzieme", "omuen2bp3fv", 0; 
-
-exec dbo.DodajKlientaInd "Juliet", "Hodkiewicz", "269378282", "1968-03-23", 0, 338407, "Sudan", "East Dina", "99942", "Schneider Lakes", 68, 98, "juliethodkiewicz@memail.com", "juliethodkiewicz", "eqc1uehmsj4", 0; 
-
-exec dbo.DodajKlientaInd "Simone", "Murazik", "792044228", "1975-09-28", 1, , "Tanzania", "East Jerry", "17424", "Kacey Crossing", 17, 3, "simonemurazik@memail.com", "simonemurazik", "74vc0e374be", 0; 
-
-exec dbo.DodajKlientaInd "Rahsaan", "Kautzer", "611078020", "1975-04-14", 1, , "Syrian Arab Republic", "North Stantonfort", "88392", "Valentina Points", 19, 77, "rahsaankautzer@memail.com", "rahsaankautzer", "ykgbvm4b6j5", 0; 
-
-exec dbo.DodajKlientaInd "Chyna", "Kiehn", "223192580", "1987-04-15", 1, , "Peru", "Kingview", "81389", "Adele Islands", 94, 86, "chynakiehn@memail.com", "chynakiehn", "jvmxc8r7h97", 0; 
-
-exec dbo.DodajKlientaInd "Emmanuelle", "Kihn", "644645216", "1980-12-05", 1, , "Guinea", "New Miashire", "36504-0236", "Winston Circle", 10, 46, "emmanuellekihn@memail.com", "emmanuellekihn", "13qga3ms7u3", 0; 
-
-exec dbo.DodajKlientaInd "Enos", "Adams", "875893025", "1955-01-31", 0, , "Cayman Islands", "Tavaresshire", "38810-6188", "Kiana Bypass", 50, 55, "enosadams@memail.com", "enosadams", "r0ls17rgeqy", 0; 
-
-exec dbo.DodajKlientaInd "Marta", "Bartoletti", "784241088", "1994-09-20", 0, , "Christmas Island", "Lake Rosanna", "24840", "Roob Way", 53, 22, "martabartoletti@memail.com", "martabartoletti", "bnmaodgtx7x", 0; 
-
-exec dbo.DodajKlientaInd "Baby", "Russel", "943123274", "1962-02-15", 0, , "Grenada", "New Kirstin", "56322-0660", "Chanelle Green", 43, 83, "babyrussel@memail.com", "babyrussel", "dylr8uba9ee", 0; 
-
-exec dbo.DodajKlientaInd "Jackie", "Lockman", "918141332", "1990-10-06", 1, , "Philippines", "Port Kirstinside", "21969-7249", "Destiny Trafficway", 85, 53, "jackielockman@memail.com", "jackielockman", "i6u8vm6vmuf", 0; 
-
-exec dbo.DodajKlientaInd "Adam", "West", "678989086", "1969-10-02", 0, , "Tonga", "Schmelerland", "63458", "Dayton Turnpike", 77, 33, "adamwest@memail.com", "adamwest", "qf8134wzwmz", 0; 
-
-exec dbo.DodajKlientaInd "Trisha", "Heller", "875812857", "1951-10-12", 0, , "New Zealand", "North Waylonside", "43722-9051", "Bechtelar Ports", 71, 23, "trishaheller@memail.com", "trishaheller", "yba3dgebuf", 0; 
-
-exec dbo.DodajKlientaInd "Reina", "Purdy", "965503716", "1995-05-26", 0, , "Congo", "West Janiceborough", "54097", "Predovic Estate", 83, 7, "reinapurdy@memail.com", "reinapurdy", "2eyuyz18x8u", 0; 
-
-exec dbo.DodajKlientaInd "Danyka", "Fadel", "765610986", "1959-07-19", 0, , "United States of America", "South Marguerite", "67552", "Felicity Inlet", 79, 29, "danykafadel@memail.com", "danykafadel", "1lrq1gvoz8a", 0; 
-
-exec dbo.DodajKlientaInd "Buford", "Shields", "981481672", "1955-05-26", 0, , "Niue", "East Johnnymouth", "79348", "Genoveva Meadows", 68, 23, "bufordshields@memail.com", "bufordshields", "8ox6k6kx9dz", 0; 
-
-exec dbo.DodajKlientaInd "Alivia", "Jones", "544871522", "1960-11-22", 0, , "Vanuatu", "Ornside", "77708-7695", "Reynold Lock", 23, 38, "aliviajones@memail.com", "aliviajones", "r1n0aap4xfd", 0; 
-
-exec dbo.DodajKlientaInd "Francis", "Stehr", "511206461", "1989-07-25", 0, , "Venezuela", "New Earl", "54898", "Ward Light", 11, 78, "francisstehr@memail.com", "francisstehr", "bmqhg8m4kt6", 0; 
-
-exec dbo.DodajKlientaInd "Weldon", "Greenfelder", "438246616", "1991-03-23", 0, , "Botswana", "Starkfurt", "64272", "Tiffany Ways", 96, 84, "weldongreenfelder@memail.com", "weldongreenfelder", "rmg1qe7nrf5", 0; 
-
-exec dbo.DodajKlientaInd "Deontae", "Kris", "677211264", "1983-11-02", 0, , "Equatorial Guinea", "East Lester", "74498-3317", "Cruz Forest", 31, 10, "deontaekris@memail.com", "deontaekris", "lacajaiipk2", 0; 
-
-exec dbo.DodajKlientaInd "Claude", "Leannon", "676820481", "1960-10-25", 0, , "Norway", "Johnnieview", "28278-0905", "Carmel Courts", 57, 51, "claudeleannon@memail.com", "claudeleannon", "cuzlajhf2zo", 0; 
-
-exec dbo.DodajKlientaInd "Liza", "Satterfield", "521244161", "1986-03-15", 0, , "Senegal", "New Osbornefurt", "35335-0977", "Bednar Ramp", 77, 72, "lizasatterfield@memail.com", "lizasatterfield", "kp4s6gtfxaz", 0; 
-
-exec dbo.DodajKlientaInd "Maeve", "Hayes", "451844882", "1974-12-02", 0, , "China", "Gloverview", "78796", "Nolan Tunnel", 45, 51, "maevehayes@memail.com", "maevehayes", "uggpaah3tna", 0; 
-
-exec dbo.DodajKlientaInd "Franz", "Bosco", "764137346", "1976-01-16", 1, , "Holy See (Vatican City State)", "South Emilio", "26429-4628", "Macejkovic Plaza", 6, 92, "franzbosco@memail.com", "franzbosco", "bv0yexoffrj", 0; 
-
-exec dbo.DodajKlientaInd "Benny", "Jast", "851481123", "1985-05-02", 0, 195727, "Barbados", "Port Josiah", "80427-2728", "Baby Walks", 74, 89, "bennyjast@memail.com", "bennyjast", "5yl0ndoqv8y", 0; 
-
-exec dbo.DodajKlientaInd "Evan", "Lockman", "521215241", "1987-11-13", 1, , "Isle of Man", "West Rubieberg", "44951", "Bartoletti Ports", 32, 59, "evanlockman@memail.com", "evanlockman", "ah13in2vr7v", 0; 
-
-exec dbo.DodajKlientaInd "Afton", "Erdman", "373947478", "1975-07-26", 1, , "Germany", "Lake Michelle", "38480", "Annabell Crossing", 55, 33, "aftonerdman@memail.com", "aftonerdman", "7tvhruktfmn", 0; 
-
-exec dbo.DodajKlientaInd "Hollis", "Hane", "842187151", "1967-04-08", 1, , "Bolivia", "Port Linneaville", "23464-4217", "Pacocha Centers", 53, 82, "hollishane@memail.com", "hollishane", "ef6dejgnasr", 0; 
-
-exec dbo.DodajKlientaInd "Chadd", "Stehr", "697359481", "1993-11-18", 0, , "Cambodia", "Kayleighport", "35131-6280", "Farrell Mews", 16, 7, "chaddstehr@memail.com", "chaddstehr", "5gwqguiqsv", 0; 
-
-exec dbo.DodajKlientaInd "Syble", "Hermann", "301405129", "1985-09-04", 1, , "Kuwait", "Myronshire", "23670-4046", "Herminia Road", 34, 59, "syblehermann@memail.com", "syblehermann", "t1my4zsudco", 0; 
-
-exec dbo.DodajKlientaInd "Lennie", "Ullrich", "175565895", "1980-11-22", 0, , "Macao", "Lake Stanfordhaven", "91895-4652", "Hansen Mission", 46, 27, "lennieullrich@memail.com", "lennieullrich", "wdhickgs1da", 0; 
-
-exec dbo.DodajKlientaInd "Zakary", "Kiehn", "882614963", "1990-07-31", 0, , "Gibraltar", "East Rozellaburgh", "26941-9538", "Hane Flats", 37, 35, "zakarykiehn@memail.com", "zakarykiehn", "dng4h9ld40l", 0; 
-
-exec dbo.DodajKlientaInd "Sofia", "Tromp", "519063026", "1969-01-09", 1, 326885, "Kenya", "Strosinburgh", "18277", "Olson Extension", 55, 23, "sofiatromp@memail.com", "sofiatromp", "ycnb137fkxi", 0; 
-
-exec dbo.DodajKlientaInd "Tressie", "Bins", "944151504", "1969-05-27", 0, , "Philippines", "Emardstad", "61264-7173", "Virgil Ranch", 35, 76, "tressiebins@memail.com", "tressiebins", "41p9z0oovmu", 0; 
-
-exec dbo.DodajKlientaInd "Manley", "Friesen", "528894482", "1968-11-29", 0, 780149, "Tunisia", "Davisfort", "48274", "Fred Circles", 16, 48, "manleyfriesen@memail.com", "manleyfriesen", "a79bguozeqj", 0; 
-
-exec dbo.DodajKlientaInd "Otto", "Runolfsdottir", "544021703", "1973-02-03", 1, , "Singapore", "New Dovie", "91695", "Langworth Gateway", 77, 9, "ottorunolfsdottir@memail.com", "ottorunolfsdottir", "vk9b633qcou", 0; 
-
-exec dbo.DodajKlientaInd "Toy", "Waelchi", "425643797", "1973-09-24", 0, , "Cook Islands", "North Javonshire", "90474-3456", "Cremin Avenue", 97, 57, "toywaelchi@memail.com", "toywaelchi", "4kte5e10mkj", 0; 
-
-exec dbo.DodajKlientaInd "Carlotta", "Boyer", "366216886", "1971-01-16", 0, , "Kazakhstan", "Schmidtchester", "44577", "Joseph Plains", 3, 36, "carlottaboyer@memail.com", "carlottaboyer", "olrys3shmdv", 0; 
-
-exec dbo.DodajKlientaInd "Elyssa", "Marvin", "508373884", "1976-09-30", 0, , "Bahrain", "West Daren", "91890", "Demetris Roads", 69, 42, "elyssamarvin@memail.com", "elyssamarvin", "6kzcfmylour", 0; 
-
-exec dbo.DodajKlientaInd "Mariane", "Bruen", "518456224", "1990-10-06", 1, 101326, "Poland", "South Jeromestad", "45953-0887", "Beer Prairie", 51, 77, "marianebruen@memail.com", "marianebruen", "9rr5xz111zd", 0; 
-
-exec dbo.DodajKlientaInd "Narciso", "Goldner", "678410512", "1969-10-17", 0, , "Uzbekistan", "East Pipermouth", "58460", "Abshire Parks", 25, 36, "narcisogoldner@memail.com", "narcisogoldner", "7z73wygca7x", 0; 
-
-exec dbo.DodajKlientaInd "Marion", "Hane", "351764793", "1970-12-27", 0, , "Taiwan", "Port Eliseo", "29294-3366", "Albina Prairie", 42, 7, "marionhane@memail.com", "marionhane", "7owked6y1g9", 0; 
-
-exec dbo.DodajKlientaInd "Rudy", "Gleichner", "888214278", "1953-08-19", 1, , "Congo", "Port Novella", "52976", "Kautzer Street", 49, 82, "rudygleichner@memail.com", "rudygleichner", "hwxl4pl1qe2", 0; 
-
-exec dbo.DodajKlientaInd "Betsy", "Murray", "941839367", "1979-09-27", 1, , "Grenada", "Lake Connorshire", "79299-3883", "Amaya Grove", 48, 19, "betsymurray@memail.com", "betsymurray", "5kmyjuzql03", 0; 
-
-exec dbo.DodajKlientaInd "Myra", "Flatley", "283876576", "1956-08-06", 1, , "Faroe Islands", "Lake Evelynberg", "95452-0417", "Presley Crescent", 43, 40, "myraflatley@memail.com", "myraflatley", "u7zzt4wv6kg", 0; 
-
-exec dbo.DodajKlientaInd "Janie", "Lueilwitz", "851077293", "1972-03-17", 1, , "Sri Lanka", "North Breana", "18142", "Ward Stream", 75, 71, "janielueilwitz@memail.com", "janielueilwitz", "lhfhlru2yjf", 0; 
-
-exec dbo.DodajKlientaInd "Mafalda", "Weimann", "884407534", "1994-12-06", 1, , "Faroe Islands", "Simoneport", "30179", "Morissette Lake", 21, 21, "mafaldaweimann@memail.com", "mafaldaweimann", "awlolvilpbb", 0; 
-
-exec dbo.DodajKlientaInd "Darrin", "Kessler", "144923648", "1982-11-04", 1, , "Cayman Islands", "Franeckitown", "88425-8242", "Boyer Pike", 21, 62, "darrinkessler@memail.com", "darrinkessler", "j8vrhom8bhy", 0; 
-
-exec dbo.DodajKlientaInd "Maxine", "Gusikowski", "640742230", "1962-06-23", 0, , "Puerto Rico", "East Juvenal", "10669-2317", "Rowan Islands", 28, 25, "maxinegusikowski@memail.com", "maxinegusikowski", "lhdt5g7eg4a", 0; 
-
-exec dbo.DodajKlientaInd "Laisha", "Ryan", "061470581", "1983-04-28", 0, , "Botswana", "New Lynnside", "81416-0351", "Wisozk Corners", 33, 89, "laisharyan@memail.com", "laisharyan", "tdaf228nzf4", 0; 
-
-exec dbo.DodajKlientaInd "Jean", "Roberts", "764561595", "1983-12-09", 0, , "United Kingdom", "South Katarina", "88529-1428", "Wehner Shores", 4, 20, "jeanroberts@memail.com", "jeanroberts", "wcdbar37ys6", 0; 
-
-exec dbo.DodajKlientaInd "Susie", "Heathcote", "644355639", "1952-03-12", 1, 247558, "Jordan", "New Floridashire", "87327-3862", "Emmitt Forest", 75, 86, "susieheathcote@memail.com", "susieheathcote", "i9suiq9hqdp", 0; 
-
-exec dbo.DodajKlientaInd "Judy", "Streich", "744165059", "1953-07-06", 1, , "Kyrgyz Republic", "South Gracielaview", "86376-5384", "Zander Mountains", 16, 1, "judystreich@memail.com", "judystreich", "utezc624pvo", 0; 
-
-exec dbo.DodajKlientaInd "Dolores", "Upton", "088855307", "1953-01-26", 1, , "Romania", "North Myrtis", "14399", "Eloy Roads", 27, 6, "doloresupton@memail.com", "doloresupton", "qhcv8hcfam3", 0; 
-
-exec dbo.DodajKlientaInd "Winnifred", "Lind", "443663885", "1964-06-25", 0, , "Mongolia", "Langshire", "89580-5465", "Clay Springs", 83, 32, "winnifredlind@memail.com", "winnifredlind", "9o7mo8adi2f", 0; 
-
-exec dbo.DodajKlientaInd "Virginia", "Prosacco", "245438760", "1951-11-14", 0, , "Turkey", "Nyahfort", "21436", "Tia Road", 43, 54, "virginiaprosacco@memail.com", "virginiaprosacco", "jxkdv7rzgxd", 0; 
-
-exec dbo.DodajKlientaInd "Dashawn", "Von", "818202868", "1967-04-15", 1, , "Romania", "Buckridgechester", "45858-7220", "Damien Circles", 85, 92, "dashawnvon@memail.com", "dashawnvon", "gno6eeemzsv", 0; 
-
-exec dbo.DodajKlientaInd "Ronny", "Kihn", "111690593", "1990-09-27", 1, 431474, "Latvia", "New Reynoldfurt", "17272-7247", "Luettgen Islands", 8, 47, "ronnykihn@memail.com", "ronnykihn", "um6hjbv2go3", 0; 
-
-exec dbo.DodajKlientaInd "Emmalee", "Cassin", "411440714", "1983-11-12", 0, , "Myanmar", "East Godfrey", "36149-7977", "Arlo Valleys", 23, 19, "emmaleecassin@memail.com", "emmaleecassin", "8er4z4qoem2", 0; 
-
-exec dbo.DodajKlientaInd "Orville", "Dare", "857017658", "1977-02-05", 0, , "New Caledonia", "Jacobsfort", "30892-0887", "Zieme Glen", 49, 55, "orvilledare@memail.com", "orvilledare", "ojjh1a4yji1", 0; 
-
-exec dbo.DodajKlientaInd "Kaleigh", "Prohaska", "153193646", "1971-09-25", 1, , "Afghanistan", "South Hugh", "33628-2856", "Haskell Lakes", 13, 42, "kaleighprohaska@memail.com", "kaleighprohaska", "lce92un5nn7", 0; 
-
-exec dbo.DodajKlientaInd "Danielle", "Schinner", "146275243", "1950-10-28", 1, , "Lao People's Democratic Republic", "West Alainashire", "46454", "Bradley Corner", 34, 55, "danielleschinner@memail.com", "danielleschinner", "8y9ol3dkinu", 0; 
-
-exec dbo.DodajKlientaInd "Elta", "Koch", "726146805", "1972-09-27", 1, 528012, "Bangladesh", "Karolannfurt", "32226", "Brown Hill", 15, 5, "eltakoch@memail.com", "eltakoch", "vjohlpgbmw8", 0; 
-
-exec dbo.DodajKlientaInd "Immanuel", "Bode", "398334961", "1953-03-26", 1, , "Poland", "Lake Edgarmouth", "41425-4150", "Collins Turnpike", 44, 62, "immanuelbode@memail.com", "immanuelbode", "8ian8fpx801", 0; 
-
-exec dbo.DodajKlientaInd "Lilliana", "Pagac", "074127963", "1968-12-06", 0, , "Moldova", "Konopelskiville", "16073-1796", "Ottilie Shoals", 28, 84, "lillianapagac@memail.com", "lillianapagac", "mpe48p3yg0i", 0; 
-
-exec dbo.DodajKlientaInd "Eryn", "Mraz", "384177885", "1993-09-01", 1, , "Kenya", "North Myah", "88624", "Ara Garden", 44, 39, "erynmraz@memail.com", "erynmraz", "rxlfksdbba2", 0; 
-
-exec dbo.DodajKlientaInd "Jabari", "Muller", "892772676", "1976-07-23", 1, , "Cambodia", "Port Anibal", "73248-9770", "Stacey Knoll", 14, 19, "jabarimuller@memail.com", "jabarimuller", "fnd9epzhqhu", 0; 
-
-exec dbo.DodajKlientaInd "Jaylen", "Casper", "459176340", "1982-07-01", 1, , "Saudi Arabia", "South Enos", "73502-3072", "Oral Meadows", 78, 73, "jaylencasper@memail.com", "jaylencasper", "mi1jornygsg", 0; 
-
-exec dbo.DodajKlientaInd "Celine", "Hartmann", "587003137", "1957-10-10", 0, , "Singapore", "Destinyfort", "19910", "Harris Neck", 82, 43, "celinehartmann@memail.com", "celinehartmann", "upah5hfoatr", 0; 
-
-exec dbo.DodajKlientaInd "Ida", "Pfeffer", "625855464", "1988-10-28", 1, , "Niger", "East Timmyhaven", "38938", "Runolfsdottir Mountain", 72, 72, "idapfeffer@memail.com", "idapfeffer", "z141saqgzqo", 0; 
-
-exec dbo.DodajKlientaInd "Ernestina", "Gorczany", "302647823", "1996-12-19", 0, 197413, "Trinidad and Tobago", "Lake Emilyburgh", "13669-3779", "Soledad Meadow", 13, 19, "ernestinagorczany@memail.com", "ernestinagorczany", "yzv9bh5hsw", 0; 
-
-exec dbo.DodajKlientaInd "Freda", "Crona", "901177085", "1969-02-14", 0, , "Senegal", "North Rustychester", "62094-8008", "Lakin Station", 32, 68, "fredacrona@memail.com", "fredacrona", "r9ifo15qavt", 0; 
-
-exec dbo.DodajKlientaInd "Bernardo", "Muller", "378605632", "1962-10-03", 0, , "Angola", "Lake Aileen", "47217", "Florence Mews", 67, 74, "bernardomuller@memail.com", "bernardomuller", "b9qvc39virc", 0; 
-
-exec dbo.DodajKlientaInd "Cesar", "McCullough", "268405816", "1994-02-01", 0, , "Micronesia", "Mathildeville", "64894-3008", "Ilene Stravenue", 95, 81, "cesarmccullough@memail.com", "cesarmccullough", "9bnkxrifzjr", 0; 
-
-exec dbo.DodajKlientaInd "Merlin", "Bahringer", "871546109", "1996-10-17", 0, , "Mexico", "Handton", "70052", "Stroman Pike", 5, 63, "merlinbahringer@memail.com", "merlinbahringer", "qs5u38334nf", 0; 
-
-exec dbo.DodajKlientaInd "Nikolas", "Collins", "555377853", "1975-05-20", 0, , "San Marino", "West Nettie", "94915-9451", "Shannon River", 13, 75, "nikolascollins@memail.com", "nikolascollins", "84uj5eu5gi0", 0; 
-
-exec dbo.DodajKlientaInd "Caesar", "Flatley", "103057584", "1976-05-05", 1, , "French Southern Territories", "Howellstad", "20054", "Murazik Field", 33, 79, "caesarflatley@memail.com", "caesarflatley", "qj6lfyti7fa", 0; 
-
-exec dbo.DodajKlientaInd "Cornell", "Rosenbaum", "501328949", "1983-08-25", 1, , "Ethiopia", "Lake Lourdesstad", "54100", "Purdy Roads", 57, 71, "cornellrosenbaum@memail.com", "cornellrosenbaum", "d6w2o636ck8", 0; 
-
-exec dbo.DodajKlientaInd "General", "Howell", "048473164", "1982-12-16", 0, , "Sudan", "South Opalport", "26243", "Hauck Squares", 67, 67, "generalhowell@memail.com", "generalhowell", "nx9hdu7cbqb", 0; 
-
-exec dbo.DodajKlientaInd "Simone", "Kihn", "495896774", "1990-07-19", 0, , "Mayotte", "Kozeyshire", "18675-9135", "Nathen Shores", 26, 35, "simonekihn@memail.com", "simonekihn", "prsnem29cp0", 0; 
-
-exec dbo.DodajKlientaInd "Isabell", "Spinka", "363794446", "1960-05-19", 1, , "New Zealand", "Port Cloydmouth", "82081", "Edna Trail", 18, 87, "isabellspinka@memail.com", "isabellspinka", "63mrfmj5pg0", 0; 
-
-exec dbo.DodajKlientaInd "Valentine", "Beer", "357235813", "1979-10-06", 0, , "Northern Mariana Islands", "New Dominiquemouth", "91090", "Zoila Inlet", 24, 53, "valentinebeer@memail.com", "valentinebeer", "c1h3kitq2nk", 0; 
-
-exec dbo.DodajKlientaInd "Luther", "Carroll", "556698741", "1995-11-04", 0, , "United Arab Emirates", "Katrinaside", "22653", "Sandrine Trafficway", 71, 85, "luthercarroll@memail.com", "luthercarroll", "2rikojvqdbf", 0; 
-
-exec dbo.DodajKlientaInd "Elinor", "Schuppe", "039134641", "1989-05-26", 0, , "Yemen", "Lake Domenicaburgh", "40107", "Jasmin Spurs", 17, 47, "elinorschuppe@memail.com", "elinorschuppe", "ztxwett5f1h", 0; 
-
-exec dbo.DodajKlientaInd "Lenna", "Lemke", "788337031", "1984-07-05", 1, , "Kazakhstan", "Gilesville", "92525", "Hansen Branch", 60, 66, "lennalemke@memail.com", "lennalemke", "f2r7y434o08", 0; 
-
-exec dbo.DodajKlientaInd "Wendy", "Veum", "731746182", "1974-06-25", 1, , "Singapore", "East Fosterville", "90229", "Schamberger Creek", 17, 34, "wendyveum@memail.com", "wendyveum", "7hidcbsa0wp", 0; 
-
-exec dbo.DodajKlientaInd "Giovani", "Gorczany", "337970314", "1964-08-21", 0, 505335, "Madagascar", "Wehnerton", "17886", "Kole Pike", 79, 18, "giovanigorczany@memail.com", "giovanigorczany", "sovc873h1x0", 0; 
-
-exec dbo.DodajKlientaInd "Jayson", "Doyle", "355737922", "1975-03-29", 1, 791823, "New Zealand", "East Bonnie", "49690", "Lavern Mission", 91, 19, "jaysondoyle@memail.com", "jaysondoyle", "qfu64780bin", 0; 
-
-exec dbo.DodajKlientaInd "Montana", "Champlin", "775903320", "1978-08-24", 0, , "Sierra Leone", "East Coltenmouth", "34067-3120", "Merritt Land", 87, 87, "montanachamplin@memail.com", "montanachamplin", "mrdln9y5ls0", 0; 
-
-exec dbo.DodajKlientaInd "Gwen", "Murphy", "670542958", "1993-09-29", 1, , "Lao People's Democratic Republic", "West Adelia", "33313-0648", "Nikolaus Street", 48, 33, "gwenmurphy@memail.com", "gwenmurphy", "52qw3lunp9b", 0; 
-
-exec dbo.DodajKlientaInd "Elody", "Murray", "855669957", "1963-06-18", 0, , "Saint Lucia", "Port Amari", "34582", "Hallie Lake", 95, 69, "elodymurray@memail.com", "elodymurray", "jac0dslb3di", 0; 
-
-exec dbo.DodajKlientaInd "Kiera", "Stamm", "321201952", "1964-04-11", 1, , "Cayman Islands", "Alphonsoberg", "74985", "Casimir Parkways", 84, 40, "kierastamm@memail.com", "kierastamm", "6t7m5n5l9a0", 0; 
-
-exec dbo.DodajKlientaInd "Joyce", "Hilpert", "231362828", "1964-11-25", 1, , "Nepal", "Bechtelarside", "23210-4734", "Jordane Isle", 46, 84, "joycehilpert@memail.com", "joycehilpert", "25xquip5srz", 0; 
-
-exec dbo.DodajKlientaInd "Fritz", "Miller", "358201413", "1978-08-28", 1, , "Mayotte", "South Terrell", "37131-8145", "Kristy Turnpike", 89, 32, "fritzmiller@memail.com", "fritzmiller", "9dvagqxvov3", 0; 
-
-exec dbo.DodajKlientaInd "Laisha", "Lueilwitz", "367143988", "1992-12-06", 1, , "Lebanon", "Lake Lewiston", "24728", "Mallie Drive", 63, 15, "laishalueilwitz@memail.com", "laishalueilwitz", "ovats11h01r", 0; 
-
-exec dbo.DodajKlientaInd "Clyde", "Adams", "576366214", "1984-01-01", 1, , "India", "West Mireya", "72700-5997", "Daron Square", 13, 58, "clydeadams@memail.com", "clydeadams", "rnv70fwr259", 0; 
-
-exec dbo.DodajKlientaInd "Richard", "Kemmer", "734280976", "1973-01-02", 0, , "Mozambique", "Madisynside", "47437-9127", "Sydney Fords", 72, 37, "richardkemmer@memail.com", "richardkemmer", "5cuuolsd99j", 0; 
-
-exec dbo.DodajKlientaInd "Josh", "Dach", "538868152", "1986-08-20", 0, , "Belgium", "Agnesstad", "50979-1847", "Braun Rapids", 42, 25, "joshdach@memail.com", "joshdach", "c6ptxttn3b9", 0; 
-
-exec dbo.DodajKlientaInd "Leola", "Jones", "214626087", "1950-04-06", 0, , "New Caledonia", "East Alessandro", "38966-9945", "Emmet Hills", 68, 81, "leolajones@memail.com", "leolajones", "ik0hsz5bomh", 0; 
-
-exec dbo.DodajKlientaInd "Clotilde", "Morar", "415647733", "1970-06-05", 0, 636354, "Marshall Islands", "Cristfurt", "45016", "Boehm Falls", 10, 78, "clotildemorar@memail.com", "clotildemorar", "2jrzacizole", 0; 
-
-exec dbo.DodajKlientaInd "Lulu", "Goldner", "077991874", "1964-08-21", 0, , "Egypt", "MacGyvertown", "64312-5953", "Emmerich Vista", 22, 43, "lulugoldner@memail.com", "lulugoldner", "4d5bfnjbjfv", 0; 
-
-exec dbo.DodajKlientaInd "Gene", "Larson", "577472187", "1981-12-07", 1, , "Nigeria", "North Budton", "46202", "Monahan Cape", 46, 44, "genelarson@memail.com", "genelarson", "yxcoswlovcd", 0; 
-
-exec dbo.DodajKlientaInd "Trever", "Borer", "559520484", "1966-02-01", 0, , "New Caledonia", "Demarcostad", "33598", "Marquis Ways", 69, 61, "treverborer@memail.com", "treverborer", "sjyarosng3", 0; 
-
-exec dbo.DodajKlientaInd "Maudie", "Buckridge", "163723589", "1993-11-29", 1, , "Cook Islands", "Lake Kieranshire", "33517", "Wisoky Springs", 33, 79, "maudiebuckridge@memail.com", "maudiebuckridge", "plpboud7k5", 0; 
-
-exec dbo.DodajKlientaInd "Javier", "Koch", "743955166", "1981-06-03", 1, , "Antigua and Barbuda", "Hickleshire", "52566", "Waters Cliff", 6, 83, "javierkoch@memail.com", "javierkoch", "jq06qvpq3ah", 0; 
-
-exec dbo.DodajKlientaInd "Florine", "Lang", "873151488", "1958-01-04", 0, , "Mozambique", "Lake Ambrose", "83678-5322", "Raynor Turnpike", 8, 62, "florinelang@memail.com", "florinelang", "unen530vtld", 0; 
-
-exec dbo.DodajKlientaInd "Linda", "Breitenberg", "681276638", "1951-09-01", 0, , "Cayman Islands", "Theodoraport", "91928-4099", "O'Hara Street", 44, 14, "lindabreitenberg@memail.com", "lindabreitenberg", "04s4tbmzecj", 0; 
-
-exec dbo.DodajKlientaInd "Kane", "Murazik", "725559117", "1967-01-29", 0, , "Romania", "New Eliseville", "92927", "Alia Bridge", 8, 17, "kanemurazik@memail.com", "kanemurazik", "rktvfg86fa1", 0; 
-
-exec dbo.DodajKlientaInd "Kieran", "Gislason", "321957363", "1992-02-26", 0, , "Ukraine", "Lake Janyhaven", "94886", "Turner Heights", 71, 25, "kierangislason@memail.com", "kierangislason", "x5ffy24izk8", 0; 
-
-exec dbo.DodajKlientaInd "Orpha", "Murray", "704351141", "1990-11-20", 1, , "Samoa", "North Darrionberg", "95762-1449", "Wintheiser Ramp", 4, 22, "orphamurray@memail.com", "orphamurray", "ojzq0ei4gco", 0; 
-
-exec dbo.DodajKlientaInd "Callie", "Cremin", "814708392", "1969-01-20", 1, , "Saint Barthelemy", "Emoryton", "36369", "Medhurst Plain", 17, 88, "calliecremin@memail.com", "calliecremin", "qbtel3j58g1", 0; 
-
-exec dbo.DodajKlientaInd "Nella", "Ziemann", "641605205", "1990-04-09", 1, , "Democratic People's Republic of Korea", "Runtemouth", "15485-6811", "Tristin Roads", 95, 74, "nellaziemann@memail.com", "nellaziemann", "e07oqv3h1ql", 0; 
-
-exec dbo.DodajKlientaInd "Mallory", "O'Reilly", "313330966", "1974-05-06", 0, , "Honduras", "South Eugene", "39608", "Klein Radial", 87, 75, "malloryo'reilly@memail.com", "malloryo'reilly", "r0wd7a1qyu0", 0; 
-
-exec dbo.DodajKlientaInd "Casper", "Effertz", "522301116", "1961-12-13", 0, , "Antarctica (the territory South of 60 deg S)", "Hermannmouth", "42306-3561", "Rempel Course", 52, 63, "caspereffertz@memail.com", "caspereffertz", "rasgyd79vwo", 0; 
-
-exec dbo.DodajKlientaInd "Bria", "Lang", "746459167", "1963-12-06", 0, , "Liberia", "Leolaberg", "46532-2149", "Hamill Fords", 34, 73, "brialang@memail.com", "brialang", "pa217hoj6gg", 0; 
-
-exec dbo.DodajKlientaInd "Henriette", "Morissette", "464611763", "1970-05-24", 0, , "Chad", "Shaneton", "43723", "Colt Vista", 36, 89, "henriettemorissette@memail.com", "henriettemorissette", "fq1yrq92h87", 0; 
-
-exec dbo.DodajKlientaInd "Zelma", "Walter", "183656491", "1979-07-13", 0, , "Poland", "Lake Maudiebury", "63739-2440", "Carter Lane", 90, 71, "zelmawalter@memail.com", "zelmawalter", "cfso25znxi4", 0; 
-
-exec dbo.DodajKlientaInd "Celestine", "Ondricka", "981367637", "1969-08-11", 0, , "Malta", "New Rosamondborough", "66054", "Gerhold Flat", 85, 13, "celestineondricka@memail.com", "celestineondricka", "sehrsxhdcsm", 0; 
-
-exec dbo.DodajKlientaInd "Phoebe", "Mante", "451645944", "1971-08-19", 0, , "Rwanda", "East Rupert", "98501", "Kulas Mills", 24, 50, "phoebemante@memail.com", "phoebemante", "08jd95bq0rz", 0; 
-
-exec dbo.DodajKlientaInd "Ibrahim", "Cronin", "948618458", "1955-09-15", 1, , "Belgium", "East Kristin", "84563", "Velva Prairie", 78, 78, "ibrahimcronin@memail.com", "ibrahimcronin", "odq1uos8cbq", 0; 
-
-exec dbo.DodajKlientaInd "Lurline", "Sporer", "382246179", "1978-08-15", 1, , "Gibraltar", "Reynoldland", "93310-1922", "Goldner Street", 23, 41, "lurlinesporer@memail.com", "lurlinesporer", "dk81peb6zes", 0; 
-
-exec dbo.DodajKlientaInd "Nasir", "Zemlak", "583596852", "1964-06-13", 0, , "Puerto Rico", "South Osborne", "37925", "Rubie Cliff", 86, 59, "nasirzemlak@memail.com", "nasirzemlak", "p7igrjcy20d", 0; 
-
-exec dbo.DodajKlientaInd "Nat", "Frami", "626025626", "1975-11-28", 0, 119164, "Guinea", "North Georgianaport", "56485", "Cremin Mountains", 72, 11, "natframi@memail.com", "natframi", "l2djx4mm3g0", 0; 
-
-exec dbo.DodajKlientaInd "Derick", "Barrows", "197960226", "1963-04-10", 0, , "Antarctica (the territory South of 60 deg S)", "East Mya", "44899-3187", "Daugherty Roads", 81, 20, "derickbarrows@memail.com", "derickbarrows", "ojyowly1jk5", 0; 
-
-exec dbo.DodajKlientaInd "Beth", "Steuber", "175551781", "1963-02-10", 0, , "Anguilla", "Port Leonemouth", "62027-5911", "Shawna Road", 53, 18, "bethsteuber@memail.com", "bethsteuber", "rbqtm8v0ot7", 0; 
-
-exec dbo.DodajKlientaInd "Berenice", "Cremin", "712675613", "1966-08-01", 0, , "Ukraine", "Rueckerton", "63795", "Ledner Crossroad", 27, 87, "berenicecremin@memail.com", "berenicecremin", "zc3us0issxc", 0; 
-
-exec dbo.DodajKlientaInd "Braden", "Kshlerin", "441776558", "1989-10-30", 0, , "Argentina", "Keeblershire", "38739", "Spencer Brooks", 17, 50, "bradenkshlerin@memail.com", "bradenkshlerin", "3lyl56cbjdi", 0; 
-
-exec dbo.DodajKlientaInd "Quinn", "Nikolaus", "756835435", "1996-11-17", 1, , "Anguilla", "South Jared", "76797", "Buster Spur", 77, 14, "quinnnikolaus@memail.com", "quinnnikolaus", "p34dat9ltgo", 0; 
-
-exec dbo.DodajKlientaInd "Edmund", "Ernser", "586638518", "1974-02-03", 0, , "Falkland Islands (Malvinas)", "Roosevelttown", "79488", "Electa Unions", 38, 48, "edmundernser@memail.com", "edmundernser", "tu6g3pyv0fu", 0; 
-
-exec dbo.DodajKlientaInd "Bulah", "Welch", "369731813", "1990-11-29", 0, , "Finland", "Gutmannmouth", "68904", "Sylvan Field", 6, 24, "bulahwelch@memail.com", "bulahwelch", "imxbdo6wxn5", 0; 
-
-exec dbo.DodajKlientaInd "Waldo", "Gorczany", "685727287", "1959-06-23", 0, , "Canada", "East Leaberg", "36123", "Marcia Club", 79, 83, "waldogorczany@memail.com", "waldogorczany", "wwks2dcor8g", 0; 
-
-exec dbo.DodajKlientaInd "Berniece", "Streich", "241612737", "1976-12-28", 1, , "Bulgaria", "North Hans", "24156", "Bailey Cape", 6, 28, "berniecestreich@memail.com", "berniecestreich", "7l4nb412t88", 0; 
-
-exec dbo.DodajKlientaInd "Stan", "Abbott", "152122286", "1975-03-27", 0, , "Bolivia", "East Neal", "62312", "McCullough Court", 37, 86, "stanabbott@memail.com", "stanabbott", "5rlkmkveix3", 0; 
-
-exec dbo.DodajKlientaInd "Cortney", "Schumm", "798143288", "1979-06-22", 0, , "Northern Mariana Islands", "East Lupestad", "70885-8311", "Mayert Freeway", 72, 47, "cortneyschumm@memail.com", "cortneyschumm", "t3ci5q64xcl", 0; 
-
-exec dbo.DodajKlientaInd "Myles", "Treutel", "535625740", "1973-12-18", 0, , "Cook Islands", "West Wendyfort", "48902-0041", "Lourdes Port", 16, 84, "mylestreutel@memail.com", "mylestreutel", "rkf0gzdx1p", 0; 
-
-exec dbo.DodajKlientaInd "Ross", "Gerhold", "457715451", "1994-06-20", 0, , "Bahamas", "Lubowitzmouth", "31424", "Dickinson Spring", 32, 42, "rossgerhold@memail.com", "rossgerhold", "br5chx4kgqn", 0; 
-
-exec dbo.DodajKlientaInd "Maximillia", "Yundt", "294114461", "1968-08-31", 0, 622223, "Eritrea", "Lake Jazlyn", "88075-6860", "Jonathan Way", 32, 55, "maximilliayundt@memail.com", "maximilliayundt", "rnx6sjyz2ik", 0; 
-
-exec dbo.DodajKlientaInd "Shad", "Wilkinson", "840803746", "1958-04-25", 0, , "Namibia", "Port Amely", "72446-3322", "Jast Camp", 62, 21, "shadwilkinson@memail.com", "shadwilkinson", "t86z6iyqd4g", 0; 
-
-exec dbo.DodajKlientaInd "Kristoffer", "Huels", "561691483", "1974-11-27", 1, 380926, "Afghanistan", "Leachester", "39602", "Bashirian Meadow", 66, 62, "kristofferhuels@memail.com", "kristofferhuels", "2wbg6hwpr5k", 0; 
-
-exec dbo.DodajKlientaInd "Corene", "Hane", "647722672", "1970-05-02", 0, , "New Zealand", "New Devin", "28459", "Brandi Road", 64, 12, "corenehane@memail.com", "corenehane", "iwa72gy4565", 0; 
-
-exec dbo.DodajKlientaInd "Kara", "Berge", "597485332", "1965-11-02", 1, , "Cook Islands", "Simoneport", "74422-1507", "Rodriguez Light", 9, 68, "karaberge@memail.com", "karaberge", "2colvy5xh18", 0; 
-
-exec dbo.DodajKlientaInd "Shany", "Walter", "545868262", "1956-10-11", 1, 953572, "South Georgia and the South Sandwich Islands", "Antwonport", "19820-5154", "Aufderhar Ports", 71, 75, "shanywalter@memail.com", "shanywalter", "wvnmruyxnlf", 0; 
-
-exec dbo.DodajKlientaInd "Chris", "Orn", "925904350", "1958-07-25", 0, , "Botswana", "Lake Lilian", "52933", "Altenwerth Fields", 27, 38, "chrisorn@memail.com", "chrisorn", "jibksoutxl", 0; 
-
-exec dbo.DodajKlientaInd "Nina", "Kunde", "448241454", "1992-03-02", 0, , "Hong Kong", "North Lera", "48978-4916", "Little Camp", 27, 63, "ninakunde@memail.com", "ninakunde", "4hfgg1uty03", 0; 
-
-exec dbo.DodajKlientaInd "Schuyler", "Hagenes", "542518389", "1961-02-28", 1, , "Brazil", "Fletcherfurt", "88281", "Macejkovic Valleys", 82, 39, "schuylerhagenes@memail.com", "schuylerhagenes", "2z02nj2agxx", 0; 
-
-exec dbo.DodajKlientaInd "Laverne", "Oberbrunner", "763850305", "1995-03-30", 1, , "Lao People's Democratic Republic", "New Bulahview", "96120-8318", "Consuelo Hill", 29, 13, "laverneoberbrunner@memail.com", "laverneoberbrunner", "rzd58s0wlvb", 0; 
-
-exec dbo.DodajKlientaInd "Marjory", "Hane", "700271594", "1978-09-11", 1, , "Norfolk Island", "Lake Ruthe", "96720", "Gavin Field", 63, 56, "marjoryhane@memail.com", "marjoryhane", "dyqa7ax2f20", 0; 
-
-exec dbo.DodajKlientaInd "Jerald", "Labadie", "551816084", "1985-04-04", 1, , "Brazil", "Port Jalenton", "39017", "Price Greens", 30, 46, "jeraldlabadie@memail.com", "jeraldlabadie", "hp98jx8q8c2", 0; 
-
-exec dbo.DodajKlientaInd "Toni", "Hoeger", "544534654", "1959-04-22", 0, , "Honduras", "Loganview", "59891-7812", "Murphy Course", 35, 2, "tonihoeger@memail.com", "tonihoeger", "y0h0czzymsa", 0; 
-
-exec dbo.DodajKlientaInd "Lolita", "Keeling", "409422041", "1965-08-12", 0, , "Bulgaria", "Bahringerfurt", "62055-6211", "McCullough Corner", 83, 56, "lolitakeeling@memail.com", "lolitakeeling", "00vdexxw2h0", 0; 
-
-exec dbo.DodajKlientaInd "Trent", "Mosciski", "351245340", "1983-02-28", 1, , "Taiwan", "Jessycaside", "35830", "Bonita Mills", 74, 48, "trentmosciski@memail.com", "trentmosciski", "9nqyn9ja20k", 0; 
-
-exec dbo.DodajKlientaInd "Karlie", "Bartell", "522051748", "1962-10-18", 0, , "Italy", "Nienowburgh", "80033-5661", "Luettgen Lakes", 56, 20, "karliebartell@memail.com", "karliebartell", "4e7qwfw5l9z", 0; 
-
-exec dbo.DodajKlientaInd "Kirstin", "Thiel", "165320853", "1984-08-28", 0, , "Qatar", "New Tia", "78066-4730", "Yadira Viaduct", 95, 99, "kirstinthiel@memail.com", "kirstinthiel", "wpbl0vbpd90", 0; 
-
-exec dbo.DodajKlientaInd "Theresia", "Davis", "715482068", "1959-05-01", 0, , "Canada", "Sauerview", "95367-8942", "Glennie Cove", 19, 26, "theresiadavis@memail.com", "theresiadavis", "j1vaqpuvnur", 0; 
-
-exec dbo.DodajKlientaInd "Emil", "Harber", "457629880", "1989-06-23", 0, 842348, "Armenia", "Whitneyberg", "18889-1137", "Avery Via", 12, 88, "emilharber@memail.com", "emilharber", "dcd4h6eianw", 0; 
-
-exec dbo.DodajKlientaInd "Alden", "Legros", "258377739", "1977-04-11", 1, , "France", "Evansfort", "79995-7202", "Cronin Cove", 56, 71, "aldenlegros@memail.com", "aldenlegros", "7mus67kuifp", 0; 
-
-exec dbo.DodajKlientaInd "Maia", "Douglas", "367933443", "1970-02-06", 1, , "Bolivia", "Deannafort", "51840", "Jenkins Gardens", 64, 27, "maiadouglas@memail.com", "maiadouglas", "y31tzj8f0iz", 0; 
-
-exec dbo.DodajKlientaInd "Crystal", "Veum", "842616620", "1987-07-07", 0, , "Egypt", "East Richmondberg", "41218-6638", "Audreanne Lakes", 88, 82, "crystalveum@memail.com", "crystalveum", "2ym2pbe5ds2", 0; 
-
-exec dbo.DodajKlientaInd "Marquise", "Ernser", "074884347", "1981-11-02", 1, , "Paraguay", "West Maeganview", "20891-8139", "Rosemarie Plaza", 48, 47, "marquiseernser@memail.com", "marquiseernser", "bkupxht6twc", 0; 
-
-exec dbo.DodajKlientaInd "Leonel", "Corwin", "927356357", "1979-12-20", 1, , "Madagascar", "New Margret", "89868-8016", "O'Hara Mall", 80, 56, "leonelcorwin@memail.com", "leonelcorwin", "wcj6xiumlby", 0; 
-
-exec dbo.DodajKlientaInd "Hanna", "Hayes", "846673154", "1969-02-08", 0, , "Cocos (Keeling) Islands", "Halview", "52713", "Gino Green", 12, 93, "hannahayes@memail.com", "hannahayes", "wesx7wy193", 0; 
-
-exec dbo.DodajKlientaInd "Verda", "Metz", "674782781", "1952-09-26", 1, , "Romania", "Lake Andrew", "32513-1162", "Newton Tunnel", 13, 63, "verdametz@memail.com", "verdametz", "dd8jk9lfvna", 0; 
-
-exec dbo.DodajKlientaInd "Neal", "Douglas", "917616853", "1951-10-13", 1, , "Zimbabwe", "East Bryonhaven", "95249-6879", "Kilback Ports", 31, 26, "nealdouglas@memail.com", "nealdouglas", "azwuxqq6yhh", 0; 
-
-exec dbo.DodajKlientaInd "Fannie", "Gusikowski", "542893632", "1964-11-29", 0, , "Ethiopia", "South Jovannytown", "81735-5203", "Billy Unions", 87, 19, "fanniegusikowski@memail.com", "fanniegusikowski", "mkosk0lo5fs", 0; 
-
-exec dbo.DodajKlientaInd "Florida", "Hirthe", "116485660", "1967-12-22", 1, , "Taiwan", "New Kevonton", "44260", "Upton Stream", 43, 59, "floridahirthe@memail.com", "floridahirthe", "70xl6xelgf2", 0; 
-
-exec dbo.DodajKlientaInd "Kassandra", "Boyer", "035467290", "1961-04-10", 1, , "Cambodia", "Volkmanborough", "10806-1562", "Hermiston Meadows", 64, 85, "kassandraboyer@memail.com", "kassandraboyer", "pui9mnujjon", 0; 
-
-exec dbo.DodajKlientaInd "Kamron", "Stark", "861844239", "1973-08-17", 0, , "Benin", "Waelchiside", "36672-9390", "Kolby Springs", 38, 67, "kamronstark@memail.com", "kamronstark", "yq3wf3f7tq8", 0; 
-
-exec dbo.DodajKlientaInd "Warren", "Smith", "328626245", "1977-08-09", 0, , "Nigeria", "Harveyhaven", "47632-4318", "Miles Rue", 96, 67, "warrensmith@memail.com", "warrensmith", "7w2ili8s5dw", 0; 
-
-exec dbo.DodajKlientaInd "Alena", "Pollich", "215810174", "1972-09-01", 1, , "Syrian Arab Republic", "Destinport", "42616", "Gerhold Rapids", 62, 19, "alenapollich@memail.com", "alenapollich", "tewbj6os7wn", 0; 
-
-exec dbo.DodajKlientaInd "Rhea", "Kris", "740766816", "1972-08-30", 1, , "Eritrea", "Hilllstad", "99433", "Hammes Spring", 55, 34, "rheakris@memail.com", "rheakris", "i26qbxlt0gi", 0; 
-
-exec dbo.DodajKlientaInd "Stacey", "VonRueden", "597857754", "1962-09-13", 1, , "Bahamas", "Port Eleanora", "13616", "Goodwin Junction", 10, 62, "staceyvonrueden@memail.com", "staceyvonrueden", "tqbg0fxlkhv", 0; 
-
-exec dbo.DodajKlientaInd "Bill", "O'Keefe", "975493176", "1956-06-20", 1, , "Indonesia", "North Hollie", "90206", "Gregorio Extensions", 42, 75, "billo'keefe@memail.com", "billo'keefe", "ol6foqwf4it", 0; 
-
-exec dbo.DodajKlientaInd "Clint", "Metz", "766478237", "1961-04-14", 1, , "Russian Federation", "Harveyborough", "64417", "Francesca Fords", 89, 13, "clintmetz@memail.com", "clintmetz", "8pb5fyhjb4t", 0; 
-
-exec dbo.DodajKlientaInd "Judah", "Robel", "657671583", "1995-11-17", 1, , "Brunei Darussalam", "Pfefferbury", "38343", "Witting Mills", 76, 73, "judahrobel@memail.com", "judahrobel", "nwdz3fjkwdh", 0; 
-
-exec dbo.DodajKlientaInd "Jan", "Koepp", "786654563", "1983-03-17", 1, , "Libyan Arab Jamahiriya", "Heidenreichside", "32171-6600", "Verdie Square", 61, 46, "jankoepp@memail.com", "jankoepp", "n0bjw9fhhei", 0; 
-
-exec dbo.DodajKlientaInd "Erin", "Gleichner", "133765348", "1996-03-04", 0, , "Anguilla", "Port Marquis", "70097-1337", "Kim Ports", 68, 11, "eringleichner@memail.com", "eringleichner", "vgn8s3hzw9f", 0; 
-
-exec dbo.DodajKlientaInd "Harley", "McGlynn", "712147686", "1966-12-05", 0, , "Armenia", "Ankundingview", "89723", "Lakin Ford", 28, 37, "harleymcglynn@memail.com", "harleymcglynn", "98zbca6j86g", 0; 
-
-exec dbo.DodajKlientaInd "Shakira", "Doyle", "416855345", "1959-07-05", 0, , "Portugal", "Ziemannberg", "60910", "Hagenes Course", 2, 64, "shakiradoyle@memail.com", "shakiradoyle", "3vm3ztopor3", 0; 
-
-exec dbo.DodajKlientaInd "Margot", "Gleichner", "948183031", "1954-09-05", 0, , "Uzbekistan", "South Hanna", "51243", "Ali Shores", 24, 1, "margotgleichner@memail.com", "margotgleichner", "2odez16ozy9", 0; 
-
-exec dbo.DodajKlientaInd "Tito", "Bergstrom", "281718812", "1964-05-10", 1, , "American Samoa", "Makaylaland", "89066", "Brayan Pass", 34, 33, "titobergstrom@memail.com", "titobergstrom", "rleokhl17es", 0; 
-
-exec dbo.DodajKlientaInd "Lon", "Mosciski", "548131424", "1966-04-11", 1, 326316, "Turkmenistan", "New Zion", "60842", "Cronin Islands", 75, 28, "lonmosciski@memail.com", "lonmosciski", "ky1x1izswv1", 0; 
-
-exec dbo.DodajKlientaInd "Wallace", "Littel", "965176233", "1950-04-28", 0, 832654, "Qatar", "Dorrismouth", "40304", "Ellsworth Circles", 48, 50, "wallacelittel@memail.com", "wallacelittel", "9kuoa17c4r6", 0; 
-
-exec dbo.DodajKlientaInd "Mariela", "Fadel", "600376884", "1956-04-29", 1, , "United States of America", "Braedenland", "45433-8448", "Heidenreich Tunnel", 96, 24, "marielafadel@memail.com", "marielafadel", "jcogezj5y4h", 0; 
-
-exec dbo.DodajKlientaInd "Hailee", "Batz", "564231375", "1972-06-29", 1, , "Cocos (Keeling) Islands", "Port Hildastad", "50128", "Quigley Court", 83, 9, "haileebatz@memail.com", "haileebatz", "hgjucivmrx", 0; 
-
-exec dbo.DodajKlientaInd "Jade", "Wilderman", "531662629", "1990-11-03", 1, , "Tanzania", "New Amaristad", "17452-8157", "Green Circle", 38, 27, "jadewilderman@memail.com", "jadewilderman", "o98cgyndmys", 0; 
-
-exec dbo.DodajKlientaInd "Janessa", "Rolfson", "043427915", "1990-04-09", 0, 771576, "Netherlands", "South Lisettefurt", "67267-0104", "Abshire Well", 61, 65, "janessarolfson@memail.com", "janessarolfson", "0lqlj81zi9g", 0; 
-
-exec dbo.DodajKlientaInd "Novella", "Hoppe", "637149747", "1954-10-07", 0, , "Montserrat", "New Euniceland", "14239", "Reichert Key", 62, 25, "novellahoppe@memail.com", "novellahoppe", "14qhx77qgqj", 0; 
-
-exec dbo.DodajKlientaInd "Oleta", "Casper", "235633620", "1985-05-02", 1, 177455, "Portugal", "South Maudie", "21300", "Braulio Greens", 9, 52, "oletacasper@memail.com", "oletacasper", "k5mpgcsn1h8", 0; 
-
-exec dbo.DodajKlientaInd "Daren", "Jakubowski", "674625669", "1995-05-27", 0, , "Tunisia", "Joesphtown", "46389-7811", "Shanahan Stream", 25, 38, "darenjakubowski@memail.com", "darenjakubowski", "wj870izo20m", 0; 
-
-exec dbo.DodajKlientaInd "Frank", "Wunsch", "814864776", "1966-04-05", 0, , "Swaziland", "North Keenanshire", "60528", "Marlon Union", 29, 49, "frankwunsch@memail.com", "frankwunsch", "qlzqocx8ntm", 0; 
-
-exec dbo.DodajKlientaInd "Kendra", "Schimmel", "200944728", "1983-12-08", 0, , "Vanuatu", "Beiermouth", "93504-9267", "Armstrong Locks", 6, 22, "kendraschimmel@memail.com", "kendraschimmel", "8bclef0ct47", 0; 
-
-exec dbo.DodajKlientaInd "Maribel", "Hermann", "571756150", "1950-08-03", 0, , "Vietnam", "North Alexzanderland", "54797", "Heller Mall", 82, 44, "maribelhermann@memail.com", "maribelhermann", "utmasi426a", 0; 
-
-exec dbo.DodajKlientaInd "Jacky", "Gislason", "754598967", "1985-04-23", 1, , "Saint Pierre and Miquelon", "South Adrainmouth", "21310-2908", "Beahan Point", 63, 8, "jackygislason@memail.com", "jackygislason", "jig2mcthvg", 0; 
-
-exec dbo.DodajKlientaInd "Mac", "Schimmel", "676186402", "1983-05-06", 0, , "Belgium", "South Amir", "87579-6285", "Feil Valley", 19, 85, "macschimmel@memail.com", "macschimmel", "ynxi2m92lpv", 0; 
-
-exec dbo.DodajKlientaInd "Charley", "Frami", "335486671", "1974-07-16", 0, , "Cape Verde", "North Bernitaberg", "34537", "Hortense Light", 68, 69, "charleyframi@memail.com", "charleyframi", "wpmafdip0k", 0; 
-
-exec dbo.DodajKlientaInd "Monserrate", "Moore", "441223756", "1970-09-15", 0, , "Armenia", "West Corenemouth", "30881-2314", "DuBuque Causeway", 18, 44, "monserratemoore@memail.com", "monserratemoore", "t7udww7ulrt", 0; 
-
-exec dbo.DodajKlientaInd "Keshawn", "Reichel", "172249824", "1954-11-10", 0, , "Andorra", "Port Jevonport", "86846", "Lew Union", 14, 97, "keshawnreichel@memail.com", "keshawnreichel", "0ljzue0cnlm", 0; 
-
-exec dbo.DodajKlientaInd "Rupert", "Grant", "466728790", "1952-09-12", 0, , "Saint Barthelemy", "Hirtheshire", "35430-9490", "Jordy Pass", 2, 58, "rupertgrant@memail.com", "rupertgrant", "1s2bv8rnxhn", 0; 
-
-exec dbo.DodajKlientaInd "Alexandro", "Jones", "651787259", "1960-07-31", 0, , "San Marino", "East Hesterfort", "50495-0393", "Kris Street", 71, 35, "alexandrojones@memail.com", "alexandrojones", "e4k4qwvy468", 0; 
-
-exec dbo.DodajKlientaInd "Emery", "Langosh", "655841747", "1989-06-06", 1, , "Vietnam", "Stacyview", "63667", "Saul Pike", 13, 8, "emerylangosh@memail.com", "emerylangosh", "nciescigga6", 0; 
-
-exec dbo.DodajKlientaInd "Neha", "Harber", "623138284", "1986-03-06", 0, , "Latvia", "South Nicholasburgh", "59030", "Cruz Skyway", 12, 49, "nehaharber@memail.com", "nehaharber", "137vm8yt90a", 0; 
-
-exec dbo.DodajKlientaInd "Jordy", "Botsford", "319452553", "1953-03-01", 0, , "Jamaica", "Beerton", "76968", "Lilliana Motorway", 27, 33, "jordybotsford@memail.com", "jordybotsford", "7bcb1t80qot", 0; 
-
-exec dbo.DodajKlientaInd "Hollis", "Jakubowski", "939525385", "1953-02-17", 0, , "Heard Island and McDonald Islands", "North Kraig", "66009", "Hirthe Flat", 34, 46, "hollisjakubowski@memail.com", "hollisjakubowski", "ijef1lmuvo7", 0; 
-
-exec dbo.DodajKlientaInd "Retha", "Williamson", "480731031", "1969-06-12", 0, , "Sao Tome and Principe", "North Ericka", "98099", "Judy Corners", 85, 5, "rethawilliamson@memail.com", "rethawilliamson", "5tc65dpkvn3", 0; 
-
-exec dbo.DodajKlientaInd "Merl", "Bradtke", "111553511", "1978-11-24", 0, , "United Arab Emirates", "Wintheisertown", "38132-8000", "Prosacco Forest", 33, 57, "merlbradtke@memail.com", "merlbradtke", "5hzl33h8wb", 0; 
-
-exec dbo.DodajKlientaInd "Marc", "Aufderhar", "607799815", "1972-03-28", 0, , "New Caledonia", "Rogahnshire", "56543-6951", "Joshuah Greens", 86, 49, "marcaufderhar@memail.com", "marcaufderhar", "wbp4pgo017", 0; 
-
-exec dbo.DodajKlientaInd "Bonita", "Lehner", "521278266", "1988-03-06", 1, , "Indonesia", "North Mattieland", "96371", "Cassin Extension", 95, 66, "bonitalehner@memail.com", "bonitalehner", "26p1e92ksle", 0; 
-
-exec dbo.DodajKlientaInd "Gustave", "Koss", "175496654", "1950-01-18", 1, , "Bosnia and Herzegovina", "North Alec", "70196-8855", "Darian Glens", 62, 32, "gustavekoss@memail.com", "gustavekoss", "7fg5fn95qfy", 0; 
-
-exec dbo.DodajKlientaInd "Freddy", "Jacobi", "875846867", "1974-12-27", 1, , "Mexico", "Boscoport", "75744", "Treutel Locks", 3, 12, "freddyjacobi@memail.com", "freddyjacobi", "fd1pedt46oc", 0; 
-
-exec dbo.DodajKlientaInd "Catalina", "Berge", "743888871", "1981-01-14", 1, , "Turks and Caicos Islands", "South Gregorioshire", "39096", "Jaskolski Tunnel", 75, 70, "catalinaberge@memail.com", "catalinaberge", "lanc7kig2g8", 0; 
-
-exec dbo.DodajKlientaInd "Wilton", "Zemlak", "636278721", "1968-04-24", 1, , "Dominican Republic", "Rowenaton", "28952-6845", "Walsh Springs", 77, 19, "wiltonzemlak@memail.com", "wiltonzemlak", "vmm95o94hb", 0; 
-
-exec dbo.DodajKlientaInd "Kelli", "Schaefer", "587491765", "1956-06-30", 1, , "New Zealand", "Spinkastad", "14504-5828", "Toy Rest", 78, 76, "kellischaefer@memail.com", "kellischaefer", "nwt3ygy9rk7", 0; 
-
-exec dbo.DodajKlientaInd "Nova", "Morissette", "567187319", "1975-10-28", 0, , "Morocco", "Gorczanyshire", "37996-4553", "D'Amore Ridges", 54, 67, "novamorissette@memail.com", "novamorissette", "1vyqol012hu", 0; 
-
-exec dbo.DodajKlientaInd "Retha", "Thiel", "103785738", "1972-11-22", 1, , "Canada", "Starkchester", "47412-3025", "Maximillia Prairie", 71, 30, "rethathiel@memail.com", "rethathiel", "v4bp5wfdtih", 0; 
-
-exec dbo.DodajKlientaInd "Giovanny", "Hilll", "464516646", "1967-07-04", 1, , "Denmark", "Leannonberg", "61492", "Morissette Parks", 35, 13, "giovannyhilll@memail.com", "giovannyhilll", "1m05b5v8e0u", 0; 
-
-exec dbo.DodajKlientaInd "Gianni", "Deckow", "246248741", "1972-06-15", 1, , "Angola", "Andersonton", "65760", "Sylvester Extension", 48, 58, "giannideckow@memail.com", "giannideckow", "6974mnqgqb", 0; 
-
-exec dbo.DodajKlientaInd "Neil", "Gleichner", "724773847", "1962-04-03", 0, , "Togo", "Mohrside", "40768", "Koch Village", 27, 62, "neilgleichner@memail.com", "neilgleichner", "iq3h2r6onkk", 0; 
-
-exec dbo.DodajKlientaInd "Aglae", "Gerhold", "935556127", "1956-09-09", 1, , "Brunei Darussalam", "West Madonna", "82962", "Considine Turnpike", 29, 84, "aglaegerhold@memail.com", "aglaegerhold", "qz1ep3g76fx", 0; 
-
-exec dbo.DodajKlientaInd "Ruthe", "Walker", "918743781", "1962-10-20", 0, , "Kuwait", "Schustermouth", "73875-0626", "Wintheiser Pine", 39, 36, "ruthewalker@memail.com", "ruthewalker", "2q0e8xc41ua", 0; 
-
-exec dbo.DodajKlientaInd "Irwin", "Feil", "724222683", "1958-08-18", 1, , "Algeria", "Lake Willie", "63378-3914", "Wilkinson Harbor", 14, 70, "irwinfeil@memail.com", "irwinfeil", "xysty0r06sc", 0; 
-
-exec dbo.DodajKlientaInd "Alysson", "Monahan", "555656448", "1991-06-13", 0, , "Saint Vincent and the Grenadines", "New Herminiastad", "78112", "Ariane Island", 29, 12, "alyssonmonahan@memail.com", "alyssonmonahan", "g1cyci54o4y", 0; 
-
-exec dbo.DodajKlientaInd "Pattie", "Howe", "867846865", "1963-03-27", 0, , "Czech Republic", "Hermanport", "29734-0218", "Kimberly Causeway", 18, 74, "pattiehowe@memail.com", "pattiehowe", "x39tg9z3c3j", 0; 
-
-exec dbo.DodajKlientaInd "Rowland", "Roberts", "462779648", "1955-09-19", 1, , "Suriname", "South Roslynburgh", "70129", "Keven Falls", 90, 99, "rowlandroberts@memail.com", "rowlandroberts", "r0uyexhq2je", 0; 
-
-exec dbo.DodajKlientaInd "Sierra", "Wiegand", "144161271", "1966-11-29", 0, , "Malawi", "Sporerport", "12765", "Armstrong Overpass", 70, 40, "sierrawiegand@memail.com", "sierrawiegand", "2wmrzy3b17s", 0; 
-
-exec dbo.DodajKlientaInd "Elmira", "Reynolds", "952778115", "1967-10-07", 0, , "Swaziland", "West Josianeland", "47496-8037", "Roderick Wells", 69, 66, "elmirareynolds@memail.com", "elmirareynolds", "6w2wrb2b21r", 0; 
-
-exec dbo.DodajKlientaInd "Orrin", "Kozey", "763238462", "1980-01-14", 0, , "Tanzania", "Deeport", "70488", "Dillan Key", 1, 38, "orrinkozey@memail.com", "orrinkozey", "51sgzrv77e6", 0; 
-
-exec dbo.DodajKlientaInd "Gudrun", "Bergstrom", "722040315", "1954-08-11", 1, , "Lesotho", "Port Vaughnside", "10919", "Austyn Track", 9, 47, "gudrunbergstrom@memail.com", "gudrunbergstrom", "d5dxl3vzau7", 0; 
-
-exec dbo.DodajKlientaInd "Adolphus", "Hodkiewicz", "791593942", "1956-04-23", 0, , "Norway", "North Quinton", "25863", "Barton Loop", 22, 64, "adolphushodkiewicz@memail.com", "adolphushodkiewicz", "gllg449bfxr", 0; 
-
-exec dbo.DodajKlientaInd "Lawson", "Dach", "027477552", "1989-07-24", 1, , "Dominica", "West Martina", "19217", "Olaf Prairie", 71, 86, "lawsondach@memail.com", "lawsondach", "2qksrpc5cif", 0; 
-
-exec dbo.DodajKlientaInd "Garfield", "Kshlerin", "134652546", "1994-03-19", 0, , "Tokelau", "South Genoveva", "88289-5808", "Earl Forges", 12, 86, "garfieldkshlerin@memail.com", "garfieldkshlerin", "5xmz6hh4rv5", 0; 
-
-exec dbo.DodajKlientaInd "Dora", "Zemlak", "204323947", "1995-10-23", 1, , "Afghanistan", "New Ciara", "12628-6062", "Miller Orchard", 34, 9, "dorazemlak@memail.com", "dorazemlak", "36tcopszqj2", 0; 
-
-exec dbo.DodajKlientaInd "Jane", "Nicolas", "428227345", "1982-04-26", 0, , "Algeria", "Schuppefurt", "64408-4662", "Collins Harbor", 78, 34, "janenicolas@memail.com", "janenicolas", "ozvulc82uzp", 0; 
-
-exec dbo.DodajKlientaInd "Reggie", "Lesch", "658029322", "1961-10-16", 0, , "Tuvalu", "Port Melyssaburgh", "49985-8139", "Quigley Haven", 67, 56, "reggielesch@memail.com", "reggielesch", "51jjgxv2lma", 0; 
-
-exec dbo.DodajKlientaInd "Kaelyn", "Pagac", "460728175", "1980-03-18", 0, , "Mauritius", "Kshlerinberg", "82889", "Lynch Ports", 59, 69, "kaelynpagac@memail.com", "kaelynpagac", "4ige0sdwysm", 0; 
-
-exec dbo.DodajKlientaInd "Jazlyn", "Prohaska", "081542152", "1982-03-09", 0, , "Guadeloupe", "East Barrett", "92264-6426", "Mervin Brook", 69, 52, "jazlynprohaska@memail.com", "jazlynprohaska", "lkagmb1h80i", 0; 
-
-exec dbo.DodajKlientaInd "Henri", "Gorczany", "665611688", "1994-07-08", 0, , "Mexico", "Veronastad", "72976", "Bergstrom Circles", 33, 14, "henrigorczany@memail.com", "henrigorczany", "tcy7xbgq9cp", 0; 
-
-exec dbo.DodajKlientaInd "Johan", "Jerde", "523707834", "1954-12-01", 1, , "Nepal", "Port Berry", "11036", "Parker Crest", 98, 58, "johanjerde@memail.com", "johanjerde", "rpbnhfju2ye", 0; 
-
-exec dbo.DodajKlientaInd "Craig", "Schulist", "029412146", "1963-04-26", 0, , "Dominican Republic", "East Lorenzohaven", "99133-4442", "Trent Manors", 83, 65, "craigschulist@memail.com", "craigschulist", "55ezhiywolq", 0; 
-
-exec dbo.DodajKlientaInd "Easter", "Kreiger", "644442455", "1956-03-02", 0, 146291, "Bhutan", "Emilystad", "57575", "Daugherty Dale", 46, 4, "easterkreiger@memail.com", "easterkreiger", "diia3y1hlpp", 0; 
-
-exec dbo.DodajKlientaInd "Clara", "Bailey", "355137735", "1994-10-11", 0, , "Namibia", "Hegmannshire", "53077", "Keeling Tunnel", 42, 38, "clarabailey@memail.com", "clarabailey", "3j2ce5n4d3s", 0; 
-
-exec dbo.DodajKlientaInd "Misael", "Powlowski", "813676561", "1961-03-28", 1, , "Kuwait", "New Verda", "21682-1605", "Toy Cape", 42, 34, "misaelpowlowski@memail.com", "misaelpowlowski", "0i7uwca9c9a", 0; 
-
-exec dbo.DodajKlientaInd "Hester", "Conn", "675144232", "1970-03-15", 0, , "Armenia", "Hayesfort", "83864-4244", "Kunde Throughway", 73, 37, "hesterconn@memail.com", "hesterconn", "qfjp0tgk6bj", 0; 
-
-exec dbo.DodajKlientaInd "Jeffry", "Ruecker", "175312818", "1954-03-09", 0, , "Italy", "New Melvin", "41501", "Boyd Springs", 47, 1, "jeffryruecker@memail.com", "jeffryruecker", "awtb9n8zuho", 0; 
-
-exec dbo.DodajKlientaInd "Jerome", "Kling", "736712875", "1969-10-16", 0, , "Australia", "New Zachariah", "60274", "Laisha Center", 23, 44, "jeromekling@memail.com", "jeromekling", "cb52twiworr", 0; 
-
-exec dbo.DodajKlientaInd "Efrain", "Towne", "620604043", "1958-03-20", 0, , "Philippines", "Harberhaven", "28621", "Jast Run", 71, 89, "efraintowne@memail.com", "efraintowne", "hbypebyf76l", 0; 
-
-exec dbo.DodajKlientaInd "Antwon", "Kris", "600055371", "1987-04-03", 1, , "Kenya", "South Benview", "52320-2979", "Alena Estate", 32, 35, "antwonkris@memail.com", "antwonkris", "wws58kovv9", 0; 
-
-exec dbo.DodajKlientaInd "Annamae", "Mertz", "847683657", "1950-08-03", 0, , "United Kingdom", "West Maribelberg", "94440", "Tabitha Point", 32, 8, "annamaemertz@memail.com", "annamaemertz", "8thcxpj0kf0", 0; 
-
-exec dbo.DodajKlientaInd "Rupert", "Mills", "614737678", "1960-12-26", 1, , "Morocco", "Coraliemouth", "67239-0857", "Dicki Islands", 16, 8, "rupertmills@memail.com", "rupertmills", "8ev7f4viynk", 0; 
-
-exec dbo.DodajKlientaInd "Keagan", "Sporer", "364223888", "1956-11-28", 1, , "Slovenia", "Lake Keon", "46288", "Jovany Oval", 72, 11, "keagansporer@memail.com", "keagansporer", "q1impbanbfe", 0; 
-
-exec dbo.DodajKlientaInd "Walter", "Hayes", "750567685", "1963-11-07", 1, , "Kiribati", "Whiteborough", "98398-7104", "Casper Park", 35, 56, "walterhayes@memail.com", "walterhayes", "2qyt1umtnj4", 0; 
-
-exec dbo.DodajKlientaInd "Bryon", "Pouros", "365588178", "1991-02-28", 1, , "Turkmenistan", "Corrinehaven", "18638", "Cassidy Prairie", 87, 77, "bryonpouros@memail.com", "bryonpouros", "bpoawjiotyi", 0; 
-
-exec dbo.DodajKlientaInd "Hortense", "Macejkovic", "627922576", "1977-03-03", 0, , "Tokelau", "East Carlieshire", "21848", "Fahey Squares", 78, 34, "hortensemacejkovic@memail.com", "hortensemacejkovic", "ttvkbtm772j", 0; 
-
-exec dbo.DodajKlientaInd "Adalberto", "Ondricka", "174576345", "1994-11-07", 0, , "Swaziland", "South Pete", "97470", "Bruen Gateway", 90, 45, "adalbertoondricka@memail.com", "adalbertoondricka", "5znxe3jsd7y", 0; 
-
-exec dbo.DodajKlientaInd "Antonio", "Haley", "455572142", "1969-03-06", 0, , "Saint Vincent and the Grenadines", "East Alphonsohaven", "51232-6859", "Makenna Manor", 17, 37, "antoniohaley@memail.com", "antoniohaley", "k3tbysi074g", 0; 
-
-exec dbo.DodajKlientaInd "Dannie", "Yost", "482376865", "1957-06-05", 1, , "Virgin Islands, U.S.", "South Carolland", "26868-5211", "Carole Garden", 24, 92, "dannieyost@memail.com", "dannieyost", "arm3us982r5", 0; 
-
-exec dbo.DodajKlientaInd "Pearline", "Kuvalis", "432684966", "1984-06-26", 0, , "Mayotte", "Kundeshire", "45697", "Wisoky Motorway", 53, 93, "pearlinekuvalis@memail.com", "pearlinekuvalis", "2qmkildkclf", 0; 
-
-exec dbo.DodajKlientaInd "Winnifred", "O'Hara", "371197102", "1969-03-17", 1, , "Monaco", "Leathashire", "51030-8589", "Senger Lodge", 43, 72, "winnifredo'hara@memail.com", "winnifredo'hara", "g9e62pz6xl9", 0; 
-
-exec dbo.DodajKlientaInd "Dangelo", "Jaskolski", "282337619", "1995-11-22", 1, , "Kenya", "Fredview", "21630", "Koch Alley", 75, 58, "dangelojaskolski@memail.com", "dangelojaskolski", "fmd4ssto72m", 0; 
-
-exec dbo.DodajKlientaInd "Della", "Dibbert", "533208657", "1967-10-01", 0, , "Costa Rica", "Zemlakstad", "60295", "Terry Square", 37, 53, "delladibbert@memail.com", "delladibbert", "xxpk8mlcs6", 0; 
-
-exec dbo.DodajKlientaInd "Garett", "Ortiz", "778990355", "1956-10-13", 1, , "Bhutan", "New Sigrid", "40954-5402", "Elna Mountain", 79, 20, "garettortiz@memail.com", "garettortiz", "g5ep2wej8fp", 0; 
-
-exec dbo.DodajKlientaInd "Lenny", "McDermott", "470838338", "1987-03-26", 0, , "Thailand", "Fritschburgh", "90457-7901", "Sauer Parkway", 42, 28, "lennymcdermott@memail.com", "lennymcdermott", "4d5x7marzkw", 0; 
-
-exec dbo.DodajKlientaInd "Kylie", "Quigley", "621247433", "1962-10-15", 1, , "Republic of Korea", "Lulatown", "37649-8693", "Cremin Point", 47, 68, "kyliequigley@memail.com", "kyliequigley", "7xlkrnz6tx", 0; 
-
-exec dbo.DodajKlientaInd "Dorian", "Bartell", "230505421", "1985-12-18", 1, 673212, "Saint Pierre and Miquelon", "Halvorsonchester", "43150", "Jones Mountain", 83, 89, "dorianbartell@memail.com", "dorianbartell", "v0kux4zy27h", 0; 
-
-exec dbo.DodajKlientaInd "Thalia", "Fisher", "338810768", "1958-12-11", 0, , "Mozambique", "Port Saraistad", "53208-9889", "Alene Mission", 23, 85, "thaliafisher@memail.com", "thaliafisher", "toueiqgo3oz", 0; 
-
-exec dbo.DodajKlientaInd "Luciano", "Cole", "435735886", "1963-04-11", 1, , "Bulgaria", "Ansleyborough", "89615-3726", "Reichel Ways", 16, 78, "lucianocole@memail.com", "lucianocole", "n4isqvp4vur", 0; 
-
-exec dbo.DodajKlientaInd "Macie", "Towne", "013643416", "1981-06-21", 1, , "Chad", "Sawaynberg", "65201-0384", "Hirthe Station", 98, 65, "macietowne@memail.com", "macietowne", "rphdhuree7y", 0; 
-
-exec dbo.DodajKlientaInd "Robin", "Hane", "373515431", "1977-01-26", 0, 603125, "Holy See (Vatican City State)", "McCulloughmouth", "47237", "Cyrus Center", 23, 3, "robinhane@memail.com", "robinhane", "8ztb28yggsh", 0; 
-
-exec dbo.DodajKlientaInd "Ephraim", "Brown", "378215176", "1980-08-27", 0, , "Cambodia", "Jotown", "68680-3673", "Erwin Skyway", 16, 57, "ephraimbrown@memail.com", "ephraimbrown", "ms3s6p3szd5", 0; 
-
-exec dbo.DodajKlientaInd "Lionel", "Hauck", "568476118", "1996-06-13", 1, , "Guyana", "Gerardoton", "18677", "Chelsey Pines", 46, 22, "lionelhauck@memail.com", "lionelhauck", "gyo4llt55kd", 0; 
-
-exec dbo.DodajKlientaInd "Bennie", "Schumm", "717555554", "1983-06-08", 1, , "Kyrgyz Republic", "Bernadettechester", "85335", "Claudia Drive", 16, 25, "bennieschumm@memail.com", "bennieschumm", "d9tnnh86ju7", 0; 
-
-exec dbo.DodajKlientaInd "Annetta", "Cummings", "928217464", "1958-06-14", 0, , "Kyrgyz Republic", "Lake Claudine", "44278", "Manuela Harbors", 20, 82, "annettacummings@memail.com", "annettacummings", "j2xnaoibsom", 0; 
-
-exec dbo.DodajKlientaInd "Margarett", "McLaughlin", "128415512", "1994-01-11", 1, , "Philippines", "South Callie", "96551-6694", "Jena Pine", 39, 50, "margarettmclaughlin@memail.com", "margarettmclaughlin", "kcx7lr0s098", 0; 
-
-exec dbo.DodajKlientaInd "Dayton", "Larson", "646728324", "1956-02-10", 0, , "Burkina Faso", "Sanfordmouth", "81274", "Serena Brook", 23, 19, "daytonlarson@memail.com", "daytonlarson", "iz0pdd8648a", 0; 
-
-exec dbo.DodajKlientaInd "Bernita", "Runolfsson", "673944370", "1964-04-18", 0, , "Austria", "South Kole", "40332-6938", "Bayer Throughway", 45, 38, "bernitarunolfsson@memail.com", "bernitarunolfsson", "52hc8md2djl", 0; 
-
-exec dbo.DodajKlientaInd "Alize", "Tillman", "222504247", "1980-01-16", 1, , "Saint Helena", "East Andrew", "36644-9372", "Donnelly Gardens", 46, 65, "alizetillman@memail.com", "alizetillman", "1xb7mukyw0a", 0; 
-
-exec dbo.DodajKlientaInd "Shayne", "Mayert", "797252285", "1977-09-01", 1, , "Congo", "New Patience", "52507", "Alfredo Village", 34, 96, "shaynemayert@memail.com", "shaynemayert", "jxox0t1k0w6", 0; 
-
-exec dbo.DodajKlientaInd "Kaylee", "Gorczany", "666710532", "1967-01-01", 1, , "French Southern Territories", "Schmelerbury", "18279", "Reilly Plains", 34, 16, "kayleegorczany@memail.com", "kayleegorczany", "anhr4mdlefq", 0; 
-
-exec dbo.DodajKlientaInd "Jakob", "King", "634849632", "1955-03-26", 1, , "Senegal", "Reybury", "73875", "Ralph Lake", 47, 30, "jakobking@memail.com", "jakobking", "5cfvxj1cd9e", 0; 
-
-exec dbo.DodajKlientaInd "Princess", "Haag", "400781368", "1995-01-19", 0, , "San Marino", "East Angela", "22085", "Grimes Valley", 24, 37, "princesshaag@memail.com", "princesshaag", "636zmkr0ni1", 0; 
-
-exec dbo.DodajKlientaInd "Shaylee", "Brakus", "765477774", "1993-07-03", 1, , "Cocos (Keeling) Islands", "New Kristian", "91583-7745", "Franecki Garden", 47, 12, "shayleebrakus@memail.com", "shayleebrakus", "ranmai1kn6x", 0; 
-
-exec dbo.DodajKlientaInd "Giovanni", "Goldner", "835951708", "1994-10-19", 1, , "China", "East Coralie", "39447-4369", "Pfannerstill Spring", 93, 14, "giovannigoldner@memail.com", "giovannigoldner", "q21eyden7ha", 0; 
-
-exec dbo.DodajKlientaInd "Devonte", "Padberg", "073217736", "1952-09-29", 0, 218244, "Bahrain", "Lake Dusty", "43853-6370", "Santos Canyon", 26, 80, "devontepadberg@memail.com", "devontepadberg", "j4cjsyesc5q", 0; 
-
-exec dbo.DodajKlientaInd "Stella", "Runolfsson", "156693837", "1984-02-20", 1, , "Costa Rica", "South Hannah", "40944", "Karina Port", 17, 32, "stellarunolfsson@memail.com", "stellarunolfsson", "407netzgn93", 0; 
-
-exec dbo.DodajKlientaInd "Kory", "Miller", "277166175", "1992-09-16", 0, , "Isle of Man", "North Stewart", "48665-2884", "Lenny Park", 59, 1, "korymiller@memail.com", "korymiller", "lfg1ht6qigd", 0; 
-
-exec dbo.DodajKlientaInd "Pearl", "Weissnat", "427184713", "1986-05-24", 0, , "Oman", "East Cassie", "52505", "Issac Estate", 11, 44, "pearlweissnat@memail.com", "pearlweissnat", "sfxmmvnsr6", 0; 
-
-exec dbo.DodajKlientaInd "Toney", "Bechtelar", "206210388", "1957-05-23", 0, , "Japan", "South Madisyn", "10833-4599", "Nicolas Crescent", 94, 89, "toneybechtelar@memail.com", "toneybechtelar", "iyh4jlikpql", 0; 
-
-exec dbo.DodajKlientaInd "Ursula", "Bogisich", "621842643", "1963-01-11", 1, , "Papua New Guinea", "Port Evert", "69165", "Hand Bypass", 27, 56, "ursulabogisich@memail.com", "ursulabogisich", "kiqjlmrc1qe", 0; 
-
-exec dbo.DodajKlientaInd "Mozelle", "Murray", "461875607", "1963-05-08", 1, , "Kiribati", "Lake Sasha", "51664", "Braxton Lane", 87, 61, "mozellemurray@memail.com", "mozellemurray", "kv4lapyzgwu", 0; 
-
-exec dbo.DodajKlientaInd "Samara", "Bahringer", "466638616", "1967-08-22", 1, , "Hong Kong", "Dickishire", "33042", "Marjorie Motorway", 68, 88, "samarabahringer@memail.com", "samarabahringer", "z0nl27kw5y9", 0; 
-
-exec dbo.DodajKlientaInd "Jabari", "Langosh", "843786375", "1992-01-09", 0, , "American Samoa", "Gutkowskistad", "15408-2551", "Oran Gardens", 45, 16, "jabarilangosh@memail.com", "jabarilangosh", "nb8wxip5cbp", 0; 
-
-exec dbo.DodajKlientaInd "Willy", "Effertz", "534865214", "1991-11-18", 1, , "Mexico", "Port Anneland", "61935", "Joyce Haven", 11, 64, "willyeffertz@memail.com", "willyeffertz", "j2pivho2f1y", 0; 
-
-exec dbo.DodajKlientaInd "Kali", "Parisian", "455975743", "1957-11-23", 1, , "Kiribati", "North Earleneville", "49251", "Kuhn Road", 33, 17, "kaliparisian@memail.com", "kaliparisian", "x6p08csoqpq", 0; 
-
-exec dbo.DodajKlientaInd "Nicolette", "Morar", "741420883", "1990-01-28", 1, , "Guyana", "East Chandler", "39462-3974", "Kathryn Forest", 88, 66, "nicolettemorar@memail.com", "nicolettemorar", "o5vqqzsi7bx", 0; 
-
-exec dbo.DodajKlientaInd "Trevor", "Emard", "753598080", "1989-01-17", 0, , "Northern Mariana Islands", "Vernafort", "50062", "Lang Wall", 59, 18, "trevoremard@memail.com", "trevoremard", "6vjilwnzhkn", 0; 
-
-exec dbo.DodajKlientaInd "Madonna", "Funk", "852297162", "1982-05-26", 0, , "Papua New Guinea", "West Damien", "70598", "Swift Prairie", 69, 45, "madonnafunk@memail.com", "madonnafunk", "jj82zwxp9mk", 0; 
-
-exec dbo.DodajKlientaInd "Gerhard", "Heaney", "645312182", "1988-08-26", 1, , "Sao Tome and Principe", "West Lexietown", "78356", "Bette Plaza", 33, 35, "gerhardheaney@memail.com", "gerhardheaney", "65bfj227uvo", 0; 
-
-exec dbo.DodajKlientaInd "Milo", "Abbott", "420005433", "1988-07-11", 1, , "Cocos (Keeling) Islands", "Alanfort", "25180", "Anna Brooks", 50, 88, "miloabbott@memail.com", "miloabbott", "mk42soy9mwb", 0; 
-
-exec dbo.DodajKlientaInd "Hettie", "Gibson", "667865057", "1977-08-08", 1, , "Svalbard & Jan Mayen Islands", "Lake Aiyanahaven", "95212-0237", "Emelia Rest", 53, 71, "hettiegibson@memail.com", "hettiegibson", "0nkk1efzboi", 0; 
-
-exec dbo.DodajKlientaInd "Aisha", "Erdman", "131387114", "1986-06-02", 1, , "Trinidad and Tobago", "Paucekmouth", "87195-5199", "Joaquin Grove", 49, 87, "aishaerdman@memail.com", "aishaerdman", "f6iez6cagj", 0; 
-
-exec dbo.DodajKlientaInd "Vida", "Barrows", "669146085", "1973-02-14", 1, , "Nigeria", "West Briaberg", "78468-2265", "Smith Pass", 17, 68, "vidabarrows@memail.com", "vidabarrows", "y580cnrcvjr", 0; 
-
-exec dbo.DodajKlientaInd "Elaina", "Friesen", "843496873", "1996-01-11", 0, , "Croatia", "Port Georgiana", "46503-8129", "Stiedemann Island", 76, 13, "elainafriesen@memail.com", "elainafriesen", "7uiiizq77ia", 0; 
-
-exec dbo.DodajKlientaInd "Lexi", "Cassin", "174232422", "1969-04-13", 1, , "Bahrain", "West Vernon", "40701", "Welch Common", 93, 58, "lexicassin@memail.com", "lexicassin", "bya3378qssu", 0; 
-
-exec dbo.DodajKlientaInd "Alene", "Schneider", "169564489", "1982-07-22", 0, , "Albania", "Schimmelville", "87697", "Mohammed Road", 18, 26, "aleneschneider@memail.com", "aleneschneider", "ve0knnj73q", 0; 
-
-exec dbo.DodajKlientaInd "Lloyd", "Ullrich", "854839078", "1973-10-05", 1, , "Somalia", "North Elyse", "66992-5014", "Izaiah Union", 35, 76, "lloydullrich@memail.com", "lloydullrich", "fw9iby4oqgm", 0; 
-
-exec dbo.DodajKlientaInd "Alaina", "Jacobi", "709155803", "1991-04-01", 1, , "Kenya", "Flaviebury", "26109", "Octavia Greens", 92, 34, "alainajacobi@memail.com", "alainajacobi", "0zvbe1ia7m3", 0; 
-
-exec dbo.DodajKlientaInd "Emie", "Kohler", "619867817", "1973-07-18", 0, , "Saint Kitts and Nevis", "Bechtelarside", "85078-6124", "Marguerite Common", 21, 39, "emiekohler@memail.com", "emiekohler", "59hqk3zd0ix", 0; 
-
-exec dbo.DodajKlientaInd "Meda", "Terry", "152059313", "1981-03-26", 1, , "Martinique", "South Torrancechester", "67753-6852", "Bailey River", 42, 55, "medaterry@memail.com", "medaterry", "zkn2ypbmqsr", 0; 
-
-exec dbo.DodajKlientaInd "Johan", "Stanton", "622114246", "1972-11-20", 1, 864450, "Pitcairn Islands", "Celiaberg", "43730", "Bode Ridge", 35, 30, "johanstanton@memail.com", "johanstanton", "o8yasgt3h8f", 0; 
-
-exec dbo.DodajKlientaInd "Eleanore", "Zieme", "674889145", "1994-06-20", 0, , "Qatar", "Jadeberg", "21735", "MacGyver Keys", 49, 71, "eleanorezieme@memail.com", "eleanorezieme", "119m2z6ufmp", 0; 
-
-exec dbo.DodajKlientaInd "Ralph", "Wyman", "523880286", "1982-11-11", 1, , "Singapore", "South Kaylah", "56301-8294", "Arianna Lights", 16, 77, "ralphwyman@memail.com", "ralphwyman", "7udmk5p4hp", 0; 
-
-exec dbo.DodajKlientaInd "Pauline", "Kozey", "345546565", "1958-09-19", 0, , "Burundi", "East Troyside", "21985-4796", "Tamia Lake", 54, 96, "paulinekozey@memail.com", "paulinekozey", "olx5tv5n5i2", 0; 
-
-exec dbo.DodajKlientaInd "Dorian", "Dietrich", "568381886", "1991-04-18", 0, , "United States Minor Outlying Islands", "Port Hipolitostad", "98330", "Hyatt Land", 23, 27, "doriandietrich@memail.com", "doriandietrich", "er2ihutsv1q", 0; 
-
-exec dbo.DodajKlientaInd "Miller", "Padberg", "807344595", "1974-02-16", 0, , "Palau", "Blickshire", "80763-8879", "Ortiz Mews", 3, 76, "millerpadberg@memail.com", "millerpadberg", "9hwamvj6v0q", 0; 
-
-exec dbo.DodajKlientaInd "Maida", "Lemke", "129432288", "1983-06-10", 1, , "Palestinian Territory", "Hirthebury", "42680", "Abernathy Bridge", 45, 88, "maidalemke@memail.com", "maidalemke", "4o44n9vgny3", 0; 
-
-exec dbo.DodajKlientaInd "Darrel", "Windler", "126355823", "1994-03-10", 0, , "Cuba", "North Shanieshire", "96330", "Kolby Crossroad", 25, 86, "darrelwindler@memail.com", "darrelwindler", "e5t7mm5zz06", 0; 
-
-exec dbo.DodajKlientaInd "Asa", "Morissette", "015272216", "1981-01-08", 1, , "Gambia", "East Rasheed", "99993-1779", "Nienow Greens", 24, 18, "asamorissette@memail.com", "asamorissette", "s87jmpo903j", 0; 
-
-exec dbo.DodajKlientaInd "Ellen", "Champlin", "424312547", "1967-06-21", 0, , "Honduras", "Ondrickaton", "41859-4738", "Purdy Ferry", 16, 36, "ellenchamplin@memail.com", "ellenchamplin", "8cz49p7ekpg", 0; 
-
-exec dbo.DodajKlientaInd "Helmer", "Trantow", "246125345", "1976-09-03", 1, 174358, "Mongolia", "Rogersville", "67825", "Lind Union", 53, 39, "helmertrantow@memail.com", "helmertrantow", "mhn32pq7owr", 0; 
-
-exec dbo.DodajKlientaInd "Darron", "Schmitt", "851734141", "1953-04-19", 0, , "Cote d'Ivoire", "North Jules", "23099", "Ceasar Pike", 73, 21, "darronschmitt@memail.com", "darronschmitt", "fpr2xwf8g1r", 0; 
-
-exec dbo.DodajKlientaInd "Stephany", "Lind", "225175375", "1982-08-01", 1, , "Chad", "Lebsackshire", "90499", "Effertz Fields", 17, 12, "stephanylind@memail.com", "stephanylind", "rm3zqef2w4z", 0; 
-
-exec dbo.DodajKlientaInd "Doug", "Cummings", "734616525", "1958-10-12", 1, 079135, "Holy See (Vatican City State)", "New Norberto", "83152", "Salvatore Rest", 29, 75, "dougcummings@memail.com", "dougcummings", "3qi3uwkbsw8", 0; 
-
-exec dbo.DodajKlientaInd "Brannon", "Deckow", "183377265", "1978-03-09", 1, , "Monaco", "Reyesberg", "67063", "Moen Prairie", 7, 82, "brannondeckow@memail.com", "brannondeckow", "t592giz1xt4", 0; 
-
-exec dbo.DodajKlientaInd "Garrick", "Rau", "235475933", "1968-12-10", 1, , "Turkmenistan", "South Chasemouth", "38070", "Jayde Knolls", 36, 19, "garrickrau@memail.com", "garrickrau", "8ugs91juntg", 0; 
-
-exec dbo.DodajKlientaInd "Deborah", "Buckridge", "702524385", "1956-07-18", 0, , "Estonia", "Caryberg", "48415-8951", "Brekke Route", 31, 28, "deborahbuckridge@memail.com", "deborahbuckridge", "lgxisis9q0b", 0; 
-
-exec dbo.DodajKlientaInd "Tyrese", "Abshire", "249257977", "1984-12-28", 1, , "Morocco", "Cliffordberg", "10657", "Lowe Spring", 12, 11, "tyreseabshire@memail.com", "tyreseabshire", "up9qusefykw", 0; 
-
-exec dbo.DodajKlientaInd "Lonny", "Jaskolski", "193416619", "1985-08-10", 0, , "Zimbabwe", "East Lucieshire", "99326-0867", "McGlynn Roads", 49, 33, "lonnyjaskolski@memail.com", "lonnyjaskolski", "3jqt162id4k", 0; 
-
-exec dbo.DodajKlientaInd "Giovanna", "Hahn", "214661262", "1979-03-17", 0, , "Luxembourg", "East Michael", "86768-3796", "Agnes Keys", 92, 94, "giovannahahn@memail.com", "giovannahahn", "e94ky91dmvb", 0; 
-
-exec dbo.DodajKlientaInd "Amya", "Lemke", "322914526", "1963-02-16", 1, , "Saint Pierre and Miquelon", "Mayeport", "32999-7424", "Morar Inlet", 12, 34, "amyalemke@memail.com", "amyalemke", "l6gw7j9ev9a", 0; 
-
-exec dbo.DodajKlientaInd "Maureen", "Boehm", "141484371", "1981-07-27", 0, , "Niger", "South Ronaldoville", "24001-5144", "Erdman Plaza", 54, 10, "maureenboehm@memail.com", "maureenboehm", "2g1ylchqjdw", 0; 
-
-exec dbo.DodajKlientaInd "Vergie", "Ritchie", "870566218", "1961-09-24", 1, , "Zambia", "Cortneyland", "10064", "Hermann Turnpike", 82, 88, "vergieritchie@memail.com", "vergieritchie", "bge78t15mcr", 0; 
-
-exec dbo.DodajKlientaInd "Willow", "Hills", "745866357", "1984-05-27", 0, , "San Marino", "West Otto", "83842-4389", "Antone Roads", 28, 46, "willowhills@memail.com", "willowhills", "bslexz1g9dw", 0; 
-
-exec dbo.DodajKlientaInd "Giovanna", "Keeling", "743312331", "1955-11-29", 1, , "Malawi", "North Jan", "86897-7089", "Schuster Squares", 22, 16, "giovannakeeling@memail.com", "giovannakeeling", "7vsdqkjha5e", 0; 
-
-exec dbo.DodajKlientaInd "Keon", "Pfeffer", "104603347", "1973-05-04", 0, , "Malaysia", "Dorcasshire", "55068", "Yesenia Station", 68, 95, "keonpfeffer@memail.com", "keonpfeffer", "0u94haksnhj", 0; 
-
-exec dbo.DodajKlientaInd "Larue", "Prosacco", "679242674", "1961-10-19", 0, , "Philippines", "Franeckistad", "21174", "Kiehn Mountain", 42, 86, "larueprosacco@memail.com", "larueprosacco", "yqtrarlivze", 0; 
-
-exec dbo.DodajKlientaInd "Caitlyn", "Kiehn", "837601417", "1963-12-10", 0, , "Vietnam", "Fletafort", "84662", "Bernie Rapid", 32, 30, "caitlynkiehn@memail.com", "caitlynkiehn", "w5rumjiyheh", 0; 
-
-exec dbo.DodajKlientaInd "Sigmund", "Bahringer", "284456537", "1993-05-31", 1, , "Bangladesh", "Victorchester", "87177-2793", "Katrine Cliff", 37, 77, "sigmundbahringer@memail.com", "sigmundbahringer", "m4gt21f5vnu", 0; 
-
-exec dbo.DodajKlientaInd "Laila", "Sporer", "342464266", "1965-08-10", 0, , "Ukraine", "Quigleyside", "71230-9925", "Kertzmann Parkways", 37, 33, "lailasporer@memail.com", "lailasporer", "qq48mzv6odb", 0; 
-
-exec dbo.DodajKlientaInd "Jay", "Larkin", "654820137", "1950-11-04", 0, , "Benin", "Port Osbaldo", "64527", "Kevon Park", 51, 89, "jaylarkin@memail.com", "jaylarkin", "4f14kd0lqjr", 0; 
-
-exec dbo.DodajKlientaInd "Kelly", "Kozey", "721893253", "1971-08-12", 0, , "French Polynesia", "West Zack", "58161", "Bogan Square", 46, 19, "kellykozey@memail.com", "kellykozey", "qzqydkhlpm9", 0; 
-
-exec dbo.DodajKlientaInd "Gaston", "Steuber", "246881553", "1964-11-24", 0, , "Solomon Islands", "East Daphne", "86664-3034", "Jacobs Freeway", 99, 74, "gastonsteuber@memail.com", "gastonsteuber", "joj9x1537d2", 0; 
-
-exec dbo.DodajKlientaInd "Adelbert", "Romaguera", "768024331", "1951-07-13", 1, , "Antigua and Barbuda", "East Dahliahaven", "95168", "Sienna Prairie", 50, 78, "adelbertromaguera@memail.com", "adelbertromaguera", "qcviyo7j3c", 0; 
-
-exec dbo.DodajKlientaInd "Gregorio", "Ward", "170475265", "1963-08-28", 0, 706465, "Estonia", "Kochfort", "15943-8903", "Howell Ville", 69, 67, "gregorioward@memail.com", "gregorioward", "4ajdotc276", 0; 
-
-exec dbo.DodajKlientaInd "Clay", "Abshire", "481666828", "1954-09-17", 1, , "Equatorial Guinea", "North Eviebury", "44573-8067", "Kuvalis Street", 35, 45, "clayabshire@memail.com", "clayabshire", "i92a66ehhg7", 0; 
-
-exec dbo.DodajKlientaInd "Al", "Boyle", "418164396", "1989-08-02", 1, , "Serbia", "Daltonshire", "16006-4974", "Spinka Mountain", 5, 2, "alboyle@memail.com", "alboyle", "ez2nhds99rn", 0; 
-
-exec dbo.DodajKlientaInd "Jewel", "Ledner", "598197013", "1990-08-08", 0, , "South Georgia and the South Sandwich Islands", "South Claudia", "38667-9798", "Oda Ranch", 83, 46, "jewelledner@memail.com", "jewelledner", "v4bjiizurj1", 0; 
-
-exec dbo.DodajKlientaInd "Damon", "Ruecker", "947333144", "1950-04-30", 1, , "Montserrat", "Gleichnerfort", "67504", "Eichmann Shore", 58, 15, "damonruecker@memail.com", "damonruecker", "qn813xup484", 0; 
-
-exec dbo.DodajKlientaInd "Onie", "Zemlak", "231739757", "1994-12-27", 0, , "Puerto Rico", "Brauntown", "84688", "Dietrich Point", 68, 42, "oniezemlak@memail.com", "oniezemlak", "3yg8bn83xdi", 0; 
-
-exec dbo.DodajKlientaInd "Malachi", "Kuhic", "474795315", "1986-07-14", 0, , "Virgin Islands, British", "New Macybury", "35429-9973", "Ed Bypass", 82, 13, "malachikuhic@memail.com", "malachikuhic", "zg8dw581y0c", 0; 
-
-exec dbo.DodajKlientaInd "Pearline", "Nader", "516884768", "1964-09-13", 1, 333196, "Spain", "New Bailee", "87360", "Rose Estate", 28, 13, "pearlinenader@memail.com", "pearlinenader", "xb3g3eo8oq5", 0; 
-
-exec dbo.DodajKlientaInd "Edyth", "Douglas", "538123668", "1971-07-30", 1, , "Jersey", "Port Catharinebury", "88076-5737", "Nolan Knolls", 49, 88, "edythdouglas@memail.com", "edythdouglas", "ox8vsd9mpxg", 0; 
-
-exec dbo.DodajKlientaInd "Mackenzie", "Wintheiser", "446615969", "1968-03-21", 1, , "Rwanda", "East Kraig", "84948", "Wolff Circles", 82, 87, "mackenziewintheiser@memail.com", "mackenziewintheiser", "bsjjf8ccsdp", 0; 
-
-exec dbo.DodajKlientaInd "Stuart", "Gleason", "335681632", "1962-12-10", 0, , "Virgin Islands, British", "Eloisaborough", "14495", "Wilderman Rapid", 85, 48, "stuartgleason@memail.com", "stuartgleason", "e822dtsi0l7", 0; 
-
-exec dbo.DodajKlientaInd "Ricky", "Terry", "675646154", "1959-06-16", 0, , "Hungary", "Lake Tyreekside", "44941", "McClure Estates", 65, 54, "rickyterry@memail.com", "rickyterry", "tc7gcxad5nw", 0; 
-
-exec dbo.DodajKlientaInd "Luis", "Wilderman", "229687563", "1991-08-13", 1, , "Pakistan", "Nadiastad", "69057-7417", "Jamel Ridges", 52, 18, "luiswilderman@memail.com", "luiswilderman", "1lr3nwyfgbp", 0; 
-
-exec dbo.DodajKlientaInd "Eldridge", "Kuhlman", "581641386", "1982-12-11", 0, , "Swaziland", "Erdmanshire", "63205", "Jabari Heights", 46, 13, "eldridgekuhlman@memail.com", "eldridgekuhlman", "vsju4yccvz7", 0; 
-
-exec dbo.DodajKlientaInd "Ozella", "Fahey", "134213751", "1973-12-12", 0, , "Azerbaijan", "Tyreekmouth", "79606", "Brooklyn Springs", 74, 78, "ozellafahey@memail.com", "ozellafahey", "rbig4oiv9u0", 0; 
-
-exec dbo.DodajKlientaInd "Athena", "Schmitt", "431088451", "1995-08-04", 1, , "Malaysia", "Port Leanne", "32792-9928", "Eugenia Mountains", 42, 13, "athenaschmitt@memail.com", "athenaschmitt", "piavf2g3ur9", 0; 
-
-exec dbo.DodajKlientaInd "Vergie", "Shields", "852786338", "1996-10-21", 0, 051476, "New Zealand", "Lake Jaceymouth", "28642-7423", "Helen Cape", 57, 92, "vergieshields@memail.com", "vergieshields", "hs4xztguhp", 0; 
-
-exec dbo.DodajKlientaInd "Alexandro", "Hammes", "844334922", "1990-02-19", 1, , "Mongolia", "Wolffton", "66809-9266", "Stark Springs", 24, 6, "alexandrohammes@memail.com", "alexandrohammes", "o1nzlhhzuk3", 0; 
-
-exec dbo.DodajKlientaInd "Monty", "Lehner", "433552205", "1972-03-15", 1, , "Andorra", "Port Jonathan", "74611", "Jessica Pike", 62, 91, "montylehner@memail.com", "montylehner", "hdeoqza8njo", 0; 
-
-exec dbo.DodajKlientaInd "Shawna", "Conroy", "321281127", "1954-02-12", 0, , "Philippines", "North Naomi", "10142-1532", "Loyce Island", 81, 87, "shawnaconroy@memail.com", "shawnaconroy", "1qe4bwerss7", 0; 
-
-exec dbo.DodajKlientaInd "Kelsi", "Lowe", "187741430", "1964-02-27", 0, 261814, "Argentina", "Princessbury", "74468-1185", "O'Kon Cove", 40, 77, "kelsilowe@memail.com", "kelsilowe", "zptreae7w3e", 0; 
-
-exec dbo.DodajKlientaInd "Vernon", "Turcotte", "401309182", "1974-05-07", 0, , "India", "Port Linafort", "55116-5979", "Kody Village", 33, 69, "vernonturcotte@memail.com", "vernonturcotte", "gppak6zb93a", 0; 
-
-exec dbo.DodajKlientaInd "Westley", "Lebsack", "484538866", "1987-07-09", 0, , "French Southern Territories", "Lake Michele", "98991-8168", "Graham Plain", 25, 77, "westleylebsack@memail.com", "westleylebsack", "d6l0nw4qlp2", 0; 
-
-exec dbo.DodajKlientaInd "Josiane", "Franecki", "280570495", "1992-03-21", 1, , "Niger", "North Mayrabury", "96756", "Daniel Divide", 79, 18, "josianefranecki@memail.com", "josianefranecki", "1tevxc4vlln", 0; 
-
-exec dbo.DodajKlientaInd "Duncan", "Bashirian", "586497588", "1994-10-31", 1, , "Western Sahara", "Keelingville", "55307", "Stehr Park", 42, 24, "duncanbashirian@memail.com", "duncanbashirian", "npx3lu61sr1", 0; 
-
-exec dbo.DodajKlientaInd "Domenic", "Langworth", "435617527", "1970-07-24", 0, , "Saint Vincent and the Grenadines", "Salmaland", "93130", "Jamir Keys", 52, 52, "domeniclangworth@memail.com", "domeniclangworth", "somm8kpwmbh", 0; 
-
-exec dbo.DodajKlientaInd "Demarco", "Huel", "832232566", "1973-01-05", 1, , "Saint Barthelemy", "Lake Catherinestad", "76290-1781", "Carter Plaza", 52, 86, "demarcohuel@memail.com", "demarcohuel", "vzy0lnma54t", 0; 
-
-exec dbo.DodajKlientaInd "Alek", "Rempel", "123280596", "1953-04-07", 1, , "Guinea-Bissau", "Port Larissa", "88862", "Ullrich Hollow", 32, 15, "alekrempel@memail.com", "alekrempel", "aikd79hpz7f", 0; 
-
-exec dbo.DodajKlientaInd "Kane", "Bayer", "211283063", "1964-08-14", 1, , "Pitcairn Islands", "North Margarett", "82532-3330", "Mertz Station", 65, 72, "kanebayer@memail.com", "kanebayer", "opoo5o462g6", 0; 
-
-exec dbo.DodajKlientaInd "Jade", "Heller", "682223270", "1992-10-09", 0, , "Djibouti", "Port Immanuel", "93877", "McLaughlin Stream", 13, 59, "jadeheller@memail.com", "jadeheller", "xqtcz2kwwi0", 0; 
-
-exec dbo.DodajKlientaInd "Saige", "Eichmann", "577680758", "1995-06-21", 0, , "Uganda", "Beierborough", "77659", "Maurine Mountains", 68, 58, "saigeeichmann@memail.com", "saigeeichmann", "h1qi6947nv3", 0; 
-
-exec dbo.DodajKlientaInd "Naomie", "Lind", "504873715", "1992-10-14", 0, , "Australia", "East Luellastad", "89709-0235", "Ardella Ferry", 74, 26, "naomielind@memail.com", "naomielind", "ipamxnthv01", 0; 
-
-exec dbo.DodajKlientaInd "Yvette", "Crona", "352599662", "1976-03-01", 1, , "United Kingdom", "Koelpinport", "92902", "Schmeler Key", 59, 86, "yvettecrona@memail.com", "yvettecrona", "ygvliwivll3", 0; 
-
-exec dbo.DodajKlientaInd "Arielle", "Shields", "314485855", "1973-09-25", 0, , "Kenya", "New Paytonport", "63595", "Mitchell Union", 39, 33, "arielleshields@memail.com", "arielleshields", "eievfski1du", 0; 
-
-exec dbo.DodajKlientaInd "Sister", "Harber", "314263064", "1966-12-17", 0, , "Northern Mariana Islands", "Cartwrightchester", "89743-9486", "Tyler Groves", 26, 52, "sisterharber@memail.com", "sisterharber", "ipnjdloats", 0; 
-
-exec dbo.DodajKlientaInd "Fredrick", "Mraz", "972142360", "1964-02-04", 1, , "Equatorial Guinea", "South Edna", "31407-0083", "Kozey Mount", 22, 5, "fredrickmraz@memail.com", "fredrickmraz", "dr2xm7ka5ex", 0; 
-
-exec dbo.DodajKlientaInd "Yessenia", "King", "757118848", "1968-08-26", 1, , "Nepal", "East Mathildemouth", "41584", "Frami Freeway", 46, 70, "yesseniaking@memail.com", "yesseniaking", "cc95g07y227", 0; 
-
-exec dbo.DodajKlientaInd "Jaiden", "Wisoky", "407925251", "1963-09-04", 0, 368641, "Northern Mariana Islands", "New Annalise", "72739-0570", "Wilmer Run", 48, 66, "jaidenwisoky@memail.com", "jaidenwisoky", "ya4yvufwzef", 0; 
-
-exec dbo.DodajKlientaInd "Jasmin", "Koss", "825361809", "1973-06-13", 1, , "Libyan Arab Jamahiriya", "Vickyhaven", "69200", "Adelbert Walks", 85, 66, "jasminkoss@memail.com", "jasminkoss", "0mqvs8v9iud", 0; 
-
-exec dbo.DodajKlientaInd "Ara", "Runolfsson", "779148340", "1996-06-26", 0, , "Micronesia", "Lake Elysehaven", "83147", "Brekke Isle", 86, 35, "ararunolfsson@memail.com", "ararunolfsson", "piwbb0enpin", 0; 
-
-exec dbo.DodajKlientaInd "Terrence", "Botsford", "854771163", "1970-10-15", 0, , "French Guiana", "West Ramirohaven", "25394-9065", "Douglas Tunnel", 99, 53, "terrencebotsford@memail.com", "terrencebotsford", "uhe9s6jmid0", 0; 
-
-exec dbo.DodajKlientaInd "Briana", "Mertz", "672925742", "1983-09-22", 0, 866126, "Ukraine", "Port Bradystad", "75105-2687", "Adan Terrace", 87, 89, "brianamertz@memail.com", "brianamertz", "ip97n84496x", 0; 
-
-exec dbo.DodajKlientaInd "Fern", "O'Conner", "839229143", "1982-03-15", 0, , "Vietnam", "Kovacekmouth", "68913-6097", "Vivian Mount", 77, 30, "ferno'conner@memail.com", "ferno'conner", "2n7sg0ozmx5", 0; 
-
-exec dbo.DodajKlientaInd "Myriam", "Gaylord", "311825613", "1963-04-01", 0, , "Uganda", "East Ariannamouth", "21629", "Asia Row", 42, 80, "myriamgaylord@memail.com", "myriamgaylord", "kh76pmdx4qy", 0; 
-
-exec dbo.DodajKlientaInd "Lera", "Reichel", "732161738", "1983-10-15", 0, , "Bermuda", "New Kirstin", "23051", "Feil Pines", 75, 16, "lerareichel@memail.com", "lerareichel", "eyvspep0tui", 0; 
-
-exec dbo.DodajKlientaInd "Tara", "Baumbach", "376607695", "1991-06-16", 1, , "Myanmar", "West Jessikaland", "33229-8595", "Arno Square", 61, 39, "tarabaumbach@memail.com", "tarabaumbach", "0qmdnmghd4s", 0; 
-
-exec dbo.DodajKlientaInd "Khalil", "Kuhn", "367521748", "1961-07-15", 1, , "Mongolia", "Heaneychester", "64489-8022", "Mia Crescent", 57, 63, "khalilkuhn@memail.com", "khalilkuhn", "wbqsfdsmkkf", 0; 
-
-exec dbo.DodajKlientaInd "Garry", "Mann", "473602230", "1952-03-12", 1, 834143, "Belgium", "Port Luella", "73339", "DuBuque Square", 7, 24, "garrymann@memail.com", "garrymann", "e9rzwgg0791", 0; 
-
-exec dbo.DodajKlientaInd "Sid", "Schoen", "854533474", "1955-10-21", 0, , "Timor-Leste", "Normatown", "68102", "Farrell Isle", 38, 26, "sidschoen@memail.com", "sidschoen", "ahwjljfq9nr", 0; 
-
-exec dbo.DodajKlientaInd "Furman", "Zulauf", "158728224", "1959-06-24", 0, 723418, "Timor-Leste", "Flavioland", "20805-6586", "Schumm Port", 85, 84, "furmanzulauf@memail.com", "furmanzulauf", "7qft31umd3c", 0; 
-
-exec dbo.DodajKlientaInd "Felicita", "Jones", "598907838", "1955-07-01", 1, 834773, "Kiribati", "Altenwerthland", "86251", "Julius Squares", 18, 87, "felicitajones@memail.com", "felicitajones", "j6edcx78uky", 0; 
-
-exec dbo.DodajKlientaInd "Matteo", "Hettinger", "749160745", "1961-11-25", 0, , "Japan", "South Marcellus", "86566-1674", "Merlin Motorway", 84, 53, "matteohettinger@memail.com", "matteohettinger", "10511yn9vt1", 0; 
-
-exec dbo.DodajKlientaInd "Laury", "Prosacco", "825235122", "1974-12-02", 0, , "Virgin Islands, U.S.", "Lake Kaleyview", "93981", "Hudson Square", 61, 55, "lauryprosacco@memail.com", "lauryprosacco", "6tlceh6m21a", 0; 
-
-exec dbo.DodajKlientaInd "Courtney", "Dickens", "384166898", "1978-07-24", 0, , "Morocco", "Lake Jasenhaven", "29448", "Kub Drives", 88, 45, "courtneydickens@memail.com", "courtneydickens", "zd7k8rp33pj", 0; 
-
-exec dbo.DodajKlientaInd "Carey", "Cassin", "724753519", "1953-03-14", 0, , "United Kingdom", "Cormiershire", "39203", "Jed Islands", 50, 15, "careycassin@memail.com", "careycassin", "jsaww5nzwjb", 0; 
-
-exec dbo.DodajKlientaInd "Estella", "King", "989857053", "1953-07-13", 1, , "Mauritius", "Hirthefurt", "36305-1106", "Carrie Fork", 36, 37, "estellaking@memail.com", "estellaking", "b2xmua152kp", 0; 
-
-exec dbo.DodajKlientaInd "Hermann", "Bauch", "557987581", "1979-09-13", 1, , "Belize", "Stammmouth", "94527-4026", "Feeney Spring", 3, 47, "hermannbauch@memail.com", "hermannbauch", "6sa1zs7oyw7", 0; 
-
-exec dbo.DodajKlientaInd "Maxine", "Fay", "137642783", "1986-11-27", 0, , "Saint Vincent and the Grenadines", "East Margaret", "63264-6714", "Evie Row", 18, 73, "maxinefay@memail.com", "maxinefay", "e34htidzn48", 0; 
-
-exec dbo.DodajKlientaInd "Cathrine", "Boyle", "646383239", "1956-09-12", 1, , "Cocos (Keeling) Islands", "Okeyhaven", "42278", "Jackson Corners", 19, 24, "cathrineboyle@memail.com", "cathrineboyle", "4cotjfkx7rm", 0; 
-
-exec dbo.DodajKlientaInd "Kristopher", "Dibbert", "286401975", "1967-02-17", 0, , "Lebanon", "Svenmouth", "27649-3442", "Enrico Common", 67, 77, "kristopherdibbert@memail.com", "kristopherdibbert", "6m0gj2n90tq", 0; 
-
-exec dbo.DodajKlientaInd "Gordon", "Funk", "660987852", "1996-11-11", 1, , "Bangladesh", "Yosttown", "61912-3547", "Christiansen Motorway", 43, 54, "gordonfunk@memail.com", "gordonfunk", "e72yguuxnow", 0; 
-
-exec dbo.DodajKlientaInd "Kattie", "Hirthe", "967542865", "1987-05-15", 1, , "United Kingdom", "Orieville", "98276", "Howell Spur", 96, 6, "kattiehirthe@memail.com", "kattiehirthe", "37wykdmr3n4", 0; 
-
-exec dbo.DodajKlientaInd "Hans", "Towne", "008777628", "1964-06-27", 0, , "South Africa", "Lake Beverly", "85173", "Smitham Circles", 75, 50, "hanstowne@memail.com", "hanstowne", "k8oqlxhrero", 0; 
-
-exec dbo.DodajKlientaInd "Zackery", "McClure", "469880013", "1959-04-24", 1, , "Tajikistan", "Jayceebury", "28663-4858", "Clovis Loaf", 42, 93, "zackerymcclure@memail.com", "zackerymcclure", "amwamv6gqaq", 0; 
-
-exec dbo.DodajKlientaInd "Tavares", "Casper", "381543181", "1980-04-07", 0, , "Saint Pierre and Miquelon", "New Ressieville", "21976", "Koelpin Dam", 2, 50, "tavarescasper@memail.com", "tavarescasper", "wmg3r1ebnw", 0; 
-
-exec dbo.DodajKlientaInd "Aliya", "Kassulke", "660153387", "1994-01-08", 1, , "Guinea", "Josianefurt", "87723", "Hagenes Shores", 38, 62, "aliyakassulke@memail.com", "aliyakassulke", "mkebpsfi97c", 0; 
-
-exec dbo.DodajKlientaInd "Cesar", "Schneider", "994716444", "1990-09-16", 0, , "Uganda", "Ebbaborough", "51010", "Kohler Drive", 55, 29, "cesarschneider@memail.com", "cesarschneider", "fdd5jagdr41", 0; 
-
-exec dbo.DodajKlientaInd "Toy", "Schmidt", "446589104", "1951-03-04", 0, , "Bosnia and Herzegovina", "Port Rupert", "57891", "Crooks Common", 73, 24, "toyschmidt@memail.com", "toyschmidt", "3flxr682elg", 0; 
-
-exec dbo.DodajKlientaInd "Ernie", "Kassulke", "316722898", "1993-04-06", 0, , "Morocco", "Linwoodville", "60990-7570", "Donnelly Place", 60, 73, "erniekassulke@memail.com", "erniekassulke", "nktk4idah9", 0; 
-
-exec dbo.DodajKlientaInd "Julio", "Rosenbaum", "553113981", "1981-01-01", 0, , "Brunei Darussalam", "East Cecileborough", "63330", "Kiehn Key", 65, 1, "juliorosenbaum@memail.com", "juliorosenbaum", "mfjedzcjdc1", 0; 
-
-exec dbo.DodajKlientaInd "Maxime", "Kris", "621730582", "1969-04-12", 1, , "Colombia", "Deonport", "34034-6514", "Leonora Station", 32, 1, "maximekris@memail.com", "maximekris", "x031g0amkag", 0; 
-
-exec dbo.DodajKlientaInd "Andreane", "Carroll", "848565827", "1969-08-05", 1, 586382, "Cape Verde", "Emanuelchester", "85232-5482", "Kavon Drive", 38, 93, "andreanecarroll@memail.com", "andreanecarroll", "mzsjxsyveq", 0; 
-
-exec dbo.DodajKlientaInd "Carolanne", "Funk", "024179443", "1983-10-11", 0, , "Dominica", "Crystalberg", "52913", "Dooley Green", 80, 87, "carolannefunk@memail.com", "carolannefunk", "rs89ekkep2e", 0; 
-
-exec dbo.DodajKlientaInd "Hyman", "Rice", "952856287", "1988-09-01", 1, , "Jamaica", "West Hildegardhaven", "76920", "Beaulah Underpass", 100, 53, "hymanrice@memail.com", "hymanrice", "fzqioqitvsl", 0; 
-
-exec dbo.DodajKlientaInd "Lorenza", "Monahan", "226377213", "1968-10-10", 0, , "Nauru", "Collinsport", "60778", "Bria Viaduct", 7, 16, "lorenzamonahan@memail.com", "lorenzamonahan", "g0kg3w7c8ss", 0; 
-
-exec dbo.DodajKlientaInd "Mateo", "Heller", "856152587", "1977-03-21", 1, , "Togo", "Lemkeville", "88243", "Faye Bridge", 16, 88, "mateoheller@memail.com", "mateoheller", "2a5hqvf8kpx", 0; 
-
-exec dbo.DodajKlientaInd "Ashtyn", "Bogisich", "788075882", "1981-07-07", 1, , "Heard Island and McDonald Islands", "East Carlos", "80818", "Hosea Spring", 43, 59, "ashtynbogisich@memail.com", "ashtynbogisich", "boygkh0di1p", 0; 
-
-exec dbo.DodajKlientaInd "Wellington", "Crist", "802343911", "1955-10-03", 1, , "Argentina", "Bernierfort", "28536-8071", "Kayley Parkway", 95, 80, "wellingtoncrist@memail.com", "wellingtoncrist", "llxr8znlcts", 0; 
-
-exec dbo.DodajKlientaInd "Julia", "Hahn", "976046022", "1959-01-13", 0, , "Mauritius", "East Helmerton", "22857-7082", "Larkin Vista", 64, 75, "juliahahn@memail.com", "juliahahn", "p9ythcqcwoz", 0; 
-
-exec dbo.DodajKlientaInd "Hans", "Ward", "184853158", "1978-09-09", 0, , "Comoros", "Hayleyfort", "40767-0408", "Bartoletti Summit", 80, 82, "hansward@memail.com", "hansward", "zh6dkn9btli", 0; 
-
-exec dbo.DodajKlientaInd "Jesus", "Pagac", "314728515", "1977-11-03", 1, 553437, "Cocos (Keeling) Islands", "North Greg", "81158", "Bogan Overpass", 47, 69, "jesuspagac@memail.com", "jesuspagac", "af66l098daz", 0; 
-
-exec dbo.DodajKlientaInd "Euna", "Wintheiser", "111474597", "1966-03-07", 1, , "Micronesia", "Colefort", "88977", "Nils Junction", 95, 55, "eunawintheiser@memail.com", "eunawintheiser", "bx8kb4equt", 0; 
-
-exec dbo.DodajKlientaInd "Laisha", "Okuneva", "748524134", "1965-09-18", 1, , "Jersey", "New Leta", "31417-8639", "Stanton Mission", 56, 83, "laishaokuneva@memail.com", "laishaokuneva", "mltyzdofqzw", 0; 
-
-exec dbo.DodajKlientaInd "Briana", "Nicolas", "532472264", "1988-08-10", 0, , "Guatemala", "Edwinberg", "46161", "Domenico Center", 77, 85, "briananicolas@memail.com", "briananicolas", "3uxz5nrdqp8", 0; 
-
-exec dbo.DodajKlientaInd "Dexter", "Gislason", "627678821", "1981-05-29", 0, , "Pakistan", "East Andresfurt", "30998-2234", "Brent Inlet", 65, 63, "dextergislason@memail.com", "dextergislason", "67lbufnwexx", 0; 
-
-exec dbo.DodajKlientaInd "Vicky", "Kilback", "386093386", "1992-10-27", 1, , "Brazil", "Rodriguezview", "18540", "Lockman Road", 79, 10, "vickykilback@memail.com", "vickykilback", "cmbolr9wrjl", 0; 
-
-exec dbo.DodajKlientaInd "Edwina", "Bahringer", "234374107", "1974-11-07", 1, , "Pitcairn Islands", "New Dulceside", "28784", "Jarrett Path", 87, 84, "edwinabahringer@memail.com", "edwinabahringer", "bhw89w5unfo", 0; 
-
-exec dbo.DodajKlientaInd "Josiah", "Okuneva", "464270485", "1984-02-21", 0, , "Botswana", "North Jonatan", "75440-1552", "Gusikowski Union", 67, 57, "josiahokuneva@memail.com", "josiahokuneva", "vuflrqg8214", 0; 
-
-exec dbo.DodajKlientaInd "Vanessa", "Gulgowski", "488156145", "1994-08-03", 0, 742168, "Central African Republic", "Justonmouth", "81173", "Daphnee Stravenue", 32, 75, "vanessagulgowski@memail.com", "vanessagulgowski", "uvizgfw0byw", 0; 
-
-exec dbo.DodajKlientaInd "Johnson", "Muller", "092775776", "1952-03-01", 0, , "San Marino", "West Randallville", "40013-7655", "Gayle Streets", 24, 58, "johnsonmuller@memail.com", "johnsonmuller", "msvn3go5k39", 0; 
-
-exec dbo.DodajKlientaInd "Courtney", "Kutch", "832377581", "1950-11-27", 1, , "Uzbekistan", "West Amandabury", "78640", "Moore Ford", 61, 22, "courtneykutch@memail.com", "courtneykutch", "t3wb12s35y", 0; 
-
-exec dbo.DodajKlientaInd "Florine", "Kovacek", "481023408", "1959-05-19", 1, , "Virgin Islands, U.S.", "South Janelle", "45801-8573", "Einar Forge", 82, 97, "florinekovacek@memail.com", "florinekovacek", "tariri9hxj4", 0; 
-
-exec dbo.DodajKlientaInd "Brionna", "Wilkinson", "784113357", "1990-06-09", 1, 705271, "Netherlands", "Hermannmouth", "73279-7253", "Dagmar Creek", 55, 14, "brionnawilkinson@memail.com", "brionnawilkinson", "myv2tcywfpy", 0; 
-
-exec dbo.DodajKlientaInd "Penelope", "Runolfsdottir", "481161854", "1973-11-24", 1, , "Timor-Leste", "West Myron", "87887-5035", "Lubowitz Roads", 37, 82, "peneloperunolfsdottir@memail.com", "peneloperunolfsdottir", "llgnesg22cq", 0; 
-
-exec dbo.DodajKlientaInd "Alexandro", "Bergstrom", "191078598", "1986-08-13", 0, , "Turks and Caicos Islands", "Feilland", "65571-5334", "Paolo Walks", 5, 69, "alexandrobergstrom@memail.com", "alexandrobergstrom", "boeasz1nmf", 0; 
-
-exec dbo.DodajKlientaInd "Donny", "Harber", "436922437", "1987-05-23", 1, , "Israel", "South Efrain", "37569", "Schinner Hollow", 54, 14, "donnyharber@memail.com", "donnyharber", "yurx5cv60d7", 0; 
-
-exec dbo.DodajKlientaInd "Carmela", "Anderson", "676690766", "1951-04-14", 1, , "Nigeria", "West Lilly", "88493-8869", "Ryan Estate", 85, 44, "carmelaanderson@memail.com", "carmelaanderson", "l85mzcyn27x", 0; 
-
-exec dbo.DodajKlientaInd "Opal", "Dare", "315819774", "1952-11-28", 1, , "Jersey", "Dimitriville", "72540", "Rex Isle", 25, 82, "opaldare@memail.com", "opaldare", "ed6qe9bo3p3", 0; 
-
-exec dbo.DodajKlientaInd "Nathen", "Wolf", "776921388", "1977-12-31", 1, , "Saint Helena", "Wilhelmineside", "18363-8220", "Kayli Pass", 16, 79, "nathenwolf@memail.com", "nathenwolf", "dbbl74bg98d", 0; 
-
-exec dbo.DodajKlientaInd "Sister", "Beatty", "435638687", "1950-07-02", 0, , "Guatemala", "Port Trystantown", "31962-4899", "Streich Skyway", 89, 16, "sisterbeatty@memail.com", "sisterbeatty", "4aez991dglz", 0; 
-
-exec dbo.DodajKlientaInd "Akeem", "Leannon", "522160164", "1996-10-26", 0, , "Virgin Islands, British", "Jonathonbury", "49940-4842", "Chadrick Run", 27, 37, "akeemleannon@memail.com", "akeemleannon", "m2sfgumat2r", 0; 
-
-exec dbo.DodajKlientaInd "Vincenza", "Kohler", "824497747", "1980-08-13", 1, , "Nepal", "South Prince", "20104", "Selena Ferry", 64, 36, "vincenzakohler@memail.com", "vincenzakohler", "bw8fxtknwkx", 0; 
-
-exec dbo.DodajKlientaInd "Ayden", "Hackett", "555761484", "1966-09-01", 1, , "Togo", "Gleasonburgh", "93602", "Spencer Parkway", 57, 23, "aydenhackett@memail.com", "aydenhackett", "tqv40ftg826", 0; 
-
-exec dbo.DodajKlientaInd "Sandrine", "Armstrong", "830821010", "1961-08-25", 0, , "Cayman Islands", "Cummingsland", "75969", "Sydni Island", 44, 8, "sandrinearmstrong@memail.com", "sandrinearmstrong", "p0mla2rh6yt", 0; 
-
-exec dbo.DodajKlientaInd "Ariane", "Reinger", "862324227", "1960-12-10", 1, , "Dominican Republic", "Dantemouth", "64894-3475", "Torphy Springs", 15, 65, "arianereinger@memail.com", "arianereinger", "ww9yo3otc3t", 0; 
-
-exec dbo.DodajKlientaInd "Carter", "Torphy", "785019761", "1955-09-10", 1, , "South Africa", "New Delfina", "93390-6136", "Myriam Fork", 69, 42, "cartertorphy@memail.com", "cartertorphy", "8e4qko3osb", 0; 
-
-exec dbo.DodajKlientaInd "Guadalupe", "Bechtelar", "025288781", "1968-08-17", 1, , "Yemen", "Hudsonmouth", "41873-9479", "Mayert Via", 27, 19, "guadalupebechtelar@memail.com", "guadalupebechtelar", "v41f8730hdn", 0; 
-
-exec dbo.DodajKlientaInd "Iliana", "Koss", "196612120", "1958-04-18", 1, , "Venezuela", "South Tia", "27766-4917", "Upton Cove", 67, 21, "ilianakoss@memail.com", "ilianakoss", "dlwnvsbwlqz", 0; 
-
-exec dbo.DodajKlientaInd "Cesar", "Little", "044417122", "1992-02-08", 0, , "Western Sahara", "Fannychester", "77644-8469", "Little Points", 34, 77, "cesarlittle@memail.com", "cesarlittle", "sng8dkulllr", 0; 
-
-exec dbo.DodajKlientaInd "Missouri", "Kunde", "820644278", "1976-09-27", 0, , "Saint Pierre and Miquelon", "West Ashleighton", "97655-6803", "Lydia Dam", 65, 65, "missourikunde@memail.com", "missourikunde", "momnkyrpjyv", 0; 
-
-exec dbo.DodajKlientaInd "Stefanie", "Kuphal", "592754526", "1985-11-10", 1, , "Armenia", "New Edwin", "93213", "Weissnat Stream", 23, 16, "stefaniekuphal@memail.com", "stefaniekuphal", "v5qlh76q8ol", 0; 
-
-exec dbo.DodajKlientaInd "Gaylord", "Ankunding", "164286435", "1980-11-05", 0, , "Cyprus", "North Fernando", "75476", "Olson Valley", 86, 99, "gaylordankunding@memail.com", "gaylordankunding", "zfsvdr02say", 0; 
-
-exec dbo.DodajKlientaInd "Santino", "Pollich", "333431314", "1958-06-05", 0, , "Barbados", "Port Hughton", "28398", "Nitzsche Hollow", 28, 90, "santinopollich@memail.com", "santinopollich", "nf51kyy0wmf", 0; 
-
-exec dbo.DodajKlientaInd "Darrion", "Bode", "656119738", "1955-10-07", 1, , "Sao Tome and Principe", "Lefflerberg", "59119-0687", "Hal Meadow", 83, 88, "darrionbode@memail.com", "darrionbode", "81nq6hcqst2", 0; 
-
-exec dbo.DodajKlientaInd "Cathy", "Wunsch", "163871037", "1951-08-04", 0, , "Macao", "Altashire", "32228", "Ondricka Manor", 89, 78, "cathywunsch@memail.com", "cathywunsch", "9ntmwfqcmvw", 0; 
-
-exec dbo.DodajKlientaInd "Lea", "Bayer", "623856364", "1958-10-10", 0, , "Jamaica", "East Julie", "38021-1716", "Ward Pine", 14, 28, "leabayer@memail.com", "leabayer", "mig0teui54", 0; 
-
-exec dbo.DodajKlientaInd "Erich", "Schmitt", "274671682", "1970-06-23", 1, 163262, "Angola", "Pollichview", "27325", "Monserrat Plain", 19, 83, "erichschmitt@memail.com", "erichschmitt", "ewep012vaq6", 0; 
-
-exec dbo.DodajKlientaInd "Lempi", "Wilderman", "182327578", "1996-07-15", 1, , "Aruba", "Skilesview", "14781", "Johnson Spring", 84, 42, "lempiwilderman@memail.com", "lempiwilderman", "6msnfi7v9h2", 0; 
-
-exec dbo.DodajKlientaInd "Derek", "Lubowitz", "154445131", "1981-12-13", 1, , "French Southern Territories", "Danteland", "43454", "Oran Pine", 93, 59, "dereklubowitz@memail.com", "dereklubowitz", "5j74kec3nnd", 0; 
-
-exec dbo.DodajKlientaInd "Mitchel", "Jacobi", "323261669", "1960-07-30", 1, , "Tonga", "North Kalebburgh", "60055", "Lowe Walk", 18, 36, "mitcheljacobi@memail.com", "mitcheljacobi", "ptkecej820x", 0; 
-
-exec dbo.DodajKlientaInd "Ewell", "Pagac", "321567421", "1994-09-09", 1, 382222, "Poland", "Lake Ronburgh", "10841", "Pinkie Shore", 58, 23, "ewellpagac@memail.com", "ewellpagac", "vj59x3bfz2s", 0; 
-
-exec dbo.DodajKlientaInd "Emely", "Price", "903273276", "1957-08-31", 1, , "Samoa", "Kimberlyshire", "63323", "Schumm Corner", 32, 97, "emelyprice@memail.com", "emelyprice", "s57xgia1fku", 0; 
-
-exec dbo.DodajKlientaInd "Horacio", "Hartmann", "476798631", "1968-08-14", 0, , "Timor-Leste", "East Addie", "72056", "Malinda Spur", 78, 34, "horaciohartmann@memail.com", "horaciohartmann", "sr1t1s4yki5", 0; 
-
-exec dbo.DodajKlientaInd "Brisa", "Frami", "745561418", "1990-05-03", 0, , "Georgia", "Daretown", "86947", "Kunde Manor", 8, 74, "brisaframi@memail.com", "brisaframi", "q7roo7vygj9", 0; 
-
-exec dbo.DodajKlientaInd "Clay", "Koepp", "813509351", "1975-06-02", 0, 784238, "Burundi", "Marceloberg", "70159-5176", "Pfeffer Forges", 82, 57, "claykoepp@memail.com", "claykoepp", "bv2917sonqb", 0; 
-
-exec dbo.DodajKlientaInd "Alyce", "Larson", "769218345", "1976-12-13", 0, , "Iraq", "Croninborough", "84890-9340", "Wilkinson Rapid", 86, 65, "alycelarson@memail.com", "alycelarson", "pctrkax8nth", 0; 
-
-exec dbo.DodajKlientaInd "Felipe", "Reilly", "141579216", "1960-10-06", 1, , "Lebanon", "Lake Spencer", "46252", "Dicki Fields", 35, 72, "felipereilly@memail.com", "felipereilly", "m43sbugkfy", 0; 
-
-exec dbo.DodajKlientaInd "Florencio", "Lakin", "755317556", "1973-03-12", 0, , "India", "Lake Durwardshire", "14398-6085", "Padberg Landing", 57, 55, "florenciolakin@memail.com", "florenciolakin", "3d7cs3u44s5", 0; 
-
-exec dbo.DodajKlientaInd "Corrine", "Little", "683675175", "1979-04-29", 1, , "Taiwan", "Macifurt", "54267-7188", "Eula Village", 63, 84, "corrinelittle@memail.com", "corrinelittle", "jirn8kejahg", 0; 
-
-exec dbo.DodajKlientaInd "Charley", "Armstrong", "105829342", "1952-01-03", 1, , "Malta", "North Hipolitoside", "71585-2408", "Davis Turnpike", 65, 66, "charleyarmstrong@memail.com", "charleyarmstrong", "ouk6gfsicer", 0; 
-
-exec dbo.DodajKlientaInd "Johann", "Hoeger", "459405268", "1954-02-13", 1, , "Tuvalu", "Schillermouth", "91003", "Miles Underpass", 25, 19, "johannhoeger@memail.com", "johannhoeger", "jrtqkth7jrg", 0; 
-
-exec dbo.DodajKlientaInd "Desmond", "Koch", "482063867", "1977-08-08", 0, , "Pakistan", "South Raymondton", "44884-3994", "Jaycee Village", 27, 89, "desmondkoch@memail.com", "desmondkoch", "5j2wqhxpa9y", 0; 
-
-exec dbo.DodajKlientaInd "Genevieve", "Heller", "980408485", "1992-09-27", 0, 076383, "Costa Rica", "North Ericaside", "63087", "Reina Union", 9, 30, "genevieveheller@memail.com", "genevieveheller", "mj5k593zxme", 0; 
-
-exec dbo.DodajKlientaInd "Addison", "Weimann", "684476756", "1979-10-17", 0, , "Niger", "South Rudyberg", "85975", "Feil Junctions", 87, 20, "addisonweimann@memail.com", "addisonweimann", "ctlhp5kvtax", 0; 
-
-exec dbo.DodajKlientaInd "Audie", "Fadel", "612626649", "1953-06-05", 0, , "Vietnam", "West Gabriellefort", "34736", "Henderson Crescent", 62, 25, "audiefadel@memail.com", "audiefadel", "lf8rzbtaro0", 0; 
-
-exec dbo.DodajKlientaInd "Malachi", "Maggio", "916814826", "1981-04-06", 1, , "Zambia", "South Vidal", "67929-0985", "Leuschke Ranch", 64, 64, "malachimaggio@memail.com", "malachimaggio", "0mevb5lm9m", 0; 
-
+exec dbo.DodajKlientaFirm "Kimberly", "Steuber", "670263325", "1989-06-10", 0, , "Belarus", "Gaylordchester", "68822", "Hollie Prairie", 59, 79, "Buckridge LLC Group", 131185107, 917247842, "contact@BuckridgeLLCGroup.com", "buckridgellcgroup", "rb0h4z6eyl6", 1;
+exec dbo.DodajKlientaFirm "Conrad", "Hintz", "112479688", "1975-12-11", 0, , "Turks and Caicos Islands", "New Deannamouth", "29296-5305", "Crooks Lodge", 69, 15, "VonRueden-Macejkovic Inc", 620181830, 782190023, "contact@VonRueden-MacejkovicInc.com", "vonrueden-macejkovicinc", "etml0lm1zdi", 1;
+exec dbo.DodajKlientaFirm "Julio", "Bogisich", "248228741", "1988-07-18", 0, , "Tanzania", "East Nova", "74153-4948", "Myrna Coves", 5, 89, "Heaney, Pfannerstill and Krajcik and Sons", 323106286, 560885423, "contact@Heaney,PfannerstillandKrajcikandSons.com", "heaney pfannerstillandkrajcikandsons", "fq357j52dnp", 1;
+exec dbo.DodajKlientaFirm "Aniya", "Wolff", "197512452", "1951-06-10", 1, , "French Southern Territories", "West Rachellestad", "91729", "Howe Bridge", 67, 58, "Hahn Group Inc", 144873239, 815507515, "contact@HahnGroupInc.com", "hahngroupinc", "4wizwjb89n", 1;
+exec dbo.DodajKlientaFirm "Isobel", "Schoen", "719876028", "1951-12-08", 1, , "Singapore", "McCluremouth", "81390", "Breitenberg Road", 34, 39, "Glover and Sons Group", 437614567, 588165028, "contact@GloverandSonsGroup.com", "gloverandsonsgroup", "7hxtwhxihp0", 1;
+exec dbo.DodajKlientaFirm "Sierra", "Wilkinson", "325556237", "1959-11-02", 0, 336418, "Aruba", "Barrowsland", "78290", "Christelle Alley", 31, 68, "Ledner, Mayer and Nitzsche LLC", 827246316, 562421761, "contact@Ledner,MayerandNitzscheLLC.com", "ledner mayerandnitzschellc", "g9ut7nsk1jh", 1;
+exec dbo.DodajKlientaFirm "Chase", "Labadie", "514734535", "1974-06-22", 0, , "Greece", "Laurencetown", "64608", "Graham Islands", 58, 15, "Green, Olson and Cruickshank LLC", 028882868, 745732648, "contact@Green,OlsonandCruickshankLLC.com", "green olsonandcruickshankllc", "tbjesr4mo9", 1;
+exec dbo.DodajKlientaFirm "Francis", "Ward", "276216839", "1963-11-01", 1, 218763, "Samoa", "Melissaton", "16188-1069", "Jacobi Green", 69, 27, "Roob, Moore and Romaguera LLC", 083734563, 176814867, "contact@Roob,MooreandRomagueraLLC.com", "roob mooreandromaguerallc", "rziv51bgxvc", 1;
+exec dbo.DodajKlientaFirm "Caden", "Thiel", "100330345", "1953-01-18", 1, , "Dominican Republic", "Gerlachville", "42693-4025", "Nola Shoals", 50, 39, "Sawayn-Hirthe Group", 304868785, 277339446, "contact@Sawayn-HirtheGroup.com", "sawayn-hirthegroup", "buyk2dpblww", 1;
+exec dbo.DodajKlientaFirm "Rosalee", "Nienow", "455418773", "1978-12-02", 0, , "Kenya", "Schusterport", "89403-3249", "Oda Creek", 68, 20, "Stiedemann Group Group", 978163255, 647598524, "contact@StiedemannGroupGroup.com", "stiedemanngroupgroup", "n0lhjh06ma7", 1;
+exec dbo.DodajKlientaFirm "Josue", "White", "725998342", "1969-03-22", 1, , "Turkmenistan", "East Triston", "76507-3580", "Thompson Lock", 9, 51, "Hegmann Inc and Sons", 703367304, 548783516, "contact@HegmannIncandSons.com", "hegmannincandsons", "rvdirtfrv9w", 1;
+exec dbo.DodajKlientaFirm "Michale", "Kiehn", "583564877", "1972-04-18", 0, , "Lebanon", "Hackettshire", "15432", "Paucek Ville", 97, 74, "Frami-Hoeger Inc", 884919918, 176273210, "contact@Frami-HoegerInc.com", "frami-hoegerinc", "fmtdwgo81r5", 1;
+exec dbo.DodajKlientaFirm "Susie", "Hayes", "465711148", "1975-03-13", 1, 619916, "Tokelau", "West Casey", "89002", "Emmy Road", 53, 76, "Stanton, Tillman and Sporer Group", 879345214, 088340606, "contact@Stanton,TillmanandSporerGroup.com", "stanton tillmanandsporergroup", "79dr8b6cus9", 1;
+exec dbo.DodajKlientaFirm "Stacy", "Schumm", "720352094", "1982-03-17", 1, 783652, "Ukraine", "Port Kayley", "98598", "Schaden Pines", 68, 70, "Bartoletti, Wunsch and Heathcote LLC", 662986446, 570688148, "contact@Bartoletti,WunschandHeathcoteLLC.com", "bartoletti wunschandheathcotellc", "s4480hy24nu", 1;
+exec dbo.DodajKlientaFirm "Evans", "Heller", "081705236", "1987-04-30", 1, 559898, "Pitcairn Islands", "Port Arvid", "96733", "Lilla Harbor", 38, 5, "Price LLC LLC", 216302031, 588230258, "contact@PriceLLCLLC.com", "pricellcllc", "487sb29jcvr", 1;
+exec dbo.DodajKlientaFirm "Jamar", "Gulgowski", "481868074", "1993-09-07", 0, , "Wallis and Futuna", "Jameyburgh", "61458-2985", "O'Connell Mountain", 41, 53, "Steuber, Erdman and Stanton Inc", 953838231, 105650634, "contact@Steuber,ErdmanandStantonInc.com", "steuber erdmanandstantoninc", "lk301vypkvv", 1;
+exec dbo.DodajKlientaFirm "Theodora", "Kemmer", "185413136", "1974-07-18", 1, , "Serbia", "Adalbertomouth", "85876-8524", "Armstrong Green", 22, 33, "Williamson LLC Inc", 257009570, 245664651, "contact@WilliamsonLLCInc.com", "williamsonllcinc", "mqlts3dklqm", 1;
+exec dbo.DodajKlientaFirm "Haven", "Grady", "233514204", "1962-12-04", 0, , "Bahrain", "Balistrerimouth", "90569", "Madilyn Fall", 23, 24, "Bins and Sons Inc", 885482252, 372303631, "contact@BinsandSonsInc.com", "binsandsonsinc", "pa2o1tk1j5x", 1;
+exec dbo.DodajKlientaFirm "Orlo", "Quigley", "578522961", "1980-12-07", 1, , "Heard Island and McDonald Islands", "North Rowan", "74139", "Garnet Manor", 73, 39, "Brown-Toy LLC", 774602136, 151235528, "contact@Brown-ToyLLC.com", "brown-toyllc", "2jgzbmxrvne", 1;
+exec dbo.DodajKlientaFirm "Roma", "Quitzon", "356151646", "1960-11-13", 1, , "Solomon Islands", "Ernietown", "29609", "Angela Prairie", 24, 19, "Cruickshank, Williamson and Rosenbaum and Sons", 036670187, 632021810, "contact@Cruickshank,WilliamsonandRosenbaumandSons.com", "cruickshank williamsonandrosenbaumandsons", "7iut4moazif", 1;
+exec dbo.DodajKlientaFirm "Annamarie", "Wisozk", "236155855", "1968-07-24", 1, , "Myanmar", "Welchland", "97705-7770", "Javon Forest", 53, 37, "Stokes Inc and Sons", 846885153, 154970532, "contact@StokesIncandSons.com", "stokesincandsons", "s9tu2v1oc6w", 1;
+exec dbo.DodajKlientaFirm "Kristoffer", "Mueller", "933431268", "1952-07-28", 0, , "Kazakhstan", "Waterschester", "34031", "Johnathan Summit", 32, 39, "Hauck, Zulauf and Gorczany and Sons", 446671724, 052821250, "contact@Hauck,ZulaufandGorczanyandSons.com", "hauck zulaufandgorczanyandsons", "1mpq08opc6n", 1;
+exec dbo.DodajKlientaFirm "Layla", "Walsh", "034828680", "1968-11-11", 0, , "French Guiana", "New Burdettechester", "33937", "Kayli Rapid", 67, 40, "Cummerata, Rodriguez and Roberts LLC", 125911796, 792237654, "contact@Cummerata,RodriguezandRobertsLLC.com", "cummerata rodriguezandrobertsllc", "pt56a08mwh6", 1;
+exec dbo.DodajKlientaFirm "Jules", "Wilkinson", "176755820", "1973-06-27", 1, , "United States Minor Outlying Islands", "Hagenesborough", "65907", "Mavis Mission", 35, 63, "Stroman LLC and Sons", 754455561, 967817237, "contact@StromanLLCandSons.com", "stromanllcandsons", "ugjadet8nhb", 1;
+exec dbo.DodajKlientaFirm "Geraldine", "Dicki", "539652446", "1995-12-18", 1, , "Equatorial Guinea", "Lake Rudyport", "36498-5479", "Rita Ferry", 67, 79, "McGlynn, King and Reichert Inc", 785566083, 495837267, "contact@McGlynn,KingandReichertInc.com", "mcglynn kingandreichertinc", "9r5sy7t8y1v", 1;
+exec dbo.DodajKlientaFirm "Jamel", "Pfeffer", "758561637", "1978-08-19", 0, , "El Salvador", "North Parker", "41044-0336", "Arlo Centers", 80, 65, "Schowalter-Schaefer Inc", 423566757, 815332254, "contact@Schowalter-SchaeferInc.com", "schowalter-schaeferinc", "mhmgbt7a4sg", 1;
+exec dbo.DodajKlientaFirm "Berta", "Parisian", "822565305", "1966-04-16", 0, , "Timor-Leste", "Port Hollie", "60687-3457", "Justyn Circles", 19, 55, "Schultz, Schaden and Gutmann and Sons", 588853426, 145612362, "contact@Schultz,SchadenandGutmannandSons.com", "schultz schadenandgutmannandsons", "mhggermycg8", 1;
+exec dbo.DodajKlientaFirm "Damian", "Quigley", "716211548", "1951-09-10", 0, , "Italy", "New Kacistad", "52241", "Mattie Extensions", 69, 46, "Adams-Schultz LLC", 222176679, 262633384, "contact@Adams-SchultzLLC.com", "adams-schultzllc", "iuhedev5hno", 1;
+exec dbo.DodajKlientaFirm "Kayla", "Kilback", "257325186", "1955-05-03", 1, , "Greece", "Cortezburgh", "46542-2262", "Rau Key", 43, 83, "Mayer and Sons Inc", 648357056, 164372611, "contact@MayerandSonsInc.com", "mayerandsonsinc", "6jd660tv04j", 1;
+exec dbo.DodajKlientaFirm "Anita", "Collins", "865117047", "1953-08-18", 1, , "Mozambique", "Jovannyburgh", "96663-8540", "Donnell Shoal", 72, 42, "Conroy, Hammes and O'Hara Group", 245490773, 869472114, "contact@Conroy,HammesandO'HaraGroup.com", "conroy hammesando'haragroup", "up7nigw9i4n", 1;
+exec dbo.DodajKlientaFirm "Annamae", "Berge", "825683966", "1961-08-02", 1, , "Sierra Leone", "Port Rollinville", "38397", "Luigi Rue", 85, 10, "Wisoky, Skiles and Becker Group", 113257873, 850545756, "contact@Wisoky,SkilesandBeckerGroup.com", "wisoky skilesandbeckergroup", "4iqtk23z2ga", 1;
+exec dbo.DodajKlientaFirm "Modesto", "Huel", "364040149", "1989-10-21", 0, , "French Polynesia", "South Koby", "39690", "Mitchell Forge", 38, 26, "Weimann and Sons Inc", 444633348, 791446087, "contact@WeimannandSonsInc.com", "weimannandsonsinc", "op6ajc9mb9g", 1;
+exec dbo.DodajKlientaFirm "Olaf", "Skiles", "015883816", "1955-04-09", 1, , "Bahamas", "Port Giovani", "79200", "Durgan Parkway", 42, 69, "Trantow-Leffler Inc", 897065627, 785066682, "contact@Trantow-LefflerInc.com", "trantow-lefflerinc", "esy93suziuf", 1;
+exec dbo.DodajKlientaFirm "Rahsaan", "Wyman", "129680643", "1986-04-18", 1, , "Luxembourg", "Legrosville", "98553-6049", "Connelly Meadows", 48, 2, "D'Amore and Sons LLC", 847522267, 244573883, "contact@D'AmoreandSonsLLC.com", "d'amoreandsonsllc", "6z0868j8kz4", 1;
+exec dbo.DodajKlientaFirm "Terrill", "Haag", "815559279", "1950-10-03", 0, , "Falkland Islands (Malvinas)", "Schimmelstad", "22404-5426", "Mozell Key", 89, 64, "Sporer Inc Group", 310619283, 176473953, "contact@SporerIncGroup.com", "sporerincgroup", "m5abpvasqq3", 1;
+exec dbo.DodajKlientaFirm "Breanne", "Brakus", "077247222", "1989-11-03", 1, , "Portugal", "Conroyside", "59354", "Kilback Ridge", 76, 42, "Lind-Kunze Inc", 339656975, 185015477, "contact@Lind-KunzeInc.com", "lind-kunzeinc", "4beymsxlu3i", 1;
+exec dbo.DodajKlientaFirm "Dannie", "Hagenes", "228140425", "1959-04-21", 1, , "San Marino", "Rhodabury", "92916-4811", "Bernier Shore", 44, 73, "Bernhard Group Group", 474434216, 749548768, "contact@BernhardGroupGroup.com", "bernhardgroupgroup", "isi5bo24ebd", 1;
+exec dbo.DodajKlientaFirm "Naomie", "Kreiger", "643271856", "1993-07-02", 0, , "Saint Helena", "Whitetown", "77592-5023", "Schmitt Trail", 78, 75, "Welch, Hand and Welch and Sons", 628951618, 947776570, "contact@Welch,HandandWelchandSons.com", "welch handandwelchandsons", "1r9litkhuxe", 1;
+exec dbo.DodajKlientaFirm "Terence", "Greenholt", "824165579", "1974-10-27", 1, , "Faroe Islands", "Jakubowskichester", "96050-4295", "Madonna Oval", 36, 90, "Schinner Group and Sons", 346251545, 015554753, "contact@SchinnerGroupandSons.com", "schinnergroupandsons", "o884u4l8hrj", 1;
+exec dbo.DodajKlientaFirm "Pete", "Davis", "338344478", "1995-10-14", 0, 261303, "Pitcairn Islands", "North Earlmouth", "26600-3594", "Lesch Village", 15, 83, "Larkin-Hartmann Group", 783855163, 990632276, "contact@Larkin-HartmannGroup.com", "larkin-hartmanngroup", "wpagrvy7nkk", 1;
+exec dbo.DodajKlientaFirm "Santina", "Hayes", "310903931", "1985-07-31", 1, , "Netherlands", "West Ozellafurt", "27053-6110", "Abe Pass", 46, 75, "Conroy-Nader LLC", 832873198, 152761410, "contact@Conroy-NaderLLC.com", "conroy-naderllc", "tw66968um2g", 1;
+exec dbo.DodajKlientaFirm "Oma", "Zboncak", "534826188", "1962-05-18", 0, , "Colombia", "Baumbachview", "47506-7405", "Stracke Walks", 74, 70, "Paucek-Macejkovic LLC", 152888907, 457893865, "contact@Paucek-MacejkovicLLC.com", "paucek-macejkovicllc", "iz0ultob8bd", 1;
+exec dbo.DodajKlientaFirm "Randi", "Kozey", "432556476", "1983-11-18", 0, , "Cyprus", "South Caseytown", "32925", "Sonya Loop", 35, 37, "Mraz-Lehner Inc", 280104512, 673941253, "contact@Mraz-LehnerInc.com", "mraz-lehnerinc", "aaf32dzn7p", 1;
+exec dbo.DodajKlientaFirm "Quinton", "Ondricka", "313036028", "1978-12-22", 1, , "Faroe Islands", "Schroederview", "68118-2794", "Ida Port", 48, 72, "Ullrich, Nolan and Huels and Sons", 588648889, 021425895, "contact@Ullrich,NolanandHuelsandSons.com", "ullrich nolanandhuelsandsons", "i2jt6cmhxxc", 1;
+exec dbo.DodajKlientaFirm "Otilia", "Ferry", "621385812", "1959-08-20", 1, , "French Polynesia", "Myrlport", "84824", "Abdullah Underpass", 65, 43, "Rau-Purdy and Sons", 229344327, 667536322, "contact@Rau-PurdyandSons.com", "rau-purdyandsons", "ihjynfll1t0", 1;
+exec dbo.DodajKlientaFirm "Raymond", "Watsica", "748937763", "1966-05-23", 0, , "Thailand", "Whitefurt", "65393", "Deckow Mall", 46, 64, "Bruen and Sons Group", 323480589, 007294628, "contact@BruenandSonsGroup.com", "bruenandsonsgroup", "fpqqroix4c7", 1;
+exec dbo.DodajKlientaFirm "Domenic", "Kuphal", "578286577", "1962-08-21", 0, , "Guinea", "Adamsville", "92949", "Adella Field", 62, 63, "Kilback-Deckow and Sons", 752533812, 291200246, "contact@Kilback-DeckowandSons.com", "kilback-deckowandsons", "sde8eu3ypkg", 1;
+exec dbo.DodajKlientaFirm "Adrian", "Block", "258676772", "1993-12-15", 1, , "Antarctica (the territory South of 60 deg S)", "Lake Katrinastad", "82853", "Will Unions", 18, 34, "Dicki-Hegmann LLC", 835561671, 312575034, "contact@Dicki-HegmannLLC.com", "dicki-hegmannllc", "p53o7kund7o", 1;
+exec dbo.DodajKlientaFirm "Tessie", "Purdy", "224413214", "1985-03-14", 1, , "San Marino", "Donnieshire", "82241", "Hamill Shoal", 43, 86, "Towne, Abshire and Ryan Group", 974821825, 507431181, "contact@Towne,AbshireandRyanGroup.com", "towne abshireandryangroup", "7sh9b0v5ywg", 1;
+exec dbo.DodajKlientaFirm "Antonio", "Heller", "873061331", "1967-06-07", 1, , "Palau", "Langbury", "55795", "Madyson Road", 28, 58, "Grant-Labadie Group", 765523601, 873355435, "contact@Grant-LabadieGroup.com", "grant-labadiegroup", "w3p5psacw8q", 1;
+exec dbo.DodajKlientaFirm "Arne", "Witting", "394648453", "1965-02-13", 1, 461211, "Oman", "Ritafurt", "29768", "Barton Island", 23, 59, "Lockman LLC Group", 247169587, 419265814, "contact@LockmanLLCGroup.com", "lockmanllcgroup", "4uuw8s1f2ss", 1;
+exec dbo.DodajKlientaFirm "Dawson", "Graham", "743492389", "1980-03-20", 0, , "Guyana", "Sylviaborough", "27021-2694", "Smith Hills", 75, 86, "Lakin-Kirlin Inc", 141371711, 742656005, "contact@Lakin-KirlinInc.com", "lakin-kirlininc", "ycgfhr0l46y", 1;
+exec dbo.DodajKlientaFirm "Larissa", "Cassin", "120122181", "1993-07-29", 1, , "Democratic People's Republic of Korea", "Yundtberg", "72401", "Smith Parks", 54, 33, "Jacobs Group Group", 365873762, 773452930, "contact@JacobsGroupGroup.com", "jacobsgroupgroup", "gssxe1oiq1p", 1;
+exec dbo.DodajKlientaFirm "Earl", "Pacocha", "786345272", "1979-12-17", 0, 539912, "Algeria", "Aaliyahchester", "89978-9480", "Alphonso Divide", 19, 69, "Hansen Inc and Sons", 411624772, 906588183, "contact@HansenIncandSons.com", "hansenincandsons", "9ikadbwki0u", 1;
+exec dbo.DodajKlientaFirm "Leda", "Schmeler", "126106821", "1956-09-07", 0, , "Bulgaria", "Lake Reymouth", "77160-9016", "Lula Trafficway", 73, 11, "Farrell, Lueilwitz and Morar and Sons", 145990395, 553526085, "contact@Farrell,LueilwitzandMorarandSons.com", "farrell lueilwitzandmorarandsons", "z9109x9m1s1", 1;
+exec dbo.DodajKlientaFirm "Abbie", "Skiles", "626794332", "1957-06-12", 0, , "Norway", "Lawrencehaven", "47069", "Marion Station", 37, 65, "Okuneva-Leffler and Sons", 665511775, 478654065, "contact@Okuneva-LefflerandSons.com", "okuneva-lefflerandsons", "jdow82w5a3n", 1;
+exec dbo.DodajKlientaFirm "Lula", "Stiedemann", "881510723", "1975-09-23", 1, , "Comoros", "Markusborough", "54468", "Hoppe Passage", 43, 37, "Deckow-Cronin Group", 636481474, 840882276, "contact@Deckow-CroninGroup.com", "deckow-croningroup", "6mqenler57v", 1;
+exec dbo.DodajKlientaFirm "Mabelle", "Wilderman", "685533731", "1956-10-19", 1, , "Belgium", "Hailieshire", "19332", "Nathaniel Estates", 62, 15, "Blick and Sons and Sons", 197163432, 260686681, "contact@BlickandSonsandSons.com", "blickandsonsandsons", "ec88l1s99ez", 1;
+exec dbo.DodajKlientaFirm "Kiera", "Cassin", "389918389", "1986-03-14", 1, 286866, "Ecuador", "East Michellehaven", "17318-8403", "Greta Run", 27, 71, "Rippin, Gusikowski and Reichel and Sons", 236601116, 495383835, "contact@Rippin,GusikowskiandReichelandSons.com", "rippin gusikowskiandreichelandsons", "k7l893g87gn", 1;
+exec dbo.DodajKlientaFirm "Martin", "Kreiger", "111026347", "1950-10-01", 0, , "Afghanistan", "Deeville", "79376-5216", "Esta Meadow", 16, 89, "Robel-Walter LLC", 568282087, 105523891, "contact@Robel-WalterLLC.com", "robel-walterllc", "28c375zk1bn", 1;
+exec dbo.DodajKlientaFirm "Manuel", "Hackett", "107329297", "1978-02-11", 1, , "Antarctica (the territory South of 60 deg S)", "North Vince", "35057-4774", "Macey Plains", 12, 36, "Greenfelder, Hammes and Huel Inc", 259027543, 275223205, "contact@Greenfelder,HammesandHuelInc.com", "greenfelder hammesandhuelinc", "opplan1cjqs", 1;
+exec dbo.DodajKlientaFirm "Alvah", "Kunze", "185482671", "1986-05-21", 0, , "Italy", "West Zechariah", "63009-2697", "Uriah Course", 85, 52, "Heaney and Sons Inc", 311015621, 992523128, "contact@HeaneyandSonsInc.com", "heaneyandsonsinc", "wx2ufmqy8al", 1;
+exec dbo.DodajKlientaFirm "Luz", "Torphy", "575416483", "1983-03-03", 0, , "Ukraine", "Zariatown", "93394", "Jaskolski Street", 72, 97, "Lynch and Sons Inc", 694231857, 387958316, "contact@LynchandSonsInc.com", "lynchandsonsinc", "f5vqaephpa8", 1;
+exec dbo.DodajKlientaFirm "Ivory", "Ward", "026741455", "1988-05-04", 1, , "Uzbekistan", "Ericville", "17434", "Adella Expressway", 85, 34, "Gottlieb, Hermiston and Kiehn Inc", 343722794, 431184861, "contact@Gottlieb,HermistonandKiehnInc.com", "gottlieb hermistonandkiehninc", "5mpeszrizmn", 1;
+exec dbo.DodajKlientaFirm "Mona", "Price", "472785437", "1958-08-03", 1, , "Kazakhstan", "Port Brendan", "13292", "Hartmann Heights", 74, 57, "Upton-Fay LLC", 123147870, 477532163, "contact@Upton-FayLLC.com", "upton-fayllc", "iy59q2zq5l9", 1;
+exec dbo.DodajKlientaFirm "Deion", "Eichmann", "582571883", "1950-06-25", 1, , "Aruba", "Jeremiefort", "23079-1858", "Collier Islands", 53, 49, "Kunze-Doyle and Sons", 036762723, 892876013, "contact@Kunze-DoyleandSons.com", "kunze-doyleandsons", "j3pqzrrfl16", 1;
+exec dbo.DodajKlientaFirm "Maya", "Nitzsche", "773300727", "1964-07-30", 1, , "Sudan", "Lake Bridie", "94708-8919", "Turner Divide", 97, 36, "Thiel Group Group", 493375033, 753255641, "contact@ThielGroupGroup.com", "thielgroupgroup", "ehrptvsvef", 1;
+exec dbo.DodajKlientaFirm "Darron", "Renner", "568653433", "1992-08-16", 0, , "Tajikistan", "New Mitchelburgh", "97952", "Boyer Shoal", 81, 69, "Hodkiewicz-Waters and Sons", 435649276, 443136766, "contact@Hodkiewicz-WatersandSons.com", "hodkiewicz-watersandsons", "34wdw0rtufx", 1;
+exec dbo.DodajKlientaFirm "Brennan", "Bayer", "743241904", "1963-04-11", 0, , "Faroe Islands", "Lueilwitzton", "96110", "Gaylord Curve", 65, 87, "Wisozk-Hackett LLC", 408612791, 171378282, "contact@Wisozk-HackettLLC.com", "wisozk-hackettllc", "l0fuacrt9cj", 1;
+exec dbo.DodajKlientaFirm "Idell", "Reilly", "314636130", "1975-02-27", 1, , "Bhutan", "Kobytown", "20193", "Macey Run", 79, 2, "Anderson Inc LLC", 181728882, 001338663, "contact@AndersonIncLLC.com", "andersonincllc", "wpgtncnybh3", 1;
+exec dbo.DodajKlientaFirm "Keith", "Bernhard", "807584171", "1964-06-13", 0, , "Namibia", "Port Marielleberg", "54675-5234", "Harber Stream", 45, 28, "Walsh Inc LLC", 562441512, 446567712, "contact@WalshIncLLC.com", "walshincllc", "3rwk9qchr03", 1;
+exec dbo.DodajKlientaFirm "Izabella", "Berge", "071514346", "1955-01-23", 0, , "Marshall Islands", "Jermainborough", "42421-9582", "Janie Extension", 34, 53, "Pfeffer, Hyatt and Barton and Sons", 835142782, 728413994, "contact@Pfeffer,HyattandBartonandSons.com", "pfeffer hyattandbartonandsons", "2e3ojm2z5az", 1;
+exec dbo.DodajKlientaFirm "Jordane", "Quitzon", "475987283", "1953-06-17", 0, , "Congo", "Ottisfort", "62771", "Kristian Lakes", 52, 19, "Zieme, Ledner and Feil and Sons", 405687270, 044262522, "contact@Zieme,LednerandFeilandSons.com", "zieme lednerandfeilandsons", "fa3vuexh5h3", 1;
+exec dbo.DodajKlientaFirm "Kira", "Champlin", "417527792", "1989-05-16", 1, , "Antigua and Barbuda", "North Jairofurt", "71242-2356", "Hobart Mountain", 85, 24, "Bruen LLC LLC", 877775731, 967557271, "contact@BruenLLCLLC.com", "bruenllcllc", "7fqwgpy034x", 1;
+exec dbo.DodajKlientaFirm "Willard", "Tromp", "796347681", "1981-09-21", 0, , "Martinique", "North Elnorabury", "88087-2653", "Kiera Orchard", 82, 79, "Hermiston and Sons and Sons", 873367671, 602898847, "contact@HermistonandSonsandSons.com", "hermistonandsonsandsons", "axcvy2ufjm0", 1;
+exec dbo.DodajKlientaFirm "Vincent", "Dicki", "272911839", "1986-06-02", 1, , "Cape Verde", "MacGyverhaven", "86851", "Hessel Pine", 84, 7, "Wiza-Buckridge Group", 484264843, 240818603, "contact@Wiza-BuckridgeGroup.com", "wiza-buckridgegroup", "f1flny67np1", 1;
+exec dbo.DodajKlientaFirm "Markus", "Upton", "201586257", "1978-12-22", 0, , "Comoros", "Misaelmouth", "70788", "Rau Lakes", 87, 66, "Terry, Gleichner and Fahey and Sons", 418536238, 337115271, "contact@Terry,GleichnerandFaheyandSons.com", "terry gleichnerandfaheyandsons", "9285yj3n3ul", 1;
+exec dbo.DodajKlientaFirm "Winifred", "Stamm", "633322435", "1953-04-03", 1, , "Western Sahara", "Gaylordborough", "33988-5212", "Vernon Run", 82, 93, "Crooks, McGlynn and Halvorson and Sons", 118254863, 127627236, "contact@Crooks,McGlynnandHalvorsonandSons.com", "crooks mcglynnandhalvorsonandsons", "lhvkprtow4p", 1;
+exec dbo.DodajKlientaFirm "Bettie", "Casper", "173255475", "1992-01-06", 1, , "Uruguay", "Steuberport", "96138", "Sarina Junctions", 18, 39, "Wyman Group Inc", 349964737, 253224353, "contact@WymanGroupInc.com", "wymangroupinc", "uje709a9gvs", 1;
+exec dbo.DodajKlientaFirm "Marc", "Kovacek", "711745820", "1982-10-06", 0, , "Azerbaijan", "Lulaburgh", "36475-4369", "Bosco Locks", 16, 80, "Wintheiser-Cummings and Sons", 627113821, 763771968, "contact@Wintheiser-CummingsandSons.com", "wintheiser-cummingsandsons", "mac6nxlxpaq", 1;
+exec dbo.DodajKlientaFirm "Eve", "Brakus", "533924740", "1955-10-13", 1, , "Belize", "Lynchchester", "12181-2118", "Torp Pine", 76, 67, "Powlowski and Sons LLC", 632514355, 218762145, "contact@PowlowskiandSonsLLC.com", "powlowskiandsonsllc", "5emroma5rei", 1;
+exec dbo.DodajKlientaFirm "Ola", "Schaefer", "417511146", "1979-04-10", 0, , "Mexico", "Kellenside", "72813", "Otis Row", 7, 77, "Jast, Beatty and Senger Inc", 742292772, 374707214, "contact@Jast,BeattyandSengerInc.com", "jast beattyandsengerinc", "vvchfru4i9i", 1;
+exec dbo.DodajKlientaFirm "Dewayne", "Wiegand", "712844321", "1971-01-21", 1, , "Estonia", "Beckerside", "56002", "Kyra Flat", 48, 85, "Kris, Schmidt and Hills LLC", 358871500, 771938860, "contact@Kris,SchmidtandHillsLLC.com", "kris schmidtandhillsllc", "ynlhcwosl4m", 1;
+exec dbo.DodajKlientaFirm "Lois", "Lynch", "609121243", "1969-01-29", 0, , "Bolivia", "East Milan", "33550", "Mariane Court", 39, 91, "MacGyver, Kerluke and Schroeder Group", 077618133, 943253544, "contact@MacGyver,KerlukeandSchroederGroup.com", "macgyver kerlukeandschroedergroup", "9dlrz8avhhc", 1;
+exec dbo.DodajKlientaFirm "Riley", "Shanahan", "629772825", "1952-06-09", 1, , "Dominican Republic", "Wardhaven", "37234", "Ullrich Views", 7, 88, "Ferry, Bailey and Medhurst Group", 163370718, 361725759, "contact@Ferry,BaileyandMedhurstGroup.com", "ferry baileyandmedhurstgroup", "pj8eczy169b", 1;
+exec dbo.DodajKlientaFirm "Yolanda", "Watsica", "134271651", "1995-05-12", 0, , "Reunion", "Lake Gregg", "23296-2585", "Demarcus Mountains", 87, 62, "Jast-Wilkinson and Sons", 123835528, 422395252, "contact@Jast-WilkinsonandSons.com", "jast-wilkinsonandsons", "oikmo2k41f8", 1;
+exec dbo.DodajKlientaFirm "Aidan", "Klocko", "734765637", "1983-08-30", 1, 280461, "Equatorial Guinea", "Stehrside", "46270", "Padberg Crossing", 62, 46, "Bayer, McGlynn and Gerhold Inc", 764673453, 535369607, "contact@Bayer,McGlynnandGerholdInc.com", "bayer mcglynnandgerholdinc", "yiff2swz2nx", 1;
+exec dbo.DodajKlientaFirm "London", "Lang", "554743203", "1952-06-09", 0, , "Papua New Guinea", "North Lamarborough", "22638-7287", "Braun Cliffs", 83, 56, "Ruecker-Pacocha Inc", 883285654, 214461316, "contact@Ruecker-PacochaInc.com", "ruecker-pacochainc", "hdqtg43j95r", 1;
+exec dbo.DodajKlientaFirm "Isaias", "Runolfsson", "306031501", "1992-12-16", 0, , "Cook Islands", "Joesphview", "56198", "Gottlieb Skyway", 35, 3, "Howell-Schinner LLC", 077611322, 352628175, "contact@Howell-SchinnerLLC.com", "howell-schinnerllc", "yi4vcf4uw9s", 1;
+exec dbo.DodajKlientaFirm "Gwendolyn", "Howe", "859769313", "1995-07-03", 1, , "Cyprus", "Justenshire", "98383", "Vicente Extensions", 46, 65, "Hand Group Inc", 946718744, 471256124, "contact@HandGroupInc.com", "handgroupinc", "zub21l3st2k", 1;
+exec dbo.DodajKlientaFirm "Raphaelle", "Wiza", "223202007", "1962-11-26", 0, , "Zambia", "Emmanuelleton", "58640", "Breitenberg Greens", 14, 10, "Fay, Windler and Lynch and Sons", 622396535, 962086288, "contact@Fay,WindlerandLynchandSons.com", "fay windlerandlynchandsons", "p7ow7jr0wwk", 1;
+exec dbo.DodajKlientaFirm "Brady", "Blick", "488739372", "1982-04-26", 0, , "Seychelles", "Lake Marie", "28912", "Feil Haven", 69, 14, "Abernathy-Jast and Sons", 813109726, 042113062, "contact@Abernathy-JastandSons.com", "abernathy-jastandsons", "yfeg6oxxst6", 1;
+exec dbo.DodajKlientaFirm "Jessyca", "Jacobson", "865597283", "1956-09-03", 0, 251484, "Guyana", "Ondrickaland", "22348", "Marilie Run", 26, 10, "Deckow LLC and Sons", 941550973, 574130613, "contact@DeckowLLCandSons.com", "deckowllcandsons", "8gqhurzkd73", 1;
+exec dbo.DodajKlientaFirm "Janiya", "Thiel", "892713393", "1959-02-13", 0, , "Svalbard & Jan Mayen Islands", "West Charlotteside", "18913", "Lockman Spurs", 1, 79, "Ullrich Group Group", 473929063, 125114339, "contact@UllrichGroupGroup.com", "ullrichgroupgroup", "v1f54nd2dbm", 1;
+exec dbo.DodajKlientaFirm "Antonio", "Lehner", "257267738", "1979-11-13", 0, , "Indonesia", "Vonchester", "79234", "Hayley Road", 79, 38, "Hoeger-Kshlerin Group", 082601132, 342689584, "contact@Hoeger-KshlerinGroup.com", "hoeger-kshleringroup", "d5gwl63cyz4", 1;
+exec dbo.DodajKlientaFirm "Laney", "Grady", "728501284", "1988-08-28", 1, 983284, "Guatemala", "South Hobartstad", "45935", "Olson Centers", 69, 94, "Kuhn LLC LLC", 583775944, 518302376, "contact@KuhnLLCLLC.com", "kuhnllcllc", "vluf3q2xhyy", 1;
+exec dbo.DodajKlientaFirm "Rico", "Hansen", "086587664", "1970-05-18", 1, , "Austria", "Odaport", "91488", "Rutherford Inlet", 28, 30, "Nitzsche-Little Inc", 087776503, 327145344, "contact@Nitzsche-LittleInc.com", "nitzsche-littleinc", "z7asxfs4gvz", 1;
+exec dbo.DodajKlientaFirm "Cayla", "Kiehn", "194452336", "1981-02-22", 0, , "Vanuatu", "Faheyville", "43751-3727", "Feeney Squares", 61, 12, "Denesik-Bernhard and Sons", 413618216, 397622365, "contact@Denesik-BernhardandSons.com", "denesik-bernhardandsons", "5ef4ivbo6a9", 1;
+exec dbo.DodajKlientaFirm "Teresa", "Armstrong", "662021762", "1968-07-10", 0, , "Iraq", "Nelsonport", "66113", "Oberbrunner Ridges", 18, 59, "Lesch Inc Group", 627705012, 553452313, "contact@LeschIncGroup.com", "leschincgroup", "zlmkrzf1iq8", 1;
+exec dbo.DodajKlientaFirm "Lloyd", "Klein", "470868342", "1965-01-25", 0, , "Western Sahara", "Crooksstad", "13498", "Matilde Springs", 36, 12, "Herzog and Sons Group", 163383324, 989876435, "contact@HerzogandSonsGroup.com", "herzogandsonsgroup", "sgh60yv9d1g", 1;
+exec dbo.DodajKlientaInd "Crystel", "Dooley", "849842421", "1950-08-16", 1, , "Azerbaijan", "Lake Helena", "32728-1721", "Yundt Camp", 34, 44, "crysteldooley@memail.com", "crysteldooley", "7zylzdm5scf", 0;
+exec dbo.DodajKlientaInd "Melissa", "Romaguera", "049188232", "1979-09-11", 0, , "Morocco", "Port Flossie", "86265", "Maxine Land", 72, 77, "melissaromaguera@memail.com", "melissaromaguera", "gy4sdcq01u", 0;
+exec dbo.DodajKlientaInd "Lyla", "Koss", "572657971", "1962-07-27", 0, , "Virgin Islands, U.S.", "Hellerside", "54362", "Thurman Keys", 24, 64, "lylakoss@memail.com", "lylakoss", "b8xxlt33cjp", 0;
+exec dbo.DodajKlientaInd "Payton", "Ebert", "277579781", "1964-09-25", 0, , "Philippines", "Alenaburgh", "32914", "Treutel Summit", 19, 57, "paytonebert@memail.com", "paytonebert", "7idermtl7gc", 0;
+exec dbo.DodajKlientaInd "Foster", "Von", "727590081", "1992-06-02", 0, , "Peru", "Micaelaton", "52351", "Howell Shoals", 56, 56, "fostervon@memail.com", "fostervon", "2y5qpzr97gq", 0;
+exec dbo.DodajKlientaInd "Lisette", "Cruickshank", "713135248", "1967-11-11", 0, , "Greece", "Lake Kipfort", "83580", "Sipes Wells", 58, 47, "lisettecruickshank@memail.com", "lisettecruickshank", "brihltpeqjz", 0;
+exec dbo.DodajKlientaInd "Karen", "Marks", "768541567", "1956-12-02", 1, , "Lao People's Democratic Republic", "Prohaskabury", "40337", "Roberts Pike", 49, 86, "karenmarks@memail.com", "karenmarks", "x8dgt2sq9ri", 0;
+exec dbo.DodajKlientaInd "Daryl", "Hane", "737918553", "1991-03-10", 0, , "El Salvador", "South Danteside", "28594-7425", "Schmitt Courts", 50, 70, "darylhane@memail.com", "darylhane", "udcihjajwkx", 0;
+exec dbo.DodajKlientaInd "Godfrey", "Mayer", "913534941", "1962-11-14", 0, , "Belarus", "Grahammouth", "88593", "Ward Junction", 37, 15, "godfreymayer@memail.com", "godfreymayer", "sdmj17gu7g6", 0;
+exec dbo.DodajKlientaInd "Emely", "Turcotte", "852478162", "1964-11-13", 0, , "Mongolia", "Lornamouth", "77306", "Abdullah Dale", 56, 29, "emelyturcotte@memail.com", "emelyturcotte", "egeayy7dsq5", 0;
+exec dbo.DodajKlientaInd "Keyon", "Anderson", "435385166", "1956-10-26", 0, , "Guinea-Bissau", "Stromanview", "60809-0345", "Spencer Underpass", 73, 64, "keyonanderson@memail.com", "keyonanderson", "tucltl79n9m", 0;
+exec dbo.DodajKlientaInd "Wilmer", "Lebsack", "131245648", "1954-02-15", 1, , "Kenya", "Stoltenbergfurt", "91126", "Rippin Overpass", 67, 48, "wilmerlebsack@memail.com", "wilmerlebsack", "rdsj1h27r65", 0;
+exec dbo.DodajKlientaInd "Agustin", "Okuneva", "342218177", "1956-09-08", 0, , "Macao", "North Narcisostad", "78162-8979", "Mary Brooks", 85, 75, "agustinokuneva@memail.com", "agustinokuneva", "as9w1y5oqpk", 0;
+exec dbo.DodajKlientaInd "Allan", "Upton", "163874159", "1967-09-10", 1, , "Kenya", "Robynside", "18963", "Ariel Curve", 11, 43, "allanupton@memail.com", "allanupton", "hnzlmy2e6cj", 0;
+exec dbo.DodajKlientaInd "Ivah", "Dickinson", "461622307", "1993-05-22", 1, , "Bangladesh", "New Nat", "95920", "Violette Meadows", 73, 15, "ivahdickinson@memail.com", "ivahdickinson", "bpws5z7d9e9", 0;
+exec dbo.DodajKlientaInd "Evert", "Kris", "142385645", "1973-01-17", 0, , "Barbados", "Trompton", "52948", "Ezekiel Landing", 90, 48, "evertkris@memail.com", "evertkris", "faolt1iikl8", 0;
+exec dbo.DodajKlientaInd "Jayda", "Gutkowski", "428171188", "1983-05-08", 0, , "Myanmar", "Gaylordton", "45527", "Delia Haven", 14, 81, "jaydagutkowski@memail.com", "jaydagutkowski", "trk4bn5rlty", 0;
+exec dbo.DodajKlientaInd "Lora", "Rosenbaum", "182585914", "1962-09-12", 0, , "Singapore", "East Jaredstad", "68423-1122", "Rory Parkways", 33, 57, "lorarosenbaum@memail.com", "lorarosenbaum", "2ozytm8vgjp", 0;
+exec dbo.DodajKlientaInd "Chanelle", "Ondricka", "117318887", "1954-09-26", 1, , "Germany", "New Romaine", "19677", "Graciela Meadow", 25, 98, "chanelleondricka@memail.com", "chanelleondricka", "qf5048my5rp", 0;
+exec dbo.DodajKlientaInd "Leone", "Hayes", "174958468", "1983-06-24", 0, , "Togo", "North Julianneland", "64812-8091", "Wilderman Pike", 84, 4, "leonehayes@memail.com", "leonehayes", "2bpc13aq9h", 0;
+exec dbo.DodajKlientaInd "Aubree", "Grimes", "528434390", "1951-02-23", 0, , "Bosnia and Herzegovina", "East Kailynville", "33100-2279", "Zoe Street", 79, 67, "aubreegrimes@memail.com", "aubreegrimes", "60tf7imik7b", 0;
+exec dbo.DodajKlientaInd "Adela", "Kautzer", "574331565", "1952-07-30", 0, , "Albania", "Casperside", "58275", "Karl Shores", 36, 54, "adelakautzer@memail.com", "adelakautzer", "99nl9x3m838", 0;
+exec dbo.DodajKlientaInd "Hudson", "Dietrich", "522666180", "1969-11-13", 0, 354873, "Cook Islands", "North Lavada", "11854", "Gerald Park", 90, 80, "hudsondietrich@memail.com", "hudsondietrich", "kt9m5cd163n", 0;
+exec dbo.DodajKlientaInd "Marley", "Baumbach", "340384334", "1980-08-29", 1, , "Svalbard & Jan Mayen Islands", "North Emmanuelle", "80960", "Mateo Park", 36, 89, "marleybaumbach@memail.com", "marleybaumbach", "g2jda2obdno", 0;
+exec dbo.DodajKlientaInd "Herbert", "Gleichner", "332123075", "1957-05-12", 0, , "Pakistan", "Powlowskifurt", "20346", "Leannon Forge", 89, 72, "herbertgleichner@memail.com", "herbertgleichner", "hzvnfrd29k7", 0;
+exec dbo.DodajKlientaInd "Adriel", "Beatty", "433332191", "1954-07-16", 0, , "Reunion", "South Eliseo", "33650", "Evangeline Springs", 6, 51, "adrielbeatty@memail.com", "adrielbeatty", "nv0y4q7dfwd", 0;
+exec dbo.DodajKlientaInd "Vladimir", "Rowe", "747833651", "1951-09-30", 1, , "Vanuatu", "Rauburgh", "99498-7414", "Marion Bypass", 55, 84, "vladimirrowe@memail.com", "vladimirrowe", "9avyeqwgik", 0;
+exec dbo.DodajKlientaInd "Kendrick", "Brown", "606137006", "1963-07-17", 1, , "Montserrat", "Lake Samara", "88540", "Amara Islands", 4, 49, "kendrickbrown@memail.com", "kendrickbrown", "gxuif1j2jxw", 0;
+exec dbo.DodajKlientaInd "Elnora", "Koch", "817640417", "1988-11-03", 1, , "Jersey", "Janessachester", "21845-0616", "Clark Divide", 53, 82, "elnorakoch@memail.com", "elnorakoch", "atnzos2ot82", 0;
+exec dbo.DodajKlientaInd "Ezequiel", "Bogisich", "076746137", "1992-04-04", 0, 473552, "Mongolia", "North Sedrickhaven", "84241-1836", "Bailey Springs", 74, 59, "ezequielbogisich@memail.com", "ezequielbogisich", "gqz36folnb7", 0;
+exec dbo.DodajKlientaInd "Seth", "Raynor", "933228602", "1970-08-01", 0, , "Wallis and Futuna", "East Felicia", "50764", "Marvin Crossroad", 32, 17, "sethraynor@memail.com", "sethraynor", "ytj9r5mgkgh", 0;
+exec dbo.DodajKlientaInd "Maybell", "Koepp", "637315706", "1984-02-16", 1, , "Monaco", "East Antwantown", "74979", "Cedrick Bypass", 28, 36, "maybellkoepp@memail.com", "maybellkoepp", "yd5f64rjb6p", 0;
+exec dbo.DodajKlientaInd "Violette", "Bogisich", "873226733", "1990-06-26", 0, , "Martinique", "South Russellhaven", "60085", "Idell Mews", 81, 12, "violettebogisich@memail.com", "violettebogisich", "ayuwy868av", 0;
+exec dbo.DodajKlientaInd "Elmira", "Yost", "559428337", "1994-04-29", 0, , "Turkey", "New Cordellside", "46370", "Elouise Island", 52, 61, "elmirayost@memail.com", "elmirayost", "s10rcqr67sq", 0;
+exec dbo.DodajKlientaInd "Filomena", "Collier", "236136153", "1988-01-01", 1, , "Guyana", "Schillerborough", "84547", "Concepcion Oval", 66, 57, "filomenacollier@memail.com", "filomenacollier", "c1aa7m73fh5", 0;
+exec dbo.DodajKlientaInd "Franco", "Hagenes", "304838333", "1966-07-10", 0, , "Italy", "Glennieport", "53443", "Jamarcus Divide", 69, 98, "francohagenes@memail.com", "francohagenes", "o4yoegk5fvp", 0;
+exec dbo.DodajKlientaInd "Karen", "Barton", "156867737", "1973-08-26", 1, , "Heard Island and McDonald Islands", "New Reinaport", "10585", "Lennie Rapids", 89, 22, "karenbarton@memail.com", "karenbarton", "s10h4f4eugo", 0;
+exec dbo.DodajKlientaInd "Delphia", "Yost", "416829685", "1958-05-13", 0, , "Macao", "West Allieview", "41871-6480", "Douglas Parkways", 47, 9, "delphiayost@memail.com", "delphiayost", "8uyttbz3d0d", 0;
+exec dbo.DodajKlientaInd "Rogers", "Thiel", "456820165", "1962-01-13", 0, , "Guadeloupe", "Port Lillianland", "16670-6900", "Curt Divide", 96, 29, "rogersthiel@memail.com", "rogersthiel", "zm4xlk9hggf", 0;
+exec dbo.DodajKlientaInd "Coralie", "Bradtke", "515575424", "1962-04-27", 0, 812251, "British Indian Ocean Territory (Chagos Archipelago)", "New Lewville", "73118", "Gillian Pine", 24, 62, "coraliebradtke@memail.com", "coraliebradtke", "64vl8wg5dm0", 0;
+exec dbo.DodajKlientaInd "Denis", "Douglas", "516637202", "1989-04-11", 0, , "Montenegro", "Malvinabury", "42740-4579", "Bins Courts", 72, 5, "denisdouglas@memail.com", "denisdouglas", "kojbmurkzde", 0;
+exec dbo.DodajKlientaInd "Wendy", "Upton", "284327425", "1984-08-07", 1, , "Solomon Islands", "East Adrienne", "45084-2966", "Nienow Pass", 15, 66, "wendyupton@memail.com", "wendyupton", "qo0775ek7m", 0;
+exec dbo.DodajKlientaInd "Winifred", "Hammes", "063866218", "1975-07-30", 0, , "Portugal", "South Ozellaton", "87833-3058", "McLaughlin Club", 46, 3, "winifredhammes@memail.com", "winifredhammes", "bkqqlhelmqi", 0;
+exec dbo.DodajKlientaInd "Jaylin", "Pacocha", "743177596", "1968-07-05", 1, , "Democratic People's Republic of Korea", "Port Lauriannestad", "94276", "Meda Lake", 86, 59, "jaylinpacocha@memail.com", "jaylinpacocha", "lkdnxtl2u20", 0;
+exec dbo.DodajKlientaInd "Otho", "Kirlin", "832734818", "1991-01-18", 0, , "Angola", "Hattiechester", "75802-5201", "Kale Mall", 80, 14, "othokirlin@memail.com", "othokirlin", "bvyhs2wmhfy", 0;
+exec dbo.DodajKlientaInd "Devan", "Abshire", "833911274", "1987-12-01", 1, , "Aruba", "Darleneberg", "85526", "Deven Way", 25, 14, "devanabshire@memail.com", "devanabshire", "w8jeibbbcht", 0;
+exec dbo.DodajKlientaInd "Kristin", "Schmeler", "821177864", "1974-10-28", 0, , "Yemen", "South Floyfort", "91538-1403", "Ayden Pines", 84, 88, "kristinschmeler@memail.com", "kristinschmeler", "t4d0x59x3xm", 0;
+exec dbo.DodajKlientaInd "Alessandro", "Rippin", "215706521", "1976-11-11", 0, , "Lithuania", "Port Savion", "35094-0854", "Mueller Burgs", 45, 35, "alessandrorippin@memail.com", "alessandrorippin", "ra86qizit3g", 0;
+exec dbo.DodajKlientaInd "Belle", "Wunsch", "534140483", "1954-04-03", 1, , "Australia", "East Elise", "70364", "Janis Mills", 77, 64, "bellewunsch@memail.com", "bellewunsch", "x21cvgqai8n", 0;
+exec dbo.DodajKlientaInd "Milton", "Jacobson", "207927407", "1979-12-11", 1, , "Turkmenistan", "West Ericachester", "76301-2804", "Issac Motorway", 92, 62, "miltonjacobson@memail.com", "miltonjacobson", "u5w4jrc2xb3", 0;
+exec dbo.DodajKlientaInd "Noemi", "Kreiger", "765058363", "1954-12-20", 1, , "Portugal", "Port Urban", "54685", "Ada Meadows", 3, 88, "noemikreiger@memail.com", "noemikreiger", "vaba36fepno", 0;
+exec dbo.DodajKlientaInd "Kari", "Rice", "367974726", "1967-06-08", 0, , "Spain", "Sydniehaven", "68091", "Waters Pass", 24, 27, "karirice@memail.com", "karirice", "gb7ekqwhs9a", 0;
+exec dbo.DodajKlientaInd "Demetrius", "Luettgen", "685621565", "1977-10-12", 0, , "Moldova", "Lelachester", "69140-8399", "Forrest Views", 91, 41, "demetriusluettgen@memail.com", "demetriusluettgen", "n09br4s912u", 0;
+exec dbo.DodajKlientaInd "Clarabelle", "Hettinger", "851154501", "1950-02-23", 0, 544141, "Palau", "East Nolanberg", "56047-9811", "Charlotte Place", 35, 44, "clarabellehettinger@memail.com", "clarabellehettinger", "kb1zemkzwlq", 0;
+exec dbo.DodajKlientaInd "Laron", "Denesik", "276643968", "1956-11-06", 0, , "Iceland", "Vivienmouth", "78148-6380", "Nienow Drive", 35, 62, "larondenesik@memail.com", "larondenesik", "2fokv7lmpnb", 0;
+exec dbo.DodajKlientaInd "Daphnee", "MacGyver", "842654319", "1980-06-21", 1, , "Mongolia", "Germaineberg", "12243-7017", "Gabriel Spurs", 79, 76, "daphneemacgyver@memail.com", "daphneemacgyver", "rn17ipjbw4g", 0;
+exec dbo.DodajKlientaInd "Russell", "Boehm", "846178315", "1963-06-03", 1, , "Trinidad and Tobago", "Madieland", "37881", "Rupert Roads", 75, 51, "russellboehm@memail.com", "russellboehm", "5of5z12u8xn", 0;
+exec dbo.DodajKlientaInd "Meaghan", "Tillman", "461165654", "1992-04-05", 0, , "Anguilla", "Jaskolskifort", "25166-9389", "Kihn Ferry", 5, 48, "meaghantillman@memail.com", "meaghantillman", "l5006jexki8", 0;
+exec dbo.DodajKlientaInd "Triston", "Von", "477714136", "1965-01-09", 1, , "Greece", "North Markusland", "40842", "Brown Rest", 93, 19, "tristonvon@memail.com", "tristonvon", "m0m26le3gvg", 0;
+exec dbo.DodajKlientaInd "Yvette", "Gleason", "439291843", "1969-06-03", 0, , "Tuvalu", "Kristinaberg", "12065-3356", "Koelpin Alley", 8, 35, "yvettegleason@memail.com", "yvettegleason", "9lwj2099qn2", 0;
+exec dbo.DodajKlientaInd "Faustino", "Ferry", "164471082", "1978-10-06", 1, , "Burundi", "New Breanne", "18729-7560", "Hegmann Trafficway", 59, 27, "faustinoferry@memail.com", "faustinoferry", "n1tqduaetvm", 0;
+exec dbo.DodajKlientaInd "Cayla", "Moen", "325714336", "1984-10-10", 0, 247581, "Seychelles", "East Joannie", "35762-9752", "Stehr Orchard", 76, 94, "caylamoen@memail.com", "caylamoen", "rxsys6iaetm", 0;
+exec dbo.DodajKlientaInd "Jettie", "Corkery", "017758863", "1950-09-13", 0, , "Guam", "Lake Myrtle", "71094-2392", "Kenny Neck", 61, 14, "jettiecorkery@memail.com", "jettiecorkery", "88ajexibxdn", 0;
+exec dbo.DodajKlientaInd "Aditya", "Muller", "312113124", "1983-08-05", 0, , "Mongolia", "West Zacherybury", "94672-6493", "Pacocha Orchard", 28, 57, "adityamuller@memail.com", "adityamuller", "cr6f4czxgcp", 0;
+exec dbo.DodajKlientaInd "Dustin", "Hoeger", "365533835", "1965-04-30", 1, , "Iraq", "Bahringerton", "39636", "Brant Crescent", 24, 39, "dustinhoeger@memail.com", "dustinhoeger", "snp58c0pw7o", 0;
+exec dbo.DodajKlientaInd "Meda", "Ortiz", "843332530", "1987-05-23", 0, , "Estonia", "Port Travistown", "29743", "Block Springs", 82, 78, "medaortiz@memail.com", "medaortiz", "54s52doived", 0;
+exec dbo.DodajKlientaInd "Valentina", "Ruecker", "227677551", "1981-09-06", 0, , "Niue", "Strackechester", "60017", "Anderson Flats", 65, 84, "valentinaruecker@memail.com", "valentinaruecker", "d3r71saicoq", 0;
+exec dbo.DodajKlientaInd "Ardella", "Bednar", "926748632", "1960-06-18", 1, , "Anguilla", "Sanfordview", "84391", "Camila Loaf", 34, 45, "ardellabednar@memail.com", "ardellabednar", "7icr75u3z9d", 0;
+exec dbo.DodajKlientaInd "Granville", "Gislason", "026584394", "1980-12-29", 1, , "Mauritius", "New Hudsonfurt", "26068-9341", "Cristobal Crossing", 62, 83, "granvillegislason@memail.com", "granvillegislason", "cle5ciflogq", 0;
+exec dbo.DodajKlientaInd "Wallace", "O'Hara", "488043973", "1997-01-08", 0, , "Greece", "West Kenyaside", "33461", "Millie Fields", 92, 44, "wallaceo'hara@memail.com", "wallaceo'hara", "j2jjqlkehin", 0;
+exec dbo.DodajKlientaInd "Logan", "Trantow", "723758201", "1962-09-11", 1, , "Austria", "New Alfonso", "30910-7709", "Barney Shoal", 37, 40, "logantrantow@memail.com", "logantrantow", "mmvnyxum061", 0;
+exec dbo.DodajKlientaInd "Scot", "Schumm", "661730278", "1961-04-13", 1, , "Montserrat", "New Braedenmouth", "61299-8354", "Kunde Meadows", 49, 39, "scotschumm@memail.com", "scotschumm", "j9obga9d02a", 0;
+exec dbo.DodajKlientaInd "Doug", "Franecki", "667395802", "1997-01-05", 1, , "Lesotho", "Julialand", "99788-8946", "Predovic Villages", 98, 57, "dougfranecki@memail.com", "dougfranecki", "aolad0sav2u", 0;
+exec dbo.DodajKlientaInd "Zackery", "Wunsch", "454811532", "1957-04-18", 0, , "Cyprus", "East Vilmaport", "69353-0603", "Mayer Trail", 73, 99, "zackerywunsch@memail.com", "zackerywunsch", "s0q7erwje7c", 0;
+exec dbo.DodajKlientaInd "Georgiana", "Mertz", "311103217", "1952-03-27", 1, , "San Marino", "Port Camilachester", "73197", "Mitchell Shores", 91, 2, "georgianamertz@memail.com", "georgianamertz", "f9fstjn1bw8", 0;
+exec dbo.DodajKlientaInd "Amara", "McCullough", "862153647", "1952-01-04", 0, , "Sri Lanka", "Lake Cornell", "97152", "Schiller Club", 71, 54, "amaramccullough@memail.com", "amaramccullough", "kjtytsf6eh7", 0;
+exec dbo.DodajKlientaInd "Jasper", "McLaughlin", "614489427", "1986-04-18", 1, , "Pitcairn Islands", "Port Alverabury", "39859-8248", "Braeden Summit", 49, 42, "jaspermclaughlin@memail.com", "jaspermclaughlin", "fn3hn4otjjs", 0;
+exec dbo.DodajKlientaInd "Flavie", "Murray", "943165534", "1975-03-08", 0, , "Brazil", "Bryanaburgh", "30486", "Crooks Hill", 68, 67, "flaviemurray@memail.com", "flaviemurray", "w09xujv7n6y", 0;
+exec dbo.DodajKlientaInd "Ricky", "O'Keefe", "653587184", "1996-12-03", 1, 438575, "Saint Vincent and the Grenadines", "Magnoliaborough", "40263", "Jacobi Lodge", 63, 67, "rickyo'keefe@memail.com", "rickyo'keefe", "ni9y608t3a", 0;
+exec dbo.DodajKlientaInd "Elza", "Howell", "672784561", "1993-11-06", 0, 007417, "French Southern Territories", "New Addie", "24141", "Predovic Spring", 32, 28, "elzahowell@memail.com", "elzahowell", "68bj35qbt4v", 0;
+exec dbo.DodajKlientaInd "Lionel", "Lynch", "366119856", "1966-12-18", 0, , "Guernsey", "East Vivaburgh", "15648", "Muriel Shoals", 65, 73, "lionellynch@memail.com", "lionellynch", "yzgvluvyx6", 0;
+exec dbo.DodajKlientaInd "Brody", "Lubowitz", "611567073", "1962-05-28", 1, , "Aruba", "North Kay", "49618-2597", "Tabitha Harbors", 24, 46, "brodylubowitz@memail.com", "brodylubowitz", "bs8m4qu81hl", 0;
+exec dbo.DodajKlientaInd "Cory", "Schaefer", "421416973", "1964-06-18", 0, , "New Caledonia", "New Maebury", "45488", "Sporer Harbor", 41, 68, "coryschaefer@memail.com", "coryschaefer", "dmx8cqp7l93", 0;
+exec dbo.DodajKlientaInd "Carissa", "Cummerata", "682046298", "1956-05-30", 0, , "Jordan", "Hoppefort", "80453", "Cali Overpass", 28, 56, "carissacummerata@memail.com", "carissacummerata", "8e9xv9tytxi", 0;
+exec dbo.DodajKlientaInd "Joanne", "Hilll", "340355474", "1991-01-28", 0, , "Syrian Arab Republic", "Daniellachester", "82403-3823", "Romaine Lodge", 41, 82, "joannehilll@memail.com", "joannehilll", "22a6tar2jyi", 0;
+exec dbo.DodajKlientaInd "Camylle", "Lakin", "136106356", "1964-02-11", 0, , "Bouvet Island (Bouvetoya)", "Karliefurt", "65670-4309", "Lucious Prairie", 12, 74, "camyllelakin@memail.com", "camyllelakin", "2hlysjatynh", 0;
+exec dbo.DodajKlientaInd "Carlo", "Littel", "831353729", "1981-01-03", 0, , "Qatar", "Lake Zachery", "73816-9739", "Johnson Village", 24, 27, "carlolittel@memail.com", "carlolittel", "nv6hv62eadw", 0;
+exec dbo.DodajKlientaInd "Dahlia", "Runolfsson", "763595385", "1965-08-25", 1, , "Virgin Islands, British", "East Linnie", "90143", "Arvel Field", 30, 3, "dahliarunolfsson@memail.com", "dahliarunolfsson", "fwhzifg8f1y", 0;
+exec dbo.DodajKlientaInd "Raheem", "Heller", "042453132", "1980-05-23", 1, , "Comoros", "Runtechester", "88676-9926", "Graham Summit", 35, 67, "raheemheller@memail.com", "raheemheller", "opxpgxejovk", 0;
+exec dbo.DodajKlientaInd "Melvina", "Lueilwitz", "747143466", "1968-12-26", 0, , "Yemen", "Port Shaniya", "26489-2954", "Llewellyn Glen", 47, 37, "melvinalueilwitz@memail.com", "melvinalueilwitz", "my3idyh670l", 0;
+exec dbo.DodajKlientaInd "Henri", "Lindgren", "827712320", "1986-03-29", 0, 188573, "South Africa", "Valentinmouth", "90929", "Gage Village", 77, 94, "henrilindgren@memail.com", "henrilindgren", "tqsq71ie8r6", 0;
+exec dbo.DodajKlientaInd "Ruthie", "Schroeder", "026532411", "1992-08-01", 1, , "Qatar", "Deshawnmouth", "94499", "Devonte Divide", 56, 93, "ruthieschroeder@memail.com", "ruthieschroeder", "t8fj8aecxso", 0;
+exec dbo.DodajKlientaInd "Savanah", "Carroll", "563711564", "1956-01-12", 0, , "Ghana", "South Adrain", "95884", "Daphney Gateway", 45, 64, "savanahcarroll@memail.com", "savanahcarroll", "n8q645r7qmk", 0;
+exec dbo.DodajKlientaInd "Sadye", "Hagenes", "111065142", "1979-03-17", 1, 526056, "Saint Lucia", "South Russellchester", "20490", "Maci River", 72, 83, "sadyehagenes@memail.com", "sadyehagenes", "88j2d0umn1g", 0;
+exec dbo.DodajKlientaInd "Ansel", "Davis", "458206441", "1969-03-23", 1, 167562, "Grenada", "Lake Donna", "13232", "Maymie Mission", 12, 80, "anseldavis@memail.com", "anseldavis", "2i2mllw51s2", 0;
+exec dbo.DodajKlientaInd "Zakary", "Bernier", "235347993", "1969-04-20", 1, 627880, "Holy See (Vatican City State)", "Lake Meaghanfort", "61234", "Ella Bypass", 71, 25, "zakarybernier@memail.com", "zakarybernier", "k6bcstbm40q", 0;
+exec dbo.DodajKlientaInd "Belle", "Heaney", "125472207", "1987-12-08", 0, , "Antarctica (the territory South of 60 deg S)", "New Rosellaside", "60879-5410", "Virgil Stravenue", 78, 36, "belleheaney@memail.com", "belleheaney", "8vhs5np2tj2", 0;
+exec dbo.DodajKlientaInd "Jovany", "Huels", "159410538", "1961-01-08", 1, , "Haiti", "East Kolbyberg", "68987-9902", "Velma Parks", 39, 66, "jovanyhuels@memail.com", "jovanyhuels", "pbxx9jek3vn", 0;
+exec dbo.DodajKlientaInd "Cecile", "Monahan", "532667913", "1971-06-23", 0, , "Thailand", "Lindgrentown", "55189", "Zora Inlet", 78, 49, "cecilemonahan@memail.com", "cecilemonahan", "7nky1khlkbq", 0;
+exec dbo.DodajKlientaInd "Phoebe", "Waelchi", "487647382", "1962-01-20", 1, , "Sao Tome and Principe", "New Flavio", "73406-8878", "Jeanette Rapids", 48, 30, "phoebewaelchi@memail.com", "phoebewaelchi", "1hqo80ez1im", 0;
+exec dbo.DodajKlientaInd "Arden", "Berge", "078921122", "1969-08-23", 0, , "Luxembourg", "Abbottbury", "71945-6561", "Nolan Prairie", 13, 17, "ardenberge@memail.com", "ardenberge", "veh4v4rm8id", 0;
+exec dbo.DodajKlientaInd "Zachariah", "Reilly", "772261723", "1975-12-19", 0, , "Holy See (Vatican City State)", "Ramirohaven", "62865-1993", "Emard Green", 69, 25, "zachariahreilly@memail.com", "zachariahreilly", "6pwkc3kam3t", 0;
+exec dbo.DodajKlientaInd "Gillian", "Tillman", "246872520", "1981-07-25", 0, , "Mauritania", "New Lydahaven", "75571-1972", "Autumn Parks", 28, 72, "gilliantillman@memail.com", "gilliantillman", "egv5v40p6s", 0;
+exec dbo.DodajKlientaInd "Lacey", "Jerde", "641717147", "1984-04-24", 0, , "Botswana", "Pfeffermouth", "36444", "Dedric Dale", 83, 88, "laceyjerde@memail.com", "laceyjerde", "t3o85c09ecg", 0;
+exec dbo.DodajKlientaInd "Bradley", "Douglas", "633628105", "1995-06-16", 0, , "Belgium", "South Mandyton", "69027-0751", "Trystan Island", 67, 69, "bradleydouglas@memail.com", "bradleydouglas", "f3dewe17sa", 0;
+exec dbo.DodajKlientaInd "Hadley", "Jones", "544548262", "1990-08-07", 0, , "Pitcairn Islands", "West Kameronburgh", "87313-2714", "Anika Inlet", 88, 54, "hadleyjones@memail.com", "hadleyjones", "zon2zg9qzeg", 0;
+exec dbo.DodajKlientaInd "Jarret", "Hessel", "431595515", "1982-08-14", 1, , "Colombia", "Breitenbergmouth", "81845", "Jaskolski Streets", 54, 75, "jarrethessel@memail.com", "jarrethessel", "gfrgao1xi8c", 0;
+exec dbo.DodajKlientaInd "Antoinette", "Breitenberg", "644492496", "1988-07-27", 1, , "Tunisia", "South Arnaldoside", "46485", "Corkery Roads", 86, 26, "antoinettebreitenberg@memail.com", "antoinettebreitenberg", "0hal6cqd3oc", 0;
+exec dbo.DodajKlientaInd "Louvenia", "Cole", "386295336", "1980-08-01", 1, , "Bouvet Island (Bouvetoya)", "Masonborough", "86991-0073", "Elyse Course", 19, 78, "louveniacole@memail.com", "louveniacole", "vocfqhk6tv9", 0;
+exec dbo.DodajKlientaInd "Jared", "Rempel", "680931885", "1991-03-27", 0, , "Lithuania", "West Ova", "61656", "Darwin Loop", 44, 63, "jaredrempel@memail.com", "jaredrempel", "naqmplqjn8v", 0;
+exec dbo.DodajKlientaInd "Annabel", "Haag", "965112115", "1984-08-07", 1, , "Iraq", "Kassandraton", "69532-5664", "Jakubowski Center", 9, 60, "annabelhaag@memail.com", "annabelhaag", "2yd9pyft3i7", 0;
+exec dbo.DodajKlientaInd "Brennan", "Heller", "328831352", "1954-06-13", 0, , "Saint Kitts and Nevis", "Kaylachester", "29883", "Schimmel Brook", 36, 44, "brennanheller@memail.com", "brennanheller", "yvmismdv7hc", 0;
+exec dbo.DodajKlientaInd "Mckayla", "Romaguera", "087115661", "1959-01-24", 1, , "Trinidad and Tobago", "Hackettfort", "12369-6990", "Devante Locks", 47, 74, "mckaylaromaguera@memail.com", "mckaylaromaguera", "le4y59ynp1n", 0;
+exec dbo.DodajKlientaInd "Nathan", "Shields", "666827436", "1972-08-23", 1, , "Turkey", "East Merlestad", "24342-4343", "Gilda Vista", 23, 72, "nathanshields@memail.com", "nathanshields", "spcyyiegffw", 0;
+exec dbo.DodajKlientaInd "Shaylee", "Gutkowski", "584172995", "1956-03-02", 1, , "Palau", "Marianehaven", "26772-9526", "Keebler Mews", 95, 57, "shayleegutkowski@memail.com", "shayleegutkowski", "wum3fa2g7j0", 0;
+exec dbo.DodajKlientaInd "Emilio", "Yundt", "137238325", "1978-07-30", 1, , "Tonga", "Port Bennett", "61510-9070", "Christine Tunnel", 74, 15, "emilioyundt@memail.com", "emilioyundt", "ga3ae2k17y", 0;
+exec dbo.DodajKlientaInd "Lorena", "Walsh", "116371924", "1956-05-15", 1, , "Croatia", "Wintheiserhaven", "32895", "Maximo Mountain", 57, 78, "lorenawalsh@memail.com", "lorenawalsh", "lzaiqkfwl81", 0;
+exec dbo.DodajKlientaInd "Chelsea", "Torphy", "375671052", "1968-10-08", 1, , "American Samoa", "Eduardoville", "44613", "Hattie Junction", 43, 55, "chelseatorphy@memail.com", "chelseatorphy", "9isn03147uu", 0;
+exec dbo.DodajKlientaInd "Alden", "Maggio", "361074354", "1951-04-17", 1, , "Trinidad and Tobago", "West Colleen", "51539", "Stroman Centers", 56, 39, "aldenmaggio@memail.com", "aldenmaggio", "xd5smpq6up3", 0;
+exec dbo.DodajKlientaInd "Kiarra", "Waters", "539784516", "1994-07-12", 1, , "Nicaragua", "Konopelskiborough", "64185", "Hal Roads", 8, 45, "kiarrawaters@memail.com", "kiarrawaters", "0j1iz3at116", 0;
+exec dbo.DodajKlientaInd "Alphonso", "Hickle", "912573817", "1959-06-17", 1, , "Andorra", "Raeganmouth", "41631-5419", "Elizabeth Ville", 84, 80, "alphonsohickle@memail.com", "alphonsohickle", "yz4ar3147dw", 0;
+exec dbo.DodajKlientaInd "Wilhelmine", "Towne", "661721012", "1951-05-06", 0, , "Venezuela", "West Soniamouth", "48277", "Dicki Stream", 73, 78, "wilhelminetowne@memail.com", "wilhelminetowne", "svgm6u52iir", 0;
+exec dbo.DodajKlientaInd "Lenny", "Kunze", "358115618", "1988-01-09", 1, , "Palestinian Territory", "Port Landen", "50523", "Boehm Freeway", 17, 49, "lennykunze@memail.com", "lennykunze", "a7jviosyjsx", 0;
+exec dbo.DodajKlientaInd "Rosario", "Leannon", "956561367", "1979-08-25", 1, , "Samoa", "Geovanniside", "39370-3672", "Destinee Groves", 68, 38, "rosarioleannon@memail.com", "rosarioleannon", "k4jp799e2th", 0;
+exec dbo.DodajKlientaInd "Issac", "Parisian", "749725156", "1992-01-31", 1, , "Cook Islands", "Port Cletamouth", "35267", "Collier Shoal", 47, 33, "issacparisian@memail.com", "issacparisian", "cif42fhn2bk", 0;
+exec dbo.DodajKlientaInd "Morris", "Dietrich", "267616230", "1961-05-08", 0, , "Niue", "Alechaven", "64522-8170", "Breitenberg Brook", 3, 20, "morrisdietrich@memail.com", "morrisdietrich", "ow9f3ovvq38", 0;
+exec dbo.DodajKlientaInd "Zetta", "Williamson", "535380278", "1957-09-03", 0, , "Liberia", "Chesleyborough", "27473", "Sonia Bypass", 14, 23, "zettawilliamson@memail.com", "zettawilliamson", "kjjyjpifbiq", 0;
+exec dbo.DodajKlientaInd "Lauren", "Prohaska", "631085866", "1989-07-08", 1, , "Burkina Faso", "West Madie", "43070", "Runte Highway", 27, 29, "laurenprohaska@memail.com", "laurenprohaska", "ehnt5c4kc28", 0;
+exec dbo.DodajKlientaInd "Garth", "Mraz", "330574182", "1976-12-30", 1, , "Norway", "West Veronicastad", "62513", "Aurelia Parkway", 46, 52, "garthmraz@memail.com", "garthmraz", "yx1y83vujcz", 0;
+exec dbo.DodajKlientaInd "Terence", "Keebler", "485351981", "1989-06-01", 0, , "Malaysia", "North Muhammadtown", "56324-3213", "Gottlieb Springs", 84, 74, "terencekeebler@memail.com", "terencekeebler", "gg7gnjuszce", 0;
+exec dbo.DodajKlientaInd "Krystina", "Batz", "305061171", "1970-02-05", 1, , "Antigua and Barbuda", "Smithhaven", "17302-0064", "Amara Inlet", 19, 36, "krystinabatz@memail.com", "krystinabatz", "esxaaxfqd9", 0;
+exec dbo.DodajKlientaInd "Ernestine", "Nicolas", "232878314", "1990-06-22", 0, , "Eritrea", "Lottiefort", "53019-1695", "Myron Forks", 44, 53, "ernestinenicolas@memail.com", "ernestinenicolas", "zbzy7y2vet7", 0;
+exec dbo.DodajKlientaInd "Mohamed", "Ritchie", "101570171", "1975-07-10", 1, , "Saint Vincent and the Grenadines", "East Desmondville", "92555", "Gottlieb Well", 83, 87, "mohamedritchie@memail.com", "mohamedritchie", "thzvkx0afan", 0;
+exec dbo.DodajKlientaInd "Francisca", "Purdy", "313181211", "1991-10-24", 0, , "Jersey", "Kesslershire", "23877-6635", "Fabian Views", 53, 86, "franciscapurdy@memail.com", "franciscapurdy", "4wver338k1n", 0;
+exec dbo.DodajKlientaInd "Kylee", "Okuneva", "624577933", "1979-05-12", 1, 866157, "Azerbaijan", "Lake Ahmadmouth", "10597", "Halvorson Isle", 70, 87, "kyleeokuneva@memail.com", "kyleeokuneva", "kv1iji6jf2m", 0;
+exec dbo.DodajKlientaInd "Mohamed", "Jaskolski", "443713616", "1971-04-05", 0, , "Albania", "Karleeshire", "19732", "Elmore Views", 89, 46, "mohamedjaskolski@memail.com", "mohamedjaskolski", "k1gp9xc2sph", 0;
+exec dbo.DodajKlientaInd "Maximillia", "Hodkiewicz", "774526813", "1979-12-29", 1, , "Italy", "Port Otisview", "22977", "Ephraim Orchard", 88, 53, "maximilliahodkiewicz@memail.com", "maximilliahodkiewicz", "keqerge5v5", 0;
+exec dbo.DodajKlientaInd "Marilou", "Fritsch", "128256358", "1993-08-18", 0, 831874, "Guyana", "West Anselland", "32852", "Armstrong Terrace", 72, 32, "mariloufritsch@memail.com", "mariloufritsch", "4gxi3jlbpt6", 0;
+exec dbo.DodajKlientaInd "Kaelyn", "Swift", "554674483", "1967-07-18", 0, , "Nauru", "West Enriqueview", "76091", "Champlin Bridge", 34, 16, "kaelynswift@memail.com", "kaelynswift", "nz54w4uk0yf", 0;
+exec dbo.DodajKlientaInd "Ressie", "Collins", "519334481", "1963-11-25", 1, , "Swaziland", "Lake Garett", "70466", "Hintz Motorway", 13, 98, "ressiecollins@memail.com", "ressiecollins", "qb8zz6stjdx", 0;
+exec dbo.DodajKlientaInd "Asha", "Treutel", "878501162", "1996-01-21", 0, , "Taiwan", "Runolfssonborough", "80962", "Hessel Mall", 48, 41, "ashatreutel@memail.com", "ashatreutel", "o1zshgd7gx", 0;
+exec dbo.DodajKlientaInd "Joel", "Wilderman", "336261821", "1976-07-18", 0, , "Nigeria", "North Lance", "44947", "Ondricka Fields", 65, 82, "joelwilderman@memail.com", "joelwilderman", "6o8yfoy5jk9", 0;
+exec dbo.DodajKlientaInd "Bettye", "Hyatt", "243278417", "1987-11-24", 1, 899768, "Nigeria", "Travisport", "66393-3271", "Lloyd Crossroad", 59, 14, "bettyehyatt@memail.com", "bettyehyatt", "nhefd3fc2ho", 0;
+exec dbo.DodajKlientaInd "Wyatt", "Torp", "803411668", "1975-10-13", 1, , "Jordan", "West Taramouth", "89419-7700", "Little Alley", 18, 23, "wyatttorp@memail.com", "wyatttorp", "y92e9d99q70", 0;
+exec dbo.DodajKlientaInd "Belle", "Schowalter", "447852172", "1977-07-13", 1, , "Taiwan", "Brekkeville", "47871", "Brown Oval", 44, 65, "belleschowalter@memail.com", "belleschowalter", "82b6jbji5q4", 0;
+exec dbo.DodajKlientaInd "Thalia", "McLaughlin", "105863557", "1981-06-15", 0, , "Guatemala", "Mavischester", "27557-3371", "Hoeger Dale", 6, 87, "thaliamclaughlin@memail.com", "thaliamclaughlin", "0603hy6kwxi", 0;
+exec dbo.DodajKlientaInd "Graham", "Bergstrom", "252353812", "1956-07-06", 1, , "Russian Federation", "New Delpha", "57746", "Ayla Brook", 3, 15, "grahambergstrom@memail.com", "grahambergstrom", "36xba03bi6", 0;
+exec dbo.DodajKlientaInd "Emerald", "Runolfsson", "375260148", "1959-09-25", 1, , "Slovenia", "North Heberville", "65732", "Barrows Land", 53, 73, "emeraldrunolfsson@memail.com", "emeraldrunolfsson", "dbe5y7wgyzj", 0;
+exec dbo.DodajKlientaInd "Nellie", "Jakubowski", "522511454", "1968-07-08", 0, 254626, "Malaysia", "Wizahaven", "83245", "Kunze Ford", 50, 43, "nelliejakubowski@memail.com", "nelliejakubowski", "4o6sk56wqlh", 0;
+exec dbo.DodajKlientaInd "Deangelo", "Bayer", "918551048", "1985-05-25", 0, 519752, "Yemen", "Lake Wanda", "33107-6063", "Connelly Mission", 6, 90, "deangelobayer@memail.com", "deangelobayer", "wp2def9nimc", 0;
+exec dbo.DodajKlientaInd "Santina", "Shields", "083327826", "1995-02-16", 0, , "French Guiana", "Port Randal", "90645", "Hardy Islands", 80, 61, "santinashields@memail.com", "santinashields", "jxnw59za38t", 0;
+exec dbo.DodajKlientaInd "Lindsay", "Volkman", "440076539", "1955-07-17", 0, , "Holy See (Vatican City State)", "Vitaburgh", "16462-3337", "Leila Springs", 9, 60, "lindsayvolkman@memail.com", "lindsayvolkman", "f2pofeqwk6y", 0;
+exec dbo.DodajKlientaInd "Burnice", "Durgan", "163264181", "1970-01-13", 0, , "Greenland", "Lake August", "67571-2655", "Stoltenberg Mills", 14, 52, "burnicedurgan@memail.com", "burnicedurgan", "pbf04j57omt", 0;
+exec dbo.DodajKlientaInd "Shane", "Blick", "330575687", "1991-08-11", 0, , "Iran", "South Mosesville", "76978", "Bonnie Circle", 43, 76, "shaneblick@memail.com", "shaneblick", "a6kpca3esm7", 0;
+exec dbo.DodajKlientaInd "Jackson", "Hyatt", "651711479", "1957-04-19", 0, , "Botswana", "Lake Jay", "43986-7432", "Destini Points", 95, 38, "jacksonhyatt@memail.com", "jacksonhyatt", "1svggwx9ov2", 0;
+exec dbo.DodajKlientaInd "Earlene", "Hermann", "485542866", "1968-08-03", 0, , "Bulgaria", "East Kari", "41288", "Hodkiewicz Fort", 64, 5, "earlenehermann@memail.com", "earlenehermann", "ryqi0zt9agh", 0;
+exec dbo.DodajKlientaInd "Sincere", "Haag", "208483214", "1982-03-04", 1, , "Nepal", "North Lizethville", "75541-1598", "Grace Key", 74, 74, "sincerehaag@memail.com", "sincerehaag", "1xn3qc0cpk4", 0;
+exec dbo.DodajKlientaInd "Grace", "Crona", "893324152", "1989-03-23", 1, , "Christmas Island", "Jaquelinestad", "39705", "Jared Glen", 87, 63, "gracecrona@memail.com", "gracecrona", "2g398oad39o", 0;
+exec dbo.DodajKlientaInd "Lon", "Rowe", "787419336", "1977-03-15", 1, , "Northern Mariana Islands", "Osbaldofort", "43634-7333", "Herman Garden", 60, 54, "lonrowe@memail.com", "lonrowe", "nvaetujujk0", 0;
+exec dbo.DodajKlientaInd "Velma", "Kuphal", "815831961", "1991-02-14", 1, , "Saudi Arabia", "Aaliyahville", "91793", "Hills Mountain", 72, 69, "velmakuphal@memail.com", "velmakuphal", "c5aag7tenww", 0;
+exec dbo.DodajKlientaInd "Gregory", "Kemmer", "225501178", "1959-10-21", 0, , "Reunion", "Chelsiemouth", "68696", "Walsh Spring", 25, 98, "gregorykemmer@memail.com", "gregorykemmer", "bpnktx0022l", 0;
+exec dbo.DodajKlientaInd "Isabell", "Cronin", "128306274", "1979-11-23", 1, , "Virgin Islands, British", "East Carlottatown", "72038", "Morissette Island", 79, 67, "isabellcronin@memail.com", "isabellcronin", "2u39s22ebh3", 0;
+exec dbo.DodajKlientaInd "Golden", "Tromp", "175619485", "1995-10-22", 0, , "Rwanda", "East Melisa", "81534-8141", "Mraz Way", 19, 74, "goldentromp@memail.com", "goldentromp", "pkukyfx64wh", 0;
+exec dbo.DodajKlientaInd "Velda", "Heller", "783027779", "1956-04-15", 1, , "Sudan", "South Missouri", "37089-9191", "Maryjane Point", 48, 4, "veldaheller@memail.com", "veldaheller", "3ulzm2g4075", 0;
+exec dbo.DodajKlientaInd "Lavinia", "Larson", "123245955", "1973-09-30", 1, , "Iran", "Maximillianville", "16135", "Friesen Turnpike", 17, 70, "lavinialarson@memail.com", "lavinialarson", "pqdpead5a5m", 0;
+exec dbo.DodajKlientaInd "Henry", "Schulist", "413864334", "1960-06-26", 0, , "Mayotte", "Port Modestaland", "62451", "Fermin Station", 63, 95, "henryschulist@memail.com", "henryschulist", "3cpeo8q528x", 0;
+exec dbo.DodajKlientaInd "Kirsten", "Wilderman", "333148845", "1965-02-15", 0, , "Yemen", "Carleestad", "57146-1522", "Susan Divide", 89, 4, "kirstenwilderman@memail.com", "kirstenwilderman", "msr1azdho2v", 0;
+exec dbo.DodajKlientaInd "Jedediah", "Marvin", "444188858", "1975-03-08", 0, , "Slovakia (Slovak Republic)", "Oletaburgh", "97587-7481", "Cruz Villages", 62, 48, "jedediahmarvin@memail.com", "jedediahmarvin", "g4ghm8qqup0", 0;
+exec dbo.DodajKlientaInd "Mckayla", "Goodwin", "183647228", "1961-07-17", 1, , "Georgia", "West Osborneland", "22876", "Clay Heights", 80, 52, "mckaylagoodwin@memail.com", "mckaylagoodwin", "2a0lmr1y1tt", 0;
+exec dbo.DodajKlientaInd "Edison", "Harris", "281223125", "1956-08-24", 1, 769292, "Israel", "Port Loyceland", "65635-5243", "Prohaska Ports", 18, 46, "edisonharris@memail.com", "edisonharris", "vo2wtfzah1", 0;
+exec dbo.DodajKlientaInd "Claire", "Homenick", "893966324", "1982-11-29", 0, , "Brazil", "North Mathias", "19869", "Denesik River", 81, 56, "clairehomenick@memail.com", "clairehomenick", "8p2cy8tkv0o", 0;
+exec dbo.DodajKlientaInd "Trace", "Wisoky", "374333859", "1972-02-07", 1, , "Algeria", "Analand", "60486", "Gleichner Mountain", 61, 73, "tracewisoky@memail.com", "tracewisoky", "sv6x12fdzxt", 0;
+exec dbo.DodajKlientaInd "Linnie", "Fadel", "739284748", "1982-09-26", 1, , "Slovenia", "Port Patshire", "55399-1520", "Lexie Highway", 69, 23, "linniefadel@memail.com", "linniefadel", "qzou0hz4tdx", 0;
+exec dbo.DodajKlientaInd "Darrick", "Farrell", "424754243", "1961-05-24", 0, , "Spain", "Torphyhaven", "77506-1382", "Harmony Garden", 31, 76, "darrickfarrell@memail.com", "darrickfarrell", "nm0gbpcwyax", 0;
+exec dbo.DodajKlientaInd "Alexanne", "Monahan", "750176212", "1969-01-15", 1, , "Peru", "Candidafurt", "84338", "Kacie Centers", 90, 6, "alexannemonahan@memail.com", "alexannemonahan", "peqfj81x6nl", 0;
+exec dbo.DodajKlientaInd "Arlo", "Hane", "367727854", "1950-03-11", 0, , "South Georgia and the South Sandwich Islands", "North Johnnieland", "25344-6380", "Boyle Mountain", 97, 17, "arlohane@memail.com", "arlohane", "f9pmsa6s4hp", 0;
+exec dbo.DodajKlientaInd "Joanie", "Ortiz", "366153263", "1961-09-04", 1, , "Romania", "Lake Bud", "17785", "Miller Center", 36, 56, "joanieortiz@memail.com", "joanieortiz", "zzx5bteiy6e", 0;
+exec dbo.DodajKlientaInd "Chanel", "Welch", "874570938", "1976-02-13", 0, , "San Marino", "Abehaven", "93946-7380", "Nicolette Plains", 84, 25, "chanelwelch@memail.com", "chanelwelch", "8a707qc090r", 0;
+exec dbo.DodajKlientaInd "Angelo", "Reilly", "215719227", "1965-03-18", 1, , "Guinea", "Wuckertport", "78682", "Dooley Inlet", 28, 43, "angeloreilly@memail.com", "angeloreilly", "rk1rn3lk5vq", 0;
+exec dbo.DodajKlientaInd "Mariela", "Hoppe", "688635850", "1956-07-30", 1, , "Cote d'Ivoire", "Legrosville", "34167-4955", "Freeman Springs", 18, 62, "marielahoppe@memail.com", "marielahoppe", "igszef77zeg", 0;
+exec dbo.DodajKlientaInd "Lelah", "Kreiger", "783332522", "1952-02-21", 0, , "Armenia", "North Mauriceburgh", "15511", "Jovany Knolls", 3, 18, "lelahkreiger@memail.com", "lelahkreiger", "btefwfl36fc", 0;
+exec dbo.DodajKlientaInd "Norris", "Cruickshank", "195822989", "1985-01-14", 0, , "Qatar", "South Tyreek", "92006-3403", "Cummings Key", 24, 86, "norriscruickshank@memail.com", "norriscruickshank", "qko7f6eyyzt", 0;
+exec dbo.DodajKlientaInd "Ricky", "Kunde", "552129686", "1973-01-15", 0, , "Palestinian Territory", "North Jerodville", "60823", "Satterfield Manors", 4, 85, "rickykunde@memail.com", "rickykunde", "94sxon6jhkn", 0;
+exec dbo.DodajKlientaInd "Cielo", "Mraz", "836447394", "1986-09-04", 0, , "Netherlands", "Baumbachtown", "80508", "Botsford Ports", 17, 65, "cielomraz@memail.com", "cielomraz", "qj7ud1frunt", 0;
+exec dbo.DodajKlientaInd "Meta", "Stamm", "413635455", "1994-11-17", 1, , "Guam", "Port Claude", "23824", "Eugenia Fields", 69, 88, "metastamm@memail.com", "metastamm", "b869p9nh57v", 0;
+exec dbo.DodajKlientaInd "Gus", "Reinger", "105812774", "1979-07-23", 0, , "Austria", "North Berry", "79385", "Matilda Pines", 14, 60, "gusreinger@memail.com", "gusreinger", "69dhijguenz", 0;
+exec dbo.DodajKlientaInd "Fernando", "Predovic", "375844577", "1981-07-02", 1, , "Djibouti", "East Laneberg", "40841", "Beier Divide", 39, 44, "fernandopredovic@memail.com", "fernandopredovic", "r2jv2hrzd70", 0;
+exec dbo.DodajKlientaInd "Birdie", "Hoeger", "977275521", "1991-12-01", 1, , "Rwanda", "North Mariana", "70554-0122", "Ellis Rapid", 13, 74, "birdiehoeger@memail.com", "birdiehoeger", "5sl4a2dezyh", 0;
+exec dbo.DodajKlientaInd "Beth", "Skiles", "256113197", "1954-09-11", 1, 762862, "Uganda", "East Kayla", "73407", "Sonia Mews", 82, 23, "bethskiles@memail.com", "bethskiles", "xemoirj6xik", 0;
+exec dbo.DodajKlientaInd "Fletcher", "Leffler", "262915431", "1994-04-17", 1, , "Chile", "Mullerberg", "67185-4789", "Cullen Forge", 45, 23, "fletcherleffler@memail.com", "fletcherleffler", "eye8ef0rkor", 0;
+exec dbo.DodajKlientaInd "Noah", "Bauch", "325013614", "1969-11-02", 1, 764666, "Senegal", "South Amparoborough", "27411", "Wisoky Mill", 75, 54, "noahbauch@memail.com", "noahbauch", "rk6og2vn7r4", 0;
+exec dbo.DodajKlientaInd "Jaycee", "Ondricka", "895170983", "1952-05-03", 0, , "Ghana", "South Sanfordland", "31481", "Daija Route", 59, 84, "jayceeondricka@memail.com", "jayceeondricka", "5qasgetujov", 0;
+exec dbo.DodajKlientaInd "Jalen", "Johns", "518788278", "1994-11-01", 1, , "Eritrea", "Lake Iliana", "54423-1349", "Cassie Mills", 25, 93, "jalenjohns@memail.com", "jalenjohns", "lcr9p4byle0", 0;
+exec dbo.DodajKlientaInd "Brielle", "Mayert", "368187858", "1966-08-07", 1, , "Faroe Islands", "Ellaview", "59073", "Reilly Loop", 80, 45, "briellemayert@memail.com", "briellemayert", "vqv1mqypu6q", 0;
+exec dbo.DodajKlientaInd "Bo", "Grant", "612782357", "1972-01-29", 1, , "Congo", "North Nasirberg", "30537-9237", "Boyle Prairie", 89, 25, "bogrant@memail.com", "bogrant", "x6gzq5v8gs", 0;
+exec dbo.DodajKlientaInd "Jarred", "Pfeffer", "671472445", "1968-08-09", 0, , "Saint Vincent and the Grenadines", "Martaton", "29260-9435", "Rodolfo Place", 52, 58, "jarredpfeffer@memail.com", "jarredpfeffer", "22kf10xol48", 0;
+exec dbo.DodajKlientaInd "Jody", "Heller", "046616227", "1957-12-14", 0, , "Gibraltar", "West Deion", "82908", "Gulgowski Keys", 38, 84, "jodyheller@memail.com", "jodyheller", "a57oonym12m", 0;
+exec dbo.DodajKlientaInd "Cassie", "Kling", "660812231", "1994-07-28", 1, , "Somalia", "West Angela", "39585-7729", "Elmira Centers", 65, 63, "cassiekling@memail.com", "cassiekling", "dgfl63a8h4f", 0;
+exec dbo.DodajKlientaInd "Cordell", "Hammes", "729477620", "1974-09-08", 0, , "Bolivia", "East Stephonstad", "39723-1059", "Parisian Junctions", 19, 56, "cordellhammes@memail.com", "cordellhammes", "zc552x89mkn", 0;
+exec dbo.DodajKlientaInd "Reyna", "Gaylord", "455830234", "1983-04-26", 1, , "Serbia", "New Daphney", "58007-9913", "Haag Road", 88, 12, "reynagaylord@memail.com", "reynagaylord", "4op65it2hpq", 0;
+exec dbo.DodajKlientaInd "Jimmy", "Haag", "262327461", "1969-02-26", 0, , "Senegal", "Uptonton", "58943", "Abbott Knolls", 17, 11, "jimmyhaag@memail.com", "jimmyhaag", "n253fgzf1r3", 0;
+exec dbo.DodajKlientaInd "Kara", "Grant", "866862525", "1969-12-26", 0, , "French Guiana", "Jarrettville", "87853", "Predovic Mount", 55, 81, "karagrant@memail.com", "karagrant", "jcqb8z6g0z1", 0;
+exec dbo.DodajKlientaInd "Buford", "Grady", "267686663", "1960-01-26", 0, , "United Kingdom", "Port Maddison", "57783", "Ruecker Hill", 100, 93, "bufordgrady@memail.com", "bufordgrady", "irph1mlu1a2", 0;
+exec dbo.DodajKlientaInd "Clay", "Pollich", "717374282", "1984-12-20", 0, , "Dominican Republic", "Jakubowskishire", "48226-2769", "Alexane Pike", 95, 56, "claypollich@memail.com", "claypollich", "oe1ko2u1fqt", 0;
+exec dbo.DodajKlientaInd "Haylee", "Murazik", "133588373", "1967-07-21", 0, , "Bahamas", "Kossberg", "75977", "Ankunding Manors", 59, 3, "hayleemurazik@memail.com", "hayleemurazik", "2qdlh6komdw", 0;
+exec dbo.DodajKlientaInd "Conor", "Blick", "308924786", "1972-09-07", 0, , "Lebanon", "Mohrland", "33966", "Strosin Mills", 48, 27, "conorblick@memail.com", "conorblick", "spqnlou7p1r", 0;
+exec dbo.DodajKlientaInd "Deangelo", "Roberts", "699527622", "1975-04-12", 0, , "Brazil", "East Adolfborough", "25972", "Gail Drives", 90, 18, "deangeloroberts@memail.com", "deangeloroberts", "yqk77868ba", 0;
+exec dbo.DodajKlientaInd "Oren", "Hilll", "536534560", "1986-01-09", 0, 854335, "Yemen", "Anahichester", "91079", "Champlin Park", 99, 26, "orenhilll@memail.com", "orenhilll", "k3alesi5d55", 0;
+exec dbo.DodajKlientaInd "Peter", "Dare", "591542147", "1974-12-21", 1, , "Mexico", "Lake Dawn", "91679-7197", "Heaney Isle", 50, 17, "peterdare@memail.com", "peterdare", "mpikrs5knot", 0;
+exec dbo.DodajKlientaInd "Providenci", "Bergnaum", "682712868", "1960-04-09", 1, 350426, "Serbia", "Lake Rickey", "38162", "Melvina Cove", 56, 55, "providencibergnaum@memail.com", "providencibergnaum", "21qoippvcne", 0;
+exec dbo.DodajKlientaInd "Lavonne", "Boyer", "241686155", "1976-04-04", 0, , "Zimbabwe", "Eldastad", "21396", "Monte Via", 2, 23, "lavonneboyer@memail.com", "lavonneboyer", "611ko7t0kk", 0;
+exec dbo.DodajKlientaInd "Abdiel", "Anderson", "726784391", "1951-12-07", 1, , "Guadeloupe", "Margieburgh", "72879-9390", "Reinger Spur", 23, 55, "abdielanderson@memail.com", "abdielanderson", "g4273k2zhc1", 0;
+exec dbo.DodajKlientaInd "Jovani", "Bednar", "722407871", "1961-11-12", 0, , "Togo", "North Hans", "88516-1088", "Yost Garden", 76, 90, "jovanibednar@memail.com", "jovanibednar", "22ergac87yq", 0;
+exec dbo.DodajKlientaInd "Lamont", "McCullough", "685851624", "1960-05-29", 1, , "Bhutan", "West Fritz", "44147-7003", "Cassin Hills", 87, 89, "lamontmccullough@memail.com", "lamontmccullough", "giki11t8gf5", 0;
+exec dbo.DodajKlientaInd "Wilfredo", "Mante", "046785445", "1991-08-27", 0, 656008, "Andorra", "South Maryamhaven", "79471", "Vanessa Haven", 69, 3, "wilfredomante@memail.com", "wilfredomante", "xih6zpkligt", 0;
+exec dbo.DodajKlientaInd "Dell", "Macejkovic", "993048429", "1989-09-02", 0, , "Indonesia", "Croninchester", "11698", "Durgan Streets", 68, 62, "dellmacejkovic@memail.com", "dellmacejkovic", "cv4e25spr0j", 0;
+exec dbo.DodajKlientaInd "Merlin", "Hauck", "677374284", "1979-12-31", 1, , "Suriname", "O'Haraburgh", "92559", "Murray Skyway", 18, 76, "merlinhauck@memail.com", "merlinhauck", "hm0r66gvdns", 0;
+exec dbo.DodajKlientaInd "Zora", "Klocko", "121648226", "1982-02-25", 0, , "Bermuda", "Lizafurt", "38861", "Mohammed Harbor", 86, 46, "zoraklocko@memail.com", "zoraklocko", "zzex17g0hu5", 0;
+exec dbo.DodajKlientaInd "Cleora", "Walker", "352474543", "1956-10-19", 1, , "Guyana", "Connmouth", "54139", "Kyler Roads", 12, 95, "cleorawalker@memail.com", "cleorawalker", "n8bu14l8jt3", 0;
+exec dbo.DodajKlientaInd "Jaren", "Emard", "671234516", "1951-02-02", 1, , "Botswana", "Lake Dagmarville", "74447-9231", "Dooley Crossroad", 65, 17, "jarenemard@memail.com", "jarenemard", "nkcv31g872g", 0;
+exec dbo.DodajKlientaInd "Merl", "Conroy", "273251445", "1957-03-31", 1, , "Mexico", "Port Hellen", "94961-8037", "Cristopher Walk", 17, 4, "merlconroy@memail.com", "merlconroy", "ni0rpxtnfxp", 0;
+exec dbo.DodajKlientaInd "Mathilde", "Hahn", "681867813", "1989-08-09", 1, , "Kyrgyz Republic", "East Domenico", "54810-2978", "Virgil Glens", 46, 95, "mathildehahn@memail.com", "mathildehahn", "f55k5a1htte", 0;
+exec dbo.DodajKlientaInd "Jules", "Kuhic", "867616409", "1989-08-22", 0, , "Ethiopia", "South Quentin", "77669-8484", "Helena Turnpike", 88, 21, "juleskuhic@memail.com", "juleskuhic", "oa7s9bkv24h", 0;
+exec dbo.DodajKlientaInd "Krystina", "Kohler", "862583465", "1966-01-10", 0, , "Jersey", "Ramonchester", "97284", "Grace Summit", 57, 58, "krystinakohler@memail.com", "krystinakohler", "h1rvyoqsdl0", 0;
+exec dbo.DodajKlientaInd "Andres", "Waters", "403064445", "1963-07-23", 1, , "Tunisia", "Lake Jasontown", "15543-5886", "Kerluke Lodge", 68, 19, "andreswaters@memail.com", "andreswaters", "1sqy10dwyge", 0;
+exec dbo.DodajKlientaInd "Jeramie", "Thompson", "885323744", "1982-02-08", 1, , "Namibia", "Brendonmouth", "14060", "Zackery Grove", 66, 57, "jeramiethompson@memail.com", "jeramiethompson", "f99i5l601zr", 0;
+exec dbo.DodajKlientaInd "Dorothy", "Parker", "265745631", "1984-10-27", 0, , "Cocos (Keeling) Islands", "Walterhaven", "65644-9471", "Connelly Walks", 8, 74, "dorothyparker@memail.com", "dorothyparker", "c1yic2z7pm", 0;
+exec dbo.DodajKlientaInd "Gia", "Weissnat", "521355685", "1962-04-03", 1, , "Portugal", "Mayahaven", "70269-9267", "Bahringer Brook", 12, 62, "giaweissnat@memail.com", "giaweissnat", "e4y3ptss19g", 0;
+exec dbo.DodajKlientaInd "Gunner", "Kassulke", "392110247", "1985-07-31", 1, , "Saint Lucia", "New Willowstad", "22264", "Brown Skyway", 3, 55, "gunnerkassulke@memail.com", "gunnerkassulke", "2p5huy1ug63", 0;
+exec dbo.DodajKlientaInd "Aric", "Nicolas", "132204371", "1954-09-09", 1, , "Central African Republic", "Lake Lourdes", "48880-0075", "Alessia Mountains", 64, 74, "aricnicolas@memail.com", "aricnicolas", "205kxhsmnrg", 0;
+exec dbo.DodajKlientaInd "Monserrat", "Frami", "647243122", "1992-04-17", 0, , "Myanmar", "South Laila", "83160", "Keeley Forge", 47, 27, "monserratframi@memail.com", "monserratframi", "37yo0yn0crd", 0;
+exec dbo.DodajKlientaInd "Marcos", "Haley", "304122145", "1982-01-22", 1, , "Kuwait", "Muellerside", "29282", "Myles Field", 12, 25, "marcoshaley@memail.com", "marcoshaley", "l1xx1b06a1a", 0;
+exec dbo.DodajKlientaInd "Katharina", "Bartell", "435283484", "1955-10-08", 0, , "Madagascar", "New Keshaunmouth", "23669-4058", "Riley Turnpike", 56, 49, "katharinabartell@memail.com", "katharinabartell", "mox22js4240", 0;
+exec dbo.DodajKlientaInd "Ramiro", "Klocko", "792642866", "1990-12-16", 1, 606695, "Norway", "North Marietta", "25001-2258", "Manley Summit", 77, 53, "ramiroklocko@memail.com", "ramiroklocko", "3d5cjev69f8", 0;
+exec dbo.DodajKlientaInd "Brennon", "Erdman", "857242565", "1957-06-03", 0, , "Saint Barthelemy", "North Arleneport", "62081", "Ratke Plaza", 72, 28, "brennonerdman@memail.com", "brennonerdman", "6xy5afyd8xj", 0;
+exec dbo.DodajKlientaInd "Alberta", "Herzog", "458247506", "1971-03-29", 0, , "Cyprus", "Franeckiside", "52851-4606", "Schmidt Forges", 34, 69, "albertaherzog@memail.com", "albertaherzog", "4t5mbeeuuia", 0;
+exec dbo.DodajKlientaInd "Olin", "Walker", "940886217", "1955-07-17", 0, , "Uruguay", "North Brandon", "51714-0853", "Jaime Park", 37, 85, "olinwalker@memail.com", "olinwalker", "i5fzp1oo6bh", 0;
+exec dbo.DodajKlientaInd "Hannah", "Medhurst", "564075139", "1978-07-29", 0, , "Zimbabwe", "Elseton", "90531-0641", "Ortiz Mission", 36, 85, "hannahmedhurst@memail.com", "hannahmedhurst", "skjknszv13b", 0;
+exec dbo.DodajKlientaInd "Earl", "Murazik", "191845319", "1961-04-12", 0, , "France", "Bogisichport", "38551", "Thiel Prairie", 87, 43, "earlmurazik@memail.com", "earlmurazik", "vzopj9legzh", 0;
+exec dbo.DodajKlientaInd "Adell", "Hintz", "986174200", "1953-03-26", 0, , "United Kingdom", "Jacobsberg", "66356-0671", "Conn Park", 47, 37, "adellhintz@memail.com", "adellhintz", "0m27vgaglpn", 0;
+exec dbo.DodajKlientaInd "Edgar", "Simonis", "278484395", "1980-07-07", 1, , "South Georgia and the South Sandwich Islands", "East Toby", "97842", "Bahringer Loop", 28, 33, "edgarsimonis@memail.com", "edgarsimonis", "y3sx0fjf3it", 0;
+exec dbo.DodajKlientaInd "Destin", "Hermiston", "016848472", "1954-06-28", 0, , "Jordan", "Port Camronville", "80083", "Anita Greens", 94, 56, "destinhermiston@memail.com", "destinhermiston", "gslks9jh6oa", 0;
+exec dbo.DodajKlientaInd "Fatima", "Gleason", "852881911", "1992-10-30", 1, , "Andorra", "Zulaton", "47269", "Ephraim Unions", 54, 67, "fatimagleason@memail.com", "fatimagleason", "n0c0owaru5v", 0;
+exec dbo.DodajKlientaInd "Jolie", "McDermott", "752450986", "1995-06-30", 1, , "Kazakhstan", "Krajcikchester", "78027", "Champlin Place", 52, 56, "joliemcdermott@memail.com", "joliemcdermott", "1rjm6zi6e8d", 0;
+exec dbo.DodajKlientaInd "Rodolfo", "Greenholt", "625657717", "1971-03-12", 1, , "Cyprus", "Lake Neilhaven", "37711-1315", "Kuvalis Row", 22, 20, "rodolfogreenholt@memail.com", "rodolfogreenholt", "8uqv9a796o8", 0;
+exec dbo.DodajKlientaInd "Libby", "Veum", "121288543", "1967-05-28", 0, , "Guinea", "South Lempitown", "52539", "Issac Hollow", 46, 88, "libbyveum@memail.com", "libbyveum", "waajvjn8g92", 0;
+exec dbo.DodajKlientaInd "Joanie", "Wehner", "927506485", "1964-02-24", 0, , "Kyrgyz Republic", "Oralberg", "49227", "Mosciski Vista", 62, 4, "joaniewehner@memail.com", "joaniewehner", "ewcv0m32vrm", 0;
+exec dbo.DodajKlientaInd "Jamison", "Dibbert", "623501303", "1985-10-13", 0, , "Niger", "Johnsonfort", "13983", "Samson Green", 63, 23, "jamisondibbert@memail.com", "jamisondibbert", "u4w0uc2wgjl", 0;
+exec dbo.DodajKlientaInd "Zackery", "Parisian", "028723188", "1996-12-20", 0, , "Hungary", "South Ines", "99283", "Corwin Ford", 95, 56, "zackeryparisian@memail.com", "zackeryparisian", "csk8oyg4mny", 0;
+exec dbo.DodajKlientaInd "Quinn", "Streich", "247497715", "1955-07-25", 0, , "Argentina", "Zboncaktown", "79106-2398", "McGlynn Springs", 58, 54, "quinnstreich@memail.com", "quinnstreich", "48fc6wmmzy8", 0;
+exec dbo.DodajKlientaInd "Kennedi", "Ritchie", "757993733", "1994-05-16", 0, , "India", "Port Claudiemouth", "91488", "Herminia Manor", 78, 22, "kennediritchie@memail.com", "kennediritchie", "q5x1e395ij2", 0;
+exec dbo.DodajKlientaInd "Darron", "Greenfelder", "168101733", "1972-09-15", 1, , "Denmark", "Barrowston", "15606", "Rolfson Hill", 43, 97, "darrongreenfelder@memail.com", "darrongreenfelder", "ahdpd0x94j3", 0;
+exec dbo.DodajKlientaInd "Emmanuel", "Hilpert", "674944346", "1980-05-16", 1, , "New Zealand", "North Saul", "24956-9437", "Bartell Cove", 18, 85, "emmanuelhilpert@memail.com", "emmanuelhilpert", "1dzo4cg11n2", 0;
+exec dbo.DodajKlientaInd "Claudia", "Ratke", "946563630", "1996-09-24", 0, , "Turks and Caicos Islands", "Ulicesstad", "60777-5422", "Nienow Falls", 83, 25, "claudiaratke@memail.com", "claudiaratke", "v4b0rhwu1lc", 0;
+exec dbo.DodajKlientaInd "Ethan", "Herman", "551765704", "1961-07-29", 0, , "Virgin Islands, British", "Adolfobury", "57374-2626", "Laurianne Lodge", 68, 11, "ethanherman@memail.com", "ethanherman", "9f4aopfurmf", 0;
+exec dbo.DodajKlientaInd "Retha", "Hayes", "542963258", "1971-07-15", 1, , "Malta", "Brannonville", "88066-1009", "Liana Bypass", 61, 54, "rethahayes@memail.com", "rethahayes", "gd9fyj9m1s", 0;
+exec dbo.DodajKlientaInd "Cecilia", "Kutch", "521581552", "1963-07-26", 1, , "United States of America", "Borerbury", "26236", "Von Plaza", 47, 23, "ceciliakutch@memail.com", "ceciliakutch", "b5378i1f2xv", 0;
+exec dbo.DodajKlientaInd "Kareem", "Feeney", "222538457", "1956-11-12", 0, , "Cote d'Ivoire", "North Mariam", "46487-3138", "Holden Springs", 55, 64, "kareemfeeney@memail.com", "kareemfeeney", "xf9dlgpdzfn", 0;
+exec dbo.DodajKlientaInd "Marianne", "Harber", "096086585", "1994-04-30", 1, , "Angola", "Batzchester", "27580-5986", "Ivah Springs", 24, 84, "marianneharber@memail.com", "marianneharber", "obzanyavwu", 0;
+exec dbo.DodajKlientaInd "Amie", "Windler", "197683778", "1959-10-09", 1, , "British Indian Ocean Territory (Chagos Archipelago)", "Nitzscheberg", "61358", "Bins Port", 67, 61, "amiewindler@memail.com", "amiewindler", "iu9t2x4cnlh", 0;
+exec dbo.DodajKlientaInd "Diamond", "Satterfield", "312432352", "1956-08-10", 1, , "Romania", "Grahamview", "20440-1593", "Rau Parkway", 49, 45, "diamondsatterfield@memail.com", "diamondsatterfield", "esh88xhusp8", 0;
+exec dbo.DodajKlientaInd "Sandy", "Grant", "861563912", "1989-02-02", 1, , "Sri Lanka", "Viviannebury", "13525", "Ewald Pass", 35, 29, "sandygrant@memail.com", "sandygrant", "78xpbs9nu65", 0;
+exec dbo.DodajKlientaInd "Chester", "Abshire", "812517768", "1963-01-11", 0, , "Solomon Islands", "West Franciscomouth", "68287-6885", "Makenna Isle", 92, 66, "chesterabshire@memail.com", "chesterabshire", "bpvgdqa7plt", 0;
+exec dbo.DodajKlientaInd "Francisco", "Schiller", "225883395", "1981-12-29", 1, , "Cape Verde", "New Marlinstad", "86618-4748", "Delta Station", 79, 21, "franciscoschiller@memail.com", "franciscoschiller", "con0gearz1i", 0;
+exec dbo.DodajKlientaInd "Bulah", "Boyle", "303232412", "1991-09-24", 0, , "Palestinian Territory", "East Brad", "87335", "Nelle Divide", 50, 76, "bulahboyle@memail.com", "bulahboyle", "5ii72opbuie", 0;
+exec dbo.DodajKlientaInd "Wilburn", "Gutkowski", "255275071", "1968-01-17", 1, , "Philippines", "Hyattberg", "69570", "Luettgen Vista", 39, 86, "wilburngutkowski@memail.com", "wilburngutkowski", "hx8frfbn4y9", 0;
+exec dbo.DodajKlientaInd "Jaylon", "Towne", "227510121", "1959-07-02", 0, , "Australia", "Wilberton", "84393-0830", "Moore Forest", 96, 66, "jaylontowne@memail.com", "jaylontowne", "lpndfent2el", 0;
+exec dbo.DodajKlientaInd "Fabian", "Hills", "338090191", "1980-04-27", 0, , "Niue", "East Ollieland", "45020", "Winfield Spur", 47, 3, "fabianhills@memail.com", "fabianhills", "8fh7x4tkqx0", 0;
+exec dbo.DodajKlientaInd "Ana", "Keebler", "622932805", "1951-09-09", 0, , "Anguilla", "North Rosetta", "96546-5969", "McGlynn Mills", 24, 15, "anakeebler@memail.com", "anakeebler", "x1romx0263l", 0;
+exec dbo.DodajKlientaInd "Treva", "Boyle", "412925949", "1958-02-07", 0, , "Eritrea", "Kaylaberg", "96104-8553", "Bert Knoll", 86, 27, "trevaboyle@memail.com", "trevaboyle", "hanc1q9t6p5", 0;
+exec dbo.DodajKlientaInd "Monserrat", "McClure", "783411154", "1993-08-06", 0, , "Guatemala", "North Rubye", "35784-0738", "Raleigh Inlet", 79, 43, "monserratmcclure@memail.com", "monserratmcclure", "p5ruavgpbvq", 0;
+exec dbo.DodajKlientaInd "Harvey", "Breitenberg", "017088802", "1991-10-06", 1, , "Burkina Faso", "Huelsfurt", "93501", "Kennedy Run", 67, 45, "harveybreitenberg@memail.com", "harveybreitenberg", "hc60je5tm4g", 0;
+exec dbo.DodajKlientaInd "Fletcher", "Harvey", "636091271", "1978-09-12", 0, , "Mongolia", "Ziemannfurt", "86585", "Stroman Run", 68, 58, "fletcherharvey@memail.com", "fletcherharvey", "kiqjr24hp8j", 0;
+exec dbo.DodajKlientaInd "Wilson", "Wolf", "936588795", "1983-10-13", 0, , "Yemen", "Armstrongview", "39551-9600", "Rath Estate", 68, 18, "wilsonwolf@memail.com", "wilsonwolf", "5grltqp14rx", 0;
+exec dbo.DodajKlientaInd "Clay", "Purdy", "703011204", "1967-05-23", 1, , "Italy", "Reichertfort", "39447", "Anais Curve", 63, 43, "claypurdy@memail.com", "claypurdy", "s7tswhd19of", 0;
+exec dbo.DodajKlientaInd "Jermaine", "Schroeder", "637357217", "1960-10-16", 0, , "Estonia", "Kihnport", "23249", "Luna Hill", 36, 88, "jermaineschroeder@memail.com", "jermaineschroeder", "bwwzzz0a1ha", 0;
+exec dbo.DodajKlientaInd "Ramon", "Jaskolski", "164072309", "1990-08-09", 0, 472911, "Bulgaria", "Martinland", "23193-6914", "Mitchell Plaza", 88, 20, "ramonjaskolski@memail.com", "ramonjaskolski", "l829ch61s19", 0;
+exec dbo.DodajKlientaInd "Adonis", "Dach", "889432633", "1962-12-04", 0, , "Bouvet Island (Bouvetoya)", "East Cathy", "36775", "Wintheiser Parkway", 72, 16, "adonisdach@memail.com", "adonisdach", "1kywc0p7x7v", 0;
+exec dbo.DodajKlientaInd "Eryn", "Sporer", "803433302", "1984-04-15", 0, , "Venezuela", "Klingmouth", "57806", "Thad Island", 36, 53, "erynsporer@memail.com", "erynsporer", "oshuf1pjur2", 0;
+exec dbo.DodajKlientaInd "Boyd", "Block", "511919286", "1994-05-16", 0, , "Mauritius", "Bahringerberg", "71660", "Kenna Union", 63, 19, "boydblock@memail.com", "boydblock", "y7e1vxunb1", 0;
+exec dbo.DodajKlientaInd "Vincenzo", "Streich", "875437679", "1962-02-28", 0, , "Central African Republic", "South Nona", "96200-6617", "Ankunding Drives", 29, 32, "vincenzostreich@memail.com", "vincenzostreich", "215djhe1bed", 0;
+exec dbo.DodajKlientaInd "Kassandra", "Abshire", "285774464", "1975-03-27", 0, , "Vanuatu", "Bahringerborough", "14065", "Margarete Fields", 89, 86, "kassandraabshire@memail.com", "kassandraabshire", "5ozuov18e8", 0;
+exec dbo.DodajKlientaInd "Samanta", "Lowe", "415057634", "1964-11-12", 1, , "United Arab Emirates", "Lake Oletaview", "66967-4185", "Monte Land", 49, 100, "samantalowe@memail.com", "samantalowe", "u0sl67y9e2t", 0;
+exec dbo.DodajKlientaInd "Odell", "Glover", "777654730", "1975-08-22", 0, , "Austria", "North Brendanmouth", "68042-4636", "Morar Lodge", 88, 54, "odellglover@memail.com", "odellglover", "9xu7klg8mn", 0;
+exec dbo.DodajKlientaInd "Davion", "Zemlak", "772531908", "1995-06-12", 0, , "Swaziland", "Reganburgh", "25107-7035", "Herman Well", 12, 62, "davionzemlak@memail.com", "davionzemlak", "hdgll37sn4z", 0;
+exec dbo.DodajKlientaInd "Melvin", "Stiedemann", "419434356", "1964-07-13", 1, 747795, "Macedonia", "Vergieport", "65529-9106", "Schumm Station", 29, 92, "melvinstiedemann@memail.com", "melvinstiedemann", "9da75t562li", 0;
+exec dbo.DodajKlientaInd "Jermey", "Kihn", "524062575", "1968-03-23", 0, , "Congo", "Lake Magdalenview", "97148", "Elnora Views", 73, 62, "jermeykihn@memail.com", "jermeykihn", "mz141y36e3m", 0;
+exec dbo.DodajKlientaInd "Gust", "Ruecker", "943012916", "1967-10-10", 0, , "Anguilla", "Stephanstad", "53559", "Donnelly Village", 58, 11, "gustruecker@memail.com", "gustruecker", "zm4jntnq337", 0;
+exec dbo.DodajKlientaInd "Hallie", "Wiza", "694423656", "1958-09-18", 0, 184966, "Tuvalu", "South Abelardobury", "93541-3150", "Shanahan Dam", 30, 95, "halliewiza@memail.com", "halliewiza", "ucjfmj21vtq", 0;
+exec dbo.DodajKlientaInd "Alvera", "Senger", "285528186", "1978-05-16", 0, , "Bangladesh", "Ernserville", "18657-2512", "Emmanuel Wall", 12, 51, "alverasenger@memail.com", "alverasenger", "oe568f8yt5", 0;
+exec dbo.DodajKlientaInd "Gustave", "Connelly", "635261684", "1964-08-03", 1, , "Nicaragua", "New Celestino", "57105-3557", "Theodora Lakes", 48, 72, "gustaveconnelly@memail.com", "gustaveconnelly", "jo9id0v406i", 0;
+exec dbo.DodajKlientaInd "Mariam", "O'Reilly", "834332383", "1962-10-09", 1, , "France", "Catalinaton", "10424-1275", "Heidi Brook", 82, 39, "mariamo'reilly@memail.com", "mariamo'reilly", "dax9elbbq1v", 0;
+exec dbo.DodajKlientaInd "Humberto", "Barton", "853632384", "1950-11-30", 0, 946258, "Western Sahara", "New Bridgethaven", "81398", "Schultz Camp", 99, 34, "humbertobarton@memail.com", "humbertobarton", "p3u50gnboyg", 0;
+exec dbo.DodajKlientaInd "Josephine", "Sporer", "141953582", "1986-01-17", 0, , "Honduras", "South Elseburgh", "31733", "Virginie Brook", 98, 60, "josephinesporer@memail.com", "josephinesporer", "33lvcb9kwda", 0;
+exec dbo.DodajKlientaInd "Kaylah", "Doyle", "264692974", "1968-08-05", 1, , "Netherlands Antilles", "Lulufurt", "80714", "Krajcik Island", 46, 56, "kaylahdoyle@memail.com", "kaylahdoyle", "n208y3xq0p2", 0;
+exec dbo.DodajKlientaInd "Mozell", "Schmitt", "555657193", "1963-07-21", 1, , "Pakistan", "Port Anjalimouth", "85499", "Kling Key", 55, 10, "mozellschmitt@memail.com", "mozellschmitt", "b6b1do2dx0k", 0;
+exec dbo.DodajKlientaInd "Kayden", "Gerlach", "233838459", "1976-08-03", 1, , "Djibouti", "Nikolauston", "68574-9368", "Davis Ville", 71, 73, "kaydengerlach@memail.com", "kaydengerlach", "sra7pvzvlf4", 0;
+exec dbo.DodajKlientaInd "Nathaniel", "Stoltenberg", "612788482", "1958-04-15", 1, , "Suriname", "Joanmouth", "75540", "Travon Glens", 72, 5, "nathanielstoltenberg@memail.com", "nathanielstoltenberg", "cf7uvdnadah", 0;
+exec dbo.DodajKlientaInd "Joey", "Parisian", "943737122", "1991-02-16", 0, , "Tajikistan", "Jaskolskibury", "81715", "Ziemann Lane", 82, 92, "joeyparisian@memail.com", "joeyparisian", "moha1z113nz", 0;
+exec dbo.DodajKlientaInd "Pauline", "VonRueden", "559715122", "1978-02-13", 0, , "Colombia", "South Lillieville", "40398-6532", "Hansen Ranch", 42, 46, "paulinevonrueden@memail.com", "paulinevonrueden", "l41jqadzbp", 0;
+exec dbo.DodajKlientaInd "Cristobal", "Schamberger", "731725871", "1961-02-23", 1, , "Trinidad and Tobago", "Osbaldohaven", "56349-1432", "Manuel Park", 11, 22, "cristobalschamberger@memail.com", "cristobalschamberger", "1hnblpqagag", 0;
+exec dbo.DodajKlientaInd "Mariam", "Daugherty", "278877655", "1985-03-17", 1, , "Bahrain", "Jakubowskimouth", "54603", "Kenya Hollow", 57, 80, "mariamdaugherty@memail.com", "mariamdaugherty", "ni857wo0gim", 0;
+exec dbo.DodajKlientaInd "Cyril", "Littel", "426134160", "1976-12-24", 0, , "Martinique", "Boyleview", "15890-8131", "Alan Turnpike", 44, 28, "cyrillittel@memail.com", "cyrillittel", "5so789h8rdr", 0;
+exec dbo.DodajKlientaInd "Edwina", "Prosacco", "216676307", "1961-02-16", 0, , "Martinique", "Connchester", "38377", "Jeanne Keys", 83, 63, "edwinaprosacco@memail.com", "edwinaprosacco", "v1asd0jriha", 0;
+exec dbo.DodajKlientaInd "Myrna", "Schmidt", "401113397", "1970-12-22", 1, , "Greenland", "Kingtown", "17316-5690", "Waylon Manors", 16, 73, "myrnaschmidt@memail.com", "myrnaschmidt", "jpmmvawzy84", 0;
+exec dbo.DodajKlientaInd "Jordon", "Emard", "353672234", "1994-10-01", 1, , "Republic of Korea", "Adahmouth", "69893-8723", "Hegmann Gardens", 22, 44, "jordonemard@memail.com", "jordonemard", "c64v5feldex", 0;
+exec dbo.DodajKlientaInd "Katarina", "Ryan", "968572534", "1991-03-12", 0, , "Mozambique", "New Vada", "57794-8031", "Gibson Haven", 27, 3, "katarinaryan@memail.com", "katarinaryan", "jrr36xdgjde", 0;
+exec dbo.DodajKlientaInd "Arch", "Kulas", "823261845", "1959-04-05", 1, , "Gambia", "Heaneyhaven", "99075-4983", "Wolf Burg", 53, 19, "archkulas@memail.com", "archkulas", "v8w9hu1hi80", 0;
+exec dbo.DodajKlientaInd "Anais", "Hills", "272879678", "1984-12-14", 1, , "Benin", "South Drakefurt", "41728-0876", "Lillie Meadows", 19, 41, "anaishills@memail.com", "anaishills", "ggvd3oaxr5k", 0;
+exec dbo.DodajKlientaInd "Ruth", "Bruen", "353438042", "1968-04-10", 1, , "Azerbaijan", "Torpport", "93721", "Darwin Radial", 9, 89, "ruthbruen@memail.com", "ruthbruen", "5birqjez5zm", 0;
+exec dbo.DodajKlientaInd "Katheryn", "Homenick", "154462533", "1991-08-23", 0, , "Mali", "Port Jameson", "10299", "Alexie Camp", 72, 45, "katherynhomenick@memail.com", "katherynhomenick", "s0hdv196jnp", 0;
+exec dbo.DodajKlientaInd "Dovie", "O'Conner", "881730873", "1952-10-05", 0, , "Bosnia and Herzegovina", "Krismouth", "81735", "Hilbert Locks", 59, 18, "dovieo'conner@memail.com", "dovieo'conner", "3cbgj315szm", 0;
+exec dbo.DodajKlientaInd "Dax", "Jacobs", "707116217", "1967-12-05", 1, , "Cape Verde", "Dibbertland", "21499", "Garth Shores", 27, 56, "daxjacobs@memail.com", "daxjacobs", "jnh4orbofvk", 0;
+exec dbo.DodajKlientaInd "Rasheed", "Wiegand", "678805151", "1982-10-18", 0, , "Antarctica (the territory South of 60 deg S)", "Conroymouth", "16042-6346", "Stanton Spring", 16, 59, "rasheedwiegand@memail.com", "rasheedwiegand", "94g1ztou6r1", 0;
+exec dbo.DodajKlientaInd "Kristy", "Nikolaus", "645038133", "1995-06-23", 1, 534165, "Gabon", "Hahnport", "42895", "Haag Valley", 92, 76, "kristynikolaus@memail.com", "kristynikolaus", "8qsmnzs7n3m", 0;
+exec dbo.DodajKlientaInd "Zita", "O'Kon", "586357860", "1977-04-11", 1, , "Qatar", "Macejkovicborough", "26717", "Hegmann Valley", 47, 2, "zitao'kon@memail.com", "zitao'kon", "shq2dk88pj0", 0;
+exec dbo.DodajKlientaInd "Jamil", "Kozey", "240555376", "1993-12-21", 0, , "Saint Kitts and Nevis", "Lake Kalifurt", "39533-0468", "Bailee Village", 61, 79, "jamilkozey@memail.com", "jamilkozey", "b8n8vkjo6b9", 0;
+exec dbo.DodajKlientaInd "Xzavier", "Strosin", "225226617", "1978-11-28", 0, , "Palau", "Port Roderick", "52536", "Jefferey Knoll", 87, 73, "xzavierstrosin@memail.com", "xzavierstrosin", "347go7pwjlj", 0;
+exec dbo.DodajKlientaInd "Sid", "Stamm", "752607675", "1984-10-17", 1, , "Dominica", "New Kristybury", "28835-0813", "Dicki Lodge", 62, 7, "sidstamm@memail.com", "sidstamm", "pqtblldcmvu", 0;
+exec dbo.DodajKlientaInd "Zoila", "Wunsch", "377128535", "1975-12-21", 0, , "Ghana", "East Mozelle", "69896-9798", "Yundt Overpass", 87, 3, "zoilawunsch@memail.com", "zoilawunsch", "zt5gqbnuip", 0;
+exec dbo.DodajKlientaInd "Cornell", "Lang", "989343225", "1984-11-25", 0, , "Saint Lucia", "Lake Doyleside", "60285", "Gleichner Ports", 84, 54, "cornelllang@memail.com", "cornelllang", "yn4ecum33kp", 0;
+exec dbo.DodajKlientaInd "Cordia", "Rohan", "570155441", "1979-11-07", 1, , "Japan", "Ebertville", "64437", "Zella Underpass", 9, 48, "cordiarohan@memail.com", "cordiarohan", "04t7mz85vev", 0;
+exec dbo.DodajKlientaInd "Larue", "Abernathy", "113638323", "1987-01-13", 1, , "Comoros", "Lake Burdette", "63207-5211", "Martine Row", 29, 14, "larueabernathy@memail.com", "larueabernathy", "p2rjhgana3i", 0;
+exec dbo.DodajKlientaInd "Josefa", "Stark", "435538551", "1978-08-23", 0, , "Nigeria", "Kayceefort", "71192", "Cruz Bypass", 88, 26, "josefastark@memail.com", "josefastark", "1ffsehhftc0", 0;
+exec dbo.DodajKlientaInd "Luz", "Lemke", "112117342", "1986-01-02", 1, , "Kyrgyz Republic", "West Maximo", "18687", "Alexander Harbors", 38, 14, "luzlemke@memail.com", "luzlemke", "2bumrszbm1d", 0;
+exec dbo.DodajKlientaInd "Katarina", "Schneider", "315561915", "1987-06-20", 0, , "Romania", "South Jennyfer", "86287-4325", "Abbott Plain", 45, 35, "katarinaschneider@memail.com", "katarinaschneider", "ufwsogp3z61", 0;
+exec dbo.DodajKlientaInd "Aaron", "Dibbert", "011466419", "1985-01-10", 1, , "Libyan Arab Jamahiriya", "West Enochhaven", "92284-2606", "Webster Divide", 25, 76, "aarondibbert@memail.com", "aarondibbert", "nxix65p5n8r", 0;
+exec dbo.DodajKlientaInd "Earnestine", "Runolfsson", "538897236", "1975-04-08", 0, , "Cameroon", "West Victor", "13978", "Nathan Junction", 36, 51, "earnestinerunolfsson@memail.com", "earnestinerunolfsson", "2eabt907bh", 0;
+exec dbo.DodajKlientaInd "Maurice", "Heathcote", "183187005", "1966-01-19", 1, , "Pitcairn Islands", "Port Tevin", "18333", "Reichel Fields", 12, 42, "mauriceheathcote@memail.com", "mauriceheathcote", "r2go8nlu7ga", 0;
+exec dbo.DodajKlientaInd "Lonnie", "Blick", "212513714", "1959-06-17", 0, , "French Southern Territories", "South Vincebury", "83204-4603", "Tracey Shoal", 29, 52, "lonnieblick@memail.com", "lonnieblick", "vdr2mwoj50b", 0;
+exec dbo.DodajKlientaInd "Eulalia", "Johnson", "781220624", "1959-05-31", 0, , "Nauru", "North Nick", "67974-6766", "Jakubowski Streets", 57, 53, "eulaliajohnson@memail.com", "eulaliajohnson", "nixj8bvsf05", 0;
+exec dbo.DodajKlientaInd "Olga", "Sipes", "176875113", "1992-09-30", 1, , "Congo", "Annamarieview", "77144", "Beer Pines", 77, 18, "olgasipes@memail.com", "olgasipes", "0kiiy5wyk6x", 0;
+exec dbo.DodajKlientaInd "Hester", "Lowe", "745888381", "1995-07-14", 0, 774535, "Panama", "North Kurtis", "42787", "Maddison Track", 39, 66, "hesterlowe@memail.com", "hesterlowe", "ga204u3h3ot", 0;
+exec dbo.DodajKlientaInd "Keven", "Mertz", "171774891", "1970-11-30", 1, , "Belgium", "North Isabel", "56345", "Trycia Mill", 53, 4, "kevenmertz@memail.com", "kevenmertz", "a8fx70bamip", 0;
+exec dbo.DodajKlientaInd "Simone", "Stroman", "814453681", "1990-05-01", 0, , "Lebanon", "Aidamouth", "83656-8014", "Julius Camp", 45, 71, "simonestroman@memail.com", "simonestroman", "39ry8l66xtp", 0;
+exec dbo.DodajKlientaInd "Allison", "Auer", "748853688", "1968-06-26", 1, 583685, "Trinidad and Tobago", "Port Leopoldview", "63384-2217", "Dach Unions", 29, 44, "allisonauer@memail.com", "allisonauer", "xxkngti6xoy", 0;
+exec dbo.DodajKlientaInd "Verona", "Koepp", "143474761", "1954-04-18", 1, , "Saint Kitts and Nevis", "Joanyshire", "86222-1409", "Ross Ports", 38, 56, "veronakoepp@memail.com", "veronakoepp", "l68mr2kkxtk", 0;
+exec dbo.DodajKlientaInd "Terry", "Kassulke", "872283224", "1992-11-03", 0, , "Senegal", "Lake Olaf", "95460-2572", "Arlo Plaza", 73, 20, "terrykassulke@memail.com", "terrykassulke", "x4k9d72hmb8", 0;
+exec dbo.DodajKlientaInd "Elnora", "Spinka", "671745865", "1970-04-05", 1, , "United Arab Emirates", "East Aaliyah", "96108-5859", "Luigi Dale", 89, 63, "elnoraspinka@memail.com", "elnoraspinka", "6f2lkkvwm5u", 0;
+exec dbo.DodajKlientaInd "Louvenia", "Koch", "414802351", "1990-10-17", 1, , "Lao People's Democratic Republic", "Mayertmouth", "98618", "Dave Plain", 60, 38, "louveniakoch@memail.com", "louveniakoch", "mf0ownht30u", 0;
+exec dbo.DodajKlientaInd "Odie", "Russel", "769223320", "1957-03-12", 0, , "Solomon Islands", "West Eugene", "86080", "Mayert River", 13, 59, "odierussel@memail.com", "odierussel", "l1nd3mpybc4", 0;
+exec dbo.DodajKlientaInd "Justine", "Nikolaus", "651447488", "1968-03-16", 0, , "Colombia", "Lake Sheridan", "18914", "Cayla Burgs", 78, 92, "justinenikolaus@memail.com", "justinenikolaus", "glngnkuqn9u", 0;
+exec dbo.DodajKlientaInd "Larry", "Rowe", "365695696", "1959-11-15", 1, , "British Indian Ocean Territory (Chagos Archipelago)", "Paxtonberg", "93518", "Pfeffer Drive", 100, 19, "larryrowe@memail.com", "larryrowe", "0e3xg7jzb8q", 0;
+exec dbo.DodajKlientaInd "Myrna", "Tillman", "303461369", "1989-04-26", 1, , "Cambodia", "Lake Conor", "75385-1174", "Therese Light", 53, 86, "myrnatillman@memail.com", "myrnatillman", "5gli12r8nii", 0;
+exec dbo.DodajKlientaInd "Arvel", "Flatley", "984886316", "1971-09-28", 0, , "Nauru", "Elnorabury", "83716", "Michaela Isle", 13, 74, "arvelflatley@memail.com", "arvelflatley", "5f2t76isyt", 0;
+exec dbo.DodajKlientaInd "Deion", "Heaney", "480073775", "1961-01-22", 1, 141342, "Turkey", "East Tremaynebury", "73210-5280", "Ari Point", 27, 23, "deionheaney@memail.com", "deionheaney", "us7rt8qizou", 0;
+exec dbo.DodajKlientaInd "Porter", "O'Kon", "493560218", "1966-12-28", 1, , "India", "Lockmanmouth", "63042", "Hackett Lodge", 35, 93, "portero'kon@memail.com", "portero'kon", "we91oov6lkd", 0;
+exec dbo.DodajKlientaInd "Abe", "Corkery", "668113560", "1971-11-11", 0, , "Netherlands", "Kaneburgh", "51474", "Lehner Circle", 82, 74, "abecorkery@memail.com", "abecorkery", "wwa3x1zahuj", 0;
+exec dbo.DodajKlientaInd "Harmon", "Quigley", "522535241", "1958-12-09", 1, , "Solomon Islands", "Koeppmouth", "42024", "Marks Well", 67, 95, "harmonquigley@memail.com", "harmonquigley", "frzhh2syvp1", 0;
+exec dbo.DodajKlientaInd "Jimmie", "Nolan", "258320717", "1958-11-16", 0, , "Faroe Islands", "West Kale", "14001-2939", "Madie Tunnel", 36, 37, "jimmienolan@memail.com", "jimmienolan", "fw70ig0meo2", 0;
+exec dbo.DodajKlientaInd "Conrad", "Zboncak", "063203923", "1967-07-06", 0, , "Norfolk Island", "East Oletaland", "77343-5660", "Enrico Estates", 55, 14, "conradzboncak@memail.com", "conradzboncak", "0d8omsy2687", 0;
+exec dbo.DodajKlientaInd "Davon", "Bradtke", "939467492", "1977-05-14", 1, , "Austria", "Tessieton", "83840-1464", "Diego Corners", 43, 59, "davonbradtke@memail.com", "davonbradtke", "5e8wcsx1rgf", 0;
+exec dbo.DodajKlientaInd "Kiana", "Ferry", "271745945", "1978-09-09", 0, , "Saint Lucia", "West Cleora", "84351", "Alfonzo Shores", 45, 84, "kianaferry@memail.com", "kianaferry", "i8u10oz9vvn", 0;
+exec dbo.DodajKlientaInd "Sabina", "Kunze", "839726577", "1995-06-09", 0, , "Turkmenistan", "North Johnathan", "72093", "Myles Rest", 25, 23, "sabinakunze@memail.com", "sabinakunze", "35rz1vz0zyg", 0;
+exec dbo.DodajKlientaInd "Demarco", "Lebsack", "896821521", "1960-11-20", 0, , "Saint Pierre and Miquelon", "Emmanuelleland", "75259", "Elaina Shores", 84, 62, "demarcolebsack@memail.com", "demarcolebsack", "d053p251o6g", 0;
+exec dbo.DodajKlientaInd "Maritza", "Gerlach", "902903437", "1994-05-01", 0, , "Liechtenstein", "Strackeville", "80247", "Johnson Tunnel", 78, 31, "maritzagerlach@memail.com", "maritzagerlach", "h8jjxuz6fc6", 0;
+exec dbo.DodajKlientaInd "Napoleon", "Hessel", "766637176", "1969-10-20", 1, , "Chad", "Lednermouth", "59720", "Rogelio Course", 63, 88, "napoleonhessel@memail.com", "napoleonhessel", "3vfuuslijoc", 0;
+exec dbo.DodajKlientaInd "Janice", "Kerluke", "166597306", "1975-09-03", 1, , "Andorra", "Collierport", "63509", "Mayer Forges", 32, 75, "janicekerluke@memail.com", "janicekerluke", "0l3rkuuu71f", 0;
+exec dbo.DodajKlientaInd "Annie", "Senger", "578864725", "1971-07-23", 1, , "Moldova", "Ressieville", "61192-0914", "Hermann Fort", 23, 56, "anniesenger@memail.com", "anniesenger", "jfzl1niurvo", 0;
+exec dbo.DodajKlientaInd "Bell", "Dicki", "818354372", "1985-04-21", 0, , "Tunisia", "Columbustown", "73347", "Aufderhar Meadows", 37, 91, "belldicki@memail.com", "belldicki", "o2ttjm99swe", 0;
+exec dbo.DodajKlientaInd "Forrest", "Wuckert", "387680744", "1996-08-23", 1, , "Vietnam", "South Dessieshire", "24930-8178", "Kiehn Ranch", 87, 65, "forrestwuckert@memail.com", "forrestwuckert", "xxphowfuor6", 0;
+exec dbo.DodajKlientaInd "Raina", "Wintheiser", "162055111", "1968-03-18", 1, , "Somalia", "North Vidalton", "40019", "Gabe Keys", 71, 86, "rainawintheiser@memail.com", "rainawintheiser", "s8pa0nlezey", 0;
+exec dbo.DodajKlientaInd "Orlo", "Adams", "432603838", "1983-10-24", 0, , "Azerbaijan", "Scottieborough", "19584-5885", "Sammie Path", 53, 89, "orloadams@memail.com", "orloadams", "8cz7o274if", 0;
+exec dbo.DodajKlientaInd "Elvie", "Hahn", "565729103", "1989-03-05", 0, , "Niue", "Elberttown", "45444-0964", "Jared Village", 51, 58, "elviehahn@memail.com", "elviehahn", "govg4ls80b0", 0;
+exec dbo.DodajKlientaInd "Miles", "Schmeler", "933692532", "1988-02-07", 1, , "Serbia", "Littelton", "64479-3186", "O'Keefe Ville", 30, 15, "milesschmeler@memail.com", "milesschmeler", "bi31ovl8tnd", 0;
+exec dbo.DodajKlientaInd "Jalyn", "Murray", "459048811", "1972-01-23", 1, , "Heard Island and McDonald Islands", "Gaylefurt", "10051-5041", "Dariana Plains", 34, 54, "jalynmurray@memail.com", "jalynmurray", "o53jeplxy7f", 0;
+exec dbo.DodajKlientaInd "Amelie", "Botsford", "713873239", "1970-08-09", 0, , "Greece", "Kleinfurt", "92855", "Kessler Walk", 29, 53, "ameliebotsford@memail.com", "ameliebotsford", "ydfcwwsr48c", 0;
+exec dbo.DodajKlientaInd "Abbigail", "Schinner", "107936646", "1974-04-15", 0, , "Sierra Leone", "South Aliya", "84397-5536", "Hartmann Overpass", 72, 85, "abbigailschinner@memail.com", "abbigailschinner", "yf3dcgz8c50", 0;
+exec dbo.DodajKlientaInd "Trace", "Welch", "202041377", "1991-05-25", 1, , "Norway", "South Twilafurt", "20846", "Arvilla Hollow", 57, 58, "tracewelch@memail.com", "tracewelch", "3flm9kfic70", 0;
+exec dbo.DodajKlientaInd "Melisa", "Lesch", "576168088", "1966-05-01", 0, , "Iraq", "Roytown", "75557", "McLaughlin Drive", 26, 94, "melisalesch@memail.com", "melisalesch", "gempw59dvs", 0;
+exec dbo.DodajKlientaInd "Kayli", "Skiles", "781423408", "1963-02-01", 1, , "Niger", "East Janeville", "31158-5085", "Padberg Mountains", 18, 78, "kayliskiles@memail.com", "kayliskiles", "cp1qm142flo", 0;
+exec dbo.DodajKlientaInd "Rickey", "Feest", "357812678", "1975-12-08", 1, 787736, "Belarus", "Odieburgh", "52261-4981", "Witting Shoal", 41, 20, "rickeyfeest@memail.com", "rickeyfeest", "t2bq4fdmklu", 0;
+exec dbo.DodajKlientaInd "Quinton", "White", "869568424", "1955-01-29", 1, , "Saint Helena", "West Gildahaven", "56435", "Smitham Avenue", 44, 62, "quintonwhite@memail.com", "quintonwhite", "d0cjnpjzojq", 0;
+exec dbo.DodajKlientaInd "Dolores", "Okuneva", "251711645", "1978-10-06", 1, 827750, "Chad", "East Hallie", "46010", "Runte Island", 50, 84, "doloresokuneva@memail.com", "doloresokuneva", "whc9entlt4i", 0;
+exec dbo.DodajKlientaInd "Mallory", "Murray", "726414453", "1968-06-11", 0, , "Germany", "Jakubowskifort", "12298", "Walsh Crescent", 77, 13, "mallorymurray@memail.com", "mallorymurray", "eknm5zo5mz2", 0;
+exec dbo.DodajKlientaInd "Easton", "Blick", "218776787", "1996-06-24", 1, 720348, "Cambodia", "Simonisville", "43268-2136", "Kayleigh Vista", 67, 86, "eastonblick@memail.com", "eastonblick", "7g5vxzpf28", 0;
+exec dbo.DodajKlientaInd "Erik", "Jaskolski", "781382893", "1990-06-28", 0, , "Papua New Guinea", "Ornville", "94211-2130", "Erdman Unions", 22, 94, "erikjaskolski@memail.com", "erikjaskolski", "6dsvo3u7ny2", 0;
+exec dbo.DodajKlientaInd "Calista", "Becker", "407476839", "1970-10-10", 0, , "Vietnam", "Jayceeborough", "62684-6482", "Yundt Mills", 17, 24, "calistabecker@memail.com", "calistabecker", "g5a2k6spwct", 0;
+exec dbo.DodajKlientaInd "Susan", "Kuvalis", "633417533", "1991-11-23", 0, , "Tokelau", "West Abe", "77470-6897", "Marquardt Street", 74, 55, "susankuvalis@memail.com", "susankuvalis", "b56bt1nkgql", 0;
+exec dbo.DodajKlientaInd "Elmira", "O'Kon", "748334032", "1995-03-07", 1, , "Zambia", "Hageneschester", "32542", "Isobel Haven", 60, 25, "elmirao'kon@memail.com", "elmirao'kon", "gbmgd5nwuu8", 0;
+exec dbo.DodajKlientaInd "Laurine", "Gerlach", "653311675", "1977-05-25", 1, , "French Southern Territories", "Jennyferbury", "41763-3903", "Rolfson Fields", 17, 44, "laurinegerlach@memail.com", "laurinegerlach", "fkpa3jrg1uf", 0;
+exec dbo.DodajKlientaInd "Alberta", "Cassin", "834281667", "1992-08-02", 1, , "Guam", "Sheldonland", "80813", "Angelica Bridge", 85, 73, "albertacassin@memail.com", "albertacassin", "bukm5b5k0uq", 0;
+exec dbo.DodajKlientaInd "Tyrell", "Johns", "218354919", "1954-12-16", 0, , "Nauru", "Anitaborough", "59213", "Keebler Path", 37, 86, "tyrelljohns@memail.com", "tyrelljohns", "59zbvppft5k", 0;
+exec dbo.DodajKlientaInd "Mathilde", "Schmidt", "493428055", "1960-09-19", 0, 057938, "Saudi Arabia", "South Addiebury", "14937", "Montana Squares", 83, 95, "mathildeschmidt@memail.com", "mathildeschmidt", "cp7aotksit2", 0;
+exec dbo.DodajKlientaInd "Kelsi", "Skiles", "867864349", "1952-03-10", 0, , "Nauru", "Candidofurt", "27500", "Joelle Lane", 85, 26, "kelsiskiles@memail.com", "kelsiskiles", "5he6eu4sfat", 0;
+exec dbo.DodajKlientaInd "Dayton", "Rosenbaum", "312966240", "1952-08-03", 0, , "Oman", "Holdenmouth", "66659", "Bradtke Burgs", 65, 23, "daytonrosenbaum@memail.com", "daytonrosenbaum", "zt3uk1e7mh0", 0;
+exec dbo.DodajKlientaInd "Reilly", "Dooley", "691342747", "1972-07-06", 1, 365353, "El Salvador", "Christineview", "94791-7421", "Kareem Mount", 68, 49, "reillydooley@memail.com", "reillydooley", "e4mkj8vnx4g", 0;
+exec dbo.DodajKlientaInd "Cleveland", "Toy", "588961735", "1983-02-07", 1, , "Burkina Faso", "Borerberg", "97705", "Chadd Pines", 34, 64, "clevelandtoy@memail.com", "clevelandtoy", "l4s48j2ns2n", 0;
+exec dbo.DodajKlientaInd "Yasmine", "Wilkinson", "706229380", "1967-07-24", 1, , "Timor-Leste", "Reichelview", "92952", "Haag Wall", 53, 48, "yasminewilkinson@memail.com", "yasminewilkinson", "glr8v5kq8n6", 0;
+exec dbo.DodajKlientaInd "Heaven", "Kling", "438165443", "1972-06-05", 0, , "Bhutan", "New Tristonborough", "30646", "Marlon Falls", 15, 52, "heavenkling@memail.com", "heavenkling", "xwyffg3mgie", 0;
+exec dbo.DodajKlientaInd "Shayna", "McLaughlin", "811082132", "1995-06-27", 0, , "Papua New Guinea", "South Florine", "34765-8993", "Hoeger Street", 84, 53, "shaynamclaughlin@memail.com", "shaynamclaughlin", "gafe4g7fzp0", 0;
+exec dbo.DodajKlientaInd "Edgar", "Jaskolski", "942615602", "1968-01-23", 0, , "Bosnia and Herzegovina", "South Alexander", "52833-6738", "Amanda Dale", 82, 56, "edgarjaskolski@memail.com", "edgarjaskolski", "ohhljh7t8m9", 0;
+exec dbo.DodajKlientaInd "Jayden", "Fadel", "225149628", "1953-03-21", 1, , "Maldives", "Lake Josefaburgh", "21317-2904", "Hammes Course", 37, 32, "jaydenfadel@memail.com", "jaydenfadel", "sofljzp3vj", 0;
+exec dbo.DodajKlientaInd "Elenora", "Bernier", "024257266", "1962-04-23", 1, , "France", "New Virgil", "62615-4565", "Anderson Glens", 60, 80, "elenorabernier@memail.com", "elenorabernier", "l0jau995igd", 0;
+exec dbo.DodajKlientaInd "Meghan", "Parker", "051756218", "1989-09-28", 1, , "Djibouti", "Aramouth", "42644", "Devonte Club", 2, 100, "meghanparker@memail.com", "meghanparker", "or91jy41rkq", 0;
+exec dbo.DodajKlientaInd "Wilfredo", "Hickle", "693344865", "1964-11-14", 0, , "Liechtenstein", "Davionshire", "81030-2054", "Ward Cape", 5, 28, "wilfredohickle@memail.com", "wilfredohickle", "4ftve4eqnsb", 0;
+exec dbo.DodajKlientaInd "Casey", "Hilll", "031406162", "1950-05-05", 0, , "Denmark", "Doyleburgh", "52725", "Pouros Island", 21, 32, "caseyhilll@memail.com", "caseyhilll", "zzb9e18oyd1", 0;
+exec dbo.DodajKlientaInd "Esmeralda", "Klocko", "090474439", "1966-01-08", 0, , "Malta", "Lake Devinmouth", "89857", "Gutmann Loaf", 64, 19, "esmeraldaklocko@memail.com", "esmeraldaklocko", "cdjtuhunig1", 0;
+exec dbo.DodajKlientaInd "Dayton", "Miller", "771974705", "1992-04-24", 1, , "Dominican Republic", "Groverburgh", "73347-1550", "Homenick Viaduct", 30, 77, "daytonmiller@memail.com", "daytonmiller", "yo18sgxvybz", 0;
+exec dbo.DodajKlientaInd "Sheldon", "Deckow", "104351243", "1984-06-11", 1, , "Ghana", "New Solon", "26667", "Mollie Forges", 67, 19, "sheldondeckow@memail.com", "sheldondeckow", "ehj140k269s", 0;
+exec dbo.DodajKlientaInd "Orion", "McDermott", "704724759", "1959-06-19", 0, , "Mali", "South Susana", "48277-2731", "Kenyon Glens", 41, 19, "orionmcdermott@memail.com", "orionmcdermott", "vg7r7d041nd", 0;
+exec dbo.DodajKlientaInd "Dylan", "Ondricka", "722783298", "1962-08-15", 1, , "Zimbabwe", "East Eleonorehaven", "59175", "Okuneva Course", 12, 91, "dylanondricka@memail.com", "dylanondricka", "0j979lfehtl", 0;
+exec dbo.DodajKlientaInd "Nathaniel", "Goldner", "412389361", "1958-11-13", 1, , "Mexico", "Leonorhaven", "24298-9889", "Assunta Ferry", 69, 49, "nathanielgoldner@memail.com", "nathanielgoldner", "zwdw2o03jxf", 0;
+exec dbo.DodajKlientaInd "Shayna", "Schoen", "311207249", "1985-09-23", 1, , "Svalbard & Jan Mayen Islands", "Reidtown", "78306-7961", "Larkin Hill", 64, 62, "shaynaschoen@memail.com", "shaynaschoen", "qo917kjfh9a", 0;
+exec dbo.DodajKlientaInd "Deborah", "Auer", "573438105", "1952-01-27", 0, , "Isle of Man", "Murraychester", "87436", "Reynolds Inlet", 46, 67, "deborahauer@memail.com", "deborahauer", "ibmii8q8p7p", 0;
+exec dbo.DodajKlientaInd "Estella", "Cormier", "373047545", "1959-01-13", 1, , "Libyan Arab Jamahiriya", "Port Toby", "43992-4457", "Schmitt Lodge", 26, 36, "estellacormier@memail.com", "estellacormier", "agujer7otog", 0;
+exec dbo.DodajKlientaInd "Keshaun", "Halvorson", "267251512", "1966-01-10", 0, , "Djibouti", "West Willaport", "55035", "Morissette Neck", 82, 32, "keshaunhalvorson@memail.com", "keshaunhalvorson", "u8g7jwgxwp4", 0;
+exec dbo.DodajKlientaInd "Alexzander", "Anderson", "879277943", "1956-06-04", 0, , "Solomon Islands", "Rebekahstad", "73353-5969", "Armstrong Burgs", 65, 89, "alexzanderanderson@memail.com", "alexzanderanderson", "yz7pn4x32il", 0;
+exec dbo.DodajKlientaInd "Judd", "Murazik", "063328155", "1956-02-06", 0, , "Poland", "Luciousstad", "95045", "Dulce Knolls", 60, 61, "juddmurazik@memail.com", "juddmurazik", "74y42tl8doz", 0;
+exec dbo.DodajKlientaInd "Derick", "Batz", "114584454", "1968-11-19", 0, , "Congo", "East Etha", "44088", "Jacobs Burgs", 54, 69, "derickbatz@memail.com", "derickbatz", "n4rev3en5ai", 0;
+exec dbo.DodajKlientaInd "Madonna", "Franecki", "235266721", "1976-05-16", 1, 300636, "Yemen", "Port Christophe", "64221", "Upton Port", 55, 3, "madonnafranecki@memail.com", "madonnafranecki", "33ha56mvns9", 0;
+exec dbo.DodajKlientaInd "Celia", "Harvey", "155771348", "1957-10-05", 1, , "Netherlands", "Howellport", "83612-5044", "Karolann Squares", 34, 36, "celiaharvey@memail.com", "celiaharvey", "ishwfbrgy82", 0;
+exec dbo.DodajKlientaInd "Velda", "Schinner", "284528365", "1996-08-04", 0, , "Benin", "Lake Evaview", "70490", "Sharon Islands", 27, 35, "veldaschinner@memail.com", "veldaschinner", "38qd3az1ssx", 0;
+exec dbo.DodajKlientaInd "Ryley", "Kiehn", "554412684", "1962-05-31", 1, , "Svalbard & Jan Mayen Islands", "Rodrigoville", "47954", "Elyse Causeway", 88, 88, "ryleykiehn@memail.com", "ryleykiehn", "8pkgz2h9i6o", 0;
+exec dbo.DodajKlientaInd "Nikko", "Padberg", "811789211", "1988-08-28", 0, , "Sri Lanka", "West Alexandrofurt", "22215-3024", "Kohler Harbor", 87, 18, "nikkopadberg@memail.com", "nikkopadberg", "by43mx6xcpw", 0;
+exec dbo.DodajKlientaInd "Corbin", "Volkman", "611878318", "1972-07-23", 1, , "British Indian Ocean Territory (Chagos Archipelago)", "Hyatthaven", "47861-3938", "Kaden Ports", 79, 82, "corbinvolkman@memail.com", "corbinvolkman", "vreq4q2q8uq", 0;
+exec dbo.DodajKlientaInd "Waylon", "Smitham", "676710275", "1969-11-01", 1, , "Romania", "New Markuschester", "60537", "Miller Ville", 52, 87, "waylonsmitham@memail.com", "waylonsmitham", "o9yuevo8eia", 0;
+exec dbo.DodajKlientaInd "Eryn", "Bogan", "910003047", "1977-04-10", 0, , "Czech Republic", "Hyattbury", "44324", "Ashley Plains", 1, 47, "erynbogan@memail.com", "erynbogan", "qcl1ggn1aa4", 0;
+exec dbo.DodajKlientaInd "Garry", "Kshlerin", "486602559", "1977-08-26", 0, , "Japan", "Lake Genemouth", "58983", "Pacocha Squares", 14, 67, "garrykshlerin@memail.com", "garrykshlerin", "zo735e4qwtx", 0;
+exec dbo.DodajKlientaInd "Tyrel", "Bosco", "732581318", "1960-11-15", 1, , "Solomon Islands", "Waltershire", "20886", "Kip Route", 16, 65, "tyrelbosco@memail.com", "tyrelbosco", "qa70pgu445", 0;
+exec dbo.DodajKlientaInd "Fausto", "Hintz", "743818264", "1971-01-12", 0, , "Belgium", "North Martaland", "58433", "Trantow Burg", 38, 13, "faustohintz@memail.com", "faustohintz", "tz2luqcu97n", 0;
+exec dbo.DodajKlientaInd "Brendon", "Heidenreich", "532227428", "1971-06-28", 0, , "French Southern Territories", "Hammesland", "46307-0384", "Nelle Grove", 63, 22, "brendonheidenreich@memail.com", "brendonheidenreich", "fpp7yqkklx6", 0;
+exec dbo.DodajKlientaInd "Guiseppe", "Spencer", "019106316", "1987-04-22", 1, , "Isle of Man", "Aidenborough", "65218-0775", "Johan Mountains", 29, 58, "guiseppespencer@memail.com", "guiseppespencer", "9xz2bb7w6h", 0;
+exec dbo.DodajKlientaInd "Arnoldo", "Huels", "772278262", "1962-11-25", 0, , "Finland", "Tabithatown", "79701", "Ebert Run", 33, 35, "arnoldohuels@memail.com", "arnoldohuels", "4myo4hjx53o", 0;
+exec dbo.DodajKlientaInd "Philip", "Bahringer", "945657558", "1997-01-11", 1, , "Antigua and Barbuda", "Lake Simone", "74059-3941", "Allie Centers", 30, 49, "philipbahringer@memail.com", "philipbahringer", "z7ik5ofd9t2", 0;
+exec dbo.DodajKlientaInd "Tianna", "Wiegand", "122758602", "1987-11-26", 1, 161375, "Netherlands Antilles", "Lake Millie", "93073", "Towne Ridges", 38, 77, "tiannawiegand@memail.com", "tiannawiegand", "27zerf73b4s", 0;
+exec dbo.DodajKlientaInd "Amir", "Berge", "553404941", "1974-06-10", 0, 625337, "American Samoa", "West Zettaside", "94442-0571", "Mitchell Light", 18, 16, "amirberge@memail.com", "amirberge", "6uxsuziskfj", 0;
+exec dbo.DodajKlientaInd "Eusebio", "Wunsch", "625859455", "1982-03-29", 0, , "Saint Martin", "Ortizburgh", "46263", "Weber Walk", 39, 93, "eusebiowunsch@memail.com", "eusebiowunsch", "7936vgjjdwt", 0;
+exec dbo.DodajKlientaInd "Rudy", "Mosciski", "779060439", "1976-06-15", 0, , "Republic of Korea", "East Vernonview", "79856", "Ronny Hills", 26, 41, "rudymosciski@memail.com", "rudymosciski", "zrga0926vhm", 0;
+exec dbo.DodajKlientaInd "Mandy", "Kunde", "169323755", "1958-03-07", 1, , "Kazakhstan", "South Zellafurt", "77660", "Quigley Park", 82, 58, "mandykunde@memail.com", "mandykunde", "v3ie2mm9whd", 0;
+exec dbo.DodajKlientaInd "Eloy", "Batz", "351151215", "1965-01-20", 0, , "Cyprus", "Danshire", "38464-0833", "Morar Locks", 48, 43, "eloybatz@memail.com", "eloybatz", "0sb3k3p5fcc", 0;
+exec dbo.DodajKlientaInd "Alexandra", "Schiller", "477631458", "1985-03-24", 1, , "Anguilla", "Kuhnmouth", "57830", "Goyette Terrace", 73, 45, "alexandraschiller@memail.com", "alexandraschiller", "tgstkpne7bg", 0;
+exec dbo.DodajKlientaInd "Candido", "Stehr", "362544115", "1987-12-02", 0, , "Saint Barthelemy", "Jacobsonbury", "11206-9369", "Rosemary Divide", 88, 12, "candidostehr@memail.com", "candidostehr", "o3qajvryzoz", 0;
+exec dbo.DodajKlientaInd "Cesar", "Wilderman", "875168162", "1962-10-31", 0, , "Martinique", "West Opalmouth", "30732", "Kuvalis Underpass", 64, 97, "cesarwilderman@memail.com", "cesarwilderman", "kewinsfmtib", 0;
+exec dbo.DodajKlientaInd "Elsie", "Hegmann", "164575113", "1984-02-09", 0, , "Sweden", "Jaronborough", "31685-5561", "Bethany Ridges", 18, 24, "elsiehegmann@memail.com", "elsiehegmann", "tv43qczzp7q", 0;
+exec dbo.DodajKlientaInd "Santiago", "Schaefer", "412618447", "1951-01-30", 1, , "Montenegro", "North Muhammad", "92297-3033", "Feeney Crescent", 34, 83, "santiagoschaefer@memail.com", "santiagoschaefer", "nvrb6aaxv1e", 0;
+exec dbo.DodajKlientaInd "Kristoffer", "Carter", "677578814", "1955-02-07", 0, , "Mexico", "East Reaganfort", "92926", "Grimes Motorway", 39, 85, "kristoffercarter@memail.com", "kristoffercarter", "lku9utt38gm", 0;
+exec dbo.DodajKlientaInd "Esperanza", "Zboncak", "505627879", "1951-11-10", 1, 882405, "Andorra", "East Augustine", "60155", "Beth Plaza", 9, 43, "esperanzazboncak@memail.com", "esperanzazboncak", "vsy8k04vipb", 0;
+exec dbo.DodajKlientaInd "Richie", "Satterfield", "421868577", "1992-09-14", 1, , "Greece", "Labadieview", "80835-9389", "Roberts Ways", 89, 2, "richiesatterfield@memail.com", "richiesatterfield", "prwzdwjucok", 0;
+exec dbo.DodajKlientaInd "Maxie", "Weber", "197428433", "1994-03-20", 0, , "Austria", "Jazminview", "40973", "Audreanne Cape", 82, 23, "maxieweber@memail.com", "maxieweber", "cbz1rjzvxqa", 0;
+exec dbo.DodajKlientaInd "Jordy", "Wiza", "739031108", "1972-03-10", 0, , "Mozambique", "Cartwrightstad", "27557", "Tromp Walk", 45, 59, "jordywiza@memail.com", "jordywiza", "c5aq0mudjng", 0;
+exec dbo.DodajKlientaInd "Bonnie", "Beier", "328133374", "1967-09-09", 0, 874673, "Portugal", "Dickenshaven", "31703-8823", "Ullrich Club", 13, 37, "bonniebeier@memail.com", "bonniebeier", "4gyef3gayp2", 0;
+exec dbo.DodajKlientaInd "Nelson", "Keeling", "725751916", "1962-03-26", 0, , "Croatia", "Jensenfurt", "68574", "Jaclyn Streets", 84, 99, "nelsonkeeling@memail.com", "nelsonkeeling", "cq36i6km6i1", 0;
+exec dbo.DodajKlientaInd "Sadye", "Fritsch", "073421450", "1967-08-24", 1, 084055, "Isle of Man", "North Alysha", "20423", "Braun Stream", 76, 85, "sadyefritsch@memail.com", "sadyefritsch", "wulzght1wvb", 0;
+exec dbo.DodajKlientaInd "Moshe", "Gislason", "244470717", "1970-10-08", 1, 427096, "Denmark", "Lavinabury", "28942-5579", "Shana Circle", 5, 86, "moshegislason@memail.com", "moshegislason", "gwyv7uidoom", 0;
+exec dbo.DodajKlientaInd "Milford", "Koch", "756653953", "1950-08-14", 1, , "Saint Barthelemy", "Albinfurt", "66933-9894", "Rafaela Trail", 32, 29, "milfordkoch@memail.com", "milfordkoch", "w4bmepob7qc", 0;
+exec dbo.DodajKlientaInd "Darrell", "Yost", "431692912", "1971-02-12", 0, , "Suriname", "Hymanshire", "23612-8459", "Alexandre Station", 98, 100, "darrellyost@memail.com", "darrellyost", "3iu4fvvhxbn", 0;
+exec dbo.DodajKlientaInd "Magnolia", "Ledner", "453064584", "1961-09-16", 0, , "Colombia", "Enidside", "17934", "Wisoky Ways", 63, 13, "magnolialedner@memail.com", "magnolialedner", "viudorndvtc", 0;
+exec dbo.DodajKlientaInd "Cindy", "Jacobi", "483067751", "1988-02-15", 1, , "Namibia", "South Conner", "66600", "Ondricka Port", 88, 17, "cindyjacobi@memail.com", "cindyjacobi", "kk3uropeezc", 0;
+exec dbo.DodajKlientaInd "Maxine", "Gleason", "814312585", "1970-01-08", 1, , "British Indian Ocean Territory (Chagos Archipelago)", "Bruenfurt", "22983", "Delilah Drives", 88, 3, "maxinegleason@memail.com", "maxinegleason", "ti4jvumf65j", 0;
+exec dbo.DodajKlientaInd "Roxane", "Denesik", "599354659", "1985-06-06", 0, , "Marshall Islands", "Bonniechester", "52986", "Lubowitz Ferry", 1, 90, "roxanedenesik@memail.com", "roxanedenesik", "59rj1cudaoa", 0;
+exec dbo.DodajKlientaInd "Daryl", "Conn", "216563602", "1978-04-25", 0, , "Norfolk Island", "Elroyville", "81530", "Jillian Grove", 95, 85, "darylconn@memail.com", "darylconn", "jbcmwdischj", 0;
+exec dbo.DodajKlientaInd "Sheila", "Hermann", "661874282", "1960-07-02", 0, , "Romania", "North Brionnachester", "86185-4034", "Weber River", 11, 59, "sheilahermann@memail.com", "sheilahermann", "jaiif7cvt24", 0;
+exec dbo.DodajKlientaInd "Lew", "Mraz", "863885756", "1978-11-26", 0, , "Mongolia", "New Eryn", "53342-7499", "Pacocha Village", 82, 86, "lewmraz@memail.com", "lewmraz", "8ckzk06o1ai", 0;
+exec dbo.DodajKlientaInd "Art", "Stokes", "151782089", "1989-10-23", 0, , "Albania", "Westmouth", "90922", "Jaskolski Well", 79, 55, "artstokes@memail.com", "artstokes", "o9ummj2rc6", 0;
+exec dbo.DodajKlientaInd "Loyce", "Dietrich", "023602213", "1957-12-31", 1, , "Christmas Island", "Catherinebury", "68801", "Glover Glens", 79, 17, "loycedietrich@memail.com", "loycedietrich", "4o7l01f97w9", 0;
+exec dbo.DodajKlientaInd "Abe", "Roob", "985520637", "1972-10-15", 0, , "Bahrain", "Denisstad", "28949-0620", "Angelina Fort", 35, 48, "aberoob@memail.com", "aberoob", "diefdyrp5yy", 0;
+exec dbo.DodajKlientaInd "Libbie", "Stanton", "847260820", "1988-02-11", 0, , "Monaco", "Port Jackelinemouth", "43861-9588", "Micah Forges", 47, 44, "libbiestanton@memail.com", "libbiestanton", "zk2s6oidtrk", 0;
+exec dbo.DodajKlientaInd "Delia", "Flatley", "384011288", "1963-04-23", 0, , "Aruba", "North Jordi", "72140", "Smitham Forges", 82, 92, "deliaflatley@memail.com", "deliaflatley", "ont5djc8ok5", 0;
+exec dbo.DodajKlientaInd "Eldred", "Hand", "337324147", "1966-02-02", 1, , "Honduras", "Douglasside", "50586", "Friesen Courts", 67, 44, "eldredhand@memail.com", "eldredhand", "z3ojayscqyr", 0;
+exec dbo.DodajKlientaInd "Winona", "Monahan", "063779841", "1994-07-06", 1, , "Australia", "South Cordie", "59315-0566", "Rhianna Forks", 32, 5, "winonamonahan@memail.com", "winonamonahan", "j45rzc6p2h2", 0;
+exec dbo.DodajKlientaInd "Antonietta", "Bartoletti", "248811750", "1961-06-19", 1, , "Saint Lucia", "Pfefferfort", "74599-8043", "Maddison Path", 9, 22, "antoniettabartoletti@memail.com", "antoniettabartoletti", "d0m1mq6q9ml", 0;
+exec dbo.DodajKlientaInd "Agnes", "Hintz", "104472296", "1983-12-04", 0, , "Nicaragua", "East Kassandramouth", "28683-5437", "Maynard Club", 33, 64, "agneshintz@memail.com", "agneshintz", "0g4wayqjf53", 0;
+exec dbo.DodajKlientaInd "Reese", "Cassin", "237759154", "1973-07-04", 1, , "Sudan", "Neldaton", "22138", "Lempi Plains", 44, 26, "reesecassin@memail.com", "reesecassin", "ff16s7bcwuf", 0;
+exec dbo.DodajKlientaInd "Sheldon", "Okuneva", "134689312", "1971-09-27", 0, , "Greenland", "Brionnabury", "81105-7339", "Rohan Grove", 96, 66, "sheldonokuneva@memail.com", "sheldonokuneva", "yksa32zecnz", 0;
+exec dbo.DodajKlientaInd "Micaela", "Strosin", "351340117", "1952-04-28", 0, 137170, "Sudan", "South Quinten", "49396-8688", "Birdie Grove", 95, 56, "micaelastrosin@memail.com", "micaelastrosin", "ehw83url868", 0;
+exec dbo.DodajKlientaInd "Abbigail", "McKenzie", "806433416", "1971-10-09", 0, , "Belgium", "North Laylachester", "92533", "Mellie Throughway", 58, 75, "abbigailmckenzie@memail.com", "abbigailmckenzie", "9v2nx94vh1x", 0;
+exec dbo.DodajKlientaInd "Madilyn", "Gibson", "295547745", "1989-01-06", 1, , "Swaziland", "East Agustina", "88593", "Guy River", 79, 32, "madilyngibson@memail.com", "madilyngibson", "yy8w5vm6b5g", 0;
+exec dbo.DodajKlientaInd "Broderick", "Thiel", "521453685", "1976-07-17", 1, , "Nigeria", "North Barrett", "36491-3174", "Maudie Spur", 94, 53, "broderickthiel@memail.com", "broderickthiel", "mwwxufhwc6h", 0;
+exec dbo.DodajKlientaInd "Claire", "Rice", "336492382", "1977-07-25", 0, 107175, "Swaziland", "West Cesar", "38190-7185", "Lupe Orchard", 27, 6, "clairerice@memail.com", "clairerice", "hkbgri920pd", 0;
+exec dbo.DodajKlientaInd "Elyssa", "Hirthe", "486260458", "1994-01-10", 0, , "Timor-Leste", "Lake Boydshire", "28456-2821", "Legros Light", 62, 99, "elyssahirthe@memail.com", "elyssahirthe", "twil4i8i4xm", 0;
+exec dbo.DodajKlientaInd "Naomie", "Streich", "556378596", "1950-11-28", 1, , "Zambia", "Elissastad", "13102", "Lind Stream", 17, 35, "naomiestreich@memail.com", "naomiestreich", "pv82nunyvfy", 0;
+exec dbo.DodajKlientaInd "Vincenza", "Lubowitz", "738137184", "1974-11-06", 1, , "Jordan", "Lynchmouth", "23168-6858", "Larkin Neck", 59, 60, "vincenzalubowitz@memail.com", "vincenzalubowitz", "7e96k5un3k9", 0;
+exec dbo.DodajKlientaInd "Kelton", "Kuphal", "347527139", "1968-03-17", 0, , "Cambodia", "North Jerodstad", "20257", "Bergnaum Lodge", 78, 77, "keltonkuphal@memail.com", "keltonkuphal", "38h8aec8jc9", 0;
+exec dbo.DodajKlientaInd "Monserrat", "Kautzer", "875525813", "1966-12-16", 0, , "Papua New Guinea", "Kuphalfurt", "84797", "Rasheed Harbors", 44, 41, "monserratkautzer@memail.com", "monserratkautzer", "9u9riiqcxi4", 0;
+exec dbo.DodajKlientaInd "Kariane", "Ondricka", "569969731", "1952-07-29", 0, , "Falkland Islands (Malvinas)", "Port Vivianechester", "81487-7365", "Hauck Lane", 29, 51, "karianeondricka@memail.com", "karianeondricka", "gceh9ah6xwi", 0;
+exec dbo.DodajKlientaInd "Tre", "Hills", "266374608", "1973-11-24", 0, , "Western Sahara", "Greenfelderborough", "72736-6012", "Crona Stream", 36, 68, "trehills@memail.com", "trehills", "9rzoi55y9dp", 0;
+exec dbo.DodajKlientaInd "Sheila", "Heller", "497265991", "1980-12-24", 1, 926674, "Guatemala", "Adamsville", "40687-9268", "Waino Parkways", 44, 91, "sheilaheller@memail.com", "sheilaheller", "the6wohowum", 0;
+exec dbo.DodajKlientaInd "Rhoda", "Keebler", "354315382", "1979-04-25", 1, 276351, "Hungary", "Jacobsside", "64648-3827", "Marquardt Groves", 75, 47, "rhodakeebler@memail.com", "rhodakeebler", "wropzg9ud8s", 0;
+exec dbo.DodajKlientaInd "Glenda", "Lemke", "958085354", "1968-08-03", 1, , "Armenia", "North Osvaldoside", "46951", "Kiehn Lake", 54, 71, "glendalemke@memail.com", "glendalemke", "6b1ehgt0x3l", 0;
+exec dbo.DodajKlientaInd "Hillary", "Pagac", "615843615", "1951-12-18", 1, , "Saint Lucia", "East Hollieton", "89088-5884", "Goodwin Corner", 66, 6, "hillarypagac@memail.com", "hillarypagac", "86kjzj59k0x", 0;
+exec dbo.DodajKlientaInd "Leone", "Herman", "511300612", "1956-10-02", 0, , "Hungary", "North Fannyport", "51659", "Trenton Greens", 33, 52, "leoneherman@memail.com", "leoneherman", "xjg7l1vh2f", 0;
+exec dbo.DodajKlientaInd "Cordie", "Muller", "429295718", "1984-05-03", 0, , "Mexico", "Cronahaven", "29466-9818", "Pamela Court", 74, 88, "cordiemuller@memail.com", "cordiemuller", "nvrzvqj4wfl", 0;
+exec dbo.DodajKlientaInd "Benjamin", "Goldner", "070856486", "1975-08-06", 1, , "Zambia", "Port Horaceport", "78294", "Lind Lodge", 33, 8, "benjamingoldner@memail.com", "benjamingoldner", "80f69zdxxbs", 0;
+exec dbo.DodajKlientaInd "Dejuan", "Fritsch", "343532555", "1954-10-26", 0, , "Bulgaria", "Schmelerchester", "43027-2565", "Malinda Way", 33, 45, "dejuanfritsch@memail.com", "dejuanfritsch", "gi0nkxatncq", 0;
+exec dbo.DodajKlientaInd "Esta", "Hamill", "721156282", "1967-11-15", 1, , "Andorra", "Weberfurt", "12949-0149", "Reese Causeway", 99, 2, "estahamill@memail.com", "estahamill", "4kzp1x4f8qq", 0;
+exec dbo.DodajKlientaInd "Columbus", "Wunsch", "542129661", "1982-11-27", 1, , "Taiwan", "East Meta", "32534", "Brain Curve", 43, 65, "columbuswunsch@memail.com", "columbuswunsch", "r7z4ih38cwm", 0;
+exec dbo.DodajKlientaInd "Ariane", "Kozey", "691336680", "1970-02-01", 0, , "Bouvet Island (Bouvetoya)", "Trantowside", "55218-5922", "Hahn Wall", 35, 55, "arianekozey@memail.com", "arianekozey", "31kklmjs8xv", 0;
+exec dbo.DodajKlientaInd "Joannie", "Osinski", "464396412", "1956-01-16", 0, , "Rwanda", "North Ignatius", "51053", "Borer Curve", 19, 49, "joannieosinski@memail.com", "joannieosinski", "p6ennk9hvd0", 0;
+exec dbo.DodajKlientaInd "Ila", "Bashirian", "403874272", "1978-01-28", 1, , "Mauritius", "West Mekhiville", "79441-2720", "Ericka Island", 89, 87, "ilabashirian@memail.com", "ilabashirian", "3kgk57rlws7", 0;
+exec dbo.DodajKlientaInd "Jermain", "Emard", "757836971", "1972-11-03", 0, , "Monaco", "North Dallin", "80930-0930", "Zelda Square", 44, 34, "jermainemard@memail.com", "jermainemard", "0hicm4mlhs0", 0;
+exec dbo.DodajKlientaInd "Holden", "Prohaska", "263721073", "1952-08-01", 1, , "Rwanda", "Kshlerinport", "18371", "Jerde Underpass", 77, 66, "holdenprohaska@memail.com", "holdenprohaska", "i9rwrfz3a19", 0;
+exec dbo.DodajKlientaInd "Lamar", "Bradtke", "313255366", "1970-12-02", 0, , "Djibouti", "Port Caterina", "11943-0014", "Collier Brooks", 76, 70, "lamarbradtke@memail.com", "lamarbradtke", "t7bb124yfvc", 0;
+exec dbo.DodajKlientaInd "Jaime", "Jakubowski", "838354978", "1970-11-13", 1, , "Uganda", "Blairbury", "66727-3067", "Zaria Locks", 59, 48, "jaimejakubowski@memail.com", "jaimejakubowski", "i6pvluzv8vq", 0;
+exec dbo.DodajKlientaInd "Riley", "Cummings", "482886771", "1980-04-13", 0, , "Tajikistan", "North Rebekaton", "10001-2141", "Katherine Spring", 79, 65, "rileycummings@memail.com", "rileycummings", "wlimt5q677k", 0;
+exec dbo.DodajKlientaInd "Kenton", "Feest", "233760153", "1968-01-08", 0, 367183, "Antarctica (the territory South of 60 deg S)", "Corkeryland", "96941", "Ken Prairie", 55, 40, "kentonfeest@memail.com", "kentonfeest", "b917ah6ech7", 0;
+exec dbo.DodajKlientaInd "Zander", "Simonis", "857506463", "1957-07-29", 1, , "Guyana", "North Leaburgh", "72825", "Nikita Springs", 64, 82, "zandersimonis@memail.com", "zandersimonis", "ixqqfbq6ppi", 0;
+exec dbo.DodajKlientaInd "Zaria", "Thiel", "025618768", "1968-05-07", 1, , "Lithuania", "Herzogfort", "33891-9003", "Mosciski Village", 84, 18, "zariathiel@memail.com", "zariathiel", "ht5r8eh39vw", 0;
+exec dbo.DodajKlientaInd "Cory", "Keeling", "288636236", "1960-01-21", 1, , "Kenya", "Lake Logan", "55489", "Romaguera Way", 43, 35, "corykeeling@memail.com", "corykeeling", "i2835uwd2m0", 0;
+exec dbo.DodajKlientaInd "Makenzie", "Tillman", "594655242", "1956-06-14", 0, , "Tuvalu", "West Linnie", "22061", "Klocko Port", 3, 49, "makenzietillman@memail.com", "makenzietillman", "cg2lqr158yx", 0;
+exec dbo.DodajKlientaInd "Kane", "Hermiston", "574827542", "1954-08-05", 0, , "Trinidad and Tobago", "Port Ola", "61994-5077", "Jane Street", 13, 75, "kanehermiston@memail.com", "kanehermiston", "l4fluyhdnj8", 0;
+exec dbo.DodajKlientaInd "Idella", "Toy", "632452348", "1950-09-01", 1, , "Nigeria", "Lake Arnebury", "56563-8887", "Marlen Groves", 73, 61, "idellatoy@memail.com", "idellatoy", "ru0jtecqkfr", 0;
+exec dbo.DodajKlientaInd "Jacklyn", "Hermiston", "611778670", "1951-07-20", 1, , "New Caledonia", "West Zoie", "49529", "Adela Ferry", 77, 22, "jacklynhermiston@memail.com", "jacklynhermiston", "g421cko2ads", 0;
+exec dbo.DodajKlientaInd "Candace", "Wunsch", "652128383", "1991-05-31", 1, , "Argentina", "Michaelaview", "49316", "Jerde Lakes", 18, 28, "candacewunsch@memail.com", "candacewunsch", "c14j4oef5dc", 0;
+exec dbo.DodajKlientaInd "Ellie", "Orn", "637017761", "1981-09-29", 1, , "Christmas Island", "Alfredaview", "94570", "Alba Passage", 53, 18, "ellieorn@memail.com", "ellieorn", "ahoyicil45f", 0;
+exec dbo.DodajKlientaInd "Sonia", "Hilll", "018864635", "1956-01-15", 0, , "Heard Island and McDonald Islands", "Purdyville", "41892-6291", "Casimir Island", 14, 87, "soniahilll@memail.com", "soniahilll", "h46xv7dzrth", 0;
+exec dbo.DodajKlientaInd "Ramiro", "Okuneva", "586928971", "1964-04-12", 0, , "British Indian Ocean Territory (Chagos Archipelago)", "New Greenchester", "88550-6726", "Randy Islands", 79, 44, "ramirookuneva@memail.com", "ramirookuneva", "i4lk7pbqrxo", 0;
+exec dbo.DodajKlientaInd "Earnest", "Klocko", "971524741", "1950-10-24", 0, , "Iran", "North Carliebury", "53344", "Felicita Drive", 2, 83, "earnestklocko@memail.com", "earnestklocko", "zobzldrt37z", 0;
+exec dbo.DodajKlientaInd "Annetta", "Deckow", "114158881", "1990-01-07", 0, , "Botswana", "East Dennis", "60296", "Feest Branch", 44, 84, "annettadeckow@memail.com", "annettadeckow", "9bm3cvul3c7", 0;
+exec dbo.DodajKlientaInd "Dock", "Moen", "043434568", "1996-04-14", 0, 888247, "Japan", "Lake Maddisonview", "66843-3093", "Ashly Meadows", 58, 15, "dockmoen@memail.com", "dockmoen", "u6huet5ucsu", 0;
+exec dbo.DodajKlientaInd "Erin", "Schmeler", "540442427", "1965-07-03", 1, , "Angola", "Antonetteton", "15065-8373", "Jamal Fork", 62, 75, "erinschmeler@memail.com", "erinschmeler", "cy5ymb2m1d3", 0;
+exec dbo.DodajKlientaInd "Maddison", "Littel", "263101794", "1960-11-07", 1, , "Holy See (Vatican City State)", "Stromanburgh", "38296", "Dooley Dale", 14, 22, "maddisonlittel@memail.com", "maddisonlittel", "uurxhriandi", 0;
+exec dbo.DodajKlientaInd "Sven", "Langworth", "524630517", "1972-08-22", 1, , "Cote d'Ivoire", "Kautzershire", "40207", "Dach Mall", 80, 53, "svenlangworth@memail.com", "svenlangworth", "rrj0g476x51", 0;
+exec dbo.DodajKlientaInd "Idell", "Sauer", "916081785", "1958-07-19", 0, , "Fiji", "Levishire", "59875", "Blanda Street", 43, 35, "idellsauer@memail.com", "idellsauer", "hsn597s7tky", 0;
+exec dbo.DodajKlientaInd "Kody", "Rogahn", "336669981", "1970-05-08", 0, , "Saudi Arabia", "New Samantha", "35910-7543", "Champlin Neck", 85, 89, "kodyrogahn@memail.com", "kodyrogahn", "szsmv1yk4f4", 0;
+exec dbo.DodajKlientaInd "Brennan", "Weber", "182574257", "1993-12-24", 1, , "Israel", "East Lauriane", "72865-4124", "Hudson Terrace", 85, 36, "brennanweber@memail.com", "brennanweber", "388d9k8qwqq", 0;
+exec dbo.DodajKlientaInd "Doyle", "Windler", "818090583", "1988-03-26", 0, , "Fiji", "New Darronborough", "74170", "Hermann Hills", 35, 88, "doylewindler@memail.com", "doylewindler", "vumu0q731pt", 0;
+exec dbo.DodajKlientaInd "Kirstin", "Sawayn", "552820288", "1961-11-26", 0, , "Isle of Man", "Townemouth", "69225-6182", "Glover Pines", 7, 47, "kirstinsawayn@memail.com", "kirstinsawayn", "qm5gfzr6dkl", 0;
+exec dbo.DodajKlientaInd "Mack", "Emmerich", "969482551", "1986-03-20", 1, , "Japan", "Nickolasshire", "16518-6813", "Eldon Summit", 73, 88, "mackemmerich@memail.com", "mackemmerich", "xt2v58cbsw3", 0;
+exec dbo.DodajKlientaInd "Maribel", "Murazik", "733383818", "1977-03-20", 0, , "Papua New Guinea", "Lake Elenaland", "62431-8304", "Klocko Squares", 74, 54, "maribelmurazik@memail.com", "maribelmurazik", "42bs46vdn20", 0;
+exec dbo.DodajKlientaInd "Else", "Dickens", "845117413", "1969-02-05", 1, , "Sudan", "Considinehaven", "24959", "Brenden Square", 6, 70, "elsedickens@memail.com", "elsedickens", "24duv0a8h53", 0;
+exec dbo.DodajKlientaInd "Deangelo", "Schmeler", "788662517", "1970-02-08", 0, , "Ireland", "New Damaris", "17630-9352", "Kali Rue", 38, 26, "deangeloschmeler@memail.com", "deangeloschmeler", "i7doleqdxva", 0;
+exec dbo.DodajKlientaInd "Kennith", "Windler", "449512418", "1982-11-24", 0, , "Honduras", "North Darby", "18009-8846", "Chandler Overpass", 19, 55, "kennithwindler@memail.com", "kennithwindler", "stf33dxms8q", 0;
+exec dbo.DodajKlientaInd "Cara", "Howe", "646786010", "1959-11-26", 1, , "Fiji", "West Kim", "98487", "Auer Mills", 56, 51, "carahowe@memail.com", "carahowe", "ywvahideml6", 0;
+exec dbo.DodajKlientaInd "Myriam", "Steuber", "826660484", "1992-08-12", 1, , "Malawi", "Langville", "76677", "Karlee Turnpike", 44, 87, "myriamsteuber@memail.com", "myriamsteuber", "y2k5o34yezq", 0;
+exec dbo.DodajKlientaInd "Dena", "Schinner", "451810877", "1967-03-18", 0, , "Haiti", "Port Dominicport", "56038-0616", "Roberts Highway", 22, 72, "denaschinner@memail.com", "denaschinner", "xbbdat866va", 0;
+exec dbo.DodajKlientaInd "Neha", "Wiza", "695342465", "1992-01-23", 0, , "Turkey", "New Juanita", "42114", "Fisher Road", 42, 15, "nehawiza@memail.com", "nehawiza", "iuckg2gz5f6", 0;
+exec dbo.DodajKlientaInd "Walker", "Fay", "515831752", "1955-10-03", 1, 688541, "Thailand", "East Rebashire", "89750", "Kassulke Courts", 33, 33, "walkerfay@memail.com", "walkerfay", "0bvvk8ds7lo", 0;
+exec dbo.DodajKlientaInd "Brooke", "Connelly", "362231472", "1950-02-28", 0, , "Cape Verde", "Leonardoport", "28666", "Julio Island", 27, 18, "brookeconnelly@memail.com", "brookeconnelly", "ize9rew7xj", 0;
+exec dbo.DodajKlientaInd "Erin", "Kuhic", "833748522", "1984-11-28", 1, , "Israel", "South Spencer", "23824", "Spinka Ways", 58, 18, "erinkuhic@memail.com", "erinkuhic", "epdkw7bfw0j", 0;
+exec dbo.DodajKlientaInd "Jean", "Ledner", "626697107", "1976-05-02", 0, , "Central African Republic", "North Margotfort", "96063-3714", "Celia Rest", 83, 14, "jeanledner@memail.com", "jeanledner", "ft1qsjzjdx", 0;
+exec dbo.DodajKlientaInd "Alene", "Stehr", "571240933", "1980-12-02", 1, 561561, "Iraq", "Garthtown", "27354-7802", "Gaylord Isle", 13, 23, "alenestehr@memail.com", "alenestehr", "exnbc7iq0yz", 0;
+exec dbo.DodajKlientaInd "Harrison", "Farrell", "104972922", "1989-02-07", 0, , "Mali", "Griffinmouth", "82669-7797", "Lang Plaza", 79, 28, "harrisonfarrell@memail.com", "harrisonfarrell", "m622wiovczk", 0;
+exec dbo.DodajKlientaInd "Nels", "Luettgen", "546572411", "1971-12-05", 0, 682477, "Australia", "New Caesar", "99529", "Rosalyn Mountains", 35, 86, "nelsluettgen@memail.com", "nelsluettgen", "dnpkwp5ok1f", 0;
+exec dbo.DodajKlientaInd "Betty", "Bartoletti", "413163646", "1974-03-14", 1, , "Austria", "Wisokyfort", "78684", "Langosh Circle", 86, 49, "bettybartoletti@memail.com", "bettybartoletti", "7zcz1k4zk2", 0;
+exec dbo.DodajKlientaInd "Makenna", "Cummings", "283776626", "1972-12-04", 1, , "Montenegro", "Altenwerthberg", "49558-7214", "Abshire Ville", 27, 39, "makennacummings@memail.com", "makennacummings", "kda4ej80a16", 0;
+exec dbo.DodajKlientaInd "Elisabeth", "Bergnaum", "723726266", "1965-12-30", 0, 647772, "Macao", "Enaburgh", "31049-8543", "Conn Orchard", 73, 48, "elisabethbergnaum@memail.com", "elisabethbergnaum", "e4qe1od2qdi", 0;
+exec dbo.DodajKlientaInd "Lucile", "Aufderhar", "144703547", "1992-12-15", 1, , "Cayman Islands", "South Haleymouth", "71472", "Hammes Causeway", 89, 26, "lucileaufderhar@memail.com", "lucileaufderhar", "dd147znr1uz", 0;
+exec dbo.DodajKlientaInd "Mossie", "Schiller", "532001314", "1974-02-22", 0, , "Syrian Arab Republic", "New Princess", "24527-7925", "Turcotte Trail", 44, 67, "mossieschiller@memail.com", "mossieschiller", "ipx2qfjcxvy", 0;
+exec dbo.DodajKlientaInd "Rocio", "Gutmann", "128705215", "1991-11-18", 0, , "Honduras", "North Gillian", "97917-8785", "Joey Tunnel", 45, 48, "rociogutmann@memail.com", "rociogutmann", "0qb2tmcq0b3", 0;
+exec dbo.DodajKlientaInd "Ezequiel", "Bogisich", "430422789", "1988-05-22", 0, , "Myanmar", "Darrelburgh", "12964-3054", "Rowe Mountains", 36, 42, "ezequielbogisich@memail.com", "ezequielbogisich", "q46w0ol5kf1", 0;
+exec dbo.DodajKlientaInd "Crystel", "Wintheiser", "635950785", "1966-07-06", 1, , "Greece", "Rosinaburgh", "66828", "Franz Club", 95, 28, "crystelwintheiser@memail.com", "crystelwintheiser", "yu2azz2x7g", 0;
+exec dbo.DodajKlientaInd "Olin", "Bechtelar", "381829748", "1988-08-07", 1, 637864, "Bahamas", "Lake Gerhard", "40213", "Moore Dam", 17, 44, "olinbechtelar@memail.com", "olinbechtelar", "j6xx7sw3kle", 0;
+exec dbo.DodajKlientaInd "Gene", "Lynch", "058967570", "1961-09-11", 1, , "Pitcairn Islands", "Gerlachbury", "98047-8417", "Sydni Walks", 14, 2, "genelynch@memail.com", "genelynch", "0xt4w9px6k5", 0;
+exec dbo.DodajKlientaInd "Lilyan", "Blanda", "838276358", "1966-11-12", 0, , "Costa Rica", "South Matteo", "40005", "Dawn Crossing", 76, 32, "lilyanblanda@memail.com", "lilyanblanda", "7n2ym09xdm0", 0;
+exec dbo.DodajKlientaInd "Mekhi", "Cole", "339327153", "1976-06-02", 0, , "Senegal", "New Heberborough", "10234-8299", "Wilson Pine", 89, 86, "mekhicole@memail.com", "mekhicole", "332lfbsl633", 0;
+exec dbo.DodajKlientaInd "Jarred", "Wintheiser", "707668260", "1975-08-31", 1, 331157, "Lebanon", "Lake Ameliafurt", "93959-7846", "Hershel Mills", 82, 37, "jarredwintheiser@memail.com", "jarredwintheiser", "6n8a7n9cm0y", 0;
+exec dbo.DodajKlientaInd "Skyla", "Dietrich", "658363981", "1952-08-10", 1, , "Marshall Islands", "Denesikhaven", "84202", "O'Hara Valleys", 67, 47, "skyladietrich@memail.com", "skyladietrich", "tmq668re5l5", 0;
+exec dbo.DodajKlientaInd "Nestor", "Stracke", "527513231", "1990-03-02", 0, , "Madagascar", "East Mckayla", "60703-6330", "Augusta Roads", 84, 64, "nestorstracke@memail.com", "nestorstracke", "g4jmxd7c5pc", 0;
+exec dbo.DodajKlientaInd "Meggie", "Kling", "262521196", "1970-09-15", 1, , "Heard Island and McDonald Islands", "Yostberg", "99009", "Carson Ranch", 90, 78, "meggiekling@memail.com", "meggiekling", "92yrea6enyh", 0;
+exec dbo.DodajKlientaInd "Jayce", "Moore", "566086765", "1959-02-24", 0, , "Thailand", "South Antoniettaville", "63329-3568", "Torphy Summit", 65, 52, "jaycemoore@memail.com", "jaycemoore", "cdbpyb4rrs", 0;
+exec dbo.DodajKlientaInd "Keaton", "Schultz", "385392584", "1957-08-08", 1, , "Gibraltar", "Port Dougville", "67454-5337", "Terence Spurs", 86, 84, "keatonschultz@memail.com", "keatonschultz", "90ml4z09mfw", 0;
+exec dbo.DodajKlientaInd "Bonnie", "Bergstrom", "561783676", "1965-02-16", 0, , "Cocos (Keeling) Islands", "East Jamilview", "98261-2621", "Moen Wells", 49, 86, "bonniebergstrom@memail.com", "bonniebergstrom", "5h7m4x6p72l", 0;
+exec dbo.DodajKlientaInd "Adolphus", "Braun", "255168349", "1983-01-09", 0, , "Cambodia", "Rautown", "66028", "Amir Ports", 32, 46, "adolphusbraun@memail.com", "adolphusbraun", "sky0xjlstl7", 0;
+exec dbo.DodajKlientaInd "Jaquelin", "Kuhic", "894386210", "1958-09-30", 0, , "Mayotte", "Pierrehaven", "53461", "Camryn Neck", 49, 43, "jaquelinkuhic@memail.com", "jaquelinkuhic", "92e8yzzlc8h", 0;
+exec dbo.DodajKlientaInd "Leon", "Powlowski", "982027548", "1983-11-25", 1, , "Barbados", "North Gayport", "54680", "Kihn Points", 73, 33, "leonpowlowski@memail.com", "leonpowlowski", "phr8rln9l9v", 0;
+exec dbo.DodajKlientaInd "Cooper", "Fadel", "489867243", "1992-05-15", 0, , "Tuvalu", "New Steviefurt", "42915-9056", "Elna Island", 43, 22, "cooperfadel@memail.com", "cooperfadel", "0uni3gltuo6", 0;
+exec dbo.DodajKlientaInd "Cade", "O'Keefe", "170730580", "1995-11-02", 0, , "Equatorial Guinea", "Kenyatown", "32707", "Oren Mountains", 44, 35, "cadeo'keefe@memail.com", "cadeo'keefe", "tne7rq6vjxt", 0;
+exec dbo.DodajKlientaInd "Rico", "Lubowitz", "416633575", "1981-03-24", 0, , "Liechtenstein", "Thelmaport", "38964", "Tyler Circle", 84, 46, "ricolubowitz@memail.com", "ricolubowitz", "ccgdwlpibbk", 0;
+exec dbo.DodajKlientaInd "Miller", "Zemlak", "514784062", "1951-09-14", 1, , "India", "North Nola", "73686", "Herzog Landing", 72, 21, "millerzemlak@memail.com", "millerzemlak", "8wyobezi244", 0;
+exec dbo.DodajKlientaInd "Asa", "Feest", "318289735", "1995-05-24", 0, 961490, "Germany", "Cletaton", "43985", "Hammes Plaza", 77, 19, "asafeest@memail.com", "asafeest", "lnasa1luqer", 0;
+exec dbo.DodajKlientaInd "Marcia", "Romaguera", "367300168", "1965-03-13", 1, , "Heard Island and McDonald Islands", "East Milton", "58265-5884", "Mitchell Coves", 64, 18, "marciaromaguera@memail.com", "marciaromaguera", "r73siwu8hma", 0;
+exec dbo.DodajKlientaInd "Ellie", "Armstrong", "419678432", "1968-12-15", 1, , "Zambia", "Zulaland", "92128-6860", "Walsh Coves", 68, 27, "elliearmstrong@memail.com", "elliearmstrong", "q8dpauf9ms7", 0;
+exec dbo.DodajKlientaInd "Vivien", "Rogahn", "446147915", "1992-04-26", 1, , "Holy See (Vatican City State)", "Bernitaberg", "99598", "Morar Gardens", 83, 27, "vivienrogahn@memail.com", "vivienrogahn", "5lnh06uykz6", 0;
+exec dbo.DodajKlientaInd "Bernard", "Leffler", "466954612", "1981-08-21", 1, , "Bhutan", "North Meredithmouth", "90321-6311", "Tamia Harbor", 84, 64, "bernardleffler@memail.com", "bernardleffler", "bdpr12g3mjg", 0;
+exec dbo.DodajKlientaInd "Nellie", "Wintheiser", "374735331", "1963-07-09", 0, , "Botswana", "New Emiemouth", "31221-5929", "Oberbrunner Glens", 79, 28, "nelliewintheiser@memail.com", "nelliewintheiser", "i2pp8rhp9ao", 0;
+exec dbo.DodajKlientaInd "Major", "Runte", "625661743", "1986-08-06", 0, , "Georgia", "Batzland", "98617", "Lind Spurs", 56, 81, "majorrunte@memail.com", "majorrunte", "88q8eepdif3", 0;
+exec dbo.DodajKlientaInd "Rebekah", "Leuschke", "165168816", "1988-10-22", 0, , "Rwanda", "East Nickolaschester", "80229-1216", "Kayley Walk", 62, 37, "rebekahleuschke@memail.com", "rebekahleuschke", "a9h1fo951em", 0;
+exec dbo.DodajKlientaInd "Katlynn", "DuBuque", "929232977", "1992-03-05", 0, , "Kazakhstan", "South Immanuel", "26939-1875", "Dena Gateway", 23, 69, "katlynndubuque@memail.com", "katlynndubuque", "wu1psby9mnr", 0;
+exec dbo.DodajKlientaInd "Edwin", "McGlynn", "766612533", "1969-02-27", 1, , "Albania", "Jaylonfurt", "12612", "Berge Ways", 25, 55, "edwinmcglynn@memail.com", "edwinmcglynn", "tfsnzbe2ozg", 0;
+exec dbo.DodajKlientaInd "Cara", "Predovic", "654649352", "1966-02-20", 1, , "Samoa", "Jettside", "55253-6614", "Madilyn Ville", 38, 58, "carapredovic@memail.com", "carapredovic", "y5mchx6nmmk", 0;
+exec dbo.DodajKlientaInd "Korey", "Ritchie", "388343224", "1995-12-31", 1, , "Qatar", "East Ettie", "88401", "Steuber Lane", 37, 54, "koreyritchie@memail.com", "koreyritchie", "1hyshk7ycy0", 0;
+exec dbo.DodajKlientaInd "Samantha", "Hayes", "229413224", "1989-12-01", 1, 076552, "Djibouti", "East Harrymouth", "85378", "Halvorson Skyway", 84, 47, "samanthahayes@memail.com", "samanthahayes", "3l1w0oj7xzt", 0;
+exec dbo.DodajKlientaInd "Mathias", "Hagenes", "591678327", "1993-12-15", 1, 179132, "Norfolk Island", "Kertzmannfurt", "13445", "Cristian Valley", 96, 69, "mathiashagenes@memail.com", "mathiashagenes", "mu0js62aeze", 0;
+exec dbo.DodajKlientaInd "Taylor", "Mraz", "164595136", "1979-01-23", 0, , "Germany", "Gulgowskimouth", "48545", "Waters Estates", 22, 31, "taylormraz@memail.com", "taylormraz", "ssnmoovcr2w", 0;
+exec dbo.DodajKlientaInd "Armando", "Smitham", "139156085", "1965-07-06", 1, , "Malta", "Schmelerstad", "91283-3029", "Turcotte Rapid", 6, 89, "armandosmitham@memail.com", "armandosmitham", "v0cg63cmj0t", 0;
+exec dbo.DodajKlientaInd "Rosalind", "Ernser", "215565764", "1958-12-23", 0, , "Ukraine", "Hershelport", "72023-4347", "Cummings Shoals", 16, 20, "rosalindernser@memail.com", "rosalindernser", "kf9mxx54svr", 0;
+exec dbo.DodajKlientaInd "Shad", "Parker", "288416566", "1993-10-12", 1, , "Moldova", "South Nella", "19166-1568", "Amya Islands", 48, 65, "shadparker@memail.com", "shadparker", "ard4z0vwlmq", 0;
+exec dbo.DodajKlientaInd "Daisy", "Stracke", "722143219", "1971-10-08", 1, , "Uganda", "Ayanaborough", "59034", "Schuster Ridges", 76, 13, "daisystracke@memail.com", "daisystracke", "l1zf9d42x1", 0;
+exec dbo.DodajKlientaInd "Delfina", "Gislason", "328297312", "1960-05-22", 0, , "Burundi", "Daughertyburgh", "61821", "Madonna Mill", 27, 85, "delfinagislason@memail.com", "delfinagislason", "o0r0ahfjzyi", 0;
+exec dbo.DodajKlientaInd "Buford", "Sipes", "514857633", "1992-01-28", 1, 007433, "Zambia", "Fayberg", "23790-1882", "Sanford Highway", 44, 44, "bufordsipes@memail.com", "bufordsipes", "pjr3kveeoxp", 0;
+exec dbo.DodajKlientaInd "Travis", "Hansen", "314576988", "1968-10-27", 1, , "Netherlands Antilles", "Port Jessie", "76367", "Stamm Loaf", 87, 63, "travishansen@memail.com", "travishansen", "u19s7owdo0", 0;
+exec dbo.DodajKlientaInd "Bradly", "Johnston", "815842304", "1958-08-04", 0, 832378, "Pitcairn Islands", "South Edmundfurt", "45326", "Hyatt Dale", 22, 2, "bradlyjohnston@memail.com", "bradlyjohnston", "bqdrdp770tp", 0;
+exec dbo.DodajKlientaInd "Jayce", "Russel", "121761892", "1968-03-25", 0, , "Mauritius", "Augustusborough", "24166", "Wolf Flats", 38, 59, "jaycerussel@memail.com", "jaycerussel", "4meaju105zp", 0;
+exec dbo.DodajKlientaInd "Camilla", "Gaylord", "642638642", "1974-04-22", 0, , "Mexico", "South Sisterberg", "26065-0708", "Grayce Flat", 17, 66, "camillagaylord@memail.com", "camillagaylord", "afgg5nqb3by", 0;
+exec dbo.DodajKlientaInd "Katrine", "Wilderman", "125843203", "1984-03-13", 1, , "Switzerland", "Drakeburgh", "39686-9297", "Hettinger Cliffs", 54, 75, "katrinewilderman@memail.com", "katrinewilderman", "uel7ajt54xf", 0;
+exec dbo.DodajKlientaInd "Brett", "Lang", "370593348", "1964-07-28", 0, , "Ghana", "Jakubowskifort", "47493", "Adrain Inlet", 73, 52, "brettlang@memail.com", "brettlang", "fhxwntfor2d", 0;
+exec dbo.DodajKlientaInd "Carmel", "Kessler", "815756221", "1991-03-19", 0, , "El Salvador", "West Marisa", "59374-0726", "Paucek Circle", 71, 58, "carmelkessler@memail.com", "carmelkessler", "chp3si73s3z", 0;
+exec dbo.DodajKlientaInd "Garnett", "Schulist", "881688826", "1974-12-28", 1, 668517, "Fiji", "Port Norbertofort", "56524", "Tyrique Square", 63, 20, "garnettschulist@memail.com", "garnettschulist", "qfk0jamxupm", 0;
+exec dbo.DodajKlientaInd "Brianne", "Windler", "077800241", "1959-03-30", 0, , "Saint Martin", "New Reuben", "72644", "Wisoky Viaduct", 53, 86, "briannewindler@memail.com", "briannewindler", "9x45anhul15", 0;
+exec dbo.DodajKlientaInd "Eden", "Abshire", "244771638", "1968-12-30", 0, , "Burundi", "Israelmouth", "91728", "Blanda Expressway", 86, 56, "edenabshire@memail.com", "edenabshire", "49hz0mjkvuf", 0;
+exec dbo.DodajKlientaInd "Hailie", "Ferry", "776041289", "1964-12-26", 0, , "Antigua and Barbuda", "Port Marilou", "16743", "O'Reilly Roads", 87, 23, "hailieferry@memail.com", "hailieferry", "ekwkua9br3m", 0;
+exec dbo.DodajKlientaInd "Emmet", "Gibson", "427287604", "1985-04-06", 0, , "Luxembourg", "Hayeston", "50615-4263", "Simone Haven", 14, 49, "emmetgibson@memail.com", "emmetgibson", "2boctdq3qml", 0;
+exec dbo.DodajKlientaInd "Nikolas", "Huels", "945362578", "1977-07-16", 1, , "Jordan", "Bridieton", "51129-3710", "McLaughlin Dale", 75, 18, "nikolashuels@memail.com", "nikolashuels", "6bppv6tu5os", 0;
+exec dbo.DodajKlientaInd "Viola", "Barton", "432836375", "1970-05-12", 0, , "Luxembourg", "Herthafurt", "91235", "Jordon Tunnel", 19, 98, "violabarton@memail.com", "violabarton", "0g3tq4iayt5", 0;
+exec dbo.DodajKlientaInd "Juliet", "Block", "374979384", "1985-12-24", 0, , "Lesotho", "Framiport", "96838", "Paucek Lock", 47, 85, "julietblock@memail.com", "julietblock", "6j4joj6iil", 0;
+exec dbo.DodajKlientaInd "Rosendo", "Marvin", "165107764", "1982-09-18", 0, , "Luxembourg", "South Carlostown", "75539", "Mayer Circles", 29, 77, "rosendomarvin@memail.com", "rosendomarvin", "xc1furp1sfq", 0;
+exec dbo.DodajKlientaInd "Richie", "Terry", "734232410", "1989-07-04", 0, , "Guatemala", "South Georgianna", "94334", "Kreiger Mountains", 37, 93, "richieterry@memail.com", "richieterry", "6vizazqp50k", 0;
+exec dbo.DodajKlientaInd "Elouise", "Stiedemann", "154676377", "1952-04-12", 0, , "Sudan", "East Abeborough", "69621-4356", "Klocko Hills", 30, 75, "elouisestiedemann@memail.com", "elouisestiedemann", "5s6qedaa13", 0;
+exec dbo.DodajKlientaInd "Ludwig", "Bode", "877538647", "1963-02-18", 0, , "Saint Martin", "South Kadenville", "56595", "Anais Hill", 71, 87, "ludwigbode@memail.com", "ludwigbode", "koq8q2cmg06", 0;
+exec dbo.DodajKlientaInd "Gerda", "Feest", "588669301", "1991-11-04", 0, , "American Samoa", "New Tiara", "75922", "Arvilla Common", 71, 41, "gerdafeest@memail.com", "gerdafeest", "o2wz4y5xdpl", 0;
+exec dbo.DodajKlientaInd "Maria", "Collins", "423218888", "1957-05-21", 1, , "Mali", "New Enid", "37839-7793", "Haley Mill", 62, 95, "mariacollins@memail.com", "mariacollins", "nw61k141bo", 0;
+exec dbo.DodajKlientaInd "Kyler", "Kshlerin", "185829648", "1980-08-18", 0, , "Uzbekistan", "Zackaryfort", "39826", "Gislason Points", 68, 48, "kylerkshlerin@memail.com", "kylerkshlerin", "5cx286f6l6o", 0;
+exec dbo.DodajKlientaInd "Carli", "Schmidt", "451248268", "1969-08-10", 1, , "Cook Islands", "Sabrynahaven", "87296", "Spencer Hills", 49, 54, "carlischmidt@memail.com", "carlischmidt", "h006z57i00j", 0;
+exec dbo.DodajKlientaInd "Alford", "Murray", "623515406", "1953-01-25", 0, , "Maldives", "East D'angelo", "51227", "Zieme Bypass", 1, 31, "alfordmurray@memail.com", "alfordmurray", "zal231pjbd3", 0;
+exec dbo.DodajKlientaInd "Mia", "Heaney", "718443831", "1984-02-15", 1, 393734, "Uruguay", "Port Mayashire", "74569", "Arch Port", 56, 56, "miaheaney@memail.com", "miaheaney", "q16z95jprwr", 0;
+exec dbo.DodajKlientaInd "Constance", "Quigley", "790347487", "1994-12-23", 0, , "Netherlands Antilles", "Schadenton", "28176", "Cormier Road", 15, 57, "constancequigley@memail.com", "constancequigley", "omga2e3z7w0", 0;
+exec dbo.DodajKlientaInd "Thea", "Harber", "313449931", "1987-01-16", 1, 543871, "Dominica", "Schimmelmouth", "74864", "Carroll Center", 63, 37, "theaharber@memail.com", "theaharber", "0bnkzjsbv9o", 0;
+exec dbo.DodajKlientaInd "Fiona", "Murphy", "775867725", "1980-11-24", 0, 357320, "Portugal", "West Rubyfort", "39108", "Kertzmann Harbors", 14, 43, "fionamurphy@memail.com", "fionamurphy", "cp4m94h4730", 0;
+exec dbo.DodajKlientaInd "Mazie", "Aufderhar", "852477126", "1991-03-25", 1, , "Peru", "West Tiafurt", "90713", "Toby Neck", 79, 55, "mazieaufderhar@memail.com", "mazieaufderhar", "xdbapvtqa0", 0;
+exec dbo.DodajKlientaInd "Vincent", "Robel", "679278173", "1980-01-30", 1, , "Syrian Arab Republic", "Nashside", "11325", "Spencer Lock", 29, 88, "vincentrobel@memail.com", "vincentrobel", "iyi4k0g5v0", 0;
+exec dbo.DodajKlientaInd "Earlene", "Parker", "763236136", "1990-05-31", 0, , "Cameroon", "North Francoville", "13543", "Kozey Squares", 3, 73, "earleneparker@memail.com", "earleneparker", "fg2ekntp4df", 0;
+exec dbo.DodajKlientaInd "Curtis", "Prosacco", "128649311", "1972-07-17", 1, 739351, "Grenada", "New Ezekiel", "45407", "Schultz Ridges", 13, 65, "curtisprosacco@memail.com", "curtisprosacco", "wg23sm0l9nz", 0;
+exec dbo.DodajKlientaInd "Orie", "Gottlieb", "445875763", "1970-02-01", 1, , "Gambia", "East Adaside", "16351-5364", "Cole Drive", 12, 62, "oriegottlieb@memail.com", "oriegottlieb", "lgg4kotgd4o", 0;
+exec dbo.DodajKlientaInd "Laurel", "Streich", "312176410", "1969-10-23", 1, , "Haiti", "New Gerardoborough", "15167-0940", "Dibbert Parkways", 45, 67, "laurelstreich@memail.com", "laurelstreich", "vkl1urroee8", 0;
+exec dbo.DodajKlientaInd "Zelma", "VonRueden", "075032875", "1953-12-22", 1, , "Sweden", "Creminshire", "52723", "Turcotte Mount", 39, 100, "zelmavonrueden@memail.com", "zelmavonrueden", "l9arxww6i0k", 0;
+exec dbo.DodajKlientaInd "Carlo", "Schneider", "382778751", "1953-04-11", 1, , "Israel", "Sawaynton", "71955", "Garry Mews", 12, 76, "carloschneider@memail.com", "carloschneider", "o8mwrg4r2m9", 0;
+exec dbo.DodajKlientaInd "Kenna", "Fisher", "184261259", "1993-07-10", 1, , "Cocos (Keeling) Islands", "New Columbusmouth", "22609-5564", "Waldo Isle", 54, 75, "kennafisher@memail.com", "kennafisher", "lhtdwtdzwpb", 0;
+exec dbo.DodajKlientaInd "Marcellus", "Kub", "388281126", "1974-10-12", 1, 186474, "Montserrat", "Freddiemouth", "20649", "Dibbert Port", 42, 63, "marcelluskub@memail.com", "marcelluskub", "rituysv7wul", 0;
+exec dbo.DodajKlientaInd "Kianna", "Schiller", "088334616", "1962-10-20", 0, , "Belgium", "Mariannamouth", "20128-9764", "Myrtie Knolls", 39, 62, "kiannaschiller@memail.com", "kiannaschiller", "g3uf0lbik9f", 0;
+exec dbo.DodajKlientaInd "Alexandro", "Leannon", "878132358", "1958-04-03", 1, , "Bhutan", "East Dale", "43847", "Heidenreich Estates", 67, 14, "alexandroleannon@memail.com", "alexandroleannon", "8qiqykkzza7", 0;
+exec dbo.DodajKlientaInd "Sunny", "Weber", "523284241", "1990-11-01", 0, , "Lesotho", "Angusbury", "21316-8256", "Manuel Pines", 84, 52, "sunnyweber@memail.com", "sunnyweber", "4pwff8edf6z", 0;
+exec dbo.DodajKlientaInd "Bryana", "Bartell", "762624375", "1983-05-11", 0, , "Mali", "West Jadonport", "91092", "Quigley Plaza", 57, 85, "bryanabartell@memail.com", "bryanabartell", "piakw98o515", 0;
+exec dbo.DodajKlientaInd "Ariel", "Keebler", "302311480", "1967-12-13", 1, , "Lithuania", "Lupebury", "74705-2129", "Gleichner Ridge", 34, 65, "arielkeebler@memail.com", "arielkeebler", "nrj4ef4k3jy", 0;
+exec dbo.DodajKlientaInd "Clotilde", "Erdman", "286919612", "1959-03-23", 1, , "Norway", "East Hannaville", "79759", "Grant Parkway", 82, 73, "clotildeerdman@memail.com", "clotildeerdman", "omw0foafr9m", 0;
+exec dbo.DodajKlientaInd "Missouri", "Haag", "287296511", "1979-02-02", 0, , "Palestinian Territory", "Willmsfort", "16539-1589", "Twila Glen", 38, 33, "missourihaag@memail.com", "missourihaag", "wl7a0lkdrwz", 0;
+exec dbo.DodajKlientaInd "Trent", "Dach", "525839575", "1962-10-12", 1, , "Saint Barthelemy", "South Jimmie", "40703", "Dietrich Keys", 87, 84, "trentdach@memail.com", "trentdach", "gbqihxhb2q2", 0;
+exec dbo.DodajKlientaInd "Laron", "Sipes", "025378822", "1950-08-21", 1, , "Uzbekistan", "Barrowsside", "16610", "Gino Valleys", 56, 79, "laronsipes@memail.com", "laronsipes", "8tbbipqe500", 0;
+exec dbo.DodajKlientaInd "Merl", "Weber", "640620612", "1989-05-17", 0, , "Suriname", "North Shanie", "79695-8626", "Nicolas Plaza", 19, 94, "merlweber@memail.com", "merlweber", "l86zc2i3fxd", 0;
+exec dbo.DodajKlientaInd "Kaden", "Becker", "886468576", "1972-12-22", 0, , "Philippines", "Davistown", "13177", "Breitenberg Underpass", 15, 59, "kadenbecker@memail.com", "kadenbecker", "7u8mtoikfq3", 0;
+exec dbo.DodajKlientaInd "Gillian", "Shanahan", "412934112", "1969-10-16", 0, , "Angola", "North Erichside", "93955-5108", "Dickinson Locks", 26, 12, "gillianshanahan@memail.com", "gillianshanahan", "ly5j9qlwk5k", 0;
+exec dbo.DodajKlientaInd "Meaghan", "Barton", "964882463", "1996-11-04", 1, , "Montserrat", "Feestport", "11158", "Wiegand Knolls", 79, 58, "meaghanbarton@memail.com", "meaghanbarton", "rjst4tuuy0d", 0;
+exec dbo.DodajKlientaInd "Ernesto", "Kunze", "362407462", "1977-01-13", 1, , "Kenya", "East Joyce", "94526", "Koss Burg", 76, 44, "ernestokunze@memail.com", "ernestokunze", "ma78dmmcj31", 0;
+exec dbo.DodajKlientaInd "Euna", "Ward", "155320237", "1979-05-15", 0, , "Czech Republic", "North Burleymouth", "17114-6058", "Noah Spring", 70, 27, "eunaward@memail.com", "eunaward", "vt3ad7ooxf3", 0;
+exec dbo.DodajKlientaInd "Derrick", "Roob", "544383817", "1959-04-24", 0, , "Burkina Faso", "Hanemouth", "24388", "Stanton Forge", 37, 58, "derrickroob@memail.com", "derrickroob", "pd8yhcwglss", 0;
+exec dbo.DodajKlientaInd "Maxime", "Nader", "464264567", "1982-03-23", 1, , "Chile", "Port Lilliemouth", "66615", "Dock Prairie", 98, 17, "maximenader@memail.com", "maximenader", "x59djbosfax", 0;
+exec dbo.DodajKlientaInd "Major", "Lang", "341452691", "1957-12-31", 1, , "Mauritius", "Bartolettiton", "97566-8694", "Moen Fort", 3, 37, "majorlang@memail.com", "majorlang", "65ew1beo8su", 0;
+exec dbo.DodajKlientaInd "Ibrahim", "Kovacek", "634455583", "1969-05-20", 1, , "Finland", "North Edna", "62837", "Elton Brook", 73, 2, "ibrahimkovacek@memail.com", "ibrahimkovacek", "fy0q84fodsh", 0;
+exec dbo.DodajKlientaInd "Ephraim", "Welch", "650121160", "1988-06-10", 1, , "Pitcairn Islands", "East Charlottetown", "88815", "Astrid Plains", 73, 15, "ephraimwelch@memail.com", "ephraimwelch", "xwi1a4lzjs6", 0;
+exec dbo.DodajKlientaInd "Lucious", "Gorczany", "266101225", "1955-08-17", 1, , "Palau", "Lake Osborneshire", "67217", "Maida Oval", 92, 17, "luciousgorczany@memail.com", "luciousgorczany", "lnf0yn22994", 0;
+exec dbo.DodajKlientaInd "Christiana", "Daniel", "741475733", "1988-05-17", 0, , "Rwanda", "Rhettview", "12198", "West Haven", 63, 64, "christianadaniel@memail.com", "christianadaniel", "x5dgflvdd8m", 0;
+exec dbo.DodajKlientaInd "Melany", "Murray", "817567758", "1960-04-21", 1, , "United Kingdom", "East Casper", "29861-5747", "Christiana Fords", 89, 18, "melanymurray@memail.com", "melanymurray", "m0saan7kg15", 0;
+exec dbo.DodajKlientaInd "Gerard", "Bradtke", "245621792", "1951-05-17", 0, 814383, "Tonga", "Jimmieside", "60442-0630", "Fisher Green", 28, 65, "gerardbradtke@memail.com", "gerardbradtke", "yjqhgts6os2", 0;
+exec dbo.DodajKlientaInd "Bailee", "Gerlach", "885921883", "1962-09-29", 1, , "Oman", "East Durward", "19740", "Kiarra Harbor", 16, 27, "baileegerlach@memail.com", "baileegerlach", "6gzxt7y1wn2", 0;
+exec dbo.DodajKlientaInd "Alessia", "Wisoky", "273760429", "1955-01-21", 1, , "Cyprus", "Port Minnie", "79106", "Olaf Fork", 63, 15, "alessiawisoky@memail.com", "alessiawisoky", "coc8ndb66ab", 0;
+exec dbo.DodajKlientaInd "Zachariah", "Bahringer", "209714825", "1968-02-07", 0, , "Uruguay", "Mertzchester", "99894-3934", "Schimmel Village", 67, 47, "zachariahbahringer@memail.com", "zachariahbahringer", "5s82he8qlim", 0;
+exec dbo.DodajKlientaInd "Johnny", "Jones", "869316521", "1996-07-03", 1, , "Philippines", "Leopoldoborough", "80922", "Kurtis Terrace", 50, 27, "johnnyjones@memail.com", "johnnyjones", "3f54yvoxvo9", 0;
+exec dbo.DodajKlientaInd "Marty", "Jaskolski", "714751032", "1963-10-09", 0, , "Tuvalu", "South Thaliaville", "88194", "Willms Expressway", 19, 75, "martyjaskolski@memail.com", "martyjaskolski", "zb493wjlq5", 0;
+exec dbo.DodajKlientaInd "Brandon", "Kiehn", "942567498", "1979-07-20", 0, , "Sudan", "Malvinaton", "93849-3782", "Purdy Prairie", 55, 15, "brandonkiehn@memail.com", "brandonkiehn", "ek78q8aa52w", 0;
+exec dbo.DodajKlientaInd "Sonia", "Fay", "578624458", "1981-08-04", 1, , "Honduras", "Alvahberg", "84168", "Corwin Village", 46, 55, "soniafay@memail.com", "soniafay", "axdpdzc24e9", 0;
+exec dbo.DodajKlientaInd "Gustave", "Hintz", "779632843", "1980-04-23", 1, 187625, "Bouvet Island (Bouvetoya)", "Neldahaven", "21583", "Mante Expressway", 42, 2, "gustavehintz@memail.com", "gustavehintz", "1naccr6g3o", 0;
+exec dbo.DodajKlientaInd "Luis", "Shields", "242601757", "1987-12-08", 1, , "Albania", "West Maegan", "86595", "Kaylie Prairie", 6, 56, "luisshields@memail.com", "luisshields", "eqm4t86t8v", 0;
+exec dbo.DodajKlientaInd "Shanna", "Nienow", "673829173", "1984-01-01", 0, , "Luxembourg", "Lake Manuel", "38011-2573", "Gorczany Loaf", 68, 1, "shannanienow@memail.com", "shannanienow", "u00eu0l1a32", 0;
+exec dbo.DodajKlientaInd "Antonio", "Jenkins", "241433556", "1990-04-08", 0, , "Bosnia and Herzegovina", "Jaskolskiland", "32090-9719", "Dominic Streets", 89, 66, "antoniojenkins@memail.com", "antoniojenkins", "yim1uh1v6l3", 0;
+exec dbo.DodajKlientaInd "Bud", "Stanton", "481601931", "1972-05-25", 0, , "New Zealand", "Pfefferburgh", "43816", "Beatty Ramp", 64, 76, "budstanton@memail.com", "budstanton", "d1bi5n4j9ic", 0;
+exec dbo.DodajKlientaInd "Carlee", "Robel", "872286841", "1957-12-16", 1, , "Cyprus", "Lake Lafayette", "50919", "Kallie Highway", 75, 58, "carleerobel@memail.com", "carleerobel", "4w0p50rvkiq", 0;
+exec dbo.DodajKlientaInd "Lessie", "Hyatt", "324124919", "1962-06-09", 0, 678055, "Chile", "Port Loisburgh", "20318-1348", "Bosco Wells", 88, 72, "lessiehyatt@memail.com", "lessiehyatt", "5rkp2if23w6", 0;
+exec dbo.DodajKlientaInd "Carrie", "Weber", "412195801", "1983-11-03", 1, , "Russian Federation", "South Gilesberg", "86775-3900", "Madie Mountains", 71, 26, "carrieweber@memail.com", "carrieweber", "wd7h6mrkyyt", 0;
+exec dbo.DodajKlientaInd "Karlee", "Brown", "335333854", "1988-04-18", 0, , "Mayotte", "North Josephineborough", "61483", "Julia Squares", 79, 64, "karleebrown@memail.com", "karleebrown", "93vwc1ds0qh", 0;
+exec dbo.DodajKlientaInd "Nikki", "Rippin", "705746374", "1953-12-29", 0, , "Papua New Guinea", "Lennyfort", "14981", "Feil Corner", 41, 33, "nikkirippin@memail.com", "nikkirippin", "qftlwdjppts", 0;
+exec dbo.DodajKlientaInd "Edythe", "Pfeffer", "869537138", "1969-08-13", 1, , "Bahrain", "South Gracieport", "64294-7576", "Lauren Pike", 84, 32, "edythepfeffer@memail.com", "edythepfeffer", "eril2b34j69", 0;
+exec dbo.DodajKlientaInd "Nellie", "Reinger", "688863407", "1950-10-12", 1, , "Anguilla", "Kiehnbury", "67114", "Howell Skyway", 25, 12, "nelliereinger@memail.com", "nelliereinger", "fehwoaxl0x4", 0;
+exec dbo.DodajKlientaInd "Lyda", "Labadie", "463377246", "1984-07-04", 0, , "Guatemala", "New Malikaberg", "24022", "Madisen Unions", 19, 55, "lydalabadie@memail.com", "lydalabadie", "qc419nqxrjh", 0;
+exec dbo.DodajKlientaInd "Weldon", "Little", "152751575", "1966-02-07", 0, , "Denmark", "Palmaberg", "35462", "Aditya Keys", 82, 17, "weldonlittle@memail.com", "weldonlittle", "as9xx4joy6t", 0;
+exec dbo.DodajKlientaInd "Breanne", "Murazik", "131811426", "1980-06-04", 1, , "Italy", "East Keenanview", "75747", "Wyman Mall", 20, 73, "breannemurazik@memail.com", "breannemurazik", "hxkxo81cl8u", 0;
+exec dbo.DodajKlientaInd "Alvera", "Weissnat", "199164892", "1958-05-10", 1, , "Reunion", "North Kelley", "47747-1786", "Stokes Fords", 55, 45, "alveraweissnat@memail.com", "alveraweissnat", "eovgjheophv", 0;
+exec dbo.DodajKlientaInd "Ezequiel", "Johnston", "928334961", "1962-02-08", 0, , "Holy See (Vatican City State)", "Port Colin", "51680-9366", "Runolfsdottir Garden", 99, 29, "ezequieljohnston@memail.com", "ezequieljohnston", "jrdme65px2r", 0;
+exec dbo.DodajKlientaInd "Daniela", "Willms", "228159743", "1952-07-22", 0, , "Australia", "Bonitaside", "87221", "Powlowski Vista", 58, 67, "danielawillms@memail.com", "danielawillms", "0yzncmqlcdk", 0;
+exec dbo.DodajKlientaInd "Julie", "Dach", "742475851", "1973-04-16", 0, , "Austria", "West Linneaborough", "44784-5615", "Lucie Mall", 26, 25, "juliedach@memail.com", "juliedach", "b76g957pjiz", 0;
+exec dbo.DodajKlientaInd "Sophie", "Nicolas", "086365570", "1953-01-13", 1, , "Faroe Islands", "Creminside", "58777", "Harry Mills", 9, 77, "sophienicolas@memail.com", "sophienicolas", "ipia4yzczmy", 0;
+exec dbo.DodajKlientaInd "Audra", "Okuneva", "687441935", "1964-11-26", 1, , "Thailand", "Lake Gerald", "93265", "Bruen Corner", 28, 28, "audraokuneva@memail.com", "audraokuneva", "nvitfrjl75o", 0;
+exec dbo.DodajKlientaInd "Bryon", "Stanton", "226811065", "1979-10-01", 1, 134366, "Swaziland", "West Mohammadhaven", "33003", "Margarett Isle", 63, 20, "bryonstanton@memail.com", "bryonstanton", "j6h8pzufoe", 0;
+exec dbo.DodajKlientaInd "Judah", "Bahringer", "738452546", "1987-09-19", 1, , "Nepal", "Farrelltown", "69521", "Crooks Shoals", 62, 89, "judahbahringer@memail.com", "judahbahringer", "gpvszai1j1u", 0;
+exec dbo.DodajKlientaInd "Afton", "Williamson", "179013238", "1983-06-27", 0, , "Uruguay", "Barneyside", "56297-4018", "Larkin Junction", 78, 76, "aftonwilliamson@memail.com", "aftonwilliamson", "aowx295q80f", 0;
+exec dbo.DodajKlientaInd "Gilbert", "Connelly", "821839348", "1956-05-23", 0, , "Albania", "Pabloview", "45255", "Treva Park", 67, 43, "gilbertconnelly@memail.com", "gilbertconnelly", "erw2dm76pj5", 0;
+exec dbo.DodajKlientaInd "Alta", "Ebert", "872122339", "1990-03-09", 1, , "Myanmar", "Schaefershire", "45695-6089", "Jerde Row", 63, 39, "altaebert@memail.com", "altaebert", "6ivr4gx3rmz", 0;
+exec dbo.DodajKlientaInd "Roslyn", "Heaney", "214438105", "1952-09-17", 1, , "Dominican Republic", "Corrineberg", "31266", "Vinnie Harbors", 61, 29, "roslynheaney@memail.com", "roslynheaney", "zljxth3xhiv", 0;
+exec dbo.DodajKlientaInd "Leanne", "Stanton", "521890700", "1977-12-24", 1, , "Malta", "Port Rosanna", "80070-3546", "Feil Divide", 37, 70, "leannestanton@memail.com", "leannestanton", "doobequmeup", 0;
+exec dbo.DodajKlientaInd "Brannon", "Block", "210349428", "1983-02-05", 1, , "Azerbaijan", "South Pamelaborough", "79216", "Doris Fords", 18, 47, "brannonblock@memail.com", "brannonblock", "90sxm08z1v", 0;
+exec dbo.DodajKlientaInd "Carter", "Williamson", "366292941", "1954-08-05", 0, , "Poland", "New Sashabury", "42222", "Modesto Fall", 63, 92, "carterwilliamson@memail.com", "carterwilliamson", "jk2s5gh7beg", 0;
+exec dbo.DodajKlientaInd "Serena", "Braun", "896220561", "1951-07-31", 1, , "Albania", "Jonesland", "11746-2793", "Antwon Road", 13, 87, "serenabraun@memail.com", "serenabraun", "960wgvlkqs", 0;
+exec dbo.DodajKlientaInd "Jerrold", "Bartoletti", "312455414", "1956-09-08", 0, , "Tunisia", "Darleneview", "78678", "Romaguera Squares", 69, 80, "jerroldbartoletti@memail.com", "jerroldbartoletti", "74z942x4ypr", 0;
+exec dbo.DodajKlientaInd "Tad", "Lynch", "311556898", "1956-06-27", 0, , "Japan", "East Kassandraport", "18750", "Miller Loaf", 43, 87, "tadlynch@memail.com", "tadlynch", "gei681834c", 0;
+exec dbo.DodajKlientaInd "Mariane", "Bernhard", "810738583", "1959-08-29", 0, , "Albania", "Lake Delphia", "52497", "Novella Streets", 32, 58, "marianebernhard@memail.com", "marianebernhard", "kpcpmd16rp1", 0;
+exec dbo.DodajKlientaInd "Rosanna", "McLaughlin", "128747358", "1994-07-28", 0, , "Kenya", "East Preston", "18782", "Rosalia Key", 26, 15, "rosannamclaughlin@memail.com", "rosannamclaughlin", "zuaeyfz23j4", 0;
+exec dbo.DodajKlientaInd "Jayce", "Ebert", "222561809", "1996-08-22", 0, , "Kenya", "Filibertomouth", "62287", "Candace Well", 61, 22, "jayceebert@memail.com", "jayceebert", "lzaz95nfrdc", 0;
+exec dbo.DodajKlientaInd "Ubaldo", "Wolff", "833423438", "1985-09-01", 0, , "Micronesia", "Spinkaview", "26743-8656", "Tristian Underpass", 72, 78, "ubaldowolff@memail.com", "ubaldowolff", "nzkqti3byd", 0;
+exec dbo.DodajKlientaInd "Noah", "Fisher", "966571717", "1984-01-10", 0, , "Mayotte", "Hettingerside", "54834", "Colin Bridge", 45, 34, "noahfisher@memail.com", "noahfisher", "s2oky5cczfl", 0;
+exec dbo.DodajKlientaInd "Bernadette", "Kuhlman", "247341653", "1971-10-13", 1, , "Latvia", "Huelhaven", "62882", "Letitia Route", 35, 84, "bernadettekuhlman@memail.com", "bernadettekuhlman", "fyhifx20pe", 0;
+exec dbo.DodajKlientaInd "Annetta", "Walter", "663455622", "1981-06-12", 1, 621604, "Cote d'Ivoire", "Ceceliastad", "79942", "Waelchi Ways", 58, 87, "annettawalter@memail.com", "annettawalter", "y1k9hpe12d2", 0;
+exec dbo.DodajKlientaInd "Winifred", "Hamill", "872454761", "1979-03-24", 0, , "Mayotte", "Consueloland", "40330", "Brakus Place", 48, 64, "winifredhamill@memail.com", "winifredhamill", "jhj6ad3sf9g", 0;
+exec dbo.DodajKlientaInd "Lisandro", "Hickle", "845750685", "1990-07-27", 0, 347162, "Lebanon", "South Nia", "86203-6824", "Fausto Port", 92, 74, "lisandrohickle@memail.com", "lisandrohickle", "8zknsqfca6n", 0;
+exec dbo.DodajKlientaInd "Arthur", "Lind", "487980584", "1962-01-12", 0, 992442, "Liechtenstein", "West Germanton", "54336", "King Flats", 15, 43, "arthurlind@memail.com", "arthurlind", "se5vzw8o5uz", 0;
+exec dbo.DodajKlientaInd "Pat", "Hansen", "142089277", "1953-09-26", 0, , "Saint Helena", "South Asaburgh", "55131", "Walker Manors", 17, 34, "pathansen@memail.com", "pathansen", "a3kluwika9v", 0;
+exec dbo.DodajKlientaInd "Maud", "Hessel", "469154173", "1989-03-02", 1, , "Guatemala", "South Nanniefort", "88825-5668", "Zachary Mountains", 49, 66, "maudhessel@memail.com", "maudhessel", "n20ysncc94y", 0;
+exec dbo.DodajKlientaInd "Orville", "Ernser", "820812720", "1966-04-13", 1, , "Guinea-Bissau", "Justinahaven", "45126", "Konopelski Lock", 71, 69, "orvilleernser@memail.com", "orvilleernser", "4kcgizxwjnt", 0;
+exec dbo.DodajKlientaInd "Hiram", "Kutch", "423333966", "1955-03-06", 1, , "Serbia", "New Hiltonchester", "52793-7278", "Gottlieb Streets", 15, 55, "hiramkutch@memail.com", "hiramkutch", "iemdj4kh6c4", 0;
+exec dbo.DodajKlientaInd "Keira", "Turner", "794640567", "1953-01-22", 1, , "Puerto Rico", "Funkview", "73837-8371", "Baby Village", 26, 35, "keiraturner@memail.com", "keiraturner", "c1rk0gh0gfg", 0;
+exec dbo.DodajKlientaInd "Kevin", "Steuber", "353845422", "1977-04-12", 1, , "Sweden", "North Lucius", "49440", "Lonie Expressway", 22, 38, "kevinsteuber@memail.com", "kevinsteuber", "7t02teymdsg", 0;
+exec dbo.DodajKlientaInd "Keven", "Monahan", "430951316", "1980-01-10", 1, , "Sao Tome and Principe", "New Amos", "62679-2951", "Buckridge Prairie", 2, 93, "kevenmonahan@memail.com", "kevenmonahan", "axyp5ngsdwt", 0;
+exec dbo.DodajKlientaInd "Faye", "Kessler", "177446704", "1988-05-25", 0, , "Eritrea", "Vandervortshire", "38043-4580", "Stanton Burg", 58, 13, "fayekessler@memail.com", "fayekessler", "4tj3uvsyiwu", 0;
+exec dbo.DodajKlientaInd "Garrison", "Walter", "166134476", "1975-03-08", 1, , "Virgin Islands, U.S.", "South Dillontown", "26011", "Jessie Trail", 86, 62, "garrisonwalter@memail.com", "garrisonwalter", "wa19yti9k9m", 0;
+exec dbo.DodajKlientaInd "Thora", "Zieme", "067384785", "1959-01-23", 0, , "Cote d'Ivoire", "Vandervortland", "10920-1929", "Brown Parkways", 72, 49, "thorazieme@memail.com", "thorazieme", "ktdl1c1hg89", 0;
+exec dbo.DodajKlientaInd "Jasen", "Christiansen", "314183088", "1973-10-18", 1, , "Norfolk Island", "Pedroberg", "77798", "Kieran Cape", 47, 66, "jasenchristiansen@memail.com", "jasenchristiansen", "98m20tmjdk", 0;
+exec dbo.DodajKlientaInd "Brandy", "Rohan", "294234211", "1988-03-20", 0, 121366, "Tokelau", "New Catalina", "25824-8869", "Reichert Port", 88, 23, "brandyrohan@memail.com", "brandyrohan", "bchwnxtlokf", 0;
+exec dbo.DodajKlientaInd "Ryann", "Lesch", "163360149", "1982-06-03", 0, , "Turkmenistan", "Bobbiestad", "14144", "Harber Oval", 17, 19, "ryannlesch@memail.com", "ryannlesch", "0dt1cc2gjdj", 0;
+exec dbo.DodajKlientaInd "Nathanael", "Kuhic", "485001484", "1966-09-17", 1, , "Guinea", "North Horaceshire", "60827-8912", "Christiansen Plain", 11, 38, "nathanaelkuhic@memail.com", "nathanaelkuhic", "3x60vcg5z8e", 0;
+exec dbo.DodajKlientaInd "Boris", "Swaniawski", "013168226", "1972-01-27", 1, 276625, "Cook Islands", "New Isaiasmouth", "61819", "Lyda Unions", 43, 17, "borisswaniawski@memail.com", "borisswaniawski", "dm3nq6p46da", 0;
+exec dbo.DodajKlientaInd "Korbin", "Runte", "653108152", "1960-05-26", 1, , "Micronesia", "New William", "98800-3022", "Schinner Lakes", 35, 84, "korbinrunte@memail.com", "korbinrunte", "1p6b69qw5s4", 0;
+exec dbo.DodajKlientaInd "Hudson", "Brown", "444131770", "1974-09-14", 1, , "Liberia", "North Rebecaberg", "60473-2646", "Schaden Islands", 23, 32, "hudsonbrown@memail.com", "hudsonbrown", "gawxzi5nsdc", 0;
+exec dbo.DodajKlientaInd "Mollie", "Labadie", "361638532", "1954-03-16", 0, , "French Guiana", "South Lornamouth", "13917", "Edward Track", 87, 86, "mollielabadie@memail.com", "mollielabadie", "a04n1s2otst", 0;
+exec dbo.DodajKlientaInd "Stephania", "Hintz", "788726792", "1973-01-27", 1, 217322, "Jordan", "East Nicklausborough", "41095", "Godfrey Lakes", 17, 58, "stephaniahintz@memail.com", "stephaniahintz", "29579zgsvhu", 0;
+exec dbo.DodajKlientaInd "Ashlee", "Pfannerstill", "455347608", "1961-02-12", 1, , "Tanzania", "West Mafalda", "68395-0010", "Pedro Green", 44, 49, "ashleepfannerstill@memail.com", "ashleepfannerstill", "2p1jx0wylxg", 0;
+exec dbo.DodajKlientaInd "Vicente", "Harvey", "124728614", "1956-06-27", 1, , "Norfolk Island", "Rettafurt", "71660", "Dare Mount", 55, 94, "vicenteharvey@memail.com", "vicenteharvey", "91afqcs9wyh", 0;
+exec dbo.DodajKlientaInd "Pinkie", "Wolff", "662325624", "1980-08-30", 1, , "Romania", "Haneside", "18723-7774", "Bosco Springs", 94, 98, "pinkiewolff@memail.com", "pinkiewolff", "oxg8w8hkfhz", 0;
+exec dbo.DodajKlientaInd "Zella", "O'Connell", "279389767", "1989-01-02", 1, , "Afghanistan", "Hartmannstad", "31575", "Bernie Port", 11, 69, "zellao'connell@memail.com", "zellao'connell", "tfxon5c7jme", 0;
+exec dbo.DodajKlientaInd "Gilberto", "Hand", "194547459", "1988-10-31", 1, , "Rwanda", "West Yasmeenton", "84496", "Jasmin Mission", 6, 68, "gilbertohand@memail.com", "gilbertohand", "50sinmanu9p", 0;
+exec dbo.DodajKlientaInd "Merritt", "Lind", "256234268", "1956-05-15", 1, , "Uganda", "Beierfurt", "45343", "Eleanore Ports", 47, 22, "merrittlind@memail.com", "merrittlind", "9tvvtfj15gj", 0;
+exec dbo.DodajKlientaInd "Ethelyn", "Will", "278586651", "1955-01-23", 1, 741959, "Norway", "Port Montyhaven", "94739-4938", "Lucious Brooks", 86, 12, "ethelynwill@memail.com", "ethelynwill", "uhn8j5bcxmw", 0;
+exec dbo.DodajKlientaInd "Opal", "Hane", "150444644", "1975-10-05", 0, , "Rwanda", "Hintzstad", "79318-4247", "Schamberger Summit", 40, 37, "opalhane@memail.com", "opalhane", "i6l93jl6bc", 0;
+exec dbo.DodajKlientaInd "Dorris", "Watsica", "675275812", "1966-03-22", 0, 471045, "Cameroon", "Lake Marcelleside", "12640-3509", "Schmeler Skyway", 15, 11, "dorriswatsica@memail.com", "dorriswatsica", "6pyt0unpwun", 0;
+exec dbo.DodajKlientaInd "Hollis", "Jacobs", "356884861", "1990-09-24", 1, , "Ukraine", "Port Daron", "14816", "Philip Freeway", 24, 60, "hollisjacobs@memail.com", "hollisjacobs", "829zsxdaihh", 0;
+exec dbo.DodajKlientaInd "Reggie", "Davis", "445448873", "1987-02-21", 0, , "Bolivia", "Hudsonburgh", "83016", "Lindgren Drives", 7, 73, "reggiedavis@memail.com", "reggiedavis", "wi9t4xr6e3j", 0;
+exec dbo.DodajKlientaInd "Dayna", "Quigley", "874303350", "1950-11-17", 1, , "Hungary", "Port Estelle", "37456-7490", "Witting Shore", 91, 4, "daynaquigley@memail.com", "daynaquigley", "ltbd6grl24w", 0;
+exec dbo.DodajKlientaInd "Cindy", "Veum", "483071264", "1952-08-24", 1, , "Andorra", "Doyleborough", "13010-5303", "Evie Extensions", 82, 43, "cindyveum@memail.com", "cindyveum", "ahb7rtu31p1", 0;
+exec dbo.DodajKlientaInd "Imani", "Bashirian", "401161247", "1954-05-25", 1, , "Bangladesh", "Hilllland", "54993", "Pablo Oval", 8, 27, "imanibashirian@memail.com", "imanibashirian", "nw1sn0afu7m", 0;
+exec dbo.DodajKlientaInd "Kaleb", "Hermiston", "985195157", "1995-07-10", 1, , "French Southern Territories", "McCulloughchester", "92509-0020", "Schmeler Dale", 7, 95, "kalebhermiston@memail.com", "kalebhermiston", "5tnveemup2p", 0;
+exec dbo.DodajKlientaInd "Elissa", "Cremin", "236551044", "1962-06-08", 1, , "Chile", "West Delfina", "50832", "Kieran Road", 85, 89, "elissacremin@memail.com", "elissacremin", "e8zdthkavcz", 0;
+exec dbo.DodajKlientaInd "Adelbert", "Rohan", "518856442", "1983-03-13", 1, 773606, "Falkland Islands (Malvinas)", "North Groverfurt", "67373-5070", "Caterina Trace", 12, 29, "adelbertrohan@memail.com", "adelbertrohan", "7gpeatw3xe7", 0;
+exec dbo.DodajKlientaInd "Lonnie", "Schaefer", "715965772", "1971-02-26", 0, , "Bouvet Island (Bouvetoya)", "Denatown", "15894", "Ara Glen", 16, 66, "lonnieschaefer@memail.com", "lonnieschaefer", "7a5p73kd1du", 0;
+exec dbo.DodajKlientaInd "Hallie", "Kling", "396646728", "1992-03-23", 0, , "Bermuda", "West Larue", "18545", "Kellen Alley", 57, 85, "halliekling@memail.com", "halliekling", "13i5fs3sgpu", 0;
+exec dbo.DodajKlientaInd "Herminia", "Kerluke", "547618270", "1952-01-27", 0, 056890, "Turks and Caicos Islands", "North Jarenhaven", "85445-4040", "Mozelle Square", 69, 22, "herminiakerluke@memail.com", "herminiakerluke", "buuf9hc6puq", 0;
+exec dbo.DodajKlientaInd "Queen", "Hintz", "702323286", "1974-05-17", 1, , "Cook Islands", "West Keira", "54468-7349", "Yost Pine", 26, 69, "queenhintz@memail.com", "queenhintz", "e7liju1m3v7", 0;
+exec dbo.DodajKlientaInd "Kelsie", "Renner", "581925167", "1996-12-17", 0, , "Ukraine", "Daughertyborough", "41493-0381", "Donny Tunnel", 28, 39, "kelsierenner@memail.com", "kelsierenner", "wy8xq49enso", 0;
+exec dbo.DodajKlientaInd "Jerald", "Kreiger", "655518153", "1950-09-12", 1, , "Australia", "Eldredfurt", "47621", "Balistreri Roads", 35, 59, "jeraldkreiger@memail.com", "jeraldkreiger", "ohn697xs72u", 0;
+exec dbo.DodajKlientaInd "Tina", "Corwin", "351471705", "1988-07-10", 1, , "Spain", "Grimesfort", "42328", "Jessica Villages", 44, 80, "tinacorwin@memail.com", "tinacorwin", "m3nblgtlwmh", 0;
+exec dbo.DodajKlientaInd "Colt", "Waelchi", "730623542", "1984-02-03", 0, , "Bangladesh", "Isaimouth", "21837", "Ricky Pike", 74, 62, "coltwaelchi@memail.com", "coltwaelchi", "0mpzhvvhkfv", 0;
+exec dbo.DodajKlientaInd "Brooke", "Connelly", "911435351", "1952-07-09", 0, , "United Arab Emirates", "East Vincentburgh", "61135-9777", "Kassulke Viaduct", 35, 83, "brookeconnelly@memail.com", "brookeconnelly", "xspv92cly90", 0;
+exec dbo.DodajKlientaInd "Cora", "Buckridge", "323753855", "1990-10-22", 1, , "Peru", "North Eliane", "97902-5430", "Adan Roads", 26, 45, "corabuckridge@memail.com", "corabuckridge", "isfmq3entwp", 0;
+exec dbo.DodajKlientaInd "Savanna", "Grimes", "994266876", "1976-11-17", 0, , "Cayman Islands", "West Mariahtown", "49030", "Tanner Plaza", 43, 98, "savannagrimes@memail.com", "savannagrimes", "c3bwh1ujj5q", 0;
+exec dbo.DodajKlientaInd "Ned", "Quigley", "658924982", "1988-05-03", 1, , "Saint Lucia", "East Lempi", "82106-9366", "Mya Fields", 63, 29, "nedquigley@memail.com", "nedquigley", "v8qjmugdfyn", 0;
+exec dbo.DodajKlientaInd "Clint", "Bartoletti", "988135941", "1988-01-14", 0, 420653, "Liberia", "East Emile", "45732", "Braun Crescent", 23, 80, "clintbartoletti@memail.com", "clintbartoletti", "up1a6rhv569", 0;
+exec dbo.DodajKlientaInd "Brown", "Dietrich", "767153288", "1973-03-30", 0, 860773, "Saint Martin", "Greenfelderberg", "42049", "Dare Springs", 49, 90, "browndietrich@memail.com", "browndietrich", "gowwoxjnl1i", 0;
+exec dbo.DodajKlientaInd "Ezekiel", "Lowe", "724115238", "1987-06-06", 1, , "Romania", "Hansside", "94134-5627", "Raegan Center", 72, 63, "ezekiellowe@memail.com", "ezekiellowe", "yvs0n5sibl7", 0;
+exec dbo.DodajKlientaInd "Schuyler", "Batz", "192253561", "1984-05-19", 0, , "Isle of Man", "West Albina", "10933-0968", "Herzog Meadow", 34, 4, "schuylerbatz@memail.com", "schuylerbatz", "94m2l1g872r", 0;
+exec dbo.DodajKlientaInd "Sanford", "Satterfield", "072374754", "1994-05-06", 0, , "Cook Islands", "East Aldashire", "47319", "Nelson Land", 51, 45, "sanfordsatterfield@memail.com", "sanfordsatterfield", "t576o460y68", 0;
+exec dbo.DodajKlientaInd "Brody", "Dickinson", "651157558", "1955-05-06", 0, , "Ghana", "West Giuseppeport", "50033", "Sporer Ridges", 85, 39, "brodydickinson@memail.com", "brodydickinson", "idwpf3pf6x8", 0;
+exec dbo.DodajKlientaInd "Kelly", "Jacobi", "143829126", "1978-02-16", 0, , "Norway", "New Erling", "21349", "Nicolas Track", 3, 61, "kellyjacobi@memail.com", "kellyjacobi", "n4y8ce8ol7r", 0;
+exec dbo.DodajKlientaInd "Lindsey", "Denesik", "586936271", "1971-11-12", 1, , "Macedonia", "New Clemmie", "19427", "Jalon Springs", 79, 12, "lindseydenesik@memail.com", "lindseydenesik", "frpxrq15xei", 0;
+exec dbo.DodajKlientaInd "Hugh", "Herman", "353200707", "1985-12-10", 0, , "Tajikistan", "North Karolann", "16862-6297", "Buck Rest", 58, 47, "hughherman@memail.com", "hughherman", "akd9sf2kw4q", 0;
+exec dbo.DodajKlientaInd "Carole", "Kuhic", "965573626", "1991-10-08", 1, , "Italy", "West Janessahaven", "19897-6029", "Dickens Locks", 87, 89, "carolekuhic@memail.com", "carolekuhic", "kb8ify6wbm9", 0;
+exec dbo.DodajKlientaInd "Damian", "Zieme", "652811828", "1978-12-25", 0, , "Gambia", "Port Kaleview", "83552", "Wade Ramp", 85, 49, "damianzieme@memail.com", "damianzieme", "4snxu73r28z", 0;
+exec dbo.DodajKlientaInd "Terry", "Graham", "984906188", "1969-04-12", 0, , "Kenya", "Dejonborough", "68664", "Janis Ville", 23, 75, "terrygraham@memail.com", "terrygraham", "0omv8j34oxu", 0;
+exec dbo.DodajKlientaInd "Ashley", "Goldner", "364823664", "1963-12-28", 0, , "Vietnam", "South Reeseport", "70497-1330", "Jedidiah Manor", 54, 87, "ashleygoldner@memail.com", "ashleygoldner", "04ykuq5kh02", 0;
+exec dbo.DodajKlientaInd "Brigitte", "Collier", "763882054", "1952-03-10", 0, , "Virgin Islands, British", "Nikolausbury", "52805", "Royal Hills", 14, 49, "brigittecollier@memail.com", "brigittecollier", "mb4c46ts3s", 0;
+exec dbo.DodajKlientaInd "Marcella", "Wintheiser", "288765407", "1982-03-08", 0, , "Mauritania", "South Rolando", "90946-1919", "D'Amore Extensions", 19, 59, "marcellawintheiser@memail.com", "marcellawintheiser", "6nnhvj9jezm", 0;
+exec dbo.DodajKlientaInd "Brant", "Armstrong", "984750318", "1988-01-24", 0, , "Saint Vincent and the Grenadines", "Kovacekton", "50675-0847", "Alysha Court", 17, 52, "brantarmstrong@memail.com", "brantarmstrong", "w41v480veeh", 0;
+exec dbo.DodajKlientaInd "Laron", "Lowe", "319686375", "1989-12-01", 1, , "Czech Republic", "Bednarhaven", "43222-5611", "Krajcik Rue", 71, 59, "laronlowe@memail.com", "laronlowe", "cczt7o51otv", 0;
+exec dbo.DodajKlientaInd "Jaiden", "Wilderman", "546821272", "1990-02-01", 0, , "Netherlands Antilles", "Manuelburgh", "87565", "Tess Grove", 19, 90, "jaidenwilderman@memail.com", "jaidenwilderman", "pr13h7rcn67", 0;
+exec dbo.DodajKlientaInd "Marcia", "Bins", "657708634", "1978-01-07", 1, , "Saint Martin", "Dickinsonport", "93064", "Schmeler Cove", 51, 28, "marciabins@memail.com", "marciabins", "bukt96rt0at", 0;
+exec dbo.DodajKlientaInd "Mariela", "Bins", "784214020", "1992-10-18", 0, , "Malawi", "West Mohamedburgh", "88639", "Walker Ramp", 81, 69, "marielabins@memail.com", "marielabins", "i8w84iwa73e", 0;
+exec dbo.DodajKlientaInd "Aida", "Heller", "470112623", "1987-03-15", 0, , "Lebanon", "East Laishashire", "13931-4717", "Mariela Radial", 40, 25, "aidaheller@memail.com", "aidaheller", "p9jttnnas06", 0;
+exec dbo.DodajKlientaInd "Ellen", "Conn", "357271015", "1984-04-01", 1, , "Italy", "Jovannyhaven", "45047", "Solon Bypass", 36, 23, "ellenconn@memail.com", "ellenconn", "x01lwa98u2y", 0;
+exec dbo.DodajKlientaInd "Madaline", "Stracke", "209353802", "1973-02-02", 0, , "China", "Lake Hilma", "70573-7496", "Clinton Landing", 51, 44, "madalinestracke@memail.com", "madalinestracke", "a6gkpmwsd1w", 0;
+exec dbo.DodajKlientaInd "Rudolph", "Mayer", "242643633", "1974-11-11", 1, , "Syrian Arab Republic", "West Arloburgh", "92839-0351", "Yost Fields", 24, 71, "rudolphmayer@memail.com", "rudolphmayer", "znpdyjqmkq1", 0;
+exec dbo.DodajKlientaInd "Deshawn", "Hills", "531764337", "1970-09-14", 1, , "El Salvador", "Dinaview", "28165-7595", "Marjorie Walk", 39, 17, "deshawnhills@memail.com", "deshawnhills", "s9h24xfynbi", 0;
+exec dbo.DodajKlientaInd "Henderson", "Schowalter", "015721362", "1959-07-28", 0, , "Equatorial Guinea", "Lake Abdielborough", "62888-3622", "Athena Centers", 7, 28, "hendersonschowalter@memail.com", "hendersonschowalter", "3z8qo14pxa8", 0;
+exec dbo.DodajKlientaInd "Christelle", "Herzog", "418131933", "1953-04-08", 1, , "Romania", "Boganview", "13353-3775", "Mitchell Village", 41, 66, "christelleherzog@memail.com", "christelleherzog", "qmeyncs8laz", 0;
+exec dbo.DodajKlientaInd "Maria", "Rowe", "336243826", "1951-06-16", 1, , "Tonga", "Treutelberg", "53325", "Sylvia Green", 61, 30, "mariarowe@memail.com", "mariarowe", "e5ys7q6hzd6", 0;
+exec dbo.DodajKlientaInd "Lauren", "Grimes", "863878863", "1962-07-08", 1, , "Libyan Arab Jamahiriya", "South Florence", "19683", "Homenick Plaza", 65, 38, "laurengrimes@memail.com", "laurengrimes", "ldfvydcy9n3", 0;
+exec dbo.DodajKlientaInd "Esmeralda", "Doyle", "636711651", "1966-08-30", 0, , "Benin", "Chaseburgh", "89136-1313", "Demarcus Falls", 83, 76, "esmeraldadoyle@memail.com", "esmeraldadoyle", "27mji72nevz", 0;
+exec dbo.DodajKlientaInd "Kathlyn", "Kessler", "634642186", "1992-12-24", 0, , "Bulgaria", "Beulahfurt", "97984-6390", "Pfeffer Turnpike", 26, 63, "kathlynkessler@memail.com", "kathlynkessler", "un28a8mk57q", 0;
+exec dbo.DodajKlientaInd "Theresia", "Hermiston", "853335773", "1967-01-04", 1, 456232, "Brunei Darussalam", "Amietown", "27946-5261", "Jakob Shore", 17, 84, "theresiahermiston@memail.com", "theresiahermiston", "nq18fmt2wax", 0;
+exec dbo.DodajKlientaInd "Roma", "Ebert", "595669354", "1974-05-12", 0, , "Burkina Faso", "Jacquelynfort", "12855", "Destin Mount", 77, 78, "romaebert@memail.com", "romaebert", "m9o4qekhyrt", 0;
+exec dbo.DodajKlientaInd "Vicente", "Purdy", "232555075", "1959-07-02", 1, , "Suriname", "Vonfort", "56744", "Maybell Courts", 6, 24, "vicentepurdy@memail.com", "vicentepurdy", "9fjdwl1tdu5", 0;
+exec dbo.DodajKlientaInd "Reece", "Kshlerin", "416057114", "1976-10-19", 0, , "Bouvet Island (Bouvetoya)", "East Emileville", "11670-4386", "Mercedes Forks", 73, 77, "reecekshlerin@memail.com", "reecekshlerin", "g9vbrkk5uia", 0;
+exec dbo.DodajKlientaInd "Tremaine", "Daniel", "773775214", "1958-02-24", 0, 985715, "Lesotho", "Millsfurt", "93140", "Weissnat Field", 44, 96, "tremainedaniel@memail.com", "tremainedaniel", "rde9zbi3xtv", 0;
+exec dbo.DodajKlientaInd "Torrance", "Ward", "764763507", "1994-10-04", 1, , "United States of America", "West Victor", "56613", "Elody Forges", 92, 98, "torranceward@memail.com", "torranceward", "mhci8s4y7f2", 0;
+exec dbo.DodajKlientaInd "Rolando", "Klocko", "232633822", "1960-04-22", 1, , "American Samoa", "Littelside", "60147-8697", "Ezequiel Vista", 96, 45, "rolandoklocko@memail.com", "rolandoklocko", "l351x9ng7mh", 0;
+exec dbo.DodajKlientaInd "Archibald", "Wisozk", "742241162", "1961-03-26", 0, , "Palau", "South Vincenzo", "53631-8006", "Kuphal Divide", 30, 57, "archibaldwisozk@memail.com", "archibaldwisozk", "hjunbp15jpf", 0;
+exec dbo.DodajKlientaInd "Elfrieda", "Stracke", "738752333", "1988-04-12", 0, , "Costa Rica", "Kaydenberg", "92970", "Benton Underpass", 87, 18, "elfriedastracke@memail.com", "elfriedastracke", "ihso7eckgcl", 0;
+exec dbo.DodajKlientaInd "Sonya", "Shanahan", "150793415", "1953-11-18", 1, , "Jamaica", "Hartmannburgh", "58861-7911", "Tromp Walk", 67, 81, "sonyashanahan@memail.com", "sonyashanahan", "jf3r1ytl62", 0;
+exec dbo.DodajKlientaInd "Logan", "Keebler", "230192428", "1954-08-01", 1, , "Denmark", "Weimannchester", "76824-0627", "Charlie Underpass", 65, 56, "logankeebler@memail.com", "logankeebler", "4cuvf5ihzw2", 0;
+exec dbo.DodajKlientaInd "Missouri", "Walker", "756141512", "1964-11-26", 1, , "Cocos (Keeling) Islands", "Jamilbury", "19045", "King Neck", 55, 25, "missouriwalker@memail.com", "missouriwalker", "okh92wkwhh6", 0;
+exec dbo.DodajKlientaInd "Vidal", "Ebert", "226463634", "1985-04-12", 0, , "Norway", "Lindshire", "79486-6124", "Kilback Wells", 74, 28, "vidalebert@memail.com", "vidalebert", "6es1nwjqiav", 0;
+exec dbo.DodajKlientaInd "Alfred", "Altenwerth", "502192726", "1996-06-19", 0, , "Democratic People's Republic of Korea", "Port Anastacio", "39362-2701", "Nya Lakes", 4, 82, "alfredaltenwerth@memail.com", "alfredaltenwerth", "te7k1a1gy2r", 0;
+exec dbo.DodajKlientaInd "Tyler", "Hudson", "360746516", "1983-05-08", 0, , "Honduras", "South Virginietown", "79320-5869", "Fahey Parkways", 19, 23, "tylerhudson@memail.com", "tylerhudson", "cusm8ziut3p", 0;
+exec dbo.DodajKlientaInd "Muriel", "Baumbach", "137610523", "1967-08-11", 0, , "Portugal", "Codyhaven", "53537-6842", "Kobe Dam", 38, 53, "murielbaumbach@memail.com", "murielbaumbach", "cggo3b2wype", 0;
+exec dbo.DodajKlientaInd "Ettie", "Borer", "776355931", "1957-11-12", 0, 342025, "Cambodia", "New Hansstad", "59152", "Meghan Wall", 61, 97, "ettieborer@memail.com", "ettieborer", "ynffq2mh4ku", 0;
+exec dbo.DodajKlientaInd "Euna", "Hoeger", "310275878", "1958-02-10", 1, , "Antarctica (the territory South of 60 deg S)", "Kertzmannshire", "53854", "Schmitt Brook", 27, 45, "eunahoeger@memail.com", "eunahoeger", "e0n09xgqgdx", 0;
+exec dbo.DodajKlientaInd "Karley", "Schimmel", "550320376", "1952-03-30", 1, , "Ghana", "Sibylchester", "48527", "Feeney Forge", 47, 17, "karleyschimmel@memail.com", "karleyschimmel", "o64ye48a5d8", 0;
+exec dbo.DodajKlientaInd "Roger", "Haag", "028217581", "1957-08-01", 1, , "Argentina", "Port Tabitha", "23574-1742", "Stanton Fork", 35, 76, "rogerhaag@memail.com", "rogerhaag", "65xrv0s47cb", 0;
+exec dbo.DodajKlientaInd "Dusty", "Wisoky", "255928103", "1954-01-01", 0, , "Virgin Islands, British", "Harrisonside", "15297-0557", "Andy Knolls", 46, 64, "dustywisoky@memail.com", "dustywisoky", "qt9apfq4ig", 0;
+exec dbo.DodajKlientaInd "General", "Gleichner", "398558282", "1989-11-06", 0, , "Netherlands", "Treverberg", "37808", "Lorna Summit", 24, 21, "generalgleichner@memail.com", "generalgleichner", "cei9almuqjn", 0;
+exec dbo.DodajKlientaInd "Flavie", "Langworth", "519456578", "1972-07-13", 1, , "British Indian Ocean Territory (Chagos Archipelago)", "Santosmouth", "69494-2713", "Hamill Forges", 66, 74, "flavielangworth@memail.com", "flavielangworth", "j5ue3diulkq", 0;
+exec dbo.DodajKlientaInd "Lera", "Schowalter", "875547451", "1967-05-22", 1, 967811, "Montserrat", "North Deangeloborough", "41349", "Ole Spurs", 34, 78, "leraschowalter@memail.com", "leraschowalter", "isidfih0io2", 0;
+exec dbo.DodajKlientaInd "Lamont", "Sanford", "896485004", "1987-10-02", 0, , "Equatorial Guinea", "Loweburgh", "71427-1573", "Kessler Courts", 79, 38, "lamontsanford@memail.com", "lamontsanford", "up4fp7gck8i", 0;
+exec dbo.DodajKlientaInd "Alda", "Russel", "677961665", "1983-08-18", 0, , "South Georgia and the South Sandwich Islands", "West Antonio", "69680-6460", "Morris Islands", 29, 55, "aldarussel@memail.com", "aldarussel", "2zu2etb4puy", 0;
+exec dbo.DodajKlientaInd "Luciano", "Murazik", "298266057", "1968-03-11", 0, 829676, "Pakistan", "South Micaela", "98999-9887", "Hayley Club", 48, 84, "lucianomurazik@memail.com", "lucianomurazik", "dannexafa9j", 0;
+exec dbo.DodajKlientaInd "Amina", "Smitham", "561274667", "1977-05-08", 0, , "Vietnam", "Eugeniastad", "93281-0821", "Bins Key", 40, 33, "aminasmitham@memail.com", "aminasmitham", "rgtulpg7vmh", 0;
+exec dbo.DodajKlientaInd "Angelo", "Steuber", "165281502", "1973-09-29", 0, , "Timor-Leste", "Farrellbury", "62717-6256", "Emmy Gardens", 52, 26, "angelosteuber@memail.com", "angelosteuber", "ausbby2xux", 0;
+exec dbo.DodajKlientaInd "Roxane", "Metz", "687586765", "1981-04-26", 0, , "South Africa", "East Paulaborough", "68683", "Claud Street", 39, 55, "roxanemetz@memail.com", "roxanemetz", "5fbkv41ae4p", 0;
+exec dbo.DodajKlientaInd "Adolf", "Parisian", "864427475", "1976-05-03", 1, , "Sudan", "Keanuland", "77032", "Vandervort Brooks", 95, 60, "adolfparisian@memail.com", "adolfparisian", "g2pcfu9z91i", 0;
+exec dbo.DodajKlientaInd "German", "Bergnaum", "101562932", "1996-04-07", 0, , "United States of America", "Lizziefort", "81816", "Ulices Curve", 26, 29, "germanbergnaum@memail.com", "germanbergnaum", "km01a9r1f0d", 0;
+exec dbo.DodajKlientaInd "Dennis", "Auer", "954463633", "1976-12-17", 0, 664182, "Azerbaijan", "West Mortimermouth", "30297-2927", "Leopoldo Road", 38, 56, "dennisauer@memail.com", "dennisauer", "edxw0iodsb", 0;
+exec dbo.DodajKlientaInd "Larue", "Fadel", "853407371", "1965-08-14", 1, , "Tunisia", "North Lola", "49702-8656", "Quigley Springs", 62, 19, "laruefadel@memail.com", "laruefadel", "449vqtzfcqm", 0;
+exec dbo.DodajKlientaInd "Marcella", "O'Connell", "158385294", "1977-08-21", 0, 925817, "Macao", "Jonathonview", "59147-6072", "Farrell Grove", 40, 84, "marcellao'connell@memail.com", "marcellao'connell", "sjnj1qy2wev", 0;
+exec dbo.DodajKlientaInd "Godfrey", "Lehner", "162368448", "1986-03-18", 0, , "Italy", "West Lourdes", "23710-4757", "Adaline Meadow", 27, 5, "godfreylehner@memail.com", "godfreylehner", "x661bli2yew", 0;
+exec dbo.DodajKlientaInd "Julius", "Emmerich", "231566885", "1977-07-20", 1, , "Monaco", "South Madonnaburgh", "89069", "Nona Field", 94, 95, "juliusemmerich@memail.com", "juliusemmerich", "nrx7inwe1fh", 0;
+exec dbo.DodajKlientaInd "Edythe", "Metz", "482681644", "1993-03-19", 0, 921676, "Tunisia", "Framiberg", "40454", "Towne Wall", 89, 37, "edythemetz@memail.com", "edythemetz", "k8m3h4ck51a", 0;
+exec dbo.DodajKlientaInd "Virginie", "Romaguera", "817221624", "1993-12-05", 0, , "Guadeloupe", "South Juvenalland", "18852", "Legros Lights", 38, 75, "virginieromaguera@memail.com", "virginieromaguera", "9bl50vzvncc", 0;
+exec dbo.DodajKlientaInd "Marianne", "Wolf", "454521248", "1955-06-19", 0, , "Ghana", "Stiedemannhaven", "48206", "Natasha Garden", 50, 28, "mariannewolf@memail.com", "mariannewolf", "dsgyt54idst", 0;
+exec dbo.DodajKlientaInd "Buford", "Daniel", "383014459", "1993-09-11", 0, , "New Zealand", "Lake Cullen", "32948", "Hessel Ranch", 75, 47, "buforddaniel@memail.com", "buforddaniel", "0bnxjf0wuo", 0;
+exec dbo.DodajKlientaInd "Vena", "Moen", "015442167", "1956-09-07", 0, , "Cook Islands", "North Daphneberg", "49453-7855", "Cristina Ranch", 83, 38, "venamoen@memail.com", "venamoen", "wr3mhiu693g", 0;
+exec dbo.DodajKlientaInd "Benton", "Bogan", "711063638", "1950-07-01", 1, , "Lebanon", "South Matt", "67099", "Hartmann Plain", 31, 29, "bentonbogan@memail.com", "bentonbogan", "a5fwzc6oaiy", 0;
+exec dbo.DodajKlientaInd "Cortez", "Auer", "812406523", "1990-08-28", 1, , "Tokelau", "South Ferneshire", "55181-9689", "Donnelly Parkways", 19, 25, "cortezauer@memail.com", "cortezauer", "l781i06xkk8", 0;
+exec dbo.DodajKlientaInd "Cleveland", "Walter", "702115237", "1976-04-16", 1, , "Chile", "West Stacey", "76554", "Reanna Forest", 42, 74, "clevelandwalter@memail.com", "clevelandwalter", "n3z46r0r7ea", 0;
+exec dbo.DodajKlientaInd "Frankie", "Fisher", "254416144", "1984-02-29", 1, , "Czech Republic", "East Dominicstad", "73559", "Torphy Parkways", 96, 96, "frankiefisher@memail.com", "frankiefisher", "xv2qdvxu4xy", 0;
+exec dbo.DodajKlientaInd "Nels", "Gislason", "331361436", "1977-09-12", 1, 354286, "Belgium", "Sophieview", "96748-1812", "Thea Squares", 58, 56, "nelsgislason@memail.com", "nelsgislason", "ljwj2820jt3", 0;
+exec dbo.DodajKlientaInd "Eloy", "Russel", "805724875", "1978-11-30", 0, , "Honduras", "Manuelabury", "52484-3136", "Sydni Cove", 16, 29, "eloyrussel@memail.com", "eloyrussel", "ak3j9624z8g", 0;
+exec dbo.DodajKlientaInd "Herman", "Bernier", "414318918", "1980-05-18", 0, , "Northern Mariana Islands", "North Brooke", "56909", "Goodwin Streets", 64, 11, "hermanbernier@memail.com", "hermanbernier", "oj0m4tavqps", 0;
+exec dbo.DodajKlientaInd "Ward", "Morissette", "471432312", "1957-01-04", 1, , "Finland", "Lake Fionabury", "96334-4843", "Denis Mountain", 76, 73, "wardmorissette@memail.com", "wardmorissette", "aw1z9a4folh", 0;
+exec dbo.DodajKlientaInd "Raheem", "Kozey", "342747673", "1958-10-17", 0, , "United States Minor Outlying Islands", "Amanifort", "73826", "Larissa Camp", 27, 1, "raheemkozey@memail.com", "raheemkozey", "p3rk8ge0244", 0;
+exec dbo.DodajKlientaInd "Dax", "Okuneva", "697028180", "1964-07-19", 0, , "Saint Vincent and the Grenadines", "Broderickport", "71201-8043", "Berge Summit", 65, 36, "daxokuneva@memail.com", "daxokuneva", "i74qwpfesup", 0;
+exec dbo.DodajKlientaInd "Destiny", "Pfeffer", "314315234", "1988-02-22", 1, , "Fiji", "East Polly", "26062-1295", "Perry Land", 82, 82, "destinypfeffer@memail.com", "destinypfeffer", "zpzuoi57dzw", 0;
+exec dbo.DodajKlientaInd "Delaney", "Sawayn", "754319584", "1975-11-10", 0, , "British Indian Ocean Territory (Chagos Archipelago)", "Jarodfort", "23509-1480", "Russel Viaduct", 64, 74, "delaneysawayn@memail.com", "delaneysawayn", "z822l02h4zr", 0;
+exec dbo.DodajKlientaInd "Kiley", "Monahan", "887566918", "1951-10-22", 0, , "Fiji", "East Darionshire", "77849", "Bridget Fords", 50, 27, "kileymonahan@memail.com", "kileymonahan", "k86bzwusdup", 0;
+exec dbo.DodajKlientaInd "Sedrick", "Smitham", "468294728", "1991-11-20", 1, , "Fiji", "Schmittburgh", "20027", "Mante Drive", 52, 56, "sedricksmitham@memail.com", "sedricksmitham", "nj0d7iky0ys", 0;
+exec dbo.DodajKlientaInd "Taurean", "Reilly", "374365255", "1956-06-15", 0, 167861, "Indonesia", "Cartwrightshire", "22951-1124", "Ismael Trace", 51, 30, "taureanreilly@memail.com", "taureanreilly", "sbmokzknccm", 0;
+exec dbo.DodajKlientaInd "Chesley", "Beatty", "618378485", "1977-10-11", 1, , "Swaziland", "New Adafort", "33831", "Kaylie Unions", 26, 63, "chesleybeatty@memail.com", "chesleybeatty", "5khidxuijpd", 0;
+exec dbo.DodajKlientaInd "Alexandro", "Mayert", "952742571", "1965-01-20", 1, , "Bouvet Island (Bouvetoya)", "Hirthemouth", "97137", "Thompson Trail", 56, 12, "alexandromayert@memail.com", "alexandromayert", "42nb8dzyc7y", 0;
+exec dbo.DodajKlientaInd "Dedrick", "Doyle", "771593382", "1956-05-11", 1, , "Vietnam", "Jadonmouth", "24217", "Vandervort Tunnel", 71, 36, "dedrickdoyle@memail.com", "dedrickdoyle", "w8uodx3y4gh", 0;
+exec dbo.DodajKlientaInd "Fatima", "Thiel", "917568216", "1961-05-07", 1, , "Honduras", "Reichelshire", "28048", "Ian Stream", 55, 38, "fatimathiel@memail.com", "fatimathiel", "dsrcpmkvhsx", 0;
+exec dbo.DodajKlientaInd "Mark", "Kunde", "286385110", "1985-02-23", 0, , "Papua New Guinea", "Port Maurine", "49757-8282", "Nader Falls", 65, 7, "markkunde@memail.com", "markkunde", "qrp1hxbdcxb", 0;
+exec dbo.DodajKlientaInd "Elmer", "Kutch", "443472539", "1964-05-27", 0, 827439, "France", "New Hubert", "60563", "Lemke Mission", 70, 53, "elmerkutch@memail.com", "elmerkutch", "t984vwqpy17", 0;
+exec dbo.DodajKlientaInd "Sherman", "Stroman", "594021300", "1951-09-02", 1, 298230, "Fiji", "Neilmouth", "62236", "Reba Terrace", 73, 42, "shermanstroman@memail.com", "shermanstroman", "6gwub7i62q", 0;
+exec dbo.DodajKlientaInd "Roma", "Mosciski", "606012493", "1989-04-30", 1, , "Azerbaijan", "Glenmouth", "92368-9009", "Medhurst Lodge", 59, 88, "romamosciski@memail.com", "romamosciski", "2dywm8f2o1f", 0;
+exec dbo.DodajKlientaInd "Jewel", "Boehm", "754888788", "1964-12-13", 0, , "Cambodia", "Lake Leanne", "39376-9950", "Conor Squares", 63, 7, "jewelboehm@memail.com", "jewelboehm", "hkmcpiyad7", 0;
+exec dbo.DodajKlientaInd "Corene", "Ritchie", "381773345", "1985-02-24", 1, , "Chad", "East Tristintown", "49364", "Carli River", 22, 45, "coreneritchie@memail.com", "coreneritchie", "16e06bhrpg8", 0;
+exec dbo.DodajKlientaInd "Velma", "Wehner", "242712523", "1978-01-16", 0, , "Malaysia", "East Patriciafurt", "96495", "Alexa Walks", 4, 62, "velmawehner@memail.com", "velmawehner", "6tfejp0thp9", 0;
+exec dbo.DodajKlientaInd "Horacio", "Boyer", "024065570", "1993-09-09", 0, , "Albania", "Port Wardland", "14608-7635", "Felicia Estate", 13, 33, "horacioboyer@memail.com", "horacioboyer", "f91dn2dng63", 0;
+exec dbo.DodajKlientaInd "Torrance", "Greenholt", "186249058", "1982-12-30", 1, , "Norway", "New Sherman", "12633", "Ahmad Rest", 62, 7, "torrancegreenholt@memail.com", "torrancegreenholt", "xmqr6s7gywj", 0;
+exec dbo.DodajKlientaInd "Bo", "Bergstrom", "623115104", "1980-07-15", 1, , "El Salvador", "Dickiberg", "21265-2523", "Reynold Land", 84, 56, "bobergstrom@memail.com", "bobergstrom", "af1te50s457", 0;
+exec dbo.DodajKlientaInd "Jarrell", "O'Kon", "545075482", "1954-08-02", 1, , "Macedonia", "Homenickburgh", "43162-1387", "Monty Curve", 84, 39, "jarrello'kon@memail.com", "jarrello'kon", "q3ps6478ejy", 0;
+exec dbo.DodajKlientaInd "Macy", "Maggio", "006276165", "1966-02-10", 0, , "Nauru", "South Merlefurt", "83861-7011", "Daniel Forks", 52, 59, "macymaggio@memail.com", "macymaggio", "ekiwjr0fe5p", 0;
+exec dbo.DodajKlientaInd "Lorenza", "Greenholt", "761142233", "1957-07-14", 1, , "San Marino", "Robertsborough", "10340", "Larson Alley", 28, 68, "lorenzagreenholt@memail.com", "lorenzagreenholt", "53sb0car3wv", 0;
+exec dbo.DodajKlientaInd "Heaven", "Halvorson", "840911570", "1995-03-03", 1, , "Qatar", "Esmeraldamouth", "39656-5598", "Nestor Road", 42, 96, "heavenhalvorson@memail.com", "heavenhalvorson", "4iva06vikag", 0;
+exec dbo.DodajKlientaInd "Issac", "Wintheiser", "067092077", "1990-05-21", 1, , "Argentina", "New Arvid", "98636", "Verner Shore", 44, 73, "issacwintheiser@memail.com", "issacwintheiser", "5ieytgu43hc", 0;
+exec dbo.DodajKlientaInd "Carlotta", "Huel", "163341618", "1987-05-29", 0, , "Angola", "New Robertahaven", "30895", "Kunde Dam", 25, 40, "carlottahuel@memail.com", "carlottahuel", "1vyrzknw2jl", 0;
+exec dbo.DodajKlientaInd "Lonnie", "Hermann", "485884963", "1970-08-10", 0, , "Wallis and Futuna", "Lewisberg", "35020-1633", "Luisa Forest", 74, 73, "lonniehermann@memail.com", "lonniehermann", "tebq7l0qny2", 0;
+exec dbo.DodajKlientaInd "Camryn", "Wilkinson", "521648870", "1969-07-20", 0, , "Marshall Islands", "Cristshire", "88156", "Upton Vista", 49, 15, "camrynwilkinson@memail.com", "camrynwilkinson", "yqlh94wiu5h", 0;
+exec dbo.DodajKlientaInd "Assunta", "Beier", "263261382", "1974-06-20", 1, , "Pakistan", "East Velma", "85138", "Emie Fort", 99, 43, "assuntabeier@memail.com", "assuntabeier", "kuoa22m5uf", 0;
+exec dbo.DodajKlientaInd "Cleve", "Jerde", "247446218", "1953-04-11", 0, , "Mozambique", "Port Adrielfurt", "75147", "Ova Club", 46, 83, "clevejerde@memail.com", "clevejerde", "al0lt4n2q06", 0;
+exec dbo.DodajKlientaInd "Mason", "Predovic", "789415417", "1953-06-17", 1, , "Afghanistan", "East Kayla", "84682", "Prohaska Gateway", 67, 25, "masonpredovic@memail.com", "masonpredovic", "uw5rhgk3lwp", 0;
+exec dbo.DodajKlientaInd "Shaniya", "Zulauf", "781642783", "1976-11-20", 1, , "Colombia", "East Marisolmouth", "63248-1920", "Turner Islands", 57, 6, "shaniyazulauf@memail.com", "shaniyazulauf", "s77gukp5ldk", 0;
+exec dbo.DodajKlientaInd "Kitty", "Wilkinson", "168111397", "1954-03-24", 0, , "Saint Barthelemy", "South Claudstad", "93618", "Demetrius Passage", 53, 14, "kittywilkinson@memail.com", "kittywilkinson", "r13rbwpgyk7", 0;
+exec dbo.DodajKlientaInd "Nia", "Heidenreich", "690133271", "1975-05-11", 1, , "Lebanon", "Herbertport", "99121", "Irving Passage", 70, 13, "niaheidenreich@memail.com", "niaheidenreich", "vtuuqqru3hc", 0;
+exec dbo.DodajKlientaInd "Lolita", "Leannon", "146486001", "1961-05-30", 1, , "Solomon Islands", "Ardithtown", "47223-2622", "Evelyn Unions", 92, 64, "lolitaleannon@memail.com", "lolitaleannon", "gwrncl70mzy", 0;
+exec dbo.DodajKlientaInd "Denis", "Braun", "276305159", "1994-08-27", 1, , "Cook Islands", "Homenickfort", "33891-3893", "Hane Lodge", 65, 52, "denisbraun@memail.com", "denisbraun", "5d6uy2ml5oz", 0;
+exec dbo.DodajKlientaInd "Margaret", "Gulgowski", "238412368", "1968-12-13", 1, , "Montenegro", "Wizastad", "36948-7373", "Katrine Valley", 19, 34, "margaretgulgowski@memail.com", "margaretgulgowski", "pwhdkzhqr0o", 0;
+exec dbo.DodajKlientaInd "Isadore", "O'Conner", "597760329", "1976-01-02", 0, , "Grenada", "New Ernieburgh", "54550", "Tad Court", 36, 47, "isadoreo'conner@memail.com", "isadoreo'conner", "pxupg5scpvs", 0;
+exec dbo.DodajKlientaInd "Tyrel", "Jenkins", "178756956", "1967-08-19", 1, , "Gabon", "Elenorborough", "83060", "Braun Underpass", 12, 64, "tyreljenkins@memail.com", "tyreljenkins", "t7mlv76iu0n", 0;
+exec dbo.DodajKlientaInd "Gregory", "Nader", "804066414", "1956-11-17", 1, , "Saint Pierre and Miquelon", "Williamsonborough", "45930-0263", "Bergstrom Knoll", 63, 22, "gregorynader@memail.com", "gregorynader", "vghw3cuxphu", 0;
+exec dbo.DodajKlientaInd "Rowena", "Gusikowski", "387717582", "1974-10-14", 1, 811659, "Saint Helena", "Kimberg", "21620-9444", "Mariana Pine", 79, 22, "rowenagusikowski@memail.com", "rowenagusikowski", "wrupwv37c10", 0;
+exec dbo.DodajKlientaInd "Rosalinda", "Krajcik", "463377806", "1970-04-17", 0, , "Saint Helena", "South Mattie", "71816-4170", "Bernardo Cape", 55, 86, "rosalindakrajcik@memail.com", "rosalindakrajcik", "85a7crkdk5", 0;
+exec dbo.DodajKlientaInd "Marcus", "Schaefer", "455014117", "1970-09-30", 1, , "Saint Pierre and Miquelon", "Ephraimmouth", "72195", "Toby Mills", 29, 47, "marcusschaefer@memail.com", "marcusschaefer", "6kz6bv1zc6w", 0;
+exec dbo.DodajKlientaInd "Edgardo", "DuBuque", "519492227", "1960-10-17", 0, , "Hungary", "South Laurel", "20184-0485", "Anna Land", 97, 43, "edgardodubuque@memail.com", "edgardodubuque", "n9cwoqxopbr", 0;
+exec dbo.DodajKlientaInd "Alexander", "McGlynn", "581483295", "1984-05-24", 1, , "Norway", "New Lora", "89810", "Rippin Way", 54, 12, "alexandermcglynn@memail.com", "alexandermcglynn", "o6nirpcdd5", 0;
+exec dbo.DodajKlientaInd "Delmer", "Orn", "767735166", "1972-10-07", 1, , "American Samoa", "Weimannfort", "89069", "Gislason Greens", 65, 68, "delmerorn@memail.com", "delmerorn", "v9iwachlp4a", 0;
+exec dbo.DodajKlientaInd "Cristina", "Johns", "872017505", "1960-01-24", 0, , "Guinea", "Bogisichstad", "73400", "Yost Via", 34, 61, "cristinajohns@memail.com", "cristinajohns", "0jqec2nu7w", 0;
+exec dbo.DodajKlientaInd "Dalton", "Roob", "876125723", "1995-08-30", 1, 008509, "Gibraltar", "North Troy", "82242", "Frami Plaza", 27, 39, "daltonroob@memail.com", "daltonroob", "jzdi2xt9tp", 0;
+exec dbo.DodajKlientaInd "Bianka", "Bednar", "411381963", "1994-08-24", 1, , "Montenegro", "Tommiemouth", "49886", "Steuber Summit", 6, 83, "biankabednar@memail.com", "biankabednar", "boqha3yoqlc", 0;
+exec dbo.DodajKlientaInd "Halie", "Wiza", "421532871", "1994-04-02", 1, , "Bahamas", "East Halliefurt", "91943-5776", "Barrows Centers", 23, 92, "haliewiza@memail.com", "haliewiza", "t795iht3wig", 0;
+exec dbo.DodajKlientaInd "Margaretta", "Rosenbaum", "274197340", "1952-11-19", 1, , "Sudan", "East Alfredborough", "59491", "Beier Ridge", 86, 73, "margarettarosenbaum@memail.com", "margarettarosenbaum", "l9a5vhqmjis", 0;
+exec dbo.DodajKlientaInd "Quinton", "Sporer", "723250367", "1952-03-26", 0, , "Solomon Islands", "North Lavada", "67985", "Green Harbor", 19, 82, "quintonsporer@memail.com", "quintonsporer", "b7e9j27n1l", 0;
+exec dbo.DodajKlientaInd "Hollie", "Beahan", "216163775", "1980-09-15", 1, , "Canada", "Bennybury", "57101-8137", "Nedra Haven", 26, 34, "holliebeahan@memail.com", "holliebeahan", "luw2ru1rwqk", 0;
+exec dbo.DodajKlientaInd "Ollie", "Hammes", "832016812", "1970-01-17", 1, 725732, "Egypt", "North Larue", "31606", "Asia Wells", 59, 42, "olliehammes@memail.com", "olliehammes", "r8xkvo1cz50", 0;
+exec dbo.DodajKlientaInd "Giuseppe", "Zemlak", "880613245", "1975-07-18", 0, , "Slovenia", "Pfeffermouth", "60612-4053", "Vicente Streets", 41, 53, "giuseppezemlak@memail.com", "giuseppezemlak", "pltfbof8u1d", 0;
+exec dbo.DodajKlientaInd "Gerardo", "Spencer", "574804621", "1970-09-12", 0, , "Papua New Guinea", "Sanfordside", "90920", "Mitchel Wall", 85, 99, "gerardospencer@memail.com", "gerardospencer", "su8k8obxagr", 0;
+exec dbo.DodajKlientaInd "Emmie", "Adams", "504247623", "1971-02-27", 0, 357504, "Indonesia", "Ankundingberg", "86623", "Prudence Light", 66, 79, "emmieadams@memail.com", "emmieadams", "od144wsab8", 0;
+exec dbo.DodajKlientaInd "Henderson", "Kulas", "771965342", "1956-02-25", 1, , "Mali", "East Jaedenborough", "83262-5159", "Mosciski Glens", 86, 21, "hendersonkulas@memail.com", "hendersonkulas", "d71e0c36sze", 0;
+exec dbo.DodajKlientaInd "Kasandra", "Fahey", "656073272", "1990-01-17", 0, , "Czech Republic", "Ibrahimport", "58790-6571", "Wilkinson Haven", 58, 77, "kasandrafahey@memail.com", "kasandrafahey", "t87d5kw12xk", 0;
+exec dbo.DodajKlientaInd "Onie", "Doyle", "682450756", "1956-03-29", 1, , "Oman", "South Liamside", "57516-3213", "Schamberger Row", 24, 23, "oniedoyle@memail.com", "oniedoyle", "d4s9mb2hkvc", 0;
+exec dbo.DodajKlientaInd "Sherman", "Strosin", "667341816", "1995-09-04", 1, , "Christmas Island", "Leathaview", "77459-0750", "Houston Fords", 49, 43, "shermanstrosin@memail.com", "shermanstrosin", "ocbbe060y9n", 0;
+exec dbo.DodajKlientaInd "Augusta", "Trantow", "315315445", "1983-07-03", 1, , "Guyana", "Lake Brooke", "79030", "Corbin Viaduct", 82, 99, "augustatrantow@memail.com", "augustatrantow", "9xer3o5f3z1", 0;
+exec dbo.DodajKlientaInd "Chelsea", "Hane", "287873041", "1966-09-03", 0, , "Netherlands Antilles", "Bethhaven", "58020", "Pfannerstill Bypass", 18, 89, "chelseahane@memail.com", "chelseahane", "q59ci68tc3k", 0;
+exec dbo.DodajKlientaInd "Chyna", "Aufderhar", "961822547", "1972-06-17", 1, , "Bahrain", "Nikolausstad", "58649-6261", "Josefa Gateway", 17, 89, "chynaaufderhar@memail.com", "chynaaufderhar", "7dsntq5xs6v", 0;
+exec dbo.DodajKlientaInd "Pedro", "Yost", "330616262", "1966-08-08", 1, , "Cape Verde", "Johnnieborough", "57446-0775", "Strosin Rest", 52, 95, "pedroyost@memail.com", "pedroyost", "a3t0kcchekg", 0;
+exec dbo.DodajKlientaInd "Michelle", "Spencer", "997792318", "1975-11-18", 1, , "Moldova", "Trevermouth", "65547-5410", "Boehm Flats", 86, 57, "michellespencer@memail.com", "michellespencer", "4hympv1ol2w", 0;
+exec dbo.DodajKlientaInd "Briana", "Rutherford", "865215331", "1966-07-10", 0, , "Trinidad and Tobago", "Wisokyview", "11262-9020", "Zita Island", 15, 70, "brianarutherford@memail.com", "brianarutherford", "tml9o1qtfxa", 0;
+exec dbo.DodajKlientaInd "Emiliano", "Kemmer", "422827149", "1964-10-16", 0, , "El Salvador", "Romastad", "43726-2903", "Osborne Garden", 38, 2, "emilianokemmer@memail.com", "emilianokemmer", "nnjwrpc4ugg", 0;
+exec dbo.DodajKlientaInd "Otis", "Parisian", "606889544", "1971-07-10", 1, , "Algeria", "Raphaelbury", "55814-9356", "Carrie Forge", 17, 43, "otisparisian@memail.com", "otisparisian", "hwzb2huu1p5", 0;
+exec dbo.DodajKlientaInd "Javon", "Gerlach", "586462464", "1992-06-03", 0, , "Western Sahara", "West Nicolaston", "81337-3442", "Ullrich Mission", 36, 42, "javongerlach@memail.com", "javongerlach", "qrwvfslwnjc", 0;
+exec dbo.DodajKlientaInd "Jude", "Nicolas", "588715148", "1983-08-06", 0, , "Andorra", "Janickton", "61877-3874", "Grant Turnpike", 16, 28, "judenicolas@memail.com", "judenicolas", "1mwaqyl20lx", 0;
+exec dbo.DodajKlientaInd "Demetris", "Will", "660076724", "1994-10-24", 0, , "Portugal", "Coleborough", "38621-9613", "Miguel Estates", 39, 16, "demetriswill@memail.com", "demetriswill", "hmbmb9ojjld", 0;
+exec dbo.DodajKlientaInd "Phyllis", "Gaylord", "728259134", "1986-08-06", 1, , "Virgin Islands, U.S.", "Mozellfurt", "64028", "Schimmel Alley", 55, 8, "phyllisgaylord@memail.com", "phyllisgaylord", "byzv970ye25", 0;
+exec dbo.DodajKlientaInd "D'angelo", "Kerluke", "809743257", "1976-01-29", 0, , "French Guiana", "New Alexiebury", "43750", "Gerda Ports", 17, 89, "d'angelokerluke@memail.com", "d'angelokerluke", "ktolrfdk1nw", 0;
+exec dbo.DodajKlientaInd "Jazmyn", "Wisoky", "460104664", "1978-08-18", 1, , "Nauru", "Bethburgh", "77779", "Lesch Fork", 34, 93, "jazmynwisoky@memail.com", "jazmynwisoky", "qhiiq69pkxh", 0;
+exec dbo.DodajKlientaInd "Marco", "Cruickshank", "762460612", "1994-04-26", 0, , "Armenia", "Lake Murray", "10726-0713", "Coralie Ford", 57, 20, "marcocruickshank@memail.com", "marcocruickshank", "xqkag81p1ez", 0;
+exec dbo.DodajKlientaInd "Zion", "Dicki", "346177815", "1965-03-30", 0, 436131, "Colombia", "Lake Brannon", "95070-7793", "Antwon Plains", 14, 97, "ziondicki@memail.com", "ziondicki", "tn9iq3b4zjr", 0;
+exec dbo.DodajKlientaInd "Elza", "Carroll", "727343422", "1993-10-28", 0, , "South Georgia and the South Sandwich Islands", "Sigridfort", "94937", "Crist Stream", 52, 56, "elzacarroll@memail.com", "elzacarroll", "t1hvkni3v29", 0;
+exec dbo.DodajKlientaInd "Myah", "Steuber", "524835495", "1970-09-10", 0, , "San Marino", "Cartwrighthaven", "85058-5554", "Carter Island", 54, 4, "myahsteuber@memail.com", "myahsteuber", "58fvw8vd2sh", 0;
+exec dbo.DodajKlientaInd "Ardith", "Krajcik", "085742427", "1974-03-11", 0, , "Bahrain", "Emorychester", "40847-5712", "Aliza Road", 87, 99, "ardithkrajcik@memail.com", "ardithkrajcik", "yi0vk8ucumw", 0;
+exec dbo.DodajKlientaInd "Talon", "Stanton", "386213843", "1962-12-27", 1, 465561, "Guinea", "New Rosalindborough", "68062-6143", "Quigley Grove", 27, 35, "talonstanton@memail.com", "talonstanton", "nt29j0a4ge5", 0;
+exec dbo.DodajKlientaInd "Nathan", "Sipes", "632844466", "1951-09-30", 1, , "Ukraine", "Scottiehaven", "34143-4543", "Stokes Lakes", 47, 15, "nathansipes@memail.com", "nathansipes", "o2s6v0tt24e", 0;
+exec dbo.DodajKlientaInd "Maryjane", "Leffler", "157908373", "1990-12-14", 1, , "Andorra", "East Annabell", "72686-0286", "Ronaldo Creek", 89, 68, "maryjaneleffler@memail.com", "maryjaneleffler", "fv7e8i7yzve", 0;
+exec dbo.DodajKlientaInd "Dayna", "Wilkinson", "071590701", "1977-03-10", 0, , "Myanmar", "New Cyril", "68199-5900", "Tabitha Court", 77, 17, "daynawilkinson@memail.com", "daynawilkinson", "w7aq13fslur", 0;
+exec dbo.DodajKlientaInd "Amanda", "Bauch", "328640734", "1977-10-09", 1, 867751, "Cameroon", "Daynafurt", "64877-3867", "Ruthie Flat", 20, 33, "amandabauch@memail.com", "amandabauch", "g46qpw41csk", 0;
+exec dbo.DodajKlientaInd "Lambert", "Nader", "508161755", "1988-05-10", 1, , "Venezuela", "West Selenamouth", "86453", "Jaylin Brook", 24, 35, "lambertnader@memail.com", "lambertnader", "5savbp0tfc7", 0;
+exec dbo.DodajKlientaInd "Bennie", "Thiel", "284271986", "1973-02-22", 0, , "Montserrat", "Lanceborough", "62552-7266", "Goodwin Locks", 62, 47, "benniethiel@memail.com", "benniethiel", "t6vx5rjgpzb", 0;
+exec dbo.DodajKlientaInd "Carmella", "Koelpin", "744847812", "1961-03-02", 1, , "Senegal", "Schusterstad", "20442", "Tillman Pike", 22, 26, "carmellakoelpin@memail.com", "carmellakoelpin", "3nfx2pogme2", 0;
+exec dbo.DodajKlientaInd "Georgette", "Hessel", "915752522", "1959-11-19", 1, , "Ireland", "Ubaldoside", "50454-6137", "Schroeder Stream", 42, 85, "georgettehessel@memail.com", "georgettehessel", "qg8j6sae6j6", 0;
+exec dbo.DodajKlientaInd "Travis", "Shields", "513542583", "1969-04-26", 0, 620853, "Russian Federation", "Alexanefort", "78626-9683", "Funk Lock", 77, 28, "travisshields@memail.com", "travisshields", "tbndx2rkps4", 0;
+exec dbo.DodajKlientaInd "Earl", "Kuhlman", "317351708", "1952-11-18", 0, , "Wallis and Futuna", "East Marie", "86987-4583", "Pinkie Tunnel", 99, 69, "earlkuhlman@memail.com", "earlkuhlman", "0615shw5gy4", 0;
+exec dbo.DodajKlientaInd "Chloe", "Emmerich", "468192686", "1976-12-07", 0, , "Japan", "Kennedyport", "23480-8330", "Kira Lake", 13, 45, "chloeemmerich@memail.com", "chloeemmerich", "5wnygf5k0l9", 0;
+exec dbo.DodajKlientaInd "Ciara", "Wisoky", "471712371", "1977-10-19", 0, , "Ecuador", "West Daisha", "86758-5371", "Katlynn Parkways", 17, 43, "ciarawisoky@memail.com", "ciarawisoky", "gqui5evljc2", 0;
+exec dbo.DodajKlientaInd "Herminia", "Johnson", "872822283", "1972-05-07", 1, , "Philippines", "Lake Granvillemouth", "79531", "Tiffany Trace", 95, 96, "herminiajohnson@memail.com", "herminiajohnson", "jdflurlguzg", 0;
+exec dbo.DodajKlientaInd "Alessandro", "Welch", "836024745", "1982-06-22", 0, , "Senegal", "Ahmedland", "16374", "Aufderhar Orchard", 82, 96, "alessandrowelch@memail.com", "alessandrowelch", "akw7mx2vkwq", 0;
+exec dbo.DodajKlientaInd "Ward", "Maggio", "287331240", "1976-09-30", 1, , "Barbados", "Lake Onie", "36836", "Boyer Valleys", 64, 99, "wardmaggio@memail.com", "wardmaggio", "swxzb0i2kfs", 0;
+exec dbo.DodajKlientaInd "Warren", "Marquardt", "720458166", "1952-09-29", 0, , "Qatar", "Waelchiland", "51095-3026", "Terrill Squares", 52, 5, "warrenmarquardt@memail.com", "warrenmarquardt", "paldiv02v31", 0;
+exec dbo.DodajKlientaInd "Mireya", "Grimes", "765366153", "1987-04-28", 0, , "Niger", "Lake Billy", "67315", "Kertzmann Fork", 37, 47, "mireyagrimes@memail.com", "mireyagrimes", "05y5pmfnexe", 0;
+exec dbo.DodajKlientaInd "Tatum", "Hammes", "468577104", "1985-08-24", 0, , "Somalia", "North Helga", "24538-7858", "Jordyn Shores", 89, 86, "tatumhammes@memail.com", "tatumhammes", "wxx3lw8lbo", 0;
+exec dbo.DodajKlientaInd "Leopoldo", "Jakubowski", "246657248", "1989-03-06", 0, , "Djibouti", "West Keshaunland", "97281-7979", "Bayer Stream", 22, 62, "leopoldojakubowski@memail.com", "leopoldojakubowski", "dam2cm1dhfs", 0;
+exec dbo.DodajKlientaInd "Elinore", "Krajcik", "531613231", "1969-04-08", 0, , "Democratic People's Republic of Korea", "Newellview", "86583-6004", "Kertzmann Dale", 42, 59, "elinorekrajcik@memail.com", "elinorekrajcik", "ux4necppach", 0;
+exec dbo.DodajKlientaInd "Hugh", "Prosacco", "132689238", "1971-05-01", 1, , "Azerbaijan", "Adriannamouth", "41404-9869", "Sean Drives", 6, 49, "hughprosacco@memail.com", "hughprosacco", "lhb7p4qsxy", 0;
+exec dbo.DodajKlientaInd "Ali", "Waters", "190435212", "1961-12-26", 0, , "Sri Lanka", "South Suzanneburgh", "66233", "Dillon Squares", 27, 88, "aliwaters@memail.com", "aliwaters", "nkwawca4ez0", 0;
+exec dbo.DodajKlientaInd "Myrna", "Stark", "692480179", "1955-03-10", 0, 573106, "Lithuania", "West Margehaven", "22162", "Vanessa Squares", 43, 75, "myrnastark@memail.com", "myrnastark", "0kf38eopeiv", 0;
+exec dbo.DodajKlientaInd "Kamren", "Sawayn", "601645347", "1986-02-24", 0, , "Montenegro", "Macejkovicland", "28603-3428", "Vito Cape", 78, 71, "kamrensawayn@memail.com", "kamrensawayn", "osyo734fv1t", 0;
+exec dbo.DodajKlientaInd "Cortez", "Keeling", "838604212", "1992-05-26", 1, , "Azerbaijan", "Reichelborough", "88470", "Cartwright Stream", 2, 62, "cortezkeeling@memail.com", "cortezkeeling", "y44kauzmt7j", 0;
+exec dbo.DodajKlientaInd "Tess", "Runolfsson", "848469754", "1984-07-13", 1, , "Palau", "East Darrel", "43940-9197", "Lazaro Keys", 19, 14, "tessrunolfsson@memail.com", "tessrunolfsson", "2ua2zy4n4vy", 0;
+exec dbo.DodajKlientaInd "Cornell", "Nikolaus", "191316612", "1969-05-12", 0, , "Rwanda", "Bernardoport", "33543-2164", "Kody Run", 2, 63, "cornellnikolaus@memail.com", "cornellnikolaus", "z01cv9tvak", 0;
+exec dbo.DodajKlientaInd "Keshaun", "Stamm", "732081369", "1955-11-28", 1, , "Uganda", "Bergeland", "78662-3490", "Johns Mountain", 39, 4, "keshaunstamm@memail.com", "keshaunstamm", "d97o2nwqczw", 0;
+exec dbo.DodajKlientaInd "Abbey", "Breitenberg", "458346876", "1980-07-27", 0, , "Christmas Island", "Port Audie", "98707", "German Forges", 14, 6, "abbeybreitenberg@memail.com", "abbeybreitenberg", "qxfl2j92tgg", 0;
+exec dbo.DodajKlientaInd "Tristian", "Macejkovic", "367162137", "1954-06-20", 1, , "Andorra", "West Amani", "88559", "Rolando Mission", 12, 74, "tristianmacejkovic@memail.com", "tristianmacejkovic", "onsh23d4529", 0;
+exec dbo.DodajKlientaInd "Nicholaus", "Cruickshank", "481581725", "1965-07-17", 0, , "Nigeria", "North Laceyborough", "29854-4730", "Elias Isle", 15, 47, "nicholauscruickshank@memail.com", "nicholauscruickshank", "vwitd05wxsg", 0;
+exec dbo.DodajKlientaInd "Noe", "Greenholt", "466643422", "1977-09-21", 1, , "Congo", "West Bartholomefort", "93396-8326", "Bednar Spurs", 95, 63, "noegreenholt@memail.com", "noegreenholt", "lfms31neatk", 0;
+exec dbo.DodajKlientaInd "Mathias", "Emmerich", "274207187", "1994-08-01", 0, , "Panama", "East Anyamouth", "19861", "Abbott Valley", 89, 93, "mathiasemmerich@memail.com", "mathiasemmerich", "daqxughtljb", 0;
+exec dbo.DodajKlientaInd "Bernita", "Quitzon", "876390480", "1977-02-16", 1, , "Saint Helena", "Nikolausbury", "77389-0770", "Hermann Crossroad", 47, 73, "bernitaquitzon@memail.com", "bernitaquitzon", "3c56hbozuu4", 0;
+exec dbo.DodajKlientaInd "Ahmed", "Wiegand", "225263593", "1968-12-14", 1, , "Wallis and Futuna", "Jakubowskiport", "86949", "Kenyatta Locks", 3, 50, "ahmedwiegand@memail.com", "ahmedwiegand", "knb81d1mm3g", 0;
+exec dbo.DodajKlientaInd "Ismael", "Bradtke", "150217004", "1961-02-24", 1, , "Slovenia", "North Shanon", "66646-4384", "Imogene Island", 23, 45, "ismaelbradtke@memail.com", "ismaelbradtke", "tjuojv65lpa", 0;
+exec dbo.DodajKlientaInd "Magnolia", "Kling", "823831493", "1963-08-30", 0, 511454, "Oman", "Kulasmouth", "48102-4531", "Bogan Vista", 63, 42, "magnoliakling@memail.com", "magnoliakling", "9tjnqfsp2gz", 0;
+exec dbo.DodajKlientaInd "Lindsey", "Ankunding", "885634466", "1982-09-26", 1, , "Kuwait", "Othaville", "80079-8090", "Howell Street", 83, 54, "lindseyankunding@memail.com", "lindseyankunding", "ycp7o02h45y", 0;
+exec dbo.DodajKlientaInd "Annetta", "Kunze", "478133855", "1979-12-01", 1, , "San Marino", "North Keelyport", "15538-9357", "Simonis Prairie", 92, 35, "annettakunze@memail.com", "annettakunze", "9hgcnw86kpu", 0;
+exec dbo.DodajKlientaInd "Lonie", "Morissette", "155167847", "1959-08-16", 0, , "Nauru", "Mosefort", "87368-6445", "Effertz Mountain", 65, 55, "loniemorissette@memail.com", "loniemorissette", "7l2j8xkdmmj", 0;
+exec dbo.DodajKlientaInd "Terrence", "Toy", "788793875", "1983-08-09", 1, 944391, "Burkina Faso", "Greenfeldertown", "57261-2375", "Jo Cape", 22, 5, "terrencetoy@memail.com", "terrencetoy", "e6qyef3j9w7", 0;
+exec dbo.DodajKlientaInd "Tianna", "Raynor", "173058858", "1953-05-24", 1, , "Cuba", "North Rosina", "58247-5449", "Stehr Pike", 90, 64, "tiannaraynor@memail.com", "tiannaraynor", "sftue9twh2s", 0;
+exec dbo.DodajKlientaInd "Berenice", "Heaney", "817425338", "1959-08-04", 0, , "Rwanda", "Domingoburgh", "98334-1634", "Rath Road", 53, 47, "bereniceheaney@memail.com", "bereniceheaney", "iuy1j7mw4bw", 0;
+exec dbo.DodajKlientaInd "Aniya", "Jacobs", "166758958", "1957-10-05", 1, , "Canada", "Altown", "67963", "Mosciski Mountains", 76, 69, "aniyajacobs@memail.com", "aniyajacobs", "nytl383dtof", 0;
+exec dbo.DodajKlientaInd "Helga", "Kling", "921877498", "1982-12-14", 0, , "Mozambique", "Dedrickberg", "41650", "Lydia Burg", 56, 65, "helgakling@memail.com", "helgakling", "bx300st10v1", 0;
+exec dbo.DodajKlientaInd "Kailee", "Bahringer", "447743398", "1987-03-24", 0, , "Sao Tome and Principe", "East Maiachester", "45062-9325", "Chaz Points", 83, 33, "kaileebahringer@memail.com", "kaileebahringer", "zlcisq2812k", 0;
+exec dbo.DodajKlientaInd "Rebeka", "Kilback", "745335452", "1954-10-25", 1, , "Finland", "Lake Randi", "98177-1282", "Goldner Row", 72, 24, "rebekakilback@memail.com", "rebekakilback", "2qj7maj208b", 0;
+exec dbo.DodajKlientaInd "Marcelle", "Maggio", "202718467", "1996-03-29", 0, , "Italy", "New Verdaview", "37428", "Daugherty Extension", 4, 73, "marcellemaggio@memail.com", "marcellemaggio", "rewb1vvspmq", 0;
+exec dbo.DodajKlientaInd "Eula", "Emmerich", "315767456", "1967-04-13", 0, , "Armenia", "North Milan", "83100-4860", "Lorenz Estate", 55, 34, "eulaemmerich@memail.com", "eulaemmerich", "7qbhnjsprgj", 0;
+exec dbo.DodajKlientaInd "Wilma", "Hahn", "482845630", "1962-04-05", 0, , "Seychelles", "Lake Nicholas", "67766-9656", "Rice Hill", 15, 13, "wilmahahn@memail.com", "wilmahahn", "qer3hr9ocri", 0;
+exec dbo.DodajKlientaInd "Amaya", "Corkery", "694317983", "1986-10-19", 0, , "Kazakhstan", "Goyetteburgh", "94671", "Napoleon Fields", 14, 7, "amayacorkery@memail.com", "amayacorkery", "8yev56s0dz", 0;
+exec dbo.DodajKlientaInd "Mohamed", "Spinka", "363948271", "1962-02-03", 0, , "Canada", "Hortensefurt", "30143-7864", "Solon Glen", 36, 57, "mohamedspinka@memail.com", "mohamedspinka", "ehg2kxgks9", 0;
+exec dbo.DodajKlientaInd "Daphnee", "Huels", "473304758", "1952-03-30", 1, , "Indonesia", "Hanefort", "87540", "Hoeger Route", 53, 88, "daphneehuels@memail.com", "daphneehuels", "jxxhbpzon25", 0;
+exec dbo.DodajKlientaInd "Amya", "Lakin", "751015766", "1969-11-15", 0, , "Brunei Darussalam", "East Margarettchester", "13384", "Merl Wells", 38, 81, "amyalakin@memail.com", "amyalakin", "ciezx67z453", 0;
+exec dbo.DodajKlientaInd "Alfonso", "Feest", "774747750", "1957-09-15", 1, , "Saint Pierre and Miquelon", "Monahanfurt", "85686-7963", "Baumbach Shore", 83, 99, "alfonsofeest@memail.com", "alfonsofeest", "8345o0y6zrt", 0;
+exec dbo.DodajKlientaInd "Vaughn", "Schroeder", "044357314", "1956-03-19", 1, , "Turks and Caicos Islands", "Port Devonte", "32888-5952", "Micheal Mountains", 63, 30, "vaughnschroeder@memail.com", "vaughnschroeder", "l5d8hlja8qw", 0;
+exec dbo.DodajKlientaInd "Dameon", "Johnston", "348448858", "1985-04-05", 1, , "Algeria", "North Dusty", "42272-9112", "Meghan Neck", 44, 99, "dameonjohnston@memail.com", "dameonjohnston", "ok8m8okg6sw", 0;
+exec dbo.DodajKlientaInd "Esta", "Hyatt", "093433528", "1994-09-22", 1, , "Solomon Islands", "Rozellachester", "39062-0810", "Sipes Light", 26, 32, "estahyatt@memail.com", "estahyatt", "nejy9lmbcx2", 0;
+exec dbo.DodajKlientaInd "Jordyn", "Zieme", "628684273", "1994-06-11", 1, , "Philippines", "Murraychester", "45926-6044", "Boyle Fields", 62, 78, "jordynzieme@memail.com", "jordynzieme", "ph6vv2ds3tu", 0;
+exec dbo.DodajKlientaInd "Gerardo", "Hauck", "685522181", "1976-02-04", 0, , "Liechtenstein", "South Reynoldborough", "75827", "Dwight Square", 68, 52, "gerardohauck@memail.com", "gerardohauck", "xran5af6v69", 0;
+exec dbo.DodajKlientaInd "Coleman", "Howell", "744380262", "1954-03-14", 1, , "Myanmar", "Medamouth", "65221", "Tyshawn Lock", 18, 62, "colemanhowell@memail.com", "colemanhowell", "1d5yzuqaqcu", 0;
+exec dbo.DodajKlientaInd "Krystel", "Kuhic", "141483695", "1984-09-24", 0, , "Somalia", "New Santinoburgh", "41705-5402", "Waters Streets", 23, 98, "krystelkuhic@memail.com", "krystelkuhic", "mwil0nmz8sz", 0;
+exec dbo.DodajKlientaInd "Garrett", "Olson", "941619814", "1955-05-31", 0, , "Saint Kitts and Nevis", "Auerfort", "18227-0545", "Devyn Avenue", 81, 26, "garrettolson@memail.com", "garrettolson", "e3q78hzhd7o", 0;
+exec dbo.DodajKlientaInd "Isac", "Steuber", "269812738", "1974-12-24", 0, , "Indonesia", "Carterton", "86681", "Eichmann Pike", 52, 43, "isacsteuber@memail.com", "isacsteuber", "7hh1ae9zalp", 0;
+exec dbo.DodajKlientaInd "Alexis", "Wiegand", "528263510", "1970-05-17", 0, 586625, "Colombia", "Estaville", "21248", "Blick Road", 41, 24, "alexiswiegand@memail.com", "alexiswiegand", "1ut5wkl0hcr", 0;
+exec dbo.DodajKlientaInd "Michael", "Hodkiewicz", "273186392", "1963-01-16", 1, , "Mexico", "Port Josianeborough", "99390-4638", "Kunde Villages", 8, 86, "michaelhodkiewicz@memail.com", "michaelhodkiewicz", "lc7nt8vhuj", 0;
+exec dbo.DodajKlientaInd "John", "Corkery", "617956610", "1987-10-20", 1, 663266, "Burkina Faso", "Eliseoville", "33461", "Shakira Knolls", 32, 69, "johncorkery@memail.com", "johncorkery", "rj0sw9k6gsp", 0;
+exec dbo.DodajKlientaInd "Dustin", "Bahringer", "876342084", "1979-10-08", 1, , "Spain", "Jonathanburgh", "44783", "Daniel Run", 82, 4, "dustinbahringer@memail.com", "dustinbahringer", "k30m2lqlfkb", 0;
+exec dbo.DodajKlientaInd "Tanya", "Jerde", "381788422", "1986-10-28", 1, , "Cayman Islands", "Port Mary", "40491-1620", "Rempel Walk", 38, 33, "tanyajerde@memail.com", "tanyajerde", "j95t0stihlx", 0;
+exec dbo.DodajKlientaInd "Kayli", "Jacobson", "872298229", "1955-02-18", 1, , "Palestinian Territory", "Fadelview", "45419", "Aditya Fall", 22, 76, "kaylijacobson@memail.com", "kaylijacobson", "8in5zrsyenc", 0;
+exec dbo.DodajKlientaInd "Jackson", "McLaughlin", "239099489", "1973-09-13", 0, , "Aruba", "Port Elveramouth", "93663-9052", "Dicki Well", 98, 94, "jacksonmclaughlin@memail.com", "jacksonmclaughlin", "l48287sttw2", 0;
+exec dbo.DodajKlientaInd "Vicente", "Corkery", "575485760", "1963-01-04", 0, , "Bolivia", "West Zita", "38421-8881", "Alden Pike", 43, 16, "vicentecorkery@memail.com", "vicentecorkery", "l0e4n6unaj", 0;
+exec dbo.DodajKlientaInd "Dee", "Nolan", "464134827", "1986-03-02", 1, , "Sudan", "Hilpertmouth", "65832-2609", "Kaden Plains", 88, 29, "deenolan@memail.com", "deenolan", "kf13m8c0vmb", 0;
+exec dbo.DodajKlientaInd "Roxane", "Gerhold", "376742204", "1990-02-24", 0, , "Spain", "North Abelside", "76138", "Sonny Landing", 64, 44, "roxanegerhold@memail.com", "roxanegerhold", "ylzeja0y6q6", 0;
+exec dbo.DodajKlientaInd "Ashly", "Block", "355315652", "1985-04-27", 1, , "El Salvador", "Sanfordview", "39470", "Germaine Parkways", 62, 28, "ashlyblock@memail.com", "ashlyblock", "uxagm9bbty4", 0;
+exec dbo.DodajKlientaInd "Fabiola", "Stark", "853483505", "1950-06-06", 0, , "Iran", "New Albinfurt", "74712", "Joseph Alley", 76, 85, "fabiolastark@memail.com", "fabiolastark", "2ka40vv3od1", 0;
+exec dbo.DodajKlientaInd "Alford", "Bode", "152548837", "1959-09-11", 0, , "Saudi Arabia", "Aimeeberg", "16095-7621", "Georgette Walk", 87, 28, "alfordbode@memail.com", "alfordbode", "sgpzc4wpig6", 0;
+exec dbo.DodajKlientaInd "Devyn", "Becker", "457735487", "1992-04-19", 1, , "Jordan", "Muellermouth", "42722-7024", "Zander Stravenue", 18, 29, "devynbecker@memail.com", "devynbecker", "kp85chtgey5", 0;
+exec dbo.DodajKlientaInd "Stanford", "Rempel", "356999343", "1967-04-05", 1, , "Hungary", "Vergiechester", "23183", "Mariane Port", 54, 86, "stanfordrempel@memail.com", "stanfordrempel", "pc6srvom67", 0;
+exec dbo.DodajKlientaInd "Cyrus", "Turcotte", "650346773", "1984-10-30", 0, , "Sweden", "Mohrport", "51302", "Fadel Groves", 78, 4, "cyrusturcotte@memail.com", "cyrusturcotte", "z2t8t8bd21a", 0;
+exec dbo.DodajKlientaInd "Aurelie", "Fadel", "118843890", "1958-08-24", 0, , "French Southern Territories", "Port Hollieport", "69605", "Janice Mall", 68, 82, "aureliefadel@memail.com", "aureliefadel", "unakuev8bqm", 0;
+exec dbo.DodajKlientaInd "Erick", "Reichel", "344644186", "1962-10-25", 1, , "Fiji", "Port Anthony", "39657", "Buck Field", 16, 3, "erickreichel@memail.com", "erickreichel", "uqbthdyyvty", 0;
+exec dbo.DodajKlientaInd "Giovanni", "Larson", "277638443", "1996-09-27", 1, , "Albania", "Port Jennyfer", "12011-3583", "Flatley Fields", 12, 45, "giovannilarson@memail.com", "giovannilarson", "k5rgu31n0f6", 0;
+exec dbo.DodajKlientaInd "Nichole", "Brakus", "249676113", "1996-04-07", 0, , "Holy See (Vatican City State)", "North Jenningsview", "45658-3447", "Okey Point", 75, 60, "nicholebrakus@memail.com", "nicholebrakus", "vfek3sqkeka", 0;
+exec dbo.DodajKlientaInd "Deondre", "Weissnat", "437024424", "1964-09-27", 0, , "Hungary", "Beattybury", "27306-9244", "Wolff Stravenue", 29, 23, "deondreweissnat@memail.com", "deondreweissnat", "8mvcbsy30ze", 0;
+exec dbo.DodajKlientaInd "Akeem", "Wisoky", "920133841", "1993-06-02", 0, , "Kiribati", "South Modestaport", "13503", "Altenwerth Row", 2, 36, "akeemwisoky@memail.com", "akeemwisoky", "61jdh47c000", 0;
+exec dbo.DodajKlientaInd "Delphia", "Wiza", "866685821", "1959-04-15", 1, 872198, "Malawi", "New Imeldaview", "95528", "Connelly Shores", 11, 2, "delphiawiza@memail.com", "delphiawiza", "zv4k6njdun2", 0;
+exec dbo.DodajKlientaInd "Jaron", "Considine", "641184106", "1988-11-12", 1, 778024, "Croatia", "Lake Laurabury", "74413-6305", "Turner Canyon", 62, 96, "jaronconsidine@memail.com", "jaronconsidine", "seikk5ilby", 0;
+exec dbo.DodajKlientaInd "Tito", "Sawayn", "594055873", "1958-12-31", 1, , "Myanmar", "Bartellton", "25583-1302", "Esteban Orchard", 64, 34, "titosawayn@memail.com", "titosawayn", "fo74bxs38ul", 0;
+exec dbo.DodajKlientaInd "Shanna", "Witting", "747728718", "1951-02-08", 0, , "Mozambique", "West Alena", "48737-8148", "Brekke Tunnel", 67, 3, "shannawitting@memail.com", "shannawitting", "cfqhhdpm54s", 0;
+exec dbo.DodajKlientaInd "Guillermo", "Nikolaus", "773817321", "1954-07-16", 0, , "Dominican Republic", "Klockoview", "18577", "Sincere Lights", 92, 66, "guillermonikolaus@memail.com", "guillermonikolaus", "78xkmfjczzs", 0;
+exec dbo.DodajKlientaInd "Doug", "Kuhlman", "468826323", "1962-03-12", 1, , "Saint Vincent and the Grenadines", "Macejkovicfort", "74702-8394", "Pierre Corners", 69, 38, "dougkuhlman@memail.com", "dougkuhlman", "9hcl19gys95", 0;
+exec dbo.DodajKlientaInd "Tia", "Doyle", "257862913", "1976-08-13", 0, , "Cayman Islands", "Lake Lavonnehaven", "55702-9139", "Hobart Ville", 19, 27, "tiadoyle@memail.com", "tiadoyle", "5y6lyinp75a", 0;
+exec dbo.DodajKlientaInd "Darrin", "Walker", "583622113", "1982-05-14", 0, , "Lebanon", "East Beulah", "58351-7812", "Keyon Dale", 52, 42, "darrinwalker@memail.com", "darrinwalker", "fxjzn06ydvp", 0;
+exec dbo.DodajKlientaInd "Cody", "Hamill", "457439581", "1985-06-20", 0, , "Nauru", "East Herminaborough", "49629", "Kuvalis Prairie", 87, 18, "codyhamill@memail.com", "codyhamill", "y5h4olc5u6n", 0;
+exec dbo.DodajKlientaInd "Gianni", "Beier", "564545433", "1975-06-25", 1, , "Mayotte", "Bethbury", "98874-9335", "Wiegand Valleys", 53, 79, "giannibeier@memail.com", "giannibeier", "2nubzih51x9", 0;

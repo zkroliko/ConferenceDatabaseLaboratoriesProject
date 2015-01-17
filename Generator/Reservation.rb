@@ -4,9 +4,10 @@ require_relative 'Workshop'
 RESERVATION_BASE_QUOTA = 0.05
 RESERVATION_VARY_QUOTA = 0.05
 
-RESERVATION_BASE_QUOTA_WORKSHOP = 0.1
+RESERVATION_BASE_QUOTA_WORKSHOP = 0.2
 RESERVATION_VARY_QUOTA_WORKSHOP = 0.1
 
+# This represent how long ago the reservation had been made
 RESERVATION_DATE_BASE = 14 # In days
 RESERVATION_DATE_VARY = 500 # In days
 
@@ -19,27 +20,37 @@ class CReservation
 	attr_accessor :curindex, :id, :cday, :client, :reservationDate, :conference, :normal, :students, :payment
 
 	def initialize (client, cday)
+		# Indexing
 		@id = @@curindex
-		@@curindex +=1
+		@@curindex += 1	
+		# Refence to client
 		@client = client		
+		# Confence day		
 		@cday = cday
-		@reservationDate = ((@cday.date)-(rand()*RESERVATION_DATE_VARY+RESERVATION_DATE_BASE).to_i) # Randomizing reservation day
+		# Random date of reseravtion
+		@reservationDate = ((@cday.date)-(rand()*RESERVATION_DATE_VARY+RESERVATION_DATE_BASE).to_i)
+		# Helpull field
 		@conference = @cday.conference
 		# Now let's make a decision on number of places on the reservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
 		if (@client.instance_of?(CompanyClient) and @conference.leftPlaces > 0)
-			# We are comapny aparently
+			# We are a company aparently
 			places = (@conference.places*(RESERVATION_VARY_QUOTA*rand()+RESERVATION_BASE_QUOTA))%(@conference.leftPlaces)
 			@conference.leftPlaces -= places.to_i # Substracting taken spaces
-			if (@conference.leftPlaces <=0)
-				return false
+			if (@conference.leftPlaces <0)
+				@students = 0
+				@normal = 0
 			else
 			@students = (places*STUDENT_PROPORTION).to_i
 			# Lets check whether there is place left for students
 			@normal = (places*(1-STUDENT_PROPORTION)).to_i
-		end else
+			end 
+		else
 			# We are private person
+			# minus one places left on the conference
+			@conference.leftPlaces -= 1
+			# Now let's check if it's a student or not
 			if (client.person.nr != nil)
 				@students = 1
 				@normal = 0
@@ -47,7 +58,6 @@ class CReservation
 				@students = 0
 				@normal = 1
 			end
-			@conference.leftPlaces -= 1
 		end 
 	end
 
@@ -56,7 +66,7 @@ class CReservation
 	end
 
 	def export 
-		"exec dbo.DodajRezerwacjeKonf #{to_s} \n"
+		"exec dbo.DodajRezerwacjeKonf #{to_s}"
 	end
 end
 
@@ -76,22 +86,24 @@ class WReservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
 		if places == 0
+			# Default value
 			if (@client.instance_of?(CompanyClient) and @workshop.leftPlaces > 0)
 				# We are a company aparently
 				@places = ((@workshop.places*(RESERVATION_VARY_QUOTA_WORKSHOP*rand()+RESERVATION_BASE_QUOTA_WORKSHOP))%(@workshop.leftPlaces)).to_i
-				@workshop.leftPlaces -= @places.to_i # Substracting taken spaces
 				if (@workshop.leftPlaces <=0)
 					return nil
-			end else
+				end
+			else
 				# We are an individual person
 				@places = 1
-				@workshop.leftPlaces -= 1
 			end 
+
 		else
-			# If it's not 0 then we take the given value
+			# If it's not 0 then we take the value given as parameter
 			@places = places
-			@workshop.leftPlaces - places
 		end
+		# We always need to decrement the number of places left in the workshop
+		@workshop.leftPlaces -= @places.to_i
 	end
 
 	def to_s

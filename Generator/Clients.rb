@@ -10,8 +10,10 @@ class Client
 attr_accessor :curindex, :id, :person, :login, :password
 
 	def initialize
+		# Indexing stuff
 		@id = @@curindex
 		@@curindex +=1
+		# Random values
 		@person = Person.new
 		@login = Faker::Internet.user_name
 		@pass = Faker::Internet.password(PASSW_LENGTH_MIN,PASSW_LENGTH_MAX)
@@ -24,9 +26,11 @@ attr_accessor :companyName, :phone, :fax, :email
 
 	def initialize
 		super
+		# Child class fields initialization
 		@companyName = Faker::Company.name + " " +  Faker::Company.suffix
 		@phone = Faker::Number.number(TELEPHONE_N_LENGTH)
 		@fax = Faker::Number.number(TELEPHONE_N_LENGTH)
+		# Email is formated as company
 		@email = "contact@#{@companyName}.com".gsub(" ", "")
 		@login = @companyName.downcase.gsub(" ", "").gsub(",", " ")
 	end
@@ -35,7 +39,7 @@ attr_accessor :companyName, :phone, :fax, :email
 		"#{@person}, \"#{@companyName}\", #{@phone}, #{@fax}, \"#{@email}\", \"#{@login}\", \"#{@pass}\", 1"
 	end
 	def export
-		"exec dbo.DodajKlientaFirm #{to_s}; \n"
+		"exec dbo.DodajKlientaFirm #{to_s};"
 	end
 
 end
@@ -45,6 +49,8 @@ attr_accessor :companyName, :phone, :fax, :email
 
 	def initialize
 		super
+		# Child class fields initialization
+		# Email is a bit different
 		@email = "#{@person.firstName}#{@person.lastName}@memail.com".downcase.gsub(" ", "")
 		@login = "#{@person.firstName}#{@person.lastName}".downcase.gsub(" ", "").gsub(",", " ")
 	end
@@ -53,7 +59,7 @@ attr_accessor :companyName, :phone, :fax, :email
 		"#{@person}, \"#{@email}\", \"#{@login}\", \"#{@pass}\", 0"
 	end
 	def export
-		"exec dbo.DodajKlientaInd #{to_s}; \n"
+		"exec dbo.DodajKlientaInd #{to_s};"
 	end
 
 end

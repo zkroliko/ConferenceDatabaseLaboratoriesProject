@@ -1,144 +1,114 @@
-exec dbo.DodajRezerwacjeKonf 64, 1, "2013-06-27", 6, 9 
-
-exec dbo.DodajRezerwacjeKonf 13, 1, "2013-06-19", 3, 10 
-
-exec dbo.DodajRezerwacjeKonf 77, 1, "2014-01-02", 4, 3 
-
-exec dbo.DodajRezerwacjeKonf 17, 1, "2013-09-05", 3, 9 
-
-exec dbo.DodajRezerwacjeKonf 93, 1, "2013-10-15", 3, 14 
-
-exec dbo.DodajRezerwacjeKonf 24, 1, "2013-01-06", 5, 8 
-
-exec dbo.DodajRezerwacjeKonf 22, 1, "2013-04-15", 4, 13 
-
-exec dbo.DodajRezerwacjeKonf 45, 2, "2013-08-25", 4, 22 
-
-exec dbo.DodajRezerwacjeKonf 23, 2, "2014-04-20", 3, 10 
-
-exec dbo.DodajRezerwacjeKonf 99, 2, "2014-03-11", 3, 13 
-
-exec dbo.DodajRezerwacjeKonf 7, 2, "2014-05-10", 5, 2 
-
-exec dbo.DodajRezerwacjeKonf 21, 2, "2014-04-23", 5, 2 
-
-exec dbo.DodajRezerwacjeKonf 17, 2, "2013-07-18", 3, 13 
-
-exec dbo.DodajRezerwacjeKonf 37, 2, "2013-10-28", 4, 15 
-
-exec dbo.DodajRezerwacjeKonf 29, 2, "2014-08-28", 3, 13 
-
-exec dbo.DodajRezerwacjeKonf 68, 2, "2014-01-16", 5, 7 
-
-exec dbo.DodajRezerwacjeKonf 33, 3, "2012-09-02", 3, 6 
-
-exec dbo.DodajRezerwacjeKonf 1, 3, "2012-06-11", 3, 9 
-
-exec dbo.DodajRezerwacjeKonf 53, 3, "2012-04-08", 2, 22 
-
-exec dbo.DodajRezerwacjeKonf 66, 3, "2011-10-08", 1, 18 
-
-exec dbo.DodajRezerwacjeKonf 13, 3, "2012-07-01", 2, 4 
-
-exec dbo.DodajRezerwacjeKonf 35, 3, "2012-11-16", 2, 3 
-
-exec dbo.DodajRezerwacjeKonf 79, 4, "2012-06-11", 5, 22 
-
-exec dbo.DodajRezerwacjeKonf 14, 4, "2012-12-29", 6, 8 
-
-exec dbo.DodajRezerwacjeKonf 42, 4, "2013-03-03", 6, 6 
-
-exec dbo.DodajRezerwacjeKonf 58, 4, "2012-04-02", 6, 19 
-
-exec dbo.DodajRezerwacjeKonf 56, 4, "2013-02-17", 6, 22 
-
-exec dbo.DodajRezerwacjeKonf 50, 4, "2012-12-03", 5, 26 
-
-exec dbo.DodajRezerwacjeKonf 42, 4, "2012-07-01", 5, 2 
-
-exec dbo.DodajRezerwacjeKonf 73, 4, "2013-01-23", 5, 5 
-
-exec dbo.DodajRezerwacjeKonf 48, 5, "2012-05-14", 7, 5 
-
-exec dbo.DodajRezerwacjeKonf 30, 5, "2012-09-20", 9, 5 
-
-exec dbo.DodajRezerwacjeKonf 85, 5, "2013-01-18", 6, 10 
-
-exec dbo.DodajRezerwacjeKonf 76, 5, "2012-07-18", 7, 11 
-
-exec dbo.DodajRezerwacjeKonf 27, 5, "2012-11-07", 5, 10 
-
-exec dbo.DodajRezerwacjeKonf 19, 5, "2013-05-09", 6, 3 
-
-exec dbo.DodajRezerwacjeKonf 100, 5, "2012-11-23", 6, 2 
-
-exec dbo.DodajRezerwacjeKonf 337, 1, "2013-08-22", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 913, 1, "2014-01-05", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 266, 1, "2012-12-09", 1, 1 
-
-exec dbo.DodajRezerwacjeKonf 936, 1, "2013-09-25", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 733, 1, "2013-02-22", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 955, 1, "2013-07-18", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 626, 2, "2014-06-16", 1, 1 
-
-exec dbo.DodajRezerwacjeKonf 904, 2, "2014-08-31", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 103, 2, "2013-09-08", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 860, 2, "2013-11-04", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 723, 2, "2014-09-02", 1, 1 
-
-exec dbo.DodajRezerwacjeKonf 630, 2, "2014-04-18", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 384, 2, "2013-12-28", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 375, 3, "2012-07-21", 1, 1 
-
-exec dbo.DodajRezerwacjeKonf 144, 3, "2012-04-28", 1, 1 
-
-exec dbo.DodajRezerwacjeKonf 296, 3, "2012-09-28", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 288, 3, "2011-07-24", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 179, 3, "2012-06-22", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 272, 4, "2012-04-01", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 173, 4, "2013-04-12", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 369, 4, "2013-03-18", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 1084, 4, "2012-08-29", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 927, 4, "2012-06-18", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 881, 4, "2012-05-10", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 628, 4, "2012-07-21", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 1046, 4, "2012-12-16", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 921, 4, "2012-07-30", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 737, 5, "2012-04-10", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 566, 5, "2012-05-07", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 359, 5, "2013-04-15", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 450, 5, "2012-09-10", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 651, 5, "2012-07-07", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 428, 5, "2012-10-29", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 1069, 5, "2013-06-02", 0, 1 
-
-exec dbo.DodajRezerwacjeKonf 1062, 5, "2013-07-27", 0, 1 
-
+exec dbo.DodajRezerwacjeKonf 71, 1, "2012-02-08", 2, 21
+exec dbo.DodajRezerwacjeKonf 38, 1, "2012-05-16", 2, 22
+exec dbo.DodajRezerwacjeKonf 69, 1, "2011-06-06", 1, 17
+exec dbo.DodajRezerwacjeKonf 94, 1, "2012-09-24", 2, 20
+exec dbo.DodajRezerwacjeKonf 23, 1, "2012-03-31", 1, 15
+exec dbo.DodajRezerwacjeKonf 23, 1, "2011-12-05", 2, 21
+exec dbo.DodajRezerwacjeKonf 91, 1, "2012-03-30", 2, 20
+exec dbo.DodajRezerwacjeKonf 74, 1, "2011-07-18", 2, 24
+exec dbo.DodajRezerwacjeKonf 93, 1, "2012-06-22", 2, 18
+exec dbo.DodajRezerwacjeKonf 79, 1, "2012-10-12", 1, 17
+exec dbo.DodajRezerwacjeKonf 37, 1, "2011-11-19", 2, 19
+exec dbo.DodajRezerwacjeKonf 14, 1, "2011-06-18", 1, 17
+exec dbo.DodajRezerwacjeKonf 84, 1, "2011-10-31", 1, 13
+exec dbo.DodajRezerwacjeKonf 24, 1, "2012-09-02", 0, 0
+exec dbo.DodajRezerwacjeKonf 617, 1, "2011-11-27", 0, 1
+exec dbo.DodajRezerwacjeKonf 878, 1, "2011-07-16", 0, 1
+exec dbo.DodajRezerwacjeKonf 984, 1, "2012-04-11", 0, 1
+exec dbo.DodajRezerwacjeKonf 901, 1, "2011-12-11", 0, 1
+exec dbo.DodajRezerwacjeKonf 1004, 1, "2012-10-05", 1, 0
+exec dbo.DodajRezerwacjeKonf 464, 1, "2012-02-16", 0, 1
+exec dbo.DodajRezerwacjeKonf 339, 1, "2012-06-11", 0, 1
+exec dbo.DodajRezerwacjeKonf 1018, 1, "2012-03-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 595, 1, "2012-05-14", 0, 1
+exec dbo.DodajRezerwacjeKonf 662, 1, "2011-06-12", 0, 1
+exec dbo.DodajRezerwacjeKonf 775, 1, "2011-07-27", 0, 1
+exec dbo.DodajRezerwacjeKonf 319, 1, "2012-03-16", 0, 1
+exec dbo.DodajRezerwacjeKonf 377, 1, "2012-08-27", 1, 0
+exec dbo.DodajRezerwacjeKonf 389, 1, "2012-02-26", 1, 0
+exec dbo.DodajRezerwacjeKonf 884, 1, "2011-07-19", 0, 1
+exec dbo.DodajRezerwacjeKonf 325, 1, "2012-09-25", 0, 1
+exec dbo.DodajRezerwacjeKonf 889, 1, "2011-07-17", 1, 0
+exec dbo.DodajRezerwacjeKonf 422, 1, "2012-08-06", 0, 1
+exec dbo.DodajRezerwacjeKonf 207, 1, "2012-03-17", 0, 1
+exec dbo.DodajRezerwacjeKonf 678, 1, "2012-08-01", 0, 1
+exec dbo.DodajRezerwacjeKonf 1050, 1, "2011-10-29", 0, 1
+exec dbo.DodajRezerwacjeKonf 809, 1, "2012-09-17", 0, 1
+exec dbo.DodajRezerwacjeKonf 870, 1, "2012-07-02", 0, 1
+exec dbo.DodajRezerwacjeKonf 813, 1, "2011-12-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 264, 1, "2011-08-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 1078, 1, "2011-08-05", 0, 1
+exec dbo.DodajRezerwacjeKonf 234, 1, "2011-06-08", 0, 1
+exec dbo.DodajRezerwacjeKonf 1053, 1, "2011-09-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 750, 1, "2012-02-18", 0, 1
+exec dbo.DodajRezerwacjeKonf 793, 1, "2012-03-08", 1, 0
+exec dbo.DodajRezerwacjeKonf 802, 1, "2011-12-14", 0, 1
+exec dbo.DodajRezerwacjeKonf 1059, 1, "2011-12-24", 0, 1
+exec dbo.DodajRezerwacjeKonf 278, 1, "2011-09-24", 0, 1
+exec dbo.DodajRezerwacjeKonf 820, 1, "2011-08-25", 0, 1
+exec dbo.DodajRezerwacjeKonf 244, 1, "2011-09-17", 0, 1
+exec dbo.DodajRezerwacjeKonf 168, 1, "2011-12-01", 0, 1
+exec dbo.DodajRezerwacjeKonf 748, 1, "2012-06-20", 0, 1
+exec dbo.DodajRezerwacjeKonf 805, 1, "2012-05-25", 1, 0
+exec dbo.DodajRezerwacjeKonf 791, 1, "2012-04-11", 0, 1
+exec dbo.DodajRezerwacjeKonf 192, 1, "2012-06-11", 0, 1
+exec dbo.DodajRezerwacjeKonf 757, 1, "2012-04-28", 1, 0
+exec dbo.DodajRezerwacjeKonf 382, 1, "2012-01-14", 0, 1
+exec dbo.DodajRezerwacjeKonf 790, 1, "2012-01-02", 1, 0
+exec dbo.DodajRezerwacjeKonf 489, 1, "2012-02-23", 0, 1
+exec dbo.DodajRezerwacjeKonf 169, 1, "2012-08-21", 0, 1
+exec dbo.DodajRezerwacjeKonf 799, 1, "2011-09-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 882, 1, "2012-04-30", 0, 1
+exec dbo.DodajRezerwacjeKonf 127, 1, "2012-03-15", 0, 1
+exec dbo.DodajRezerwacjeKonf 1065, 1, "2011-12-05", 0, 1
+exec dbo.DodajRezerwacjeKonf 214, 1, "2011-12-16", 0, 1
+exec dbo.DodajRezerwacjeKonf 1030, 1, "2012-05-10", 0, 1
+exec dbo.DodajRezerwacjeKonf 1004, 1, "2012-09-12", 1, 0
+exec dbo.DodajRezerwacjeKonf 654, 1, "2011-06-07", 0, 1
+exec dbo.DodajRezerwacjeKonf 950, 1, "2011-07-18", 0, 1
+exec dbo.DodajRezerwacjeKonf 732, 1, "2011-10-31", 0, 1
+exec dbo.DodajRezerwacjeKonf 850, 1, "2011-08-02", 0, 1
+exec dbo.DodajRezerwacjeKonf 197, 1, "2012-05-22", 0, 1
+exec dbo.DodajRezerwacjeKonf 261, 1, "2012-01-05", 0, 1
+exec dbo.DodajRezerwacjeKonf 477, 1, "2011-12-06", 0, 1
+exec dbo.DodajRezerwacjeKonf 350, 1, "2012-05-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 995, 1, "2012-02-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 136, 1, "2012-01-12", 0, 1
+exec dbo.DodajRezerwacjeKonf 393, 1, "2011-11-09", 1, 0
+exec dbo.DodajRezerwacjeKonf 882, 1, "2011-09-24", 0, 1
+exec dbo.DodajRezerwacjeKonf 238, 1, "2012-09-19", 1, 0
+exec dbo.DodajRezerwacjeKonf 1045, 1, "2012-01-29", 1, 0
+exec dbo.DodajRezerwacjeKonf 458, 1, "2011-12-18", 0, 1
+exec dbo.DodajRezerwacjeKonf 786, 1, "2011-06-23", 0, 1
+exec dbo.DodajRezerwacjeKonf 332, 1, "2012-04-23", 0, 1
+exec dbo.DodajRezerwacjeKonf 824, 1, "2012-10-02", 0, 1
+exec dbo.DodajRezerwacjeKonf 251, 1, "2012-07-28", 0, 1
+exec dbo.DodajRezerwacjeKonf 759, 1, "2011-08-14", 0, 1
+exec dbo.DodajRezerwacjeKonf 597, 1, "2012-02-08", 0, 1
+exec dbo.DodajRezerwacjeKonf 188, 1, "2011-12-22", 0, 1
+exec dbo.DodajRezerwacjeKonf 676, 1, "2012-07-20", 0, 1
+exec dbo.DodajRezerwacjeKonf 962, 1, "2012-07-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 491, 1, "2011-08-30", 0, 1
+exec dbo.DodajRezerwacjeKonf 186, 1, "2011-08-07", 0, 1
+exec dbo.DodajRezerwacjeKonf 970, 1, "2012-02-03", 0, 1
+exec dbo.DodajRezerwacjeKonf 657, 1, "2011-07-02", 0, 1
+exec dbo.DodajRezerwacjeKonf 931, 1, "2012-08-01", 0, 1
+exec dbo.DodajRezerwacjeKonf 876, 1, "2012-07-12", 0, 1
+exec dbo.DodajRezerwacjeKonf 838, 1, "2011-09-10", 0, 1
+exec dbo.DodajRezerwacjeKonf 237, 1, "2011-11-18", 0, 1
+exec dbo.DodajRezerwacjeKonf 1023, 1, "2012-10-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 1062, 1, "2012-10-08", 0, 1
+exec dbo.DodajRezerwacjeKonf 180, 1, "2012-06-24", 1, 0
+exec dbo.DodajRezerwacjeKonf 349, 1, "2011-12-07", 0, 1
+exec dbo.DodajRezerwacjeKonf 898, 1, "2011-06-15", 0, 1
+exec dbo.DodajRezerwacjeKonf 313, 1, "2011-09-03", 0, 1
+exec dbo.DodajRezerwacjeKonf 827, 1, "2012-09-09", 0, 1
+exec dbo.DodajRezerwacjeKonf 625, 1, "2012-04-07", 0, 1
+exec dbo.DodajRezerwacjeKonf 229, 1, "2012-02-17", 0, 1
+exec dbo.DodajRezerwacjeKonf 816, 1, "2011-06-27", 0, 1
+exec dbo.DodajRezerwacjeKonf 110, 1, "2012-03-25", 0, 1
+exec dbo.DodajRezerwacjeKonf 153, 1, "2012-09-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 834, 1, "2011-07-05", 0, 1
+exec dbo.DodajRezerwacjeKonf 704, 1, "2012-05-02", 0, 1
+exec dbo.DodajRezerwacjeKonf 1065, 1, "2012-06-29", 0, 1
+exec dbo.DodajRezerwacjeKonf 805, 1, "2012-07-29", 1, 0
