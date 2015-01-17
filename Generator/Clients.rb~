@@ -58,8 +58,3 @@ attr_accessor :companyName, :phone, :fax, :email
 
 end
 
-20.times {puts CompanyClient.new.export}
-20.times {puts IndClient.new.export}
-
-
-

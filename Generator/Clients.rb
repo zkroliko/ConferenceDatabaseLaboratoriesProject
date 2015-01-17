@@ -7,7 +7,7 @@ PASSW_LENGTH_MAX = 20
 class Client
 	@@curindex = 1
 
-attr_accessor :curindex, :id, :person, :person, :login, :password
+attr_accessor :curindex, :id, :person, :login, :password
 
 	def initialize
 		@id = @@curindex

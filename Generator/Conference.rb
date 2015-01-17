@@ -9,7 +9,7 @@ CONFERENCE_DAYS_BASIC = 4
 
 #Seed for places
 PLACES_ROUNDING = -1
-BASIC_PLACES = 120
+BASIC_PLACES = 300
 VARIABLE_PLACES = 1000
 
 #Seed for price
@@ -72,9 +72,6 @@ class Conference
 			return false
 		end
 		else
-			puts dayCollision
-			puts first.export
-			puts second.export
 			return true
 		end
 	end

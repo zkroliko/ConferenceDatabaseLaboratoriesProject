@@ -27,7 +27,7 @@ class Person
 		if (rand()<STUDENT_QUOTA) 			
 			Faker::Number.number(STUDENT_NR_LENGTH)
 		else
-			 'null'
+			nil
 		end
 	end
 

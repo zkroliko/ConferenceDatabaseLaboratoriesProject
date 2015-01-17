@@ -3,7 +3,7 @@ require_relative 'Supporting'
 require_relative 'Conference'
 
 WORKSHOP_PLACES_ROUNDING = -1
-WORKSHOP_BASIC_PLACES = 10
+WORKSHOP_BASIC_PLACES = 20
 WORKSHOP_VARIABLE_PLACES = 40
 
 WORKSHOP_PRICE_ROUNDING = -1
@@ -28,7 +28,7 @@ WORK_TIME_MAX = 240*60 # in second
 class Workshop
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :places, :price, :days
+	attr_accessor :curindex, :id, :name, :places, :leftPlaces, :conference, :price, :days
 
 	def initialize(conference = 'null')
 		@id = @@curindex

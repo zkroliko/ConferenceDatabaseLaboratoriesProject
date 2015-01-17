@@ -16,9 +16,9 @@ class CReservation
 
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :cday, :client, :reservationDate
+	attr_accessor :curindex, :id, :cday, :client, :reservationDate, :conference
 
-	def initialize(client, cday)
+	def initialize (client, cday)
 		@id = @@curindex
 		@@curindex +=1
 		@client = client		
@@ -40,7 +40,7 @@ class CReservation
 			@normal = (places*(1-STUDENT_PROPORTION)).to_i
 		end else
 			# We are private person
-			if (client.person.nr != 'null')
+			if (client.person.nr != nil)
 				@students = 1
 				@normal = 0
 			else # The person is not a student
@@ -76,16 +76,15 @@ class WReservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
 		if (@client.instance_of?(CompanyClient) and @workshop.leftPlaces > 0)
-			# We are comapny aparently
+			# We are a company aparently
 			@places = ((@workshop.places*(RESERVATION_VARY_QUOTA_WORKSHOP*rand()+RESERVATION_BASE_QUOTA_WORKSHOP))%(@workshop.leftPlaces)).to_i
 			@workshop.leftPlaces -= @places.to_i # Substracting taken spaces
 			if (@workshop.leftPlaces <=0)
-				return false
-			else
+				return nil
 		end else
 			# We are an individual person
 			@places = 1
-			@conference.leftPlaces -= 1
+			@workshop.leftPlaces -= 1
 		end 
 	end
 
@@ -114,7 +113,7 @@ class CParticipant
 	end
 
 	def to_s
-		"#{@client.id}, #{@creservation.id}, #{@person}"
+		"#{@client.id}, #{@creservation.id}, #{@person.id}"
 	end
 
 	def export 
