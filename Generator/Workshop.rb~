@@ -26,9 +26,15 @@ WORK_TIME_MIN = 60*60 # in second
 WORK_TIME_MAX = 240*60 # in second
 
 class Workshop
-	@@curindex = 1
 
-	attr_accessor :curindex, :id, :name, :places, :leftPlaces, :conference, :price, :days
+	@@curindex = 1
+		
+	# For holding the collision data about workshops
+	@@collisions = Hash.new
+
+	attr_accessor :curindex, :id, :name, :places, :leftPlaces, :conference, :price
+
+	attr_reader :days
 
 	# Special accesor for :leftPlaces, because they can run out
 	def leftPlaces=(leftPlaces)
@@ -70,10 +76,16 @@ class Workshop
 
 	# Checks whether two Workshops collide
 	def self.collide first, second
+		# First let check whether there is an entry for this combination
+		if @@collisions.has_key?([first.id, second.id])
+			return @@collisions[[first.id, second.id]]			
+		end
+		# Apparently not
 		# Checking whether we have common days
 		dayCollision = first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
-		if dayCollision.empty? 
-			return false
+		if dayCollision.empty?
+			@@collisions[[first.id, second.id]] = false # We add it too look up table 
+			return false			
 		else	
 			# There is an intersection
 			# Now let's check for REAL intersections
@@ -84,9 +96,13 @@ class Workshop
 				secondStart = second.days[second.days.map{|x| x.cDay}.index(day)].startTime
 				secondEnd= second.days[second.days.map{|x| x.cDay}.index(day)].endTime
 				if (firstStart > secondStart and firstStart < secondEnd) or (firstEnd > secondStart and firstEnd < secondEnd)
+					@@collisions[[first.id, second.id]] = true # We add it too look up table 
 					return true # There is your problem!
 				end
 			end
+		# At last we can say that there is no collision
+		@@collisions[[first.id, second.id]] = false # We add it too look up table 
+		return false
 		end
 	end
 
@@ -95,6 +111,7 @@ class Workshop
 	# as the size of a given array
 	# It means, that it will find the biggest possible subset
 	def self.pickNoncolliding workshops, targetAmmountOfWorkshops = workshops.size
+
 			# Counter, if the algorithm can find no solution for long enough
 			# we will reduce the size of the subset
 			counter_max = 10 # default 10
@@ -107,8 +124,6 @@ class Workshop
 			while (collide == true) do	
 				# For now, we haven't found any
 				collide = false
-				# Something to hold the workshop collison
-				collision = Array.new
 				# First let's whether 
 				if (counter == counter_max)
 					# He tried long enough, let's check with softer rules
@@ -119,13 +134,9 @@ class Workshop
 				# Select the ones that collide
 				 workshopsTemp.each do |work|
 					workshopsTemp.select{|work2| work2 != work}.find do |work2|
-						collision << [work, work2] if (Workshop.collide(work, work2) == true);
-						puts collision
-						# Used the previously created data table
+						collide = Workshop.collide(work, work2)
 					end
-				end		
-				puts collision
-				collide = !collision.empty?
+				end
 				counter += 1 # We increase the counter
 			end
 			return workshopsTemp
@@ -135,7 +146,7 @@ class Workshop
 		"\"#{name}\", #{@places}, \"#{@price}\""
 	end
 
-	def export 
+	def export
 		"exec dbo.DodajWarsztat #{to_s}\n#{(@days.collect{|x| x.export}).join("\n")}"
 	end
 
@@ -157,6 +168,9 @@ class WDay
 	end
 
 	def to_s
+		if @workshop.id != @workshop.id
+			puts "aa"
+		end
 		"#{@cDay.id}, #{(@workshop.id)}, \"#{@startTime.to_s[11..18]}\", \"#{@endTime.to_s[11..18]}\""
 	end
 

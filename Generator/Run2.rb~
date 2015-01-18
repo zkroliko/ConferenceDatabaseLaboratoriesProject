@@ -7,21 +7,22 @@ NR_PEOPLE = 1000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
 NR_CONFERENCES = 1 #default 72
-NR_WOKSHOPS_PER_CON_BASE = 10 #default 5
-NR_WOKSHOPS_PER_CON_VAR = 20 #default 5
+
+NR_WOKSHOPS_PER_CON_BASE = 5 #default 5
+NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
 
 NR_RESERVATIONS_PER_CON_FIRMS_BASE = 10 #default 10
 NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 10
 
-NR_RESERVATIONS_PER_CON_IND_BASE = 60 #default 30
-NR_RESERVATIONS_PER_CON_IND_VAR = 60 #default 30
+NR_RESERVATIONS_PER_CON_IND_BASE = 1#60 #default 30
+NR_RESERVATIONS_PER_CON_IND_VAR = 0#60 #default 30
 
 NR_RESERVATIONS_PER_WORK_BASE = 60 #default 20
 NR_RESERVATIONS_PER_WORK_VAR = 20 #default 10
 
 #The ratio by which workshops are attended in a given conference
-WORKSHOPS_ATTENDANCE_BASE = 1 #default 0.5
-WORKSHOPS_ATTENDANCE_VARY = 0.0 #default 0.5 
+WORKSHOPS_ATTENDANCE_BASE = 0.5 #default 0.5
+WORKSHOPS_ATTENDANCE_VARY = 0.5 #default 0.5 
 
 
 # People
@@ -55,16 +56,8 @@ cparticipants = Array.new
 # Array of workshop pariticipants
 wparticipants = Array.new
 
-
-work1 = workshops.sample(2)
-
-work2 = Workshop.pickNoncolliding work1
-work2.each{|x| puts x.export}
-
-return false
-
 # We will have a one great loop for every conference
-conferences.each do |cres|
+conferences.each do |conf|
 	# First let's pick some companies and individual customers to parcipate in the conference
 	# How many companies and how many ind clients
 	howManyCompanies = ((NR_RESERVATIONS_PER_CON_FIRMS_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_FIRMS_BASE)
@@ -75,7 +68,7 @@ conferences.each do |cres|
 	indForThisConference = clientInd.sample(howManyInd)
 	# Let's find workshops for this conference
 	# they are created with proper dates
-	workshopsInConference = workshops.select{|w| w.conference == cres} # Workshops in this conference
+	workshopsInConference = workshops.select{|w| w.conference == conf} # Workshops in this conference
 
 	# Now let's make a data structure to hold what workshops a given clients participates in
 	workshopsForClient = Array.new
@@ -84,10 +77,27 @@ conferences.each do |cres|
 	clients.each do |cli|	
 		# Number of workshops the client will be attending
 		targetAmmountOfWorkshops = (workshopsInConference.size*(WORKSHOPS_ATTENDANCE_VARY*rand()+WORKSHOPS_ATTENDANCE_BASE)).to_i 
-		# If the client is individual, we will check if they collide and try do to something about it
+		# If the client is individual, we will take non-colliding subset of wokrshops
 		if cli.instance_of?(IndClient)
 			# This function will find a non-colliding substet of workshops at this conference
 			workshopsForClient[cli.id] = Workshop.pickNoncolliding workshopsInConference, targetAmmountOfWorkshops
+			# Well, now we can go on, and make all aragements
+			# First let's make reservations for every day that contatins our workshops
+			resWDays = workshopsForClient[cli.id].collect{|x| x.days}.flatten # Array of this workshops days
+			resCDays = resCDays.map{|x| x.cDay}.uniq # Mapped from resCDays
+			# It's imporatnt to make them unique
+			# Now lets make reservations
+			thisCReservations = Array.new
+			resWDays.each do |day| 
+				thisCReservations << (CReservation.new cli, day)	
+				cparticipants << (CParticipant.new thisCReservations.last, cli.person)
+			end
+			# Now the reservation for workshops
+			workshopsForClient[cli.id].each do |work|
+				wreservations << WReservation.new work.days.first.wday
+			end
+			# We only make one, for the first day
+			#creservation
 		else
 		# If the client is a company, we have less trouble
 		# We might have some trouble later on

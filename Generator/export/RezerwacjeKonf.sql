@@ -1,0 +1,9 @@
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-10-01", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-09-04", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2011-08-29", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-09-20", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-05-19", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-06-22", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-09-15", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-07-10", 0, 1
+exec dbo.DodajRezerwacjeKonf 910, 1, "2012-01-11", 0, 1
