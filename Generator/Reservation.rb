@@ -39,6 +39,7 @@ class CReservation
 		if normal+students != 0
 			@students = students
 			@normal = normal
+			@cday.leftPlaces -= @students + @normal
 			return self
 		end
 
@@ -52,7 +53,7 @@ class CReservation
 		if @client.instance_of?(CompanyClient)
 			# We are a company aparently
 			places = (@conference.places*(RESERVATION_VARY_QUOTA*rand()+RESERVATION_BASE_QUOTA))%(@cday.leftPlaces)
-			@cday.leftPlaces -= places.to_i # Substracting taken spaces
+			@cday.leftPlaces -= places.to_i # Substracting taken spaces from cday
 			if (@cday.leftPlaces <0)
 				@students = 0
 				@normal = 0
