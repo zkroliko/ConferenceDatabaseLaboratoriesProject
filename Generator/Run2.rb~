@@ -3,10 +3,10 @@ require_relative 'Clients'
 
 # Main configuration, see other files for more details
 
-NR_PEOPLE = 9000 #default 5000
+NR_PEOPLE = 1000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 72 #default 72
+NR_CONFERENCES = 1 #default 72
 NR_WOKSHOPS_PER_CON_BASE = 10 #default 5
 NR_WOKSHOPS_PER_CON_VAR = 20 #default 5
 
@@ -28,6 +28,10 @@ WORKSHOPS_ATTENDANCE_VARY = 0.0 #default 0.5
 people = Array.new
 NR_PEOPLE.times{ people << Person.new }
 
+#Just to divide people into students and not students
+normal = people.select{|x| x.nr == nil}
+students = people.select{|x| x.nr != nil}
+
 # Clients
 clientFirms = Array.new
 NR_FIRMS.times{ clientFirms << CompanyClient.new }
@@ -42,13 +46,57 @@ NR_CONFERENCES.times{ conferences << Conference.new}
 workshops = Array.new
 conferences.each{|x| ((NR_WOKSHOPS_PER_CON_VAR*rand()).to_i + NR_WOKSHOPS_PER_CON_BASE).times{ workshops << Workshop.new(x)}}
 
-#Just to divide people into students and not students
-normal = people.select{|x| x.nr == nil}
-students = people.select{|x| x.nr != nil}
 # Array of conference reservations
 creservations = Array.new
 # Array of workshop reservations
 wreservations = Array.new
+# Array of conference participants
+cparticipants = Array.new
+# Array of workshop pariticipants
+wparticipants = Array.new
+
+
+work1 = workshops.sample(2)
+
+work2 = Workshop.pickNoncolliding work1
+work2.each{|x| puts x.export}
+
+return false
+
+# We will have a one great loop for every conference
+conferences.each do |cres|
+	# First let's pick some companies and individual customers to parcipate in the conference
+	# How many companies and how many ind clients
+	howManyCompanies = ((NR_RESERVATIONS_PER_CON_FIRMS_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_FIRMS_BASE)
+	howManyInd =  ((NR_RESERVATIONS_PER_CON_IND_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_IND_BASE)
+	# Let's pick some Companies
+	companiesForThisConference = clientFirms.sample(howManyCompanies)
+	# Let's pick some ind customers
+	indForThisConference = clientInd.sample(howManyInd)
+	# Let's find workshops for this conference
+	# they are created with proper dates
+	workshopsInConference = workshops.select{|w| w.conference == cres} # Workshops in this conference
+
+	# Now let's make a data structure to hold what workshops a given clients participates in
+	workshopsForClient = Array.new
+	clients = companiesForThisConference + indForThisConference
+	# Filling each key with workshops
+	clients.each do |cli|	
+		# Number of workshops the client will be attending
+		targetAmmountOfWorkshops = (workshopsInConference.size*(WORKSHOPS_ATTENDANCE_VARY*rand()+WORKSHOPS_ATTENDANCE_BASE)).to_i 
+		# If the client is individual, we will check if they collide and try do to something about it
+		if cli.instance_of?(IndClient)
+			# This function will find a non-colliding substet of workshops at this conference
+			workshopsForClient[cli.id] = Workshop.pickNoncolliding workshopsInConference, targetAmmountOfWorkshops
+		else
+		# If the client is a company, we have less trouble
+		# We might have some trouble later on
+		workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
+		end
+	end	
+end
+
+=begin
 
 # Filling the conferences with reservations, firstly for companies
 conferences.each do |x|
@@ -78,10 +126,6 @@ creservations.each do |cres| # Filling the workshops with reservations from give
 	end
 end
 
-# Array of conference participants
-cparticipants = Array.new
-# Array of workshop pariticipants
-wparticipants = Array.new
 
 # Now let's fill em up
 # We will will every conference reservation with cparticipants, and then it's conference reservations
@@ -139,6 +183,7 @@ creservations.each do |x|
 	end
 end
 
+=end
 
 #Printing
 
@@ -158,13 +203,4 @@ workshops.each{|x| workshopsFile << x.export << "\n"}
 creservations.each{|x| confReservationsFile << x.export << "\n"}
 wreservations.each{|x| workReservationsFile <<  x.export << "\n"}
 cparticipants.each{|x| confParticipantsFile << x.export << "\n"}
-wparticipants.each do |x| 
-		begin
-		workParticipantsFile << x.export << "\n"
-		rescue NoMethodError => e
-			puts e
-			puts wparticipants.last
-			counter = 0
-			puts conferences.map{|x| counter += x.places}
-		end
-end
+wparticipants.each{|x| 	workParticipantsFile << x.export << "\n"}

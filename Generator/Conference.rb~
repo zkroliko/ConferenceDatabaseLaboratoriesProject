@@ -95,7 +95,7 @@ class CDay
 	def leftPlaces=(leftPlaces)
     		@leftPlaces = leftPlaces
 		if (leftPlaces < 0)
-			"We ran out of space at this conference day"		
+			"We ran out of space at this conference"		
 		end
  	end
 		# Special accesor for :leftPlaces
@@ -113,7 +113,6 @@ class CDay
 		@conference = conference
 		# Places for a given day, equal to places on the conference
 		@places = @conference.places
-		# We will make things easier by remebering how many places there ale left
 		@leftPlaces = @places
 	end
 

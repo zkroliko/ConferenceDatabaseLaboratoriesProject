@@ -120,11 +120,11 @@ class Workshop
 				 workshopsTemp.each do |work|
 					workshopsTemp.select{|work2| work2 != work}.find do |work2|
 						collision << [work, work2] if (Workshop.collide(work, work2) == true);
-						#puts collision
+						puts collision
 						# Used the previously created data table
 					end
 				end		
-				#puts collision
+				puts collision
 				collide = !collision.empty?
 				counter += 1 # We increase the counter
 			end

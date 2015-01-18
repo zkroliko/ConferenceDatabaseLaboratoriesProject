@@ -38,9 +38,17 @@ NR_IND.times{ clientInd << IndClient.new }
 conferences = Array.new
 NR_CONFERENCES.times{ conferences << Conference.new}
 
+# Now let's make a lookup table of which conference collides with which conference
+cCollisions = Hash.new
+conferences.each{|x| conferences.each{|y| cCollisions["#{x.id} #{y.id}"] = Conference.Collide x, y }}
+
 # Workshops, randomizes number per conference
 workshops = Array.new
 conferences.each{|x| ((NR_WOKSHOPS_PER_CON_VAR*rand()).to_i + NR_WOKSHOPS_PER_CON_BASE).times{ workshops << Workshop.new(x)}}
+
+# Now let's make a lookup table of which workshop collides with which workshop
+wCollisions = Hash.new
+workshops.each{|x| workshops.each{|y| wCollisions["#{x.id} #{y.id}"] = Workshop.Collide x, y }}
 
 #Just to divide people into students and not students
 normal = people.select{|x| x.nr == nil}

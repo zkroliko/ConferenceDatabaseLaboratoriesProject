@@ -34,7 +34,6 @@ class CReservation
 		# Now let's make a decision on number of places on the reservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
-
 		# If the conference day is out of left spaces, we will make an empty resevation
 		if @cday.leftPlaces <= 0
 			@students = 0
