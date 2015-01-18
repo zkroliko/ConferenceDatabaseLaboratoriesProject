@@ -6,7 +6,7 @@ require_relative 'Clients'
 NR_PEOPLE = 1000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 1 #default 72
+NR_CONFERENCES = 72 #default 72
 
 NR_WOKSHOPS_PER_CON_BASE = 5 #default 5
 NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
@@ -14,8 +14,8 @@ NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
 NR_RESERVATIONS_PER_CON_FIRMS_BASE = 10 #default 10
 NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 10
 
-NR_RESERVATIONS_PER_CON_IND_BASE = 1#60 #default 30
-NR_RESERVATIONS_PER_CON_IND_VAR = 0#60 #default 30
+NR_RESERVATIONS_PER_CON_IND_BASE = 60#60 #default 30
+NR_RESERVATIONS_PER_CON_IND_VAR = 60 #60 #default 30
 
 NR_RESERVATIONS_PER_WORK_BASE = 60 #default 20
 NR_RESERVATIONS_PER_WORK_VAR = 20 #default 10
@@ -84,24 +84,43 @@ conferences.each do |conf|
 			# Well, now we can go on, and make all aragements
 			# First let's make reservations for every day that contatins our workshops
 			resWDays = workshopsForClient[cli.id].collect{|x| x.days}.flatten # Array of this workshops days
-			resCDays = resCDays.map{|x| x.cDay}.uniq # Mapped from resCDays
-			# It's imporatnt to make them unique
+			resCDays = resWDays.map{|x| x.cday}.uniq # Mapped from this workshops days
+			# It's important to make them unique
+			# Lets make the proper number of clients
+			if cli.person.nr == nil
+				students = 0
+				normal = 1
+			else
+				students = 1
+				normal = 0
+			end
 			# Now lets make reservations
 			thisCReservations = Array.new
-			resWDays.each do |day| 
-				thisCReservations << (CReservation.new cli, day)	
+			resCDays.each do |day| 
+				thisCReservations << (CReservation.new cli, day, normal, students)	
 				cparticipants << (CParticipant.new thisCReservations.last, cli.person)
 			end
+			# Adding them to a big pile
+			creservations += thisCReservations
 			# Now the reservation for workshops
-			workshopsForClient[cli.id].each do |work|
-				wreservations << WReservation.new work.days.first.wday
-			end
 			# We only make one, for the first day
-			#creservation
+
+			thisWreservations = Array.new
+			workshopsForClient[cli.id].each do |work|	
+				thisWreservations << (WReservation.new work, thisCReservations.find{|x| x.cday === work.days.first.cday}, 1)
+				# Now let's make participants
+				thisWreservations.each do |wres|
+					wparticipants << (WParticipant.new wres, cli.person)
+				end
+			end
+			# Add them to a big pile now
+			wreservations += thisWreservations 	
+			# All done now
 		else
-		# If the client is a company, we have less trouble
-		# We might have some trouble later on
-		workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
+
+			# If the client is a company, we have less trouble
+			# We might have some trouble later on
+			workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
 		end
 	end	
 end

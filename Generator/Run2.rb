@@ -6,7 +6,7 @@ require_relative 'Clients'
 NR_PEOPLE = 1000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 1 #default 72
+NR_CONFERENCES = 72 #default 72
 
 NR_WOKSHOPS_PER_CON_BASE = 5 #default 5
 NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
@@ -14,8 +14,8 @@ NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
 NR_RESERVATIONS_PER_CON_FIRMS_BASE = 10 #default 10
 NR_RESERVATIONS_PER_CON_FIRMS_VAR = 10 #default 10
 
-NR_RESERVATIONS_PER_CON_IND_BASE = 1#60 #default 30
-NR_RESERVATIONS_PER_CON_IND_VAR = 0#60 #default 30
+NR_RESERVATIONS_PER_CON_IND_BASE = 60#60 #default 30
+NR_RESERVATIONS_PER_CON_IND_VAR = 60 #60 #default 30
 
 NR_RESERVATIONS_PER_WORK_BASE = 60 #default 20
 NR_RESERVATIONS_PER_WORK_VAR = 20 #default 10
@@ -84,116 +84,46 @@ conferences.each do |conf|
 			# Well, now we can go on, and make all aragements
 			# First let's make reservations for every day that contatins our workshops
 			resWDays = workshopsForClient[cli.id].collect{|x| x.days}.flatten # Array of this workshops days
-			resCDays = resCDays.map{|x| x.cDay}.uniq # Mapped from this workshops days
-			# It's imporatnt to make them unique
+			resCDays = resWDays.map{|x| x.cday}.uniq # Mapped from this workshops days
+			# It's important to make them unique
+			# Lets make the proper number of clients
+			if cli.person.nr == nil
+				students = 0
+				normal = 1
+			else
+				students = 1
+				normal = 0
+			end
 			# Now lets make reservations
 			thisCReservations = Array.new
-			resWDays.each do |day| 
-				thisCReservations << (CReservation.new cli, day)	
+			resCDays.each do |day| 
+				thisCReservations << (CReservation.new cli, day, normal, students)	
 				cparticipants << (CParticipant.new thisCReservations.last, cli.person)
 			end
+			# Adding them to a big pile
+			creservations += thisCReservations
 			# Now the reservation for workshops
-			workshopsForClient[cli.id].each do |work|
-				wreservations << WReservation.new work.days.first.wday
-			end
 			# We only make one, for the first day
-			#creservation
+
+			thisWreservations = Array.new
+			workshopsForClient[cli.id].each do |work|	
+				thisWreservations << (WReservation.new work, thisCReservations.find{|x| x.cday === work.days.first.cday}, 1)
+				# Now let's make participants
+				thisWreservations.each do |wres|
+					wparticipants << (WParticipant.new wres, cli.person)
+				end
+			end
+			# Add them to a big pile now
+			wreservations += thisWreservations 	
+			# All done now
 		else
-		# If the client is a company, we have less trouble
-		# We might have some trouble later on
-		workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
+
+			# If the client is a company, we have less trouble
+			# We might have some trouble later on
+			workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
 		end
 	end	
 end
-
-=begin
-
-# Filling the conferences with reservations, firstly for companies
-conferences.each do |x|
-	((NR_RESERVATIONS_PER_CON_FIRMS_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_FIRMS_BASE).times do
-		creservations << CReservation.new(clientFirms.sample, x.days.sample)
-	end
-end
-
-# And now for individuals
-conferences.each do |x|
-	((NR_RESERVATIONS_PER_CON_IND_VAR*rand()).to_i + NR_RESERVATIONS_PER_CON_IND_BASE).times do
-		creservations << CReservation.new(clientInd.sample, x.days.sample)
-	end
-end 
-
-creservations.each do |cres| # Filling the workshops with reservations from given conferences
-	# We only fill the workshops one day in the conference
-	if (cres.conference.days[0] == cres.cday)
-		workshopsInConference = workshops.select{|w| w.conference == cres.conference} # Workshops in this conference
-		# how many of the workshops will the client be attending
-		ammountOfWorkshops = (workshopsInConference.size*(WORKSHOPS_ATTENDANCE_VARY*rand()+WORKSHOPS_ATTENDANCE_BASE)).to_i 
-		workshopsForThisReservation = workshopsInConference.sample(ammountOfWorkshops) # A subset of the workshops
-		workshopsForThisReservation.each do |work|
-				wreservations << WReservation.new(work, cres)
-				# Addding a workshop reservation
-		end
-	end
-end
-
-
-# Now let's fill em up
-# We will will every conference reservation with cparticipants, and then it's conference reservations
-creservations.each do |x|
-	# We will do this for every conference reservation
-	# Firstly for individual reservations
-	# INDIVIDUAL
-	if x.client.instance_of?(IndClient) 
-		cparticipant = CParticipant.new x, x.client.person
-		cparticipants << cparticipant
-		# Now for every workshop reservation refering to this conference reservation we will add one participant to it's workshop
-		wreservations.select{|wres| wres.creservation == x}.each do |wres|
-			wparticipants << (WParticipant.new wres, x.client)
-			# Added a workshop participant for this workshop and for the client of this conference reservation
-		end
-		# For every workshop this client had a reservation, added him to the participants
-	else
-		# Here we got a company reservation
-		# COMPANY
-		# This are very important structures 
-		# they contating the people already chosen to fill in for this reservation
-		cParForThisConference = Array.new
-		# Choosing some normal guys, not a students, to participate
-		# AS FOR NOW THEY MAY HAVE SOME CONFLICTS WITH DIFFERENT CONFERENCES AND RESERVATIONS
-		x.normal.times do
-			guy = normal.sample # We choose a guy, not a student
-			thisParticpant = (CParticipant.new x, guy)
-			cparticipants << thisParticpant
-			# Added the guy to the list
-			cParForThisConference << thisParticpant
-		end
-		# Choosing some students, to participate
-		# AS FOR NOW THEY MAY HAVE SOME CONFLICTS WITH DIFFERENT CONFERENCES AND RESERVATIONS
-		x.students.times do
-			guy = students.sample # We choose a guy, not a sample
-			thisParticpant = (CParticipant.new x, guy)
-			cparticipants << thisParticpant
-			# Added the guy to the list
-			cParForThisConference << thisParticpant
-		end
-		# The same thing, only for workshop reservations, student don't matter to me none :D	
-		# the workshop participant structure doesn't differentiate from students
-		# AS FOR NOW THEY MAY HAVE SOME CONFLICTS WITH DIFFERENT CONFERENCES AND RESERVATIONS
-
-		# Now for every workshop reservation refering to this conference reservation we will add participants to it's workshop
-		# choosing only the wreservations for this conference reservation
-		wreservations.select{|wres| wres.creservation == x}.each do |wres|
-			wres.places.times do
-			wparticipants << (WParticipant.new wres, cParForThisConference.sample)
-			# Added a workshop participant for this workshop and for the client of this conference reservation
-			end
-		end
-		# We filled the whole stuff with people
-		# They may have some conflicts
-	end
-end
-
-=end
 
 #Printing
 

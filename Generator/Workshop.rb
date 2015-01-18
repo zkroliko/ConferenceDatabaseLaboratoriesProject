@@ -82,7 +82,7 @@ class Workshop
 		end
 		# Apparently not
 		# Checking whether we have common days
-		dayCollision = first.days.map{|x| x.cDay} & second.days.map{|x| x.cDay}
+		dayCollision = first.days.map{|x| x.cday} & second.days.map{|x| x.cday}
 		if dayCollision.empty?
 			@@collisions[[first.id, second.id]] = false # We add it too look up table 
 			return false			
@@ -91,10 +91,10 @@ class Workshop
 			# Now let's check for REAL intersections
 			collision = dayCollision.select do |day|
 				# Hell this is ugly
-				firstStart = first.days[first.days.map{|x| x.cDay}.index(day)].startTime
-				firstEnd= first.days[first.days.map{|x| x.cDay}.index(day)].endTime
-				secondStart = second.days[second.days.map{|x| x.cDay}.index(day)].startTime
-				secondEnd= second.days[second.days.map{|x| x.cDay}.index(day)].endTime
+				firstStart = first.days[first.days.map{|x| x.cday}.index(day)].startTime
+				firstEnd= first.days[first.days.map{|x| x.cday}.index(day)].endTime
+				secondStart = second.days[second.days.map{|x| x.cday}.index(day)].startTime
+				secondEnd= second.days[second.days.map{|x| x.cday}.index(day)].endTime
 				if (firstStart > secondStart and firstStart < secondEnd) or (firstEnd > secondStart and firstEnd < secondEnd)
 					@@collisions[[first.id, second.id]] = true # We add it too look up table 
 					return true # There is your problem!
@@ -155,20 +155,20 @@ end
 class WDay
 	@@curindex = 1
 
-	attr_accessor :curindex, :id, :cDay, :workshop, :startTime, :endTime
+	attr_accessor :curindex, :id, :cday, :workshop, :startTime, :endTime
 
 	def initialize(cDay, workshop)
 		@id = @@curindex
 		@@curindex +=1
 		@workshop = workshop
-		@cDay = cDay
+		@cday = cDay
 		# Now for staring and ending hours
-		@startTime = (NormalizeTimeToDate(cDay.date, WORK_HOUR_MIN) + (rand()*((WORK_HOUR_MAX-WORK_HOUR_MIN)-WORK_TIME_MAX)).to_i).round(15*60)
+		@startTime = (NormalizeTimeToDate(cday.date, WORK_HOUR_MIN) + (rand()*((WORK_HOUR_MAX-WORK_HOUR_MIN)-WORK_TIME_MAX)).to_i).round(15*60)
 		@endTime = (@startTime +rand()*WORK_TIME_MAX).round(30*60)
 	end
 
 	def to_s
-		"#{@cDay.id}, #{(@workshop.id)}, \"#{@startTime.to_s[11..18]}\", \"#{@endTime.to_s[11..18]}\""
+		"#{@cday.id}, #{(@workshop.id)}, \"#{@startTime.to_s[11..18]}\", \"#{@endTime.to_s[11..18]}\""
 	end
 
 	def export 
