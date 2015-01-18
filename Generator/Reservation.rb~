@@ -19,7 +19,7 @@ class CReservation
 
 	attr_accessor :curindex, :id, :cday, :client, :reservationDate, :conference, :normal, :students, :payment
 
-	def initialize (client, cday, normal = 0, student = 0)
+	def initialize (client, cday, normal = 0, students = 0)
 		# Indexing
 		@id = @@curindex
 		@@curindex += 1	
@@ -34,6 +34,13 @@ class CReservation
 		# Now let's make a decision on number of places on the reservation
 		# The ammount of places is randomized based on constants
 		# , the @leftPlaces field of conference is updated
+	
+		# If we are given a number of places we set them and quit
+		if normal+students != 0
+			@students = students
+			@normal = normal
+			return self
+		end
 
 		# If the conference day is out of left spaces, we will make an empty resevation
 		if @cday.leftPlaces <= 0
@@ -46,7 +53,7 @@ class CReservation
 			# We are a company aparently
 			places = (@conference.places*(RESERVATION_VARY_QUOTA*rand()+RESERVATION_BASE_QUOTA))%(@cday.leftPlaces)
 			@cday.leftPlaces -= places.to_i # Substracting taken spaces
-			if (@cdat.leftPlaces <0)
+			if (@cday.leftPlaces <0)
 				@students = 0
 				@normal = 0
 			else

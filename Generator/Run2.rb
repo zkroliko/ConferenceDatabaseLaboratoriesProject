@@ -6,7 +6,7 @@ require_relative 'Clients'
 NR_PEOPLE = 1000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 72 #default 72
+NR_CONFERENCES = 1 #default 72
 
 NR_WOKSHOPS_PER_CON_BASE = 5 #default 5
 NR_WOKSHOPS_PER_CON_VAR = 5 #default 5
@@ -107,6 +107,8 @@ conferences.each do |conf|
 
 			thisWreservations = Array.new
 			workshopsForClient[cli.id].each do |work|	
+				# We will add a reservation with the conference day reservation which is the first in the
+				# conference, this workshop and 1 place
 				thisWreservations << (WReservation.new work, thisCReservations.find{|x| x.cday === work.days.first.cday}, 1)
 				# Now let's make participants
 				thisWreservations.each do |wres|
@@ -117,10 +119,49 @@ conferences.each do |conf|
 			wreservations += thisWreservations 	
 			# All done now
 		else
-
 			# If the client is a company, we have less trouble
-			# We might have some trouble later on
-			workshopsForClient[cli.id] = workshopsInConference.sample(targetAmmountOfWorkshops)
+			# We also select them non collidngly
+			workshopsForClient[cli.id] = Workshop.pickNoncolliding workshopsInConference, targetAmmountOfWorkshops
+			# First let's select every day that contatins our workshops
+			resWDays = workshopsForClient[cli.id].collect{|x| x.days}.flatten # Array of this workshops days
+			resCDays = resWDays.map{|x| x.cday}.uniq # Mapped from this workshops days
+			# Now let's make reservations
+			thisCReservations = Array.new
+			# Making just one reservation
+			thisCReservations << (CReservation.new cli, resCDays.first)
+			nStudents = thisCReservations[0].students
+			nNormal = thisCReservations[0].normal
+			# Now we will propagate these number thruought the rest of the reservation
+			resCDays[1..-1].each do |day|
+				thisCReservations << (CReservation.new cli, day, nNormal, nStudents)
+			end
+			# Taking some people
+			thisStudents = students.sample(nStudents)	
+			thisNormal = normal.sample(nNormal)
+			# Now making them participants
+			thisCReservations.each do |res|
+				thisStudents.each {|x| cparticipants << (CParticipant.new res, x)}
+				thisNormal.each {|x| cparticipants << (CParticipant.new res, x)}
+			end
+			# Adding them to a big pile
+			creservations += thisCReservations
+
+			# Now the reservation for workshops
+			# We only make one, for the first day
+			thisWreservations = Array.new
+			workshopsForClient[cli.id].each do |work|	
+				# We will add a reservation with the conference day reservation which is the first in the
+				# conference, this workshop and 1 place
+				thisWreservations << (WReservation.new work, thisCReservations.find{|x| x.cday === work.days.first.cday}, nStudents+nNormal)
+				# Now let's make participants
+				thisWreservations.each do |wres|
+					thisStudents.each {|x| wparticipants << (WParticipant.new wres, x)}
+					thisNormal.each {|x| wparticipants << (WParticipant.new wres, x)}
+				end
+			end
+			# Add them to a big pile now
+			wreservations += thisWreservations 	
+			# All done now
 		end
 	end	
 end

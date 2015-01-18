@@ -1,8 +1,8 @@
 #Reservation for conference
 require_relative 'Workshop'
 
-RESERVATION_BASE_QUOTA = 0.03
-RESERVATION_VARY_QUOTA = 0.03
+RESERVATION_BASE_QUOTA = 0.05
+RESERVATION_VARY_QUOTA = 0.05
 
 RESERVATION_BASE_QUOTA_WORKSHOP = 0.2
 RESERVATION_VARY_QUOTA_WORKSHOP = 0.1
@@ -53,7 +53,7 @@ class CReservation
 			# We are a company aparently
 			places = (@conference.places*(RESERVATION_VARY_QUOTA*rand()+RESERVATION_BASE_QUOTA))%(@cday.leftPlaces)
 			@cday.leftPlaces -= places.to_i # Substracting taken spaces
-			if (@cdat.leftPlaces <0)
+			if (@cday.leftPlaces <0)
 				@students = 0
 				@normal = 0
 			else
