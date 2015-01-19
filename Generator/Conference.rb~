@@ -77,7 +77,7 @@ class Conference
 	end
 
 	def to_s
-		"\"#{@name}\", \"Konferencja\", \"#{@startDate}\", \"#{@endDate}\", \"#{@places}\", \"#{@price}\""
+		"\"#{@name}\", "\"Konferencja\"", \"#{@startDate}\", \"#{@endDate}\", \"#{@places}\", \"#{@price}\""
 	end
 
 	def export 

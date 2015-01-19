@@ -78,7 +78,7 @@ class CReservation
 	end
 
 	def to_s
-		"#{(@client.id)}, #{(@cday.id)}, \"#{@reservationDate.to_s[0..10]}\", #{@students}, #{@normal}"
+		"#{(@client.id)}, #{(@conference.cday.id)}, \"#{@reservationDate.to_s[0..10]}\", #{@students}, #{@normal}"
 	end
 
 	def export 
