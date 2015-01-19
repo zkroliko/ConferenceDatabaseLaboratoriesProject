@@ -38,6 +38,7 @@ class Person
 		else
 			nr =@nr
 		end
+
 		"\"#{@firstName}\", \"#{@lastName}\", \"#{@phone}\", \"#{@dateOfBirth}\", #{@sex}, #{nr}, #{@address}"
 	end
 	def export
