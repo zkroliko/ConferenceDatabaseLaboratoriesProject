@@ -96,7 +96,6 @@ conferences.each do |conf|
 			end
 			# Now lets make reservations
 			thisCReservations = Array.new
-			puts resCDays
 			resCDays.each do |day| 
 				thisCReservations << (CReservation.new cli, day, thisNormal, thisStudents)	
 				cparticipants << (CParticipant.new thisCReservations.last, cli.person)
