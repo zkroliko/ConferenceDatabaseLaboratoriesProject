@@ -6,7 +6,7 @@ require_relative 'Clients'
 NR_PEOPLE = 5000 #default 5000
 NR_FIRMS = 400 #default 100
 NR_IND = 1000 #default 1000
-NR_CONFERENCES = 1 #default 72
+NR_CONFERENCES = 20 #default 72
 
 NR_WOKSHOPS_PER_CON_BASE = 5 #default 5
 NR_WOKSHOPS_PER_CON_VAR = 5 #default 5

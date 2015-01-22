@@ -22,7 +22,7 @@ end
 
 
 class CompanyClient < Client
-attr_accessor :companyName, :phone, :fax, :email
+attr_accessor :companyName, :id, :phone, :fax, :email
 
 	def initialize
 		super
@@ -31,8 +31,8 @@ attr_accessor :companyName, :phone, :fax, :email
 		@phone = Faker::Number.number(TELEPHONE_N_LENGTH)
 		@fax = Faker::Number.number(TELEPHONE_N_LENGTH)
 		# Email is formated as company
-		@email = "contact@#{@companyName}.com".gsub(" ", "")
-		@login = @companyName.downcase.gsub(" ", "").gsub(",", " ")
+		@email = "contact@#{@companyName}#{Faker::Lorem.word}.com".gsub(" ", "")
+		@login = "#{@companyName}#{Faker::Lorem.word}".downcase.gsub(" ", "").gsub(",", " ")
 	end
 
 	def to_s
@@ -45,14 +45,14 @@ attr_accessor :companyName, :phone, :fax, :email
 end
 
 class IndClient < Client
-attr_accessor :companyName, :phone, :fax, :email
+attr_accessor :companyName, :id, :phone, :fax, :email
 
 	def initialize
 		super
 		# Child class fields initialization
 		# Email is a bit different
-		@email = "#{@person.firstName}#{@person.lastName}@memail.com".downcase.gsub(" ", "")
-		@login = "#{@person.firstName}#{@person.lastName}".downcase.gsub(" ", "").gsub(",", " ")
+		@email = "#{@person.firstName}#{@person.lastName}#{Faker::Lorem.word}@memail.com".downcase.gsub(" ", "")
+		@login = "#{@person.firstName}#{@person.lastName}#{Faker::Lorem.word}".downcase.gsub(" ", "").gsub(",", " ")
 	end
 
 	def to_s

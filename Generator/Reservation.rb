@@ -4,14 +4,21 @@ require_relative 'Workshop'
 RESERVATION_BASE_QUOTA = 0.03
 RESERVATION_VARY_QUOTA = 0.03
 
-RESERVATION_BASE_QUOTA_WORKSHOP = 0.2
-RESERVATION_VARY_QUOTA_WORKSHOP = 0.1
+RESERVATION_BASE_QUOTA_WORKSHOP = 0.03
+RESERVATION_VARY_QUOTA_WORKSHOP = 0.03
 
 # This represent how long ago the reservation had been made
 RESERVATION_DATE_BASE = 14 # In days
 RESERVATION_DATE_VARY = 500 # In days
 
 STUDENT_PROPORTION = 0.1
+
+BAD_PAYMENT_CHANCE = 0.01
+
+BAD_PAYMENT_BASE = 0.91
+BAD_PAYMENT_VAR = 0.08
+
+NO_PAYMENT_CHANCE = 0.01
 
 class CReservation
 
@@ -29,6 +36,8 @@ class CReservation
 		@cday = cday
 		# Random date of reseravtion
 		@reservationDate = ((@cday.date)-(rand()*RESERVATION_DATE_VARY+RESERVATION_DATE_BASE).to_i)
+		# Payment
+		@payment = Payment.new self
 		# Helpull field
 		@conference = @cday.conference
 		# Now let's make a decision on number of places on the reservation
@@ -86,6 +95,47 @@ class CReservation
 	end
 end
 
+#Payment
+class Payment
+	@@curindex = 1
+
+	attr_accessor :curindex, :id, :date, :client, :creservation
+
+	def initialize(creservation, ammount = 0)
+		@id = @@curindex
+		@@curindex +=1
+		@creservation = creservation
+		@date = creservation.reservationDate + 7
+		if ammount != 0
+			@ammount = ammount
+		else
+		# We will take it ourself using other database function
+		@ammount = "set @mon = (select [dbo].[PodliczRezerwacjafun] (#{creservation.id}))"
+		# Now to randomize bad payments
+		if rand() < BAD_PAYMENT_CHANCE		
+		@ammount = "set @mon = (select([dbo].[PodliczRezerwacjafun] (#{creservation.id}))*#{BAD_PAYMENT_BASE+(BAD_PAYMENT_VAR*rand()).round(2)})"
+		end
+		# And missing payments
+		if rand() < NO_PAYMENT_CHANCE		
+			@ammount = 0
+		end
+		end
+	end
+
+	def to_s
+		"#{@creservation.id}, \"#{@date}\", @mon"
+	end
+
+	def export 
+		if @ammount == 0
+			"\n"
+		else
+			"#{@ammount}\nexec dbo.DodajOplate #{to_s}"
+		end
+	end
+end
+
+#Reservation for workshop
 class WReservation
 
 	@@curindex = 1

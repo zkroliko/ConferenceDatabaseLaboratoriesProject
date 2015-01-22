@@ -4,7 +4,7 @@ require 'faker'
 #How many days backward can history go
 CONFERENCE_START = 1000
 #Seed for length
-CONFERENCE_DAYS_MAX_DIFF = 12
+CONFERENCE_DAYS_MAX_DIFF = 5
 CONFERENCE_DAYS_BASIC = 4
 
 #Seed for places
