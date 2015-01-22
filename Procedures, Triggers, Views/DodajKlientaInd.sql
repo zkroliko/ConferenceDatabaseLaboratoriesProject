@@ -13,16 +13,16 @@ CREATE PROCEDURE [dbo].[DodajKlientaInd]
 @DateOfBirth Date,
 @Sex bit,
 @NrLeg nvarchar(10),
+@Email varchar(50), 
+@Login varchar(30), 
+@Password varchar(20),
+@IsCompany bit,
 @Country varchar(50),
 @Miasto varchar(50),
 @KodPocztowy varchar(12),
 @Ulica varchar(35),
 @NrBud int, 
-@NrMiesz int,  
-@Email varchar(50), 
-@Login varchar(30), 
-@Password varchar(20),
-@IsCompany bit
+@NrMiesz int  
 AS BEGIN
 SET NOCOUNT ON; 
 DECLARE @OsobaID int
